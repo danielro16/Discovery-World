@@ -1,0 +1,135 @@
+---
+import '../styles/global.css';
+import { getVerticals, VERTICAL_EMOJIS } from '../utils/data';
+
+interface Props {
+  title: string;
+  description?: string;
+  schemaJson?: string;
+  ogType?: string;
+  canonicalUrl?: string;
+}
+
+const {
+  title,
+  description = 'AI-optimized local business directory. Find the best businesses near you.',
+  schemaJson,
+  ogType = 'website',
+  canonicalUrl,
+} = Astro.props;
+
+const verticals = getVerticals();
+const siteName = 'AgentReady';
+const fullTitle = `${title} | ${siteName}`;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content={fullTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content={ogType} />
+  {canonicalUrl && <meta property="og:url" content={canonicalUrl} />}
+
+  <!-- Schema.org -->
+  {schemaJson && <script type="application/ld+json" set:html={schemaJson} />}
+</head>
+<body class="font-sans text-gray-800 bg-white min-h-screen flex flex-col">
+  <!-- Nav -->
+  <header class="border-b border-gray-100 sticky top-0 bg-white/90 backdrop-blur-sm z-50">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+      <a href="/" class="text-xl font-extrabold bg-gradient-to-r from-blue-500 via-purple-500 to-teal-400 bg-clip-text text-transparent">
+        {siteName}
+      </a>
+      <nav class="hidden md:flex items-center gap-6">
+        {verticals.map(v => (
+          <a
+            href={`/${v.name}/`}
+            class="text-sm font-medium text-gray-500 hover:text-gray-900 transition-colors"
+          >
+            <span class="mr-1">{VERTICAL_EMOJIS[v.name] || ''}</span>
+            {v.display_name}
+          </a>
+        ))}
+        <a href="/blog/" class="text-sm font-medium text-gray-500 hover:text-gray-900 transition-colors">Blog</a>
+      </nav>
+      <!-- Mobile menu button -->
+      <button id="mobile-menu-btn" class="md:hidden p-2 text-gray-500 hover:text-gray-900" aria-label="Menu">
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+      </button>
+    </div>
+    <!-- Mobile nav -->
+    <div id="mobile-menu" class="hidden md:hidden border-t border-gray-100 bg-white px-4 pb-4">
+      {verticals.map(v => (
+        <a
+          href={`/${v.name}/`}
+          class="block py-2 text-sm font-medium text-gray-600 hover:text-gray-900"
+        >
+          <span class="mr-2">{VERTICAL_EMOJIS[v.name] || ''}</span>
+          {v.display_name}
+        </a>
+      ))}
+      <a href="/blog/" class="block py-2 text-sm font-medium text-gray-600 hover:text-gray-900">Blog</a>
+    </div>
+  </header>
+
+  <!-- Main content -->
+  <main class="flex-1">
+    <slot />
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-gray-100 mt-20">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
+        <div class="col-span-2 md:col-span-1">
+          <a href="/" class="text-lg font-extrabold bg-gradient-to-r from-blue-500 via-purple-500 to-teal-400 bg-clip-text text-transparent">
+            {siteName}
+          </a>
+          <p class="mt-2 text-sm text-gray-400">AI-optimized local business directory</p>
+        </div>
+        <div>
+          <h3 class="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-3">Verticals</h3>
+          {verticals.map(v => (
+            <a href={`/${v.name}/`} class="block text-sm text-gray-400 hover:text-gray-600 py-1">
+              {v.display_name}
+            </a>
+          ))}
+        </div>
+        <div>
+          <h3 class="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-3">Resources</h3>
+          <a href="/blog/" class="block text-sm text-gray-400 hover:text-gray-600 py-1">Blog</a>
+          <a href="/compare/" class="block text-sm text-gray-400 hover:text-gray-600 py-1">Compare</a>
+        </div>
+        <div>
+          <h3 class="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-3">Business</h3>
+          <a href="/claim/" class="block text-sm text-gray-400 hover:text-gray-600 py-1">Claim Your Profile</a>
+        </div>
+      </div>
+      <div class="mt-10 pt-6 border-t border-gray-50 text-center text-xs text-gray-300">
+        &copy; {new Date().getFullYear()} {siteName}. All rights reserved.
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const btn = document.getElementById('mobile-menu-btn');
+    const menu = document.getElementById('mobile-menu');
+    btn?.addEventListener('click', () => menu?.classList.toggle('hidden'));
+  </script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getVerticals, getCities, getPlaces, getStats, formatCityName, formatCitySlug, VERTICAL_COLORS, VERTICAL_EMOJIS } from '../../utils/data';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths: GetStaticPaths = () => {
+  const verticals = getVerticals();
+  return verticals.map(v => ({
+    params: { vertical: v.name },
+    props: { vertical: v },
+  }));
+};
+
+const { vertical } = Astro.props;
+const colors = VERTICAL_COLORS[vertical.name] || VERTICAL_COLORS.dentists;
+const emoji = VERTICAL_EMOJIS[vertical.name] || '📍';
+const cities = getCities(vertical.name);
+---
+
+<Base
+  title={`${vertical.display_name} Directory`}
+  description={`Find the best ${vertical.display_name.toLowerCase()} near you. Verified profiles, ratings, and reviews.`}
+>
+  <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
+    <div class="text-center mb-12">
+      <div class="text-5xl mb-4">{emoji}</div>
+      <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900">
+        {vertical.display_name}
+      </h1>
+      <p class="mt-3 text-gray-400 text-lg">Select a city to browse {vertical.display_name.toLowerCase()}</p>
+    </div>
+
+    {cities.length > 0 ? (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 max-w-3xl mx-auto">
+        {cities.map(citySlug => {
+          const places = getPlaces(vertical.name, citySlug);
+          const stats = getStats(places);
+          const cityName = formatCityName(citySlug);
+          const urlSlug = formatCitySlug(citySlug);
+
+          return (
+            <a
+              href={`/${vertical.name}/${urlSlug}/`}
+              class="card-hover fade-in rounded-2xl p-6 border border-gray-100 bg-white group"
+            >
+              <h3 class="text-lg font-bold text-gray-900">{cityName}</h3>
+              <div class="mt-2 space-y-1 text-sm text-gray-400">
+                <p>{stats.total} businesses</p>
+                <p>Avg rating: {stats.avgRating} ★</p>
+              </div>
+              <div
+                class="mt-4 inline-flex items-center text-sm font-semibold gap-1"
+                style={`color: ${colors.accent}`}
+              >
+                View all
+                <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                </svg>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    ) : (
+      <div class="text-center py-16">
+        <p class="text-gray-400 text-lg">No cities available yet. Coming soon!</p>
+      </div>
+    )}
+  </section>
+</Base>

@@ -1,0 +1,27 @@
+---
+interface Props {
+  rating: number | null;
+  reviewCount?: number;
+  size?: 'sm' | 'md' | 'lg';
+}
+
+const { rating, reviewCount, size = 'md' } = Astro.props;
+const stars = rating != null ? Math.round(rating * 2) / 2 : 0;
+const sizeClasses = { sm: 'text-sm', md: 'text-base', lg: 'text-lg' };
+---
+
+<div class={`flex items-center gap-1.5 ${sizeClasses[size]}`}>
+  <div class="flex" aria-label={`${rating} out of 5 stars`}>
+    {[1, 2, 3, 4, 5].map(i => (
+      <span class={i <= Math.floor(stars) ? 'star-filled' : i - 0.5 <= stars ? 'star-filled opacity-50' : 'star-empty'}>
+        ★
+      </span>
+    ))}
+  </div>
+  {rating != null && <span class="font-semibold">{rating}</span>}
+  {reviewCount != null && (
+    <span class="text-gray-400 font-normal">
+      ({reviewCount.toLocaleString()} reviews)
+    </span>
+  )}
+</div>

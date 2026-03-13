@@ -1,0 +1,101 @@
+---
+import Base from '../layouts/Base.astro';
+import { getVerticals, getAllPlaces, VERTICAL_COLORS, VERTICAL_EMOJIS, getCities } from '../utils/data';
+
+const verticals = getVerticals();
+const allData = getAllPlaces();
+
+let totalBusinesses = 0;
+let totalCities = new Set<string>();
+for (const d of allData) {
+  totalBusinesses += d.places.length;
+  totalCities.add(d.city);
+}
+
+const schemaJson = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "AgentReady",
+  "description": "AI-optimized local business directory",
+});
+---
+
+<Base title="Find the Best Local Businesses" schemaJson={schemaJson}>
+  <!-- Hero -->
+  <section class="relative overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-br from-blue-50 via-purple-50 to-teal-50"></div>
+    <div class="absolute top-10 left-10 w-72 h-72 bg-blue-200 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-pulse"></div>
+    <div class="absolute bottom-10 right-10 w-72 h-72 bg-purple-200 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-pulse"></div>
+
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 py-20 md:py-32 text-center">
+      <h1 class="text-4xl md:text-6xl font-extrabold text-gray-900 tracking-tight">
+        Find the <span class="bg-gradient-to-r from-blue-500 via-purple-500 to-teal-400 bg-clip-text text-transparent">Best Local</span> Businesses
+      </h1>
+      <p class="mt-5 text-lg md:text-xl text-gray-500 max-w-2xl mx-auto">
+        Verified data, real reviews, complete profiles. The directory built for humans and AI agents.
+      </p>
+
+      <div class="mt-12 grid grid-cols-3 gap-4 max-w-md mx-auto">
+        <div class="bg-white/70 backdrop-blur rounded-2xl p-4 shadow-sm">
+          <div class="text-2xl md:text-3xl font-extrabold text-blue-500">{totalBusinesses.toLocaleString()}</div>
+          <div class="text-xs text-gray-400 mt-1">Businesses</div>
+        </div>
+        <div class="bg-white/70 backdrop-blur rounded-2xl p-4 shadow-sm">
+          <div class="text-2xl md:text-3xl font-extrabold text-purple-500">{verticals.length}</div>
+          <div class="text-xs text-gray-400 mt-1">Categories</div>
+        </div>
+        <div class="bg-white/70 backdrop-blur rounded-2xl p-4 shadow-sm">
+          <div class="text-2xl md:text-3xl font-extrabold text-teal-500">{totalCities.size}</div>
+          <div class="text-xs text-gray-400 mt-1">Cities</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Verticals Grid -->
+  <section class="max-w-6xl mx-auto px-4 sm:px-6 py-16">
+    <h2 class="text-2xl md:text-3xl font-extrabold text-center text-gray-900">Browse by Category</h2>
+    <p class="text-center text-gray-400 mt-2 mb-10">Select a category to explore local businesses</p>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+      {verticals.map(v => {
+        const colors = VERTICAL_COLORS[v.name] || VERTICAL_COLORS.dentists;
+        const emoji = VERTICAL_EMOJIS[v.name] || '📍';
+        const cities = getCities(v.name);
+        const cityData = allData.filter(d => d.vertical === v.name);
+        const count = cityData.reduce((acc, d) => acc + d.places.length, 0);
+
+        return (
+          <a href={`/${v.name}/`} class="card-hover fade-in rounded-2xl p-6 border border-gray-100 bg-white group">
+            <div class="text-4xl mb-3">{emoji}</div>
+            <h3 class="text-xl font-bold text-gray-900 group-hover:text-gray-700 transition-colors">
+              {v.display_name}
+            </h3>
+            <p class="text-sm text-gray-400 mt-1">
+              {count > 0 ? `${count} businesses in ${cities.length} ${cities.length === 1 ? 'city' : 'cities'}` : 'Coming soon'}
+            </p>
+            <div class="mt-4 inline-flex items-center text-sm font-semibold gap-1 transition-colors" style={`color: ${colors.accent}`}>
+              Explore
+              <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+              </svg>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="max-w-6xl mx-auto px-4 sm:px-6 pb-16">
+    <div class="rounded-3xl bg-gradient-to-r from-blue-500 via-purple-500 to-teal-400 p-8 md:p-12 text-center text-white">
+      <h2 class="text-2xl md:text-3xl font-extrabold">Own a business?</h2>
+      <p class="mt-3 text-white/80 max-w-lg mx-auto">
+        Claim your profile to stand out in AI recommendations and connect with more customers.
+      </p>
+      <a href="/claim/" class="mt-6 inline-block bg-white text-gray-900 font-bold px-8 py-3 rounded-full hover:scale-105 transition-transform shadow-lg">
+        Claim Your Profile
+      </a>
+    </div>
+  </section>
+</Base>

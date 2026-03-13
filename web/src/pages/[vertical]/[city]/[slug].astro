@@ -1,0 +1,265 @@
+---
+import Base from '../../../layouts/Base.astro';
+import RatingStars from '../../../components/RatingStars.astro';
+import { getVerticals, getCities, getPlaces, getVertical, formatCityName, formatCitySlug, slugify, VERTICAL_COLORS, VERTICAL_EMOJIS } from '../../../utils/data';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths: GetStaticPaths = () => {
+  const verticals = getVerticals();
+  const paths: any[] = [];
+  for (const v of verticals) {
+    for (const citySlug of getCities(v.name)) {
+      const places = getPlaces(v.name, citySlug);
+      for (const place of places) {
+        paths.push({
+          params: {
+            vertical: v.name,
+            city: formatCitySlug(citySlug),
+            slug: slugify(place.name),
+          },
+          props: { vertical: v, citySlug, cityName: formatCityName(citySlug), place },
+        });
+      }
+    }
+  }
+  return paths;
+};
+
+const { vertical, citySlug, cityName, place } = Astro.props;
+const colors = VERTICAL_COLORS[vertical.name] || VERTICAL_COLORS.dentists;
+const emoji = VERTICAL_EMOJIS[vertical.name] || '📍';
+const enriched = place.enriched_data || {};
+const cityUrlSlug = formatCitySlug(citySlug);
+
+const schemaJson = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": vertical.schema_type,
+  "name": place.name,
+  "address": { "@type": "PostalAddress", "streetAddress": place.address },
+  "geo": { "@type": "GeoCoordinates", "latitude": place.location?.lat, "longitude": place.location?.lng },
+  "telephone": place.phone || undefined,
+  "url": place.website || undefined,
+  ...(place.rating ? {
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": place.rating,
+      "reviewCount": place.review_count,
+    }
+  } : {}),
+});
+
+const daysOrder = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+const sortedHours = Object.entries(place.hours || {}).sort(
+  ([a], [b]) => daysOrder.indexOf(a) - daysOrder.indexOf(b)
+);
+
+// Gather all enriched tags — check both enriched_data (old) and direct fields (new)
+const allTags: { label: string; items: string[] }[] = [];
+const specialties = enriched.specialties || place.specialties || [];
+const practiceAreas = enriched.practice_areas || place.practice_areas || [];
+const cuisineTypes = enriched.cuisine_types || place.cuisine_types || [];
+const classes = enriched.classes || place.classes || [];
+const therapyTypes = enriched.therapy_types || place.therapy_types || [];
+const insuranceAccepted = enriched.insurance_accepted || place.insurance_accepted || [];
+const languages = enriched.languages || place.languages || [];
+const certifications = enriched.certifications || place.certifications || [];
+const tags = enriched.tags || place.tags || [];
+const aiDescription = enriched.ai_description || place.ai_description || '';
+
+if (specialties.length) allTags.push({ label: 'Specialties', items: specialties });
+if (practiceAreas.length) allTags.push({ label: 'Practice Areas', items: practiceAreas });
+if (cuisineTypes.length) allTags.push({ label: 'Cuisine', items: cuisineTypes });
+if (classes.length) allTags.push({ label: 'Classes', items: classes });
+if (therapyTypes.length) allTags.push({ label: 'Therapy Types', items: therapyTypes });
+if (insuranceAccepted.length) allTags.push({ label: 'Insurance Accepted', items: insuranceAccepted });
+if (languages.length) allTags.push({ label: 'Languages', items: languages });
+if (certifications.length) allTags.push({ label: 'Certifications', items: certifications });
+---
+
+<Base
+  title={`${place.name} - ${vertical.display_name_singular} in ${cityName}`}
+  description={`${place.name} in ${cityName}. Rating: ${place.rating || 'N/A'}/5 from ${place.review_count} reviews. Contact, hours, services, and more.`}
+  schemaJson={schemaJson}
+  ogType="business.business"
+>
+  <section class="max-w-4xl mx-auto px-4 sm:px-6 py-10">
+    <!-- Breadcrumb -->
+    <div class="flex items-center gap-2 text-sm text-gray-400 mb-6">
+      <a href="/" class="hover:text-gray-600">Home</a>
+      <span>/</span>
+      <a href={`/${vertical.name}/`} class="hover:text-gray-600">{vertical.display_name}</a>
+      <span>/</span>
+      <a href={`/${vertical.name}/${cityUrlSlug}/`} class="hover:text-gray-600">{cityName}</a>
+      <span>/</span>
+      <span class="text-gray-600 truncate">{place.name}</span>
+    </div>
+
+    <!-- Header -->
+    <div class="flex flex-col md:flex-row md:items-start md:justify-between gap-4 mb-8">
+      <div>
+        <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900">{place.name}</h1>
+        <p class="mt-1 text-gray-400">{place.address}</p>
+        <div class="mt-3">
+          <RatingStars rating={place.rating} reviewCount={place.review_count} size="lg" />
+        </div>
+      </div>
+      <div class="flex gap-2 shrink-0">
+        {place.phone && (
+          <a href={`tel:${place.phone}`} class="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl font-semibold text-sm text-white transition-transform hover:scale-105" style={`background: ${colors.accent}`}>
+            📞 Call
+          </a>
+        )}
+        {place.website && (
+          <a href={place.website} target="_blank" rel="nofollow noopener" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl font-semibold text-sm border border-gray-200 hover:bg-gray-50 transition-colors">
+            🌐 Website
+          </a>
+        )}
+      </div>
+    </div>
+
+    <!-- Stats row -->
+    <div class="grid grid-cols-3 gap-3 mb-8">
+      <div class="rounded-2xl p-4 text-center" style={`background: ${colors.bg}`}>
+        <div class="text-2xl font-extrabold" style={`color: ${colors.accent}`}>{place.rating || 'N/A'}</div>
+        <div class="text-xs text-gray-400 mt-1">Rating</div>
+      </div>
+      <div class="rounded-2xl p-4 text-center" style={`background: ${colors.bg}`}>
+        <div class="text-2xl font-extrabold" style={`color: ${colors.accent}`}>{place.review_count.toLocaleString()}</div>
+        <div class="text-xs text-gray-400 mt-1">Reviews</div>
+      </div>
+      <div class="rounded-2xl p-4 text-center" style={`background: ${colors.bg}`}>
+        <div class="text-2xl font-extrabold" style={`color: ${colors.accent}`}>{place.profile_completeness}%</div>
+        <div class="text-xs text-gray-400 mt-1">Profile</div>
+      </div>
+    </div>
+
+    <!-- AI Description -->
+    {aiDescription && (
+      <div class="rounded-2xl border border-gray-100 p-6 mb-8">
+        <h2 class="text-lg font-bold text-gray-900 mb-3">About</h2>
+        <p class="text-sm text-gray-600 leading-relaxed">{aiDescription}</p>
+      </div>
+    )}
+
+    <!-- Enriched data sections -->
+    {allTags.length > 0 && (
+      <div class="space-y-6 mb-8">
+        {allTags.map(section => (
+          <div>
+            <h2 class="text-lg font-bold text-gray-900 mb-3">{section.label}</h2>
+            <div class="flex flex-wrap gap-2">
+              {section.items.map(item => (
+                <span class="text-sm font-medium px-3 py-1 rounded-full" style={`background: ${colors.light}; color: ${colors.accent}`}>
+                  {item}
+                </span>
+              ))}
+            </div>
+          </div>
+        ))}
+      </div>
+    )}
+
+    <!-- Tags -->
+    {tags.length > 0 && (
+      <div class="mb-8">
+        <h2 class="text-lg font-bold text-gray-900 mb-3">Tags</h2>
+        <div class="flex flex-wrap gap-2">
+          {tags.map(tag => (
+            <span class="text-xs font-medium px-3 py-1.5 rounded-full bg-gray-100 text-gray-600">
+              #{tag}
+            </span>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <!-- Contact & Hours -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+      <!-- Contact -->
+      <div class="rounded-2xl border border-gray-100 p-6">
+        <h2 class="text-lg font-bold text-gray-900 mb-4">Contact</h2>
+        <div class="space-y-3 text-sm">
+          {place.phone && <div class="flex items-center gap-2"><span>📞</span> <span>{place.phone}</span></div>}
+          {place.website && <div class="flex items-center gap-2"><span>🌐</span> <a href={place.website} target="_blank" rel="nofollow noopener" class="text-blue-500 hover:underline truncate">{place.website.replace(/https?:\/\/(www\.)?/, '').replace(/\/$/, '')}</a></div>}
+          {place.google_maps_url && <div class="flex items-center gap-2"><span>📍</span> <a href={place.google_maps_url} target="_blank" rel="nofollow noopener" class="text-blue-500 hover:underline">View on Google Maps</a></div>}
+        </div>
+      </div>
+
+      <!-- Hours -->
+      {sortedHours.length > 0 && (
+        <div class="rounded-2xl border border-gray-100 p-6">
+          <h2 class="text-lg font-bold text-gray-900 mb-4">Hours</h2>
+          <div class="space-y-2 text-sm">
+            {sortedHours.map(([day, time]) => (
+              <div class="flex justify-between">
+                <span class="font-medium text-gray-600">{day}</span>
+                <span class="text-gray-400">{time}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+
+    <!-- Map -->
+    {place.location?.lat && place.location?.lng && (
+      <div class="rounded-2xl overflow-hidden border border-gray-100 mb-8">
+        <iframe
+          width="100%"
+          height="300"
+          style="border:0"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          src={`https://www.google.com/maps/embed/v1/place?key=REDACTED_KEY&q=${encodeURIComponent(place.name + ' ' + place.address)}`}
+        ></iframe>
+      </div>
+    )}
+
+    <!-- Reviews -->
+    {place.reviews?.length > 0 && (
+      <div class="mb-8">
+        <h2 class="text-lg font-bold text-gray-900 mb-4">Recent Reviews</h2>
+        {place.review_analysis?.summary && (
+          <div class="rounded-2xl p-5 mb-4" style={`background: ${colors.bg}`}>
+            <p class="text-sm text-gray-600 italic">"{place.review_analysis.summary}"</p>
+            {place.review_analysis.themes_positive?.length > 0 && (
+              <div class="flex flex-wrap gap-1.5 mt-3">
+                {place.review_analysis.themes_positive.map(theme => (
+                  <span class="text-xs font-medium px-2.5 py-0.5 rounded-full" style={`background: ${colors.light}; color: ${colors.accent}`}>
+                    {theme}
+                  </span>
+                ))}
+              </div>
+            )}
+          </div>
+        )}
+        <div class="space-y-4">
+          {place.reviews.slice(0, 5).map(review => (
+            <div class="rounded-xl border border-gray-100 p-4">
+              <div class="flex items-center justify-between mb-2">
+                <span class="font-medium text-sm text-gray-700">{review.author}</span>
+                <div class="flex text-sm star-filled">
+                  {Array.from({ length: review.rating }, () => '★').join('')}
+                </div>
+              </div>
+              <p class="text-sm text-gray-500 line-clamp-4">{review.text}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <!-- Claim banner -->
+    {!place.claimed && (
+      <div class="rounded-3xl bg-gradient-to-r from-blue-500 via-purple-500 to-teal-400 p-8 text-center text-white">
+        <h2 class="text-xl font-extrabold">Is this your business?</h2>
+        <p class="mt-2 text-white/80 text-sm max-w-md mx-auto">
+          Claim your profile to add complete information, respond to reviews, and appear more prominently in AI recommendations.
+        </p>
+        <a href={`/claim/?id=${place.id}`} class="mt-4 inline-block bg-white text-gray-900 font-bold px-6 py-2.5 rounded-full hover:scale-105 transition-transform shadow-lg text-sm">
+          Claim This Profile
+        </a>
+      </div>
+    )}
+  </section>
+</Base>

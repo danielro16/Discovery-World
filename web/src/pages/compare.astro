@@ -1,0 +1,144 @@
+---
+import Base from '../layouts/Base.astro';
+import { getAllPlaces } from '../utils/data';
+
+const allData = getAllPlaces();
+const allPlaces = allData.flatMap(d =>
+  d.places.map(p => ({ id: p.id, name: p.name, address: p.address, rating: p.rating, review_count: p.review_count, phone: p.phone, website: p.website ? 'Yes' : 'No', profile_completeness: p.profile_completeness, vertical: d.vertical }))
+);
+---
+
+<Base title="Compare Businesses" description="Compare local businesses side by side.">
+  <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
+    <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900 text-center">Compare Businesses</h1>
+    <p class="text-center text-gray-400 mt-3 mb-10">Select 2 businesses to compare side by side</p>
+
+    <div class="max-w-xl mx-auto mb-8">
+      <input
+        type="text"
+        id="compare-search"
+        placeholder="Search for a business to add..."
+        class="w-full px-5 py-3 rounded-xl border border-gray-200 focus:outline-none focus:ring-2 focus:ring-blue-400/40 text-sm"
+      />
+      <div id="search-results" class="mt-2 rounded-xl border border-gray-100 bg-white shadow-lg hidden max-h-60 overflow-y-auto"></div>
+    </div>
+
+    <div id="selected-names" class="flex gap-4 justify-center mb-6 text-sm font-medium text-gray-500"></div>
+
+    <div id="compare-table" class="hidden">
+      <div class="rounded-2xl border border-gray-100 overflow-hidden">
+        <table class="w-full text-sm">
+          <thead>
+            <tr class="bg-gray-50">
+              <th class="text-left p-4 font-semibold text-gray-500">Metric</th>
+              <th id="col-1" class="text-center p-4 font-semibold text-gray-700"></th>
+              <th id="col-2" class="text-center p-4 font-semibold text-gray-700"></th>
+            </tr>
+          </thead>
+          <tbody id="compare-tbody"></tbody>
+        </table>
+      </div>
+      <button id="reset-btn" class="mt-4 text-sm text-blue-500 hover:underline mx-auto block">Reset comparison</button>
+    </div>
+
+    <div id="empty-state" class="text-center py-16">
+      <div class="text-5xl mb-4">⚖️</div>
+      <p class="text-gray-400">Search and select 2 businesses above to start comparing.</p>
+    </div>
+  </section>
+
+  <script define:vars={{ allPlaces }}>
+    const businesses = allPlaces;
+    const selected = [];
+
+    const searchInput = document.getElementById('compare-search');
+    const searchResults = document.getElementById('search-results');
+    const compareTable = document.getElementById('compare-table');
+    const emptyState = document.getElementById('empty-state');
+    const tbody = document.getElementById('compare-tbody');
+    const col1 = document.getElementById('col-1');
+    const col2 = document.getElementById('col-2');
+    const resetBtn = document.getElementById('reset-btn');
+
+    searchInput.addEventListener('input', () => {
+      const q = searchInput.value.toLowerCase().trim();
+      if (q.length < 2) { searchResults.classList.add('hidden'); return; }
+
+      const matches = businesses.filter(b =>
+        b.name.toLowerCase().includes(q) && !selected.find(s => s.id === b.id)
+      ).slice(0, 8);
+
+      if (matches.length === 0) { searchResults.classList.add('hidden'); return; }
+
+      // Build results using safe DOM methods
+      searchResults.replaceChildren();
+      for (const b of matches) {
+        const btn = document.createElement('button');
+        btn.className = 'w-full text-left px-4 py-2.5 hover:bg-gray-50 border-b border-gray-50 last:border-0 text-sm';
+        const nameSpan = document.createElement('span');
+        nameSpan.className = 'font-medium text-gray-700';
+        nameSpan.textContent = b.name;
+        const ratingSpan = document.createElement('span');
+        ratingSpan.className = 'text-gray-400 ml-2';
+        ratingSpan.textContent = b.rating ? b.rating + '★' : '';
+        btn.appendChild(nameSpan);
+        btn.appendChild(ratingSpan);
+        btn.addEventListener('click', () => {
+          if (selected.length < 2) {
+            selected.push(b);
+            updateComparison();
+            searchInput.value = '';
+            searchResults.classList.add('hidden');
+          }
+        });
+        searchResults.appendChild(btn);
+      }
+      searchResults.classList.remove('hidden');
+    });
+
+    resetBtn?.addEventListener('click', () => {
+      selected.length = 0;
+      updateComparison();
+    });
+
+    function updateComparison() {
+      if (selected.length < 2) {
+        compareTable.classList.add('hidden');
+        emptyState.classList.remove('hidden');
+        return;
+      }
+      compareTable.classList.remove('hidden');
+      emptyState.classList.add('hidden');
+
+      col1.textContent = selected[0].name;
+      col2.textContent = selected[1].name;
+
+      const metrics = [
+        ['Rating', 'rating'],
+        ['Reviews', 'review_count'],
+        ['Phone', 'phone'],
+        ['Website', 'website'],
+        ['Profile Completeness', 'profile_completeness'],
+      ];
+
+      tbody.replaceChildren();
+      for (const [label, key] of metrics) {
+        const tr = document.createElement('tr');
+        tr.className = 'border-t border-gray-50';
+        const tdLabel = document.createElement('td');
+        tdLabel.className = 'p-4 font-medium text-gray-500';
+        tdLabel.textContent = label;
+        const td1 = document.createElement('td');
+        td1.className = 'p-4 text-center text-gray-700';
+        td1.textContent = String(selected[0][key] ?? 'N/A');
+        const td2 = document.createElement('td');
+        td2.className = 'p-4 text-center text-gray-700';
+        td2.textContent = String(selected[1][key] ?? 'N/A');
+        tr.appendChild(tdLabel);
+        tr.appendChild(td1);
+        tr.appendChild(td2);
+        tbody.appendChild(tr);
+      }
+    }
+  </script>
+</Base>

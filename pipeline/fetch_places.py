@@ -84,6 +84,7 @@ def get_city_coordinates(city: str) -> dict:
     # Common city coordinates (expand as needed)
     coords = {
         "miami, fl": {"latitude": 25.7617, "longitude": -80.1918},
+        "miami beach, fl": {"latitude": 25.7907, "longitude": -80.1300},
         "los angeles, ca": {"latitude": 34.0522, "longitude": -118.2437},
         "new york, ny": {"latitude": 40.7128, "longitude": -74.0060},
         "houston, tx": {"latitude": 29.7604, "longitude": -95.3698},
