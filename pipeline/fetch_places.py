@@ -83,21 +83,34 @@ def get_city_coordinates(city: str) -> dict:
     """Get coordinates for a city using Google Geocoding via Places."""
     # Common city coordinates (expand as needed)
     coords = {
+        # Florida
         "miami, fl": {"latitude": 25.7617, "longitude": -80.1918},
         "miami beach, fl": {"latitude": 25.7907, "longitude": -80.1300},
+        "orlando, fl": {"latitude": 28.5383, "longitude": -81.3792},
+        "tampa, fl": {"latitude": 27.9506, "longitude": -82.4572},
+        # California
         "los angeles, ca": {"latitude": 34.0522, "longitude": -118.2437},
-        "new york, ny": {"latitude": 40.7128, "longitude": -74.0060},
-        "houston, tx": {"latitude": 29.7604, "longitude": -95.3698},
-        "chicago, il": {"latitude": 41.8781, "longitude": -87.6298},
-        "dallas, tx": {"latitude": 32.7767, "longitude": -96.7970},
-        "phoenix, az": {"latitude": 33.4484, "longitude": -112.0740},
         "san francisco, ca": {"latitude": 37.7749, "longitude": -122.4194},
-        "seattle, wa": {"latitude": 47.6062, "longitude": -122.3321},
-        "boston, ma": {"latitude": 42.3601, "longitude": -71.0589},
-        "denver, co": {"latitude": 39.7392, "longitude": -104.9903},
-        "atlanta, ga": {"latitude": 33.7490, "longitude": -84.3880},
+        "san jose, ca": {"latitude": 37.3382, "longitude": -121.8863},
         "san diego, ca": {"latitude": 32.7157, "longitude": -117.1611},
+        # Texas
+        "houston, tx": {"latitude": 29.7604, "longitude": -95.3698},
+        "dallas, tx": {"latitude": 32.7767, "longitude": -96.7970},
+        "fort worth, tx": {"latitude": 32.7555, "longitude": -97.3308},
         "austin, tx": {"latitude": 30.2672, "longitude": -97.7431},
+        # Northeast
+        "new york, ny": {"latitude": 40.7128, "longitude": -74.0060},
+        "boston, ma": {"latitude": 42.3601, "longitude": -71.0589},
+        "washington, dc": {"latitude": 38.9072, "longitude": -77.0369},
+        # Midwest
+        "chicago, il": {"latitude": 41.8781, "longitude": -87.6298},
+        # Pacific Northwest
+        "seattle, wa": {"latitude": 47.6062, "longitude": -122.3321},
+        # Mountain
+        "denver, co": {"latitude": 39.7392, "longitude": -104.9903},
+        # Other
+        "phoenix, az": {"latitude": 33.4484, "longitude": -112.0740},
+        "atlanta, ga": {"latitude": 33.7490, "longitude": -84.3880},
     }
     
     city_lower = city.lower().strip()
