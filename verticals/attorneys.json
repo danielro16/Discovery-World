@@ -1,0 +1,45 @@
+{
+  "name": "attorneys",
+  "display_name": "Attorneys & Law Firms",
+  "display_name_singular": "Attorney",
+  "google_places_type": "lawyer",
+  "search_queries": [
+    "lawyer",
+    "attorney",
+    "law firm",
+    "immigration lawyer",
+    "personal injury attorney",
+    "family law attorney",
+    "criminal defense lawyer",
+    "real estate attorney"
+  ],
+  "schema_type": "Attorney",
+  "fields_to_extract": [
+    "practice_areas",
+    "languages_spoken",
+    "free_consultation",
+    "fee_structure",
+    "bar_admissions",
+    "notable_cases"
+  ],
+  "extraction_prompt": "Extract the following from this law firm website. Return JSON only, no other text.\n\nFields to extract:\n- practice_areas: list of practice areas (immigration, personal injury, family law, criminal defense, real estate, corporate, estate planning, etc.)\n- languages: languages spoken\n- free_consultation: whether they offer free initial consultation (true/false)\n- fee_structure: fee type (hourly, contingency, flat fee, etc.)\n- hourly_range: hourly rate range if mentioned\n- bar_admissions: state bar admissions\n- years_experience: years of experience if mentioned\n- team_size: number of attorneys\n- notable_results: any mentioned case results or settlements\n- awards: professional awards or recognitions\n\nIf information is not found, use null for that field.",
+  "content_templates": [
+    "Top {count} {specialty} Lawyers in {city} ({year})",
+    "Immigration Attorneys in {city}: Complete Guide ({year})",
+    "Best Personal Injury Lawyers in {city} ({year})",
+    "Lawyers Offering Free Consultations in {city} ({year})",
+    "Spanish-Speaking Attorneys in {city} ({year})",
+    "Family Law Attorneys in {neighborhood}, {city} ({year})",
+    "Most Reviewed Law Firms in {city} ({year})",
+    "Affordable Lawyers in {city}: Options by Practice Area ({year})"
+  ],
+  "premium_price_monthly": 300,
+  "value_per_new_client": "3000-50000",
+  "seo_keywords": [
+    "best lawyer {city}",
+    "immigration attorney {city}",
+    "personal injury lawyer {city}",
+    "family lawyer {city}",
+    "attorney near me {neighborhood}"
+  ]
+}

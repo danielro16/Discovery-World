@@ -1,0 +1,49 @@
+{
+  "name": "dentists",
+  "display_name": "Dentists",
+  "display_name_singular": "Dentist",
+  "google_places_type": "dentist",
+  "search_queries": [
+    "dentist",
+    "dental clinic",
+    "orthodontist",
+    "dental implants",
+    "cosmetic dentistry",
+    "pediatric dentist",
+    "emergency dentist"
+  ],
+  "schema_type": "Dentist",
+  "fields_to_extract": [
+    "specialties",
+    "insurance_accepted",
+    "procedures_offered",
+    "languages_spoken",
+    "emergency_hours",
+    "free_consultation",
+    "payment_plans",
+    "technology_used"
+  ],
+  "extraction_prompt": "Extract the following from this dental practice website. Return JSON only, no other text.\n\nFields to extract:\n- specialties: list of dental specialties (general, cosmetic, orthodontics, implants, pediatric, endodontics, periodontics, oral surgery)\n- insurance_accepted: list of insurance plans accepted\n- procedures: list of specific procedures offered with price ranges if available\n- languages: languages spoken by staff\n- emergency: whether they offer emergency/same-day appointments (true/false)\n- free_consultation: whether first consultation is free (true/false)\n- payment_plans: whether they offer payment plans (true/false)\n- technology: notable technology (digital x-rays, 3D imaging, laser, etc.)\n- year_established: year practice was established if mentioned\n- team_size: number of dentists/hygienists if mentioned\n\nIf information is not found, use null for that field.",
+  "content_templates": [
+    "Top {count} {specialty} Dentists in {neighborhood}, {city} ({year})",
+    "Best Dentists That Accept {insurance} in {city} ({year})",
+    "Emergency Dentists in {city}: Who to Call When It Hurts ({year})",
+    "{city}'s Most Reviewed Dentists: What Patients Are Saying ({year})",
+    "Affordable Dental Implants in {city}: Complete Guide ({year})",
+    "Pediatric Dentists in {neighborhood}: A Parent's Guide ({year})",
+    "Cosmetic Dentistry in {city}: Top-Rated Practices ({year})",
+    "Dentists Open on Weekends in {city} ({year})"
+  ],
+  "premium_price_monthly": 200,
+  "value_per_new_client": "500-5000",
+  "seo_keywords": [
+    "best dentist {city}",
+    "dentist near me {neighborhood}",
+    "dentist that accepts {insurance} {city}",
+    "emergency dentist {city}",
+    "dental implants {city}",
+    "pediatric dentist {city}",
+    "cosmetic dentist {city}",
+    "affordable dentist {city}"
+  ]
+}

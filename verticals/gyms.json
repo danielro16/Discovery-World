@@ -1,0 +1,44 @@
+{
+  "name": "gyms",
+  "display_name": "Gyms & Fitness",
+  "display_name_singular": "Gym",
+  "google_places_type": "gym",
+  "search_queries": [
+    "gym",
+    "fitness center",
+    "crossfit",
+    "yoga studio",
+    "pilates studio",
+    "personal training",
+    "boxing gym"
+  ],
+  "schema_type": "SportsActivityLocation",
+  "fields_to_extract": [
+    "gym_type",
+    "classes_offered",
+    "membership_prices",
+    "amenities",
+    "personal_training",
+    "free_trial"
+  ],
+  "extraction_prompt": "Extract the following from this gym/fitness website. Return JSON only, no other text.\n\nFields to extract:\n- gym_type: type (traditional gym, crossfit, yoga, pilates, boxing, boutique, etc.)\n- classes: list of classes offered\n- membership_prices: membership tiers and prices if available\n- amenities: list (pool, sauna, showers, parking, childcare, etc.)\n- personal_training: whether they offer personal training (true/false)\n- free_trial: whether they offer a free trial (true/false) and duration\n- open_24h: whether open 24 hours (true/false)\n- group_classes: true/false\n- equipment_brands: notable equipment if mentioned\n\nIf information is not found, use null for that field.",
+  "content_templates": [
+    "Top {count} Gyms in {neighborhood}, {city} ({year})",
+    "Best {type} Studios in {city} ({year})",
+    "Gyms With Free Trials in {city}: Complete Guide ({year})",
+    "24-Hour Gyms in {city}: Your Options ({year})",
+    "Best Yoga Studios in {neighborhood}, {city} ({year})",
+    "CrossFit Boxes in {city}: Ranked by Members ({year})",
+    "Most Affordable Gyms in {city} ({year})",
+    "Gyms With Pools in {city} ({year})"
+  ],
+  "premium_price_monthly": 100,
+  "value_per_new_client": "500-1500",
+  "seo_keywords": [
+    "best gym {city}",
+    "gym near me {neighborhood}",
+    "crossfit {city}",
+    "yoga studio {city}",
+    "affordable gym {city}"
+  ]
+}

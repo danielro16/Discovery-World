@@ -1,0 +1,44 @@
+{
+  "name": "therapists",
+  "display_name": "Therapists & Mental Health",
+  "display_name_singular": "Therapist",
+  "google_places_type": "psychologist",
+  "search_queries": [
+    "therapist",
+    "psychologist",
+    "psychiatrist",
+    "counselor",
+    "marriage counselor",
+    "child psychologist",
+    "anxiety therapist"
+  ],
+  "schema_type": "Physician",
+  "fields_to_extract": [
+    "specialties",
+    "insurance_accepted",
+    "therapy_types",
+    "languages_spoken",
+    "telehealth",
+    "sliding_scale"
+  ],
+  "extraction_prompt": "Extract the following from this therapist/mental health practice website. Return JSON only, no other text.\n\nFields to extract:\n- specialties: areas of focus (anxiety, depression, trauma, couples, family, ADHD, OCD, grief, addiction, etc.)\n- therapy_types: therapy modalities (CBT, DBT, EMDR, psychodynamic, humanistic, etc.)\n- insurance_accepted: list of insurance plans accepted\n- languages: languages spoken\n- telehealth: whether they offer online/telehealth sessions (true/false)\n- sliding_scale: whether they offer sliding scale fees (true/false)\n- session_rate: typical session cost if mentioned\n- accepting_new: whether accepting new patients (true/false)\n- credentials: degrees and licenses (PhD, PsyD, LCSW, LMFT, etc.)\n- age_groups: populations served (children, teens, adults, seniors)\n\nIf information is not found, use null for that field.",
+  "content_templates": [
+    "Top {count} Therapists for {specialty} in {city} ({year})",
+    "Therapists Accepting {insurance} in {city} ({year})",
+    "Affordable Therapy in {city}: Sliding Scale Options ({year})",
+    "Online Therapists in {city}: Telehealth Options ({year})",
+    "Couples Counselors in {city}: Who Patients Recommend ({year})",
+    "Child Psychologists in {neighborhood}, {city} ({year})",
+    "Spanish-Speaking Therapists in {city} ({year})",
+    "EMDR Therapists in {city}: Trauma Specialists ({year})"
+  ],
+  "premium_price_monthly": 150,
+  "value_per_new_client": "2000-8000",
+  "seo_keywords": [
+    "therapist {city}",
+    "therapist near me {neighborhood}",
+    "anxiety therapist {city}",
+    "couples counselor {city}",
+    "child psychologist {city}"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "restaurants",
+  "display_name": "Restaurants",
+  "display_name_singular": "Restaurant",
+  "google_places_type": "restaurant",
+  "search_queries": [
+    "restaurant",
+    "sushi restaurant",
+    "italian restaurant",
+    "mexican restaurant",
+    "brunch",
+    "fine dining",
+    "seafood restaurant"
+  ],
+  "schema_type": "Restaurant",
+  "fields_to_extract": [
+    "cuisine_type",
+    "price_range",
+    "menu_highlights",
+    "dietary_options",
+    "reservations",
+    "delivery",
+    "private_dining"
+  ],
+  "extraction_prompt": "Extract the following from this restaurant website. Return JSON only, no other text.\n\nFields to extract:\n- cuisine_types: list of cuisine types (italian, japanese, mexican, etc.)\n- price_range: price range ($ / $$ / $$$ / $$$$)\n- menu_highlights: list of signature or popular dishes\n- dietary_options: dietary accommodations (vegan, gluten-free, halal, kosher, etc.)\n- reservations: whether they accept reservations (true/false)\n- delivery: whether they offer delivery (true/false)\n- private_dining: whether they have private dining options (true/false)\n- happy_hour: whether they have happy hour and details\n- outdoor_seating: true/false\n- parking: parking availability details\n- year_established: year if mentioned\n\nIf information is not found, use null for that field.",
+  "content_templates": [
+    "Top {count} {cuisine} Restaurants in {neighborhood}, {city} ({year})",
+    "Best Brunch Spots in {city} According to Recent Reviews ({year})",
+    "Hidden Gems: Underrated Restaurants in {neighborhood} ({year})",
+    "Where to Eat in {city} This Week: Trending Spots ({year})",
+    "Best Restaurants for Date Night in {city} ({year})",
+    "Family-Friendly Restaurants in {neighborhood}, {city} ({year})",
+    "{city}'s Best New Restaurants of {year}",
+    "Outdoor Dining in {city}: Best Patios and Terraces ({year})"
+  ],
+  "premium_price_monthly": 50,
+  "value_per_new_client": "30-100",
+  "seo_keywords": [
+    "best restaurants {city}",
+    "best {cuisine} {city}",
+    "restaurants near me {neighborhood}",
+    "best brunch {city}",
+    "new restaurants {city}",
+    "fine dining {city}"
+  ]
+}
