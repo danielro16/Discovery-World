@@ -6,4 +6,18 @@ __pycache__/
 .DS_Store
 node_modules/
 dist/
-.claude/
+tmp_enrich/
+
+# Claude Code (keep skills in repo, ignore local settings)
+.claude/settings.local.json
+.claude/launch.json
+
+# LLM optimization generated output (regenerate with: python3 pipeline/llm_optimize.py)
+web/public/robots.txt
+web/public/llms.txt
+web/public/llms-full.txt
+web/public/sitemap.xml
+web/public/knowledge-graph.jsonld
+web/public/knowledge-graph/
+web/public/.indexnow-*
+web/public/824ce*.txt

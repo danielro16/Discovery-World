@@ -7,6 +7,22 @@ const VERTICALS_DIR = path.join(ROOT, 'verticals');
 
 // --- Types ---
 
+export interface FAQQuestion {
+  question: string;
+  answer: string;
+}
+
+export interface FAQ {
+  vertical: string;
+  vertical_display: string;
+  city: string;
+  city_display: string;
+  generated: string;
+  total_businesses: number;
+  questions: FAQQuestion[];
+  schema: Record<string, any>;
+}
+
 export interface Place {
   id: string;
   name: string;
@@ -148,6 +164,13 @@ export function formatCityName(citySlug: string): string {
 
 export function formatCitySlug(citySlug: string): string {
   return citySlug.replace(/_/g, '-');
+}
+
+export function getFaq(vertical: string, city: string): FAQ | null {
+  const filePath = path.join(DATA_DIR, vertical, city, 'faq.json');
+  if (!fs.existsSync(filePath)) return null;
+  const content = fs.readFileSync(filePath, 'utf-8');
+  return JSON.parse(content) as FAQ;
 }
 
 export function getStats(places: Place[]) {

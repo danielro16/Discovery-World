@@ -1,0 +1,82 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getVerticals, getCities, getFaq, getVertical, formatCityName, formatCitySlug, VERTICAL_COLORS, VERTICAL_EMOJIS } from '../../../utils/data';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths: GetStaticPaths = () => {
+  const verticals = getVerticals();
+  const paths: any[] = [];
+  for (const v of verticals) {
+    for (const citySlug of getCities(v.name)) {
+      const faq = getFaq(v.name, citySlug);
+      if (faq && faq.questions.length > 0) {
+        paths.push({
+          params: { vertical: v.name, city: formatCitySlug(citySlug) },
+          props: { vertical: v, citySlug, cityName: formatCityName(citySlug), faq },
+        });
+      }
+    }
+  }
+  return paths;
+};
+
+const { vertical, citySlug, cityName, faq } = Astro.props;
+const colors = VERTICAL_COLORS[vertical.name] || VERTICAL_COLORS.dentists;
+const emoji = VERTICAL_EMOJIS[vertical.name] || '📍';
+const cityUrlSlug = formatCitySlug(citySlug);
+
+const schemaJson = JSON.stringify(faq.schema);
+---
+
+<Base
+  title={`${vertical.display_name} in ${cityName} — Frequently Asked Questions`}
+  description={`Common questions about ${vertical.display_name.toLowerCase()} in ${cityName}. Find answers about ratings, insurance, hours, languages, and more. ${faq.total_businesses} businesses covered.`}
+  schemaJson={schemaJson}
+>
+  <section class="max-w-4xl mx-auto px-4 sm:px-6 py-10">
+    <!-- Breadcrumbs -->
+    <div class="flex items-center gap-2 text-sm text-gray-400 mb-3">
+      <a href="/" class="hover:text-gray-600">Home</a>
+      <span>/</span>
+      <a href={`/${vertical.name}/`} class="hover:text-gray-600">{vertical.display_name}</a>
+      <span>/</span>
+      <a href={`/${vertical.name}/${cityUrlSlug}/`} class="hover:text-gray-600">{cityName}</a>
+      <span>/</span>
+      <span class="text-gray-600">FAQ</span>
+    </div>
+
+    <!-- Header -->
+    <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900 mb-2">
+      <span class="mr-2">{emoji}</span>
+      {vertical.display_name} in {cityName} — FAQ
+    </h1>
+    <p class="text-gray-400 mb-10">
+      {faq.questions.length} frequently asked questions about {vertical.display_name.toLowerCase()} in {cityName}, answered with data from {faq.total_businesses} businesses.
+    </p>
+
+    <!-- FAQ List -->
+    <div class="space-y-6">
+      {faq.questions.map((q, i) => (
+        <div class="border border-gray-100 rounded-2xl p-6 hover:shadow-md transition-shadow">
+          <h2 class="text-lg font-bold text-gray-900 mb-3">
+            {q.question}
+          </h2>
+          <p class="text-gray-600 leading-relaxed">
+            {q.answer}
+          </p>
+        </div>
+      ))}
+    </div>
+
+    <!-- Back link -->
+    <div class="mt-10 pt-6 border-t border-gray-100">
+      <a
+        href={`/${vertical.name}/${cityUrlSlug}/`}
+        class="inline-flex items-center gap-2 text-sm font-medium hover:opacity-80 transition-opacity"
+        style={`color: ${colors.accent}`}
+      >
+        &larr; View all {vertical.display_name.toLowerCase()} in {cityName}
+      </a>
+    </div>
+  </section>
+</Base>
