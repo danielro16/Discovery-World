@@ -11,11 +11,13 @@ export const getStaticPaths: GetStaticPaths = () => {
     for (const citySlug of getCities(v.name)) {
       const places = getPlaces(v.name, citySlug);
       for (const place of places) {
+        const slug = slugify(place.name);
+        if (!slug) continue;
         paths.push({
           params: {
             vertical: v.name,
             city: formatCitySlug(citySlug),
-            slug: slugify(place.name),
+            slug,
           },
           props: { vertical: v, citySlug, cityName: formatCityName(citySlug), place },
         });
@@ -58,22 +60,78 @@ const allTags: { label: string; items: string[] }[] = [];
 const specialties = enriched.specialties || place.specialties || [];
 const practiceAreas = enriched.practice_areas || place.practice_areas || [];
 const cuisineTypes = enriched.cuisine_types || place.cuisine_types || [];
-const classes = enriched.classes || place.classes || [];
+const classesOffered = enriched.classes_offered || enriched.classes || place.classes_offered || place.classes || [];
 const therapyTypes = enriched.therapy_types || place.therapy_types || [];
 const insuranceAccepted = enriched.insurance_accepted || place.insurance_accepted || [];
-const languages = enriched.languages || place.languages || [];
-const certifications = enriched.certifications || place.certifications || [];
+const languages = enriched.languages_spoken || enriched.languages || place.languages_spoken || place.languages || [];
+const certifications = enriched.certifications || enriched.credentials || place.certifications || place.credentials || [];
 const tags = enriched.tags || place.tags || [];
 const aiDescription = enriched.ai_description || place.ai_description || '';
+
+// Array fields
+const technology = enriched.technology || place.technology || [];
+const amenities = enriched.amenities || place.amenities || [];
+const dietaryOptions = enriched.dietary_options || place.dietary_options || [];
+const barAdmissions = enriched.bar_admissions || place.bar_admissions || [];
+const awards = enriched.awards || place.awards || [];
+
+// Boolean/string fields per vertical
+const freeConsultation = enriched.free_consultation ?? place.free_consultation ?? false;
+const paymentPlans = enriched.payment_plans ?? place.payment_plans ?? false;
+const emergencyDentistry = enriched.emergency_dentistry ?? place.emergency_dentistry ?? false;
+const personalTraining = enriched.personal_training ?? place.personal_training ?? false;
+const open24h = enriched.open_24h ?? place.open_24h ?? false;
+const freeTrial = enriched.free_trial ?? place.free_trial ?? false;
+const gymType = enriched.gym_type || place.gym_type || '';
+const membershipPrice = enriched.membership_price_monthly || place.membership_price_monthly || '';
+const feeStructure = enriched.fee_structure || place.fee_structure || '';
+const hourlyRange = enriched.hourly_range || place.hourly_range || '';
+const teamSize = enriched.team_size || place.team_size || 0;
+const yearsExperience = enriched.years_experience || place.years_experience || 0;
+const reservations = enriched.reservations ?? place.reservations ?? false;
+const delivery = enriched.delivery ?? place.delivery ?? false;
+const takeout = enriched.takeout ?? place.takeout ?? false;
+const catering = enriched.catering ?? place.catering ?? false;
+const privateDining = enriched.private_dining ?? place.private_dining ?? false;
+const outdoorSeating = enriched.outdoor_seating ?? place.outdoor_seating ?? false;
+const happyHour = enriched.happy_hour ?? place.happy_hour ?? false;
+const brunch = enriched.brunch ?? place.brunch ?? false;
+const telehealth = enriched.telehealth ?? place.telehealth ?? false;
+const slidingScale = enriched.sliding_scale ?? place.sliding_scale ?? false;
+const email = place.email || '';
+
+// Build boolean highlights per vertical
+const highlights: { icon: string; label: string }[] = [];
+if (freeConsultation) highlights.push({ icon: '✓', label: 'Free Consultation' });
+if (paymentPlans) highlights.push({ icon: '💳', label: 'Payment Plans' });
+if (emergencyDentistry) highlights.push({ icon: '🚨', label: 'Emergency Dentistry' });
+if (personalTraining) highlights.push({ icon: '🏋️', label: 'Personal Training' });
+if (open24h) highlights.push({ icon: '🕐', label: 'Open 24 Hours' });
+if (freeTrial) highlights.push({ icon: '🎟️', label: 'Free Trial' });
+if (reservations) highlights.push({ icon: '📅', label: 'Reservations' });
+if (delivery) highlights.push({ icon: '🚗', label: 'Delivery' });
+if (takeout) highlights.push({ icon: '🥡', label: 'Takeout' });
+if (catering) highlights.push({ icon: '🍽️', label: 'Catering' });
+if (privateDining) highlights.push({ icon: '🏠', label: 'Private Dining' });
+if (outdoorSeating) highlights.push({ icon: '☀️', label: 'Outdoor Seating' });
+if (happyHour) highlights.push({ icon: '🍸', label: 'Happy Hour' });
+if (brunch) highlights.push({ icon: '🥞', label: 'Brunch' });
+if (telehealth) highlights.push({ icon: '💻', label: 'Telehealth Available' });
+if (slidingScale) highlights.push({ icon: '📊', label: 'Sliding Scale Fees' });
 
 if (specialties.length) allTags.push({ label: 'Specialties', items: specialties });
 if (practiceAreas.length) allTags.push({ label: 'Practice Areas', items: practiceAreas });
 if (cuisineTypes.length) allTags.push({ label: 'Cuisine', items: cuisineTypes });
-if (classes.length) allTags.push({ label: 'Classes', items: classes });
+if (classesOffered.length) allTags.push({ label: 'Classes Offered', items: classesOffered });
 if (therapyTypes.length) allTags.push({ label: 'Therapy Types', items: therapyTypes });
 if (insuranceAccepted.length) allTags.push({ label: 'Insurance Accepted', items: insuranceAccepted });
+if (technology.length) allTags.push({ label: 'Technology', items: technology });
+if (amenities.length) allTags.push({ label: 'Amenities', items: amenities });
+if (dietaryOptions.length) allTags.push({ label: 'Dietary Options', items: dietaryOptions });
+if (barAdmissions.length) allTags.push({ label: 'Bar Admissions', items: barAdmissions });
+if (awards.length) allTags.push({ label: 'Awards', items: awards });
+if (certifications.length) allTags.push({ label: 'Credentials', items: certifications });
 if (languages.length) allTags.push({ label: 'Languages', items: languages });
-if (certifications.length) allTags.push({ label: 'Certifications', items: certifications });
 ---
 
 <Base
@@ -141,6 +199,59 @@ if (certifications.length) allTags.push({ label: 'Certifications', items: certif
       </div>
     )}
 
+    <!-- Highlights (boolean features) -->
+    {highlights.length > 0 && (
+      <div class="flex flex-wrap gap-2 mb-8">
+        {highlights.map(h => (
+          <span class="inline-flex items-center gap-1.5 text-sm font-medium px-4 py-2 rounded-xl border-2" style={`border-color: ${colors.accent}; color: ${colors.accent}`}>
+            <span>{h.icon}</span> {h.label}
+          </span>
+        ))}
+      </div>
+    )}
+
+    <!-- Key details row (gym type, fee structure, experience, price) -->
+    {(gymType || feeStructure || yearsExperience || membershipPrice || teamSize) && (
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-3 mb-8">
+        {gymType && (
+          <div class="rounded-2xl p-4 text-center" style={`background: ${colors.bg}`}>
+            <div class="text-sm font-extrabold" style={`color: ${colors.accent}`}>{gymType}</div>
+            <div class="text-xs text-gray-400 mt-1">Type</div>
+          </div>
+        )}
+        {feeStructure && (
+          <div class="rounded-2xl p-4 text-center" style={`background: ${colors.bg}`}>
+            <div class="text-sm font-extrabold capitalize" style={`color: ${colors.accent}`}>{feeStructure}</div>
+            <div class="text-xs text-gray-400 mt-1">Fee Structure</div>
+          </div>
+        )}
+        {yearsExperience > 0 && (
+          <div class="rounded-2xl p-4 text-center" style={`background: ${colors.bg}`}>
+            <div class="text-2xl font-extrabold" style={`color: ${colors.accent}`}>{yearsExperience}+</div>
+            <div class="text-xs text-gray-400 mt-1">Years Experience</div>
+          </div>
+        )}
+        {membershipPrice && (
+          <div class="rounded-2xl p-4 text-center" style={`background: ${colors.bg}`}>
+            <div class="text-sm font-extrabold" style={`color: ${colors.accent}`}>{membershipPrice}</div>
+            <div class="text-xs text-gray-400 mt-1">Monthly</div>
+          </div>
+        )}
+        {hourlyRange && (
+          <div class="rounded-2xl p-4 text-center" style={`background: ${colors.bg}`}>
+            <div class="text-sm font-extrabold" style={`color: ${colors.accent}`}>{hourlyRange}</div>
+            <div class="text-xs text-gray-400 mt-1">Hourly Rate</div>
+          </div>
+        )}
+        {teamSize > 0 && (
+          <div class="rounded-2xl p-4 text-center" style={`background: ${colors.bg}`}>
+            <div class="text-2xl font-extrabold" style={`color: ${colors.accent}`}>{teamSize}</div>
+            <div class="text-xs text-gray-400 mt-1">Team Members</div>
+          </div>
+        )}
+      </div>
+    )}
+
     <!-- Enriched data sections -->
     {allTags.length > 0 && (
       <div class="space-y-6 mb-8">
@@ -180,6 +291,7 @@ if (certifications.length) allTags.push({ label: 'Certifications', items: certif
         <h2 class="text-lg font-bold text-gray-900 mb-4">Contact</h2>
         <div class="space-y-3 text-sm">
           {place.phone && <div class="flex items-center gap-2"><span>📞</span> <span>{place.phone}</span></div>}
+          {email && <div class="flex items-center gap-2"><span>✉️</span> <a href={`mailto:${email}`} class="text-blue-500 hover:underline truncate">{email}</a></div>}
           {place.website && <div class="flex items-center gap-2"><span>🌐</span> <a href={place.website} target="_blank" rel="nofollow noopener" class="text-blue-500 hover:underline truncate">{place.website.replace(/https?:\/\/(www\.)?/, '').replace(/\/$/, '')}</a></div>}
           {place.google_maps_url && <div class="flex items-center gap-2"><span>📍</span> <a href={place.google_maps_url} target="_blank" rel="nofollow noopener" class="text-blue-500 hover:underline">View on Google Maps</a></div>}
         </div>

@@ -16,12 +16,29 @@ const href = `/${vertical}/${city}/${slug}/`;
 const enriched = place.enriched_data || {};
 const tags: string[] = [];
 
-if (enriched.specialties) tags.push(...enriched.specialties.slice(0, 2));
-if (enriched.cuisine_types) tags.push(...enriched.cuisine_types.slice(0, 2));
-if (enriched.practice_areas) tags.push(...enriched.practice_areas.slice(0, 2));
-if (enriched.gym_type) tags.push(enriched.gym_type);
-if (enriched.therapy_types) tags.push(...enriched.therapy_types.slice(0, 2));
-if (enriched.languages) tags.push(...enriched.languages.filter((l: string) => l.toLowerCase() !== 'english').slice(0, 1));
+// Check both enriched_data (old) and direct fields (new from heuristic_enrich)
+const specialties = enriched.specialties || (place as any).specialties || [];
+const cuisineTypes = enriched.cuisine_types || (place as any).cuisine_types || [];
+const practiceAreas = enriched.practice_areas || (place as any).practice_areas || [];
+const gymType = enriched.gym_type || (place as any).gym_type || '';
+const therapyTypes = enriched.therapy_types || (place as any).therapy_types || [];
+const langs = enriched.languages_spoken || enriched.languages || (place as any).languages_spoken || (place as any).languages || [];
+
+if (specialties.length) tags.push(...specialties.slice(0, 2));
+if (cuisineTypes.length) tags.push(...cuisineTypes.slice(0, 2));
+if (practiceAreas.length) tags.push(...practiceAreas.slice(0, 2));
+if (gymType) tags.push(gymType);
+if (therapyTypes.length) tags.push(...therapyTypes.slice(0, 2));
+if (langs.length) tags.push(...langs.filter((l: string) => l.toLowerCase() !== 'english').slice(0, 1));
+
+// Add key boolean highlights as mini-badges
+const miniHighlights: string[] = [];
+if (enriched.free_consultation || (place as any).free_consultation) miniHighlights.push('Free Consult');
+if (enriched.telehealth || (place as any).telehealth) miniHighlights.push('Telehealth');
+if (enriched.delivery || (place as any).delivery) miniHighlights.push('Delivery');
+if (enriched.open_24h || (place as any).open_24h) miniHighlights.push('24h');
+if (enriched.emergency_dentistry || (place as any).emergency_dentistry) miniHighlights.push('Emergency');
+if (enriched.free_trial || (place as any).free_trial) miniHighlights.push('Free Trial');
 ---
 
 <a
@@ -52,6 +69,16 @@ if (enriched.languages) tags.push(...enriched.languages.filter((l: string) => l.
           style={`background: ${colors.light}; color: ${colors.accent}`}
         >
           {tag}
+        </span>
+      ))}
+    </div>
+  )}
+
+  {miniHighlights.length > 0 && (
+    <div class="flex flex-wrap gap-1.5 mt-2">
+      {miniHighlights.map(h => (
+        <span class="text-xs font-semibold px-2 py-0.5 rounded-md border" style={`border-color: ${colors.accent}; color: ${colors.accent}`}>
+          {h}
         </span>
       ))}
     </div>
