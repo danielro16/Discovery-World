@@ -83,37 +83,84 @@ def fetch_text(website: str) -> str:
 # ─── Generic helpers ──────────────────────────────────────────────────────────
 
 def find_languages(text: str) -> list:
-    langs = []
-    patterns = [
-        (r'\benglish\b', 'English'),
-        (r'\bspanish\b|hablamos espa[ñn]ol|se habla espa[ñn]ol', 'Spanish'),
+    """
+    Only tag a language if the website explicitly mentions staff speaks it.
+    Requires proximity to context words like 'speak', 'bilingual', 'hablamos', etc.
+    Always includes English as base (US businesses).
+    """
+    # Context words that indicate language spoken by staff
+    CONTEXT = (
+        r'(?:speak|spoken|speaking|fluent|bilingual|multilingual|staff|team|'
+        r'hablamos|se habla|hablo|atendemos|atención en|'
+        r'parlons|parlamos|говорим|sprechen|parliamo|'
+        r'language[s]?\s*(?:spoken|available|offered|include)|'
+        r'we speak|our staff speak|our team speak|also speak|'
+        r'服务|中文|한국어|日本語|tiếng việt|עברית|عربي|हिंदी|فارسی|ελληνικά|'
+        r'русский|polski|português|tagalog|filipino|yiddish|creole)'
+    )
+
+    # Each entry: (language_keyword_pattern, language_name)
+    # Language keyword must appear within ~120 chars of a context word
+    LANG_PATTERNS = [
+        (r'\bspanish\b',                          'Spanish'),
         (r'\bmandarin\b|\bchinese\b|\bcantonese\b', 'Chinese/Mandarin'),
-        (r'\bfrench\b|\bfrançais\b', 'French'),
-        (r'\bkorean\b|\b한국어\b', 'Korean'),
-        (r'\bportugues[e]?\b|\bportuguês\b', 'Portuguese'),
-        (r'\bitalian\b|\bitaliano\b', 'Italian'),
-        (r'\brussian\b|\bрусский\b', 'Russian'),
-        (r'\barabic\b|\bعربي\b', 'Arabic'),
-        (r'\bhindi\b|\bहिंदी\b', 'Hindi'),
-        (r'\bjapanese\b|\b日本語\b', 'Japanese'),
-        (r'\bvietnamese\b|\btiếng việt\b', 'Vietnamese'),
-        (r'\bpolish\b|\bpolski\b', 'Polish'),
-        (r'\bgerman\b|\bdeutsch\b', 'German'),
-        (r'\bgreek\b|\bελληνικά\b', 'Greek'),
-        (r'\bhebrew\b|\bעברית\b', 'Hebrew'),
-        (r'\btagalog\b|\bfilipino\b', 'Filipino/Tagalog'),
-        (r'\bpersian\b|\bfarsi\b|\bفارسی\b', 'Persian/Farsi'),
-        (r'\burdu\b', 'Urdu'),
-        (r'\bhaitian creole\b|\bcréole\b', 'Haitian Creole'),
-        (r'\byiddish\b', 'Yiddish'),
-        (r'\bbengli\b|\bbangla\b', 'Bengali'),
+        (r'\bfrench\b|\bfrançais\b',              'French'),
+        (r'\bkorean\b|\b한국어\b',                 'Korean'),
+        (r'\bportugues[e]?\b|\bportuguês\b',      'Portuguese'),
+        (r'\bitalian\b|\bitaliano\b',             'Italian'),
+        (r'\brussian\b|\bрусский\b',              'Russian'),
+        (r'\barabic\b|\bعربي\b',                  'Arabic'),
+        (r'\bhindi\b|\bहिंदी\b',                  'Hindi'),
+        (r'\bjapanese\b|\b日本語\b',               'Japanese'),
+        (r'\bvietnamese\b|\btiếng việt\b',        'Vietnamese'),
+        (r'\bpolish\b|\bpolski\b',                'Polish'),
+        (r'\bgerman\b|\bdeutsch\b',               'German'),
+        (r'\bgreek\b|\bελληνικά\b',               'Greek'),
+        (r'\bhebrew\b|\bעברית\b',                 'Hebrew'),
+        (r'\btagalog\b|\bfilipino\b',             'Filipino/Tagalog'),
+        (r'\bpersian\b|\bfarsi\b|\bفارسی\b',      'Persian/Farsi'),
+        (r'\burdu\b',                             'Urdu'),
+        (r'\bhaitian creole\b|\bcréole\b',        'Haitian Creole'),
+        (r'\byiddish\b',                          'Yiddish'),
+        (r'\bbengali\b|\bbangla\b',               'Bengali'),
     ]
-    for pattern, lang in patterns:
-        if re.search(pattern, text, re.IGNORECASE):
-            langs.append(lang)
-    if not langs:
-        langs = ['English']
-    return langs
+
+    # Also handle explicit native-script mentions (always valid on their own)
+    NATIVE_SCRIPT = [
+        (r'hablamos espa[ñn]ol|se habla espa[ñn]ol|atenci[oó]n en espa[ñn]ol', 'Spanish'),
+        (r'中文服务|普通话|广东话|粤语',                                          'Chinese/Mandarin'),
+        (r'한국어\s*(?:서비스|가능|상담)',                                        'Korean'),
+        (r'日本語\s*(?:対応|OK|サービス)',                                        'Japanese'),
+        (r'tiếng việt\s*(?:phục vụ|có thể)',                                   'Vietnamese'),
+        (r'говорим по-русски|русскоязычный персонал',                          'Russian'),
+        (r'we speak|our staff speak|our team speak',                           None),  # trigger for adjacent langs
+    ]
+
+    langs = set()
+
+    # 1. Native/explicit phrases (no context needed)
+    for pattern, lang in NATIVE_SCRIPT:
+        if lang and re.search(pattern, text, re.IGNORECASE):
+            langs.add(lang)
+
+    # 2. Language keyword near a context trigger (within 120 chars window)
+    # Build combined search: find context word, then check ±120 chars for lang keyword
+    for lang_pattern, lang_name in LANG_PATTERNS:
+        # Find all context matches
+        for ctx_match in re.finditer(CONTEXT, text, re.IGNORECASE):
+            start = max(0, ctx_match.start() - 120)
+            end = min(len(text), ctx_match.end() + 120)
+            window = text[start:end]
+            if re.search(lang_pattern, window, re.IGNORECASE):
+                langs.add(lang_name)
+                break
+
+    # 3. Always English for US businesses
+    langs.add('English')
+
+    # Return sorted with English first
+    result = ['English'] + sorted(l for l in langs if l != 'English')
+    return result
 
 
 def find_years_experience(text: str):
