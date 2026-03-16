@@ -237,7 +237,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.attorney-grandprairie.com/contact"
   },
   {
     "id": "osm_node_8811710975",
@@ -319,7 +320,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "receptionist@jimrosslaw.com",
+    "booking_url": "https://www.facebook.com/JimRossLawGroupPC/"
   },
   {
     "id": "osm_node_9270143240",
@@ -400,7 +403,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "jt@tijerinalaw.com"
   },
   {
     "id": "osm_node_13050097455",
@@ -481,7 +485,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://connect.facebook.net"
   },
   {
     "id": "osm_node_3471972032",
@@ -558,7 +563,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://ondafamilylaw.com/contact/"
   },
   {
     "id": "osm_node_4987228306",
@@ -632,7 +638,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "team@saputo.law"
   },
   {
     "id": "osm_node_5425676118",
@@ -770,7 +777,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.hastingsfirm.com/contact-us/"
   },
   {
     "id": "osm_node_5863020828",
@@ -849,7 +857,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.thebentonlawfirm.com/contact/"
   },
   {
     "id": "osm_node_8559778959",
@@ -929,7 +938,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/mullenandmullenlawfirmdallas"
   },
   {
     "id": "osm_node_10593621140",
@@ -1011,7 +1021,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@ticketattorneydallas.com",
+    "booking_url": "https://ticketattorneydallas.com/wp-content/plugins/wp-contact-form-7-spam-blocker/frontend/css/spam-protect-for-contact-form7.css?ver=1.0.0"
   },
   {
     "id": "osm_node_11011798548",
@@ -1144,7 +1156,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "example@mail.com",
+    "booking_url": "https://affordablepatentagency.com/calendly-booking/"
   },
   {
     "id": "osm_node_11886890200",
@@ -1345,7 +1359,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cs@firsttexasgroup.com",
+    "booking_url": "https://firsttexasgroup.com/contact-us/"
   },
   {
     "id": "osm_node_13234207030",
@@ -1408,7 +1424,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "teamcs@scorebusinesscredit.com",
+    "booking_url": "https://scorebusinesscredit.com/contact/"
   },
   {
     "id": "osm_node_13452583202",
@@ -1490,7 +1508,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://guardialaw.com/contact/"
   },
   {
     "id": "osm_node_13523679736",
@@ -1637,7 +1656,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/Best-Watson-Gilbert-PC-1093545374151560/"
   },
   {
     "id": "osm_node_13100603301",
@@ -1791,7 +1811,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/millerweisbrod.llp/"
   },
   {
     "id": "osm_node_2899347595",
@@ -2091,7 +2112,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@mcconathylaw.com",
+    "booking_url": "https://mcconathylaw.com/contact/"
   },
   {
     "id": "osm_node_9853191757",
@@ -2170,7 +2193,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@hunnicuttlaw.com",
+    "booking_url": "https://www.hunnicuttlaw.com/contact/"
   },
   {
     "id": "osm_node_9963687558",
@@ -2247,7 +2272,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "drm@dennyrmartin.law",
+    "booking_url": "https://dennyrmartin.com/contact-us/"
   },
   {
     "id": "osm_node_11155397468",
@@ -2315,7 +2342,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "robtdowd@sbcglobal.net"
   },
   {
     "id": "osm_node_13169084004",
@@ -2379,7 +2407,7 @@
       "addr:postcode": "75001",
       "addr:state": "TX",
       "addr:street": "Dallas Parkway",
-      "description": "Gregory Law Group, PLLC is a boutique law firm located in Addison, Texas (by appointment only). The firm\u2019s areas of practice include income tax, international tax, corporate and partnership tax, and business and estate tax planning.",
+      "description": "Gregory Law Group, PLLC is a boutique law firm located in Addison, Texas (by appointment only). The firm’s areas of practice include income tax, international tax, corporate and partnership tax, and business and estate tax planning.",
       "email": "info@gregorytaxlaw.com",
       "lawyer:speciality:tax": "yes",
       "name": "Gregory Law Group, PLLC",
@@ -2390,7 +2418,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@gregorytaxlaw.com",
+    "booking_url": "https://gregorytaxlaw.com/contact/"
   },
   {
     "id": "osm_node_6699384684",
@@ -2457,7 +2487,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://colelawfirm.com/contact-us/"
   },
   {
     "id": "osm_node_8533737544",
@@ -2540,7 +2571,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/mullenandmullenlawfirmdallas"
   },
   {
     "id": "osm_node_9199655330",
@@ -2629,7 +2661,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@mcconathylaw.com",
+    "booking_url": "https://mcconathylaw.com/contact/"
   },
   {
     "id": "osm_node_9819311885",
@@ -2812,7 +2846,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/sharer/sharer.php?u=https://mexicanrestaurantoklahomacity.com/cocktails&quote=Check%20this%20product%20out.%0A"
   },
   {
     "id": "osm_way_645450473",
@@ -2887,7 +2922,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://jaimebarron.com/contactenos/"
   },
   {
     "id": "osm_node_4484942880",
@@ -3024,7 +3060,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@brookerlaw.com"
   },
   {
     "id": "osm_node_7546059124",
@@ -3164,7 +3201,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "npr0@2qwlppsqzfls0qlk.jpu",
+    "booking_url": "https://degrootepartners.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.9"
   },
   {
     "id": "osm_node_10222802863",
@@ -3294,7 +3333,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "admin@sulleelaw.com",
+    "booking_url": "https://sulleelaw.com/practice-areas/employer-defense/employee-policies-handbook/"
   },
   {
     "id": "osm_node_13366286264",
@@ -3350,7 +3391,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "callcenter@thetexasattorney.com",
+    "booking_url": "https://www.thetexasattorney.com/contact-us/"
   },
   {
     "id": "osm_node_4313360416",
@@ -3419,7 +3462,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://mlfa.org/book-club/"
   },
   {
     "id": "osm_way_547697166",
@@ -3475,7 +3519,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "txlaw@verizon.net"
   },
   {
     "id": "osm_node_12329218916",
@@ -3537,7 +3582,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://scrogginslawgroup.com/contact-us/"
   },
   {
     "id": "osm_node_6991219681",
@@ -3615,7 +3661,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://parkerlawfirm.com/contact-us/"
   },
   {
     "id": "osm_node_6991234808",
@@ -3685,7 +3732,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "questions@johnsalazar.com",
+    "booking_url": "https://www.facebook.com/share/1FRqgkJvuh/"
   },
   {
     "id": "osm_way_465032704",
@@ -3751,7 +3800,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://connect.facebook.net"
   },
   {
     "id": "osm_node_13031960314",
@@ -3819,7 +3869,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://support.google.com/mail/contact/abuse"
   },
   {
     "id": "osm_node_13411722971",

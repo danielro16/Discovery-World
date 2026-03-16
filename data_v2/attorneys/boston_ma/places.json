@@ -121,7 +121,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/ODHLegal"
   },
   {
     "id": "osm_node_10098282298",
@@ -191,7 +192,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/MMForthePeople"
   },
   {
     "id": "osm_node_2672417233",
@@ -346,7 +348,7 @@
       "addr:unit": "3",
       "contact:facebook": "https://www.facebook.com/BrooksLawEnglish",
       "contact:instagram": "https://www.instagram.com/brookslawfirmpc/",
-      "description": "If you\u2019ve been seriously hurt in an accident, you already have a lot on your mind. On top of the concerns about your physical recovery, you and your family may be struggling to make ends meet while you are out of work. You may already be facing a pile of",
+      "description": "If you’ve been seriously hurt in an accident, you already have a lot on your mind. On top of the concerns about your physical recovery, you and your family may be struggling to make ends meet while you are out of work. You may already be facing a pile of",
       "name": "Brooks Law",
       "office": "lawyer",
       "opening_hours": "Mo-Fr 09:00-17:00",
@@ -355,7 +357,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://brookslawfirm.com/contact-us/"
   },
   {
     "id": "osm_node_9317667380",
@@ -431,7 +434,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://hkm.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_9709347573",
@@ -509,7 +513,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "rnglaw@verizon.net",
+    "booking_url": "https://www.rngbankruptcy.com/contact-us/"
   },
   {
     "id": "osm_node_10098458923",
@@ -577,7 +583,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/MMForthePeople"
   },
   {
     "id": "osm_node_10690320125",
@@ -654,7 +661,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "khandly@bostonbankinglaw.com",
+    "booking_url": "https://www.bostonbankinglaw.com/contact/"
   },
   {
     "id": "osm_node_11271082532",
@@ -720,7 +729,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@sweeneymerrigan.com",
+    "booking_url": "https://connect.facebook.net"
   },
   {
     "id": "osm_node_13622823192",
@@ -998,7 +1009,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "attorneys@pottermaclaw.com",
+    "booking_url": "https://www.facebook.com/pottermaclawllp"
   },
   {
     "id": "osm_node_4035864388",
@@ -1193,7 +1206,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "ashapoval@shapovallaw.com",
+    "booking_url": "https://www.facebook.com/shapovallaw/"
   },
   {
     "id": "osm_node_5438855153",
@@ -1336,7 +1351,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@tomkileylaw.com",
+    "booking_url": "https://tomkileylaw.com/contact/"
   },
   {
     "id": "osm_node_5745239039",
@@ -1506,7 +1523,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@llrlaw.com"
   },
   {
     "id": "osm_node_7811482114",
@@ -1626,7 +1644,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "boston@morrisonmahoney.com",
+    "booking_url": "https://morrisonmahoney.com/contact/"
   },
   {
     "id": "osm_node_7926688803",
@@ -1892,7 +1912,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@maciasgreensteinlaw.com",
+    "booking_url": "https://www.maciasgreensteinlaw.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2"
   },
   {
     "id": "osm_node_9647708066",
@@ -1947,7 +1969,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://katzandwhitehead.com/contact/"
   },
   {
     "id": "osm_node_4035652713",
@@ -2175,7 +2198,7 @@
       "team_size": 250,
       "notable_cases": [],
       "awards": [
-        "Top Women-Led Business in Massachusetts (The Commonwealth Institute, 2013\u20132025)",
+        "Top Women-Led Business in Massachusetts (The Commonwealth Institute, 2013–2025)",
         "Massachusetts Powerhouse (Law360, 2019, 2021, 2022, 2025)",
         "Top Place to Work (The Boston Globe, 8 consecutive years)",
         "Chambers USA Band 1 ranking for Intellectual Property Practice (18 years)"
@@ -2198,7 +2221,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.wilmerhale.com/en/contact-us/boston"
   },
   {
     "id": "osm_node_11013978925",
@@ -2258,7 +2282,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "frank@thefernandezfirm.com",
+    "booking_url": "https://thefernandezfirm.com/contact-us/"
   },
   {
     "id": "osm_node_11117680327",
@@ -2361,7 +2387,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.dibellalawoffice.com/contact-us/"
   },
   {
     "id": "osm_node_13238543793",
@@ -2415,7 +2442,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.dibellalawoffice.com/contact-us/"
   },
   {
     "id": "osm_node_5809137329",
@@ -2470,7 +2498,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "rcarter@carterclosings.com"
   },
   {
     "id": "osm_node_5569604986",

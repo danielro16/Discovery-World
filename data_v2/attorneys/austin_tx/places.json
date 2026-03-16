@@ -75,7 +75,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://bencarrascolaw.com/wp-content/themes/Divi/css-new/contact.css"
   },
   {
     "id": "osm_node_8953052395",
@@ -145,7 +146,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.fvflawfirm.com/contact/"
   },
   {
     "id": "osm_node_10232584846",
@@ -224,7 +226,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "firm@burklaw.com",
+    "booking_url": "https://burklaw.com/wp-content/plugins/contact-form-7/includes/css/styles.css"
   },
   {
     "id": "osm_node_10803783720",
@@ -295,7 +299,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@bltg-ip.com",
+    "booking_url": "https://bltg-ip.com/contact/"
   },
   {
     "id": "osm_node_12500925141",
@@ -380,7 +386,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "go@caseengine.ai",
+    "booking_url": "https://www.sutliffstout.com/contact-us/"
   },
   {
     "id": "osm_node_12778850188",
@@ -666,7 +674,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.johnmcduff.com/contact-us/"
   },
   {
     "id": "osm_node_8301802429",
@@ -767,7 +776,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://teamjustice.com/stockton-personal-injury-lawyer/"
   },
   {
     "id": "osm_node_9380916033",
@@ -833,7 +843,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@mcminnlaw.com",
+    "booking_url": "https://www.mcminnlaw.com/wp-content/themes/lawrank-template-10/blocks/contact-image/contact-image.css?ver=1.0.6"
   },
   {
     "id": "osm_node_9549472570",
@@ -914,7 +926,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.kevinbennettlaw.com/contact/"
   },
   {
     "id": "osm_node_10578615951",
@@ -976,7 +989,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "slee@steveleelaw.com",
+    "booking_url": "https://legallee.com/contact-us/"
   },
   {
     "id": "osm_node_10704240149",
@@ -1041,7 +1056,7 @@
       "addr:street": "North Lamar Boulevard",
       "addr:unit": "200",
       "contact:facebook": "https://www.facebook.com/kylerobbinslaw/",
-      "description": "Probate & Estate Planning isn\u2019t about money, it\u2019s about families. We provide families with predictable, quality advice to achieve their goals.",
+      "description": "Probate & Estate Planning isn’t about money, it’s about families. We provide families with predictable, quality advice to achieve their goals.",
       "lawyer:speciality:family": "yes",
       "name": "Robbins Estate Law",
       "office": "lawyer",
@@ -1272,7 +1287,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://keateslawfirm.com/ourfirm/contactus.php"
   },
   {
     "id": "osm_node_13508953900",
@@ -1340,7 +1356,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://austin-probate.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_5152341799",
@@ -1404,7 +1421,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.austininjurylawyers.pro/contact-us/"
   },
   {
     "id": "osm_node_6604057519",
@@ -1464,7 +1482,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "service@hillerlaw.com",
+    "booking_url": "https://www.hillerlaw.com/contact"
   },
   {
     "id": "osm_node_11363378656",
@@ -1549,7 +1569,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@byrddavis.com",
+    "booking_url": "https://byrddavis.com/contact/"
   },
   {
     "id": "osm_node_11741670489",
@@ -1750,7 +1772,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.kellylegalgroup.com/wp-content/plugins/fusion-builder/assets/css/media/facebook-page-md.min.css?ver=7.11.11"
   },
   {
     "id": "osm_node_2471351797",
@@ -1805,7 +1828,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/hover"
   },
   {
     "id": "osm_node_4586944808",
@@ -1922,7 +1946,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://krugercarson.com/contact/"
   },
   {
     "id": "osm_node_9410468012",

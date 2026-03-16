@@ -217,7 +217,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://connect.facebook.net"
   },
   {
     "id": "osm_node_9435117071",
@@ -508,7 +509,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://fleschlawfirm.com/contact/"
   },
   {
     "id": "osm_node_12578768824",
@@ -659,7 +661,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://denversdefenseattorney.com/contact/"
   },
   {
     "id": "osm_node_2613564586",
@@ -722,8 +725,8 @@
         }
       ],
       "awards": [
-        "Colorado Super Lawyer (2005\u20132025)",
-        "Best Lawyers in America (1995\u20132025)",
+        "Colorado Super Lawyer (2005–2025)",
+        "Best Lawyers in America (1995–2025)",
         "AV Preeminent Rating by Martindale-Hubbell"
       ],
       "education": [
@@ -751,7 +754,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.frickey.com/contact-us/"
   },
   {
     "id": "osm_node_11301481802",
@@ -835,7 +839,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@mintzlawfirm.com"
   },
   {
     "id": "osm_node_12955951220",
@@ -903,7 +908,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://fineganlaw.com/contact/"
   },
   {
     "id": "osm_node_13302663194",
@@ -1169,7 +1175,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "jeff@wolflawcolorado.com"
   },
   {
     "id": "osm_node_2613576191",
@@ -1232,8 +1239,8 @@
         }
       ],
       "awards": [
-        "Colorado Super Lawyer (2005\u20132025)",
-        "Best Lawyers in America (1995\u20132025)",
+        "Colorado Super Lawyer (2005–2025)",
+        "Best Lawyers in America (1995–2025)",
         "AV Preeminent Rating by Martindale-Hubbell"
       ],
       "education": [
@@ -1259,7 +1266,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.frickey.com/contact-us/"
   },
   {
     "id": "osm_node_3388574066",
@@ -1330,7 +1338,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.wilhitelawfirm.com/legal-resources/ebooks/"
   },
   {
     "id": "osm_node_5632373766",
@@ -1401,7 +1410,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "team@denvertrafficlawyer.com",
+    "booking_url": "https://denvertrafficlawyer.com/contact-us/"
   },
   {
     "id": "osm_node_5950462165",
@@ -1490,7 +1501,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "rebecca@elderlawdenver.com"
   },
   {
     "id": "osm_node_9610647063",
@@ -1632,7 +1644,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/MMForthePeople"
   },
   {
     "id": "osm_node_10212052335",
@@ -1766,7 +1779,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.ottenjohnson.com/contact/"
   },
   {
     "id": "osm_node_11463848862",
@@ -1830,7 +1844,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/jorgensenbrownellandpepin/"
   },
   {
     "id": "osm_node_11491547995",
@@ -1881,7 +1896,7 @@
       "awards": [
         "Super Lawyers",
         "Employment Law Firm of the Year",
-        "Best Lawyers \u2013 Best Law Firms"
+        "Best Lawyers – Best Law Firms"
       ],
       "education": []
     },
@@ -1907,7 +1922,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://hkm.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_11868493259",
@@ -1981,7 +1997,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.mydenveraccidentlawfirm.com/contact/"
   },
   {
     "id": "osm_node_11888480286",
@@ -2070,7 +2087,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@lawfirmofjeremyrosenthal.com"
   },
   {
     "id": "osm_node_13575512541",
@@ -2134,7 +2152,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "coakley@coakleylaw.com"
   },
   {
     "id": "osm_way_1130936600",
@@ -2199,7 +2218,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "bill@williamhorourke.com"
   },
   {
     "id": "osm_node_9166932922",
@@ -2273,7 +2293,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://connect.facebook.net"
   },
   {
     "id": "osm_node_12863016634",
@@ -2295,11 +2316,11 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "9:00 am \u2013 5:00 pm",
-      "Tuesday": "9:00 am \u2013 5:00 pm",
-      "Wednesday": "9:00 am \u2013 5:00 pm",
-      "Thursday": "9:00 am \u2013 5:00 pm",
-      "Friday": "9:00 am \u2013 5:00 pm"
+      "Monday": "9:00 am – 5:00 pm",
+      "Tuesday": "9:00 am – 5:00 pm",
+      "Wednesday": "9:00 am – 5:00 pm",
+      "Thursday": "9:00 am – 5:00 pm",
+      "Friday": "9:00 am – 5:00 pm"
     },
     "reviews": [],
     "photos": [],
@@ -2387,7 +2408,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.wilhitelawfirm.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_13070115247",
@@ -2440,7 +2462,7 @@
       "addr:postcode": "80014",
       "addr:state": "CO",
       "addr:street": "South Parker Road",
-      "description": "Law Office of Anna\u202fL.\u202fBurr in Aurora, CO offers trusted estate planning, probate, guardianship, personal injury services, and more.",
+      "description": "Law Office of Anna L. Burr in Aurora, CO offers trusted estate planning, probate, guardianship, personal injury services, and more.",
       "email": "Anna@burr-law.com",
       "name": "Law Office Of Anna L. Burr",
       "office": "lawyer",
@@ -2595,7 +2617,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://littletonlawyers.com/contact-us/"
   },
   {
     "id": "osm_node_4534493998",
@@ -2739,7 +2762,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "bill@boyleinjurylaw.com",
+    "booking_url": "https://boyleinjurylaw.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.2"
   },
   {
     "id": "osm_node_6427930840",
@@ -2856,7 +2881,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.blochongert.com/contact/"
   },
   {
     "id": "osm_node_6429017089",
@@ -2912,7 +2938,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "melanie@stuckeyinjurylaw.com"
   },
   {
     "id": "osm_node_12948823507",
@@ -2985,7 +3012,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@fwlawgroup.com",
+    "booking_url": "https://consumerlawpro.com/contact-us/"
   },
   {
     "id": "osm_way_619603311",
@@ -3266,7 +3295,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.matthewsfamilylawyers.com/contact/"
   },
   {
     "id": "osm_node_4934309566",
