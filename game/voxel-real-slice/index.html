@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Ocean Grid Miami Beach</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div id="app">
+    <canvas id="viewport"></canvas>
+    <div class="sky-overlay"></div>
+
+    <header class="topbar">
+      <div class="brand">
+        <span class="eyebrow">Real geometry, game view</span>
+        <h1>Ocean Grid</h1>
+        <p>South Beach rendered as a voxel slice, but laid out from real business coordinates.</p>
+      </div>
+      <div class="stats">
+        <div class="stat-card">
+          <span class="label">Corridor</span>
+          <strong id="street-label">Ocean Drive</strong>
+        </div>
+        <div class="stat-card">
+          <span class="label">Visited</span>
+          <strong><span id="visited-count">0</span>/10</strong>
+        </div>
+        <div class="stat-card">
+          <span class="label">Verified Facts</span>
+          <strong id="facts-count">0</strong>
+        </div>
+        <div class="stat-card">
+          <span class="label">Mode</span>
+          <strong id="mode-label">Real Slice</strong>
+        </div>
+      </div>
+    </header>
+
+    <section class="info-card">
+      <div class="card-head">
+        <span class="eyebrow">What is real here</span>
+        <h2>Same visual language, real South Beach underneath</h2>
+      </div>
+      <p>
+        The buildings are stylized, but their positions come from a local South Beach business sample.
+        Ocean Drive, Washington Avenue, Collins and Alton keep their real spacing.
+      </p>
+      <div class="info-notes">
+        <span>Businesses from local `data_v2` sample</span>
+        <span>POIs use true lat/lng relationships</span>
+        <span>Facts remain collaborative game tasks</span>
+      </div>
+      <div class="controls-copy">
+        <span><kbd>WASD</kbd> move</span>
+        <span><kbd>Shift</kbd> sprint</span>
+        <span>Drag to orbit</span>
+        <span><kbd>E</kbd> inspect nearest business</span>
+      </div>
+    </section>
+
+    <aside class="queue-card">
+      <div class="card-head compact">
+        <span class="eyebrow">Closest tasks</span>
+        <h3>Business queue</h3>
+      </div>
+      <div id="queue-list" class="queue-list"></div>
+    </aside>
+
+    <aside id="business-panel" class="business-panel hidden">
+      <div class="panel-headline">
+        <div>
+          <span class="eyebrow">Real business card</span>
+          <h3 id="business-name">News Cafe</h3>
+        </div>
+        <button id="close-panel" class="icon-button" aria-label="Close details">✕</button>
+      </div>
+      <div class="business-meta">
+        <span id="business-category" class="meta-chip">Restaurant</span>
+        <span id="business-street" class="meta-chip">Ocean Drive</span>
+        <span id="business-distance" class="meta-chip emphasis">0m away</span>
+      </div>
+      <p id="business-address" class="business-address"></p>
+
+      <div class="known-grid">
+        <div class="known-card">
+          <span class="known-label">Phone</span>
+          <strong id="known-phone">Known</strong>
+        </div>
+        <div class="known-card">
+          <span class="known-label">Website</span>
+          <strong id="known-website">Known</strong>
+        </div>
+        <div class="known-card">
+          <span class="known-label">Hours</span>
+          <strong id="known-hours">Missing</strong>
+        </div>
+      </div>
+
+      <div class="fact-head">
+        <div>
+          <span class="eyebrow">Micro tasks</span>
+          <h4>Community verification</h4>
+        </div>
+        <span id="business-completeness" class="meta-chip emphasis">65% complete</span>
+      </div>
+      <div id="facts-list" class="facts-list"></div>
+      <div class="panel-footer">
+        <span id="business-source">Source: OSM</span>
+        <span id="business-license">License: ODbL 1.0</span>
+      </div>
+    </aside>
+
+    <aside class="map-card">
+      <div class="card-head compact">
+        <span class="eyebrow">Orientation</span>
+        <h3>Real slice minimap</h3>
+      </div>
+      <canvas id="minimap" width="260" height="180"></canvas>
+      <p class="map-note">West: Alton and bay side. East: Ocean Drive, park, beach and Atlantic.</p>
+    </aside>
+
+    <section class="feed-card">
+      <div class="card-head compact">
+        <span class="eyebrow">Session feed</span>
+        <h3>Recent contributions</h3>
+      </div>
+      <div id="feed-list" class="feed-list"></div>
+    </section>
+
+    <div id="zone-pill" class="zone-pill">Ocean Drive frontage</div>
+
+    <div id="prompt" class="prompt hidden">
+      <span id="prompt-title">Inspect business</span>
+      <span class="prompt-copy">Press <kbd>E</kbd> or click the building beacon.</span>
+    </div>
+
+    <button id="visit-button" class="visit-button hidden">Inspect business</button>
+
+    <div id="toast" class="toast"></div>
+
+    <div id="intro" class="intro open">
+      <div class="intro-card">
+        <span class="eyebrow">Next direction</span>
+        <h2>A real Miami Beach slice without turning into a flat map</h2>
+        <p>
+          This experiment keeps the game view you liked, but anchors the world to real business coordinates.
+          It is the bridge between the playful prototype and the collaborative data product.
+        </p>
+        <ul class="intro-points">
+          <li>Real South Beach spacing between Alton, Washington, Collins and Ocean Drive.</li>
+          <li>Businesses placed from actual local dataset coordinates.</li>
+          <li>Facts still collected as game actions, not plain form filling.</li>
+        </ul>
+        <button id="start-button" class="start-button">Enter South Beach</button>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
