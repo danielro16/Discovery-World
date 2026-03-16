@@ -133,7 +133,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.kitsapdfc.com/contact-us/"
   },
   {
     "id": "osm_node_3882946982",
@@ -547,7 +548,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "care@marquisfamilydentistry.com"
   },
   {
     "id": "osm_way_1171049488",
@@ -795,7 +797,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://roosortho.com/request-an-appointment"
   },
   {
     "id": "osm_way_1394031707",
@@ -1067,7 +1070,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@agapedentalcare.com",
+    "booking_url": "https://www.facebook.com/AgapeDentalCareWA"
   },
   {
     "id": "osm_node_13422320991",
@@ -1142,7 +1147,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@weomedia.com",
+    "booking_url": "https://www.facebook.com/Pacific-Ave-Dental-Allan-L-Hablutzel-DDS-160449897318578/"
   },
   {
     "id": "osm_node_13462835134",
@@ -1206,7 +1213,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "team@latofonts.com"
   },
   {
     "id": "osm_node_13462835135",
@@ -1338,7 +1346,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "frontoffice@bremertondds.com",
+    "booking_url": "https://bremertondds.com/contact-us/"
   },
   {
     "id": "osm_way_1327574908",
@@ -1499,7 +1509,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@rosehilldentistry.com"
   },
   {
     "id": "osm_node_3889828813",
@@ -1670,7 +1681,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/pages/Michael-A-MacInnes-DDS/963045567045473?sk=info"
   },
   {
     "id": "osm_node_4641428668",
@@ -1737,7 +1749,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@sammamishpediatricdentistry.com",
+    "booking_url": "https://sammamishpediatricdentistry.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.6"
   },
   {
     "id": "osm_node_4782560557",
@@ -1886,7 +1900,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://premierperiodontics.com/contact/"
   },
   {
     "id": "osm_node_4792797638",
@@ -1969,7 +1984,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "appointments@redmonddentistry.com",
+    "booking_url": "https://www.redmonddentistry.com/contact/"
   },
   {
     "id": "osm_node_4792797639",
@@ -2041,7 +2058,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "scheduling@kandrortho.com",
+    "booking_url": "https://redmondortho.com/contact/"
   },
   {
     "id": "osm_node_4792797641",

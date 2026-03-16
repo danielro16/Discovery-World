@@ -144,7 +144,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "randolph@wownewengland.com",
+    "booking_url": "https://www.wownewengland.com/wp-content/plugins/noo-timetable/assets/css/noo-timetable-schedule.css"
   },
   {
     "id": "osm_node_9755844294",
@@ -232,7 +234,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "quincyma@anytimefitness.com"
   },
   {
     "id": "osm_node_11071388029",
@@ -513,7 +516,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "meninoy@ymcaboston.org",
+    "booking_url": "http://facebook.com/ymcaboston"
   },
   {
     "id": "osm_node_7068112968",
@@ -720,7 +725,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "oaksquarey@ymcaboston.org",
+    "booking_url": "http://facebook.com/ymcaboston"
   },
   {
     "id": "osm_node_4727380458",
@@ -823,7 +830,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "manager@crunchallston.com",
+    "booking_url": "https://facebook.com/crunchallston"
   },
   {
     "id": "osm_node_9339335355",
@@ -918,7 +927,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "walthamy@ymcaboston.org",
+    "booking_url": "http://facebook.com/ymcaboston"
   },
   {
     "id": "osm_node_9986175118",
@@ -1359,7 +1370,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "springdale@boulderingproject.com",
+    "booking_url": "https://boulderingproject.portal.approach.app/profile/contact"
   },
   {
     "id": "osm_node_4065241695",
@@ -1508,7 +1521,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "tyler@vimfitness.com",
+    "booking_url": "https://vimfitness.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.css?ver=7.1.3"
   },
   {
     "id": "osm_node_4761031222",
@@ -1716,7 +1731,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "everett@metrorock.com"
   },
   {
     "id": "osm_node_5031189730",
@@ -1879,7 +1895,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/BodyScapesFitness"
   },
   {
     "id": "osm_node_6146560492",
@@ -2040,7 +2057,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "ana.kostadinova@equinox.com"
   },
   {
     "id": "osm_node_7753597850",
@@ -2147,7 +2165,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "chris.ford@equinox.com"
   },
   {
     "id": "osm_node_7838432984",
@@ -2298,7 +2317,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@swetstudio.com"
   },
   {
     "id": "osm_node_7891563038",
@@ -2588,7 +2608,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "manager@crunchmalden.com",
+    "booking_url": "https://www.facebook.com/CrunchMalden"
   },
   {
     "id": "osm_node_11925920899",
@@ -3615,7 +3637,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://connect.facebook.net"
   },
   {
     "id": "osm_way_863946963",
@@ -4093,7 +4116,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "eastbostony@ymcaboston.org",
+    "booking_url": "http://facebook.com/ymcaboston"
   },
   {
     "id": "osm_node_2590319653",
@@ -5587,7 +5612,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.cambridgeymca.org/our-y/hours-schedules/"
   },
   {
     "id": "osm_node_6167419714",
@@ -6771,7 +6797,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "wangy@ymcaboston.org",
+    "booking_url": "http://facebook.com/ymcaboston"
   },
   {
     "id": "osm_node_9951889414",
@@ -7665,7 +7693,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "northsuburbany@ymcaboston.org",
+    "booking_url": "http://facebook.com/ymcaboston"
   },
   {
     "id": "osm_node_5909062704",
@@ -8049,7 +8079,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "burbanky@ymcaboston.org",
+    "booking_url": "http://facebook.com/ymcaboston"
   },
   {
     "id": "osm_way_960905341",

@@ -257,7 +257,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://amoresdental.com/contacts-us/"
   },
   {
     "id": "osm_node_12024070926",
@@ -491,7 +492,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://facebook.com/cosmeticdentistmiamiflorida/"
   },
   {
     "id": "osm_node_9734158525",
@@ -558,7 +560,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@choicemd.com",
+    "booking_url": "https://www.facebook.com/ChoiceMD"
   },
   {
     "id": "osm_node_10555518745",
@@ -649,7 +653,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://formadental.co/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.2"
   },
   {
     "id": "osm_node_13048822815",
@@ -733,7 +738,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@orthosupersmiles.com",
+    "booking_url": "https://www.facebook.com/Super-Smiles-Orthodontics-110372075331841"
   },
   {
     "id": "osm_node_9216015433",
@@ -805,7 +812,7 @@
       "addr:street": "S Miami Ave",
       "addr:unit": "Ste 305",
       "amenity": "dentist",
-      "description": "Vizcaya Dental Arts is a personalized concierge-level dental practice in Miami, Florida. Offering general and cosmetic dentistry, as well as adult and children\u2019s orthodontics.",
+      "description": "Vizcaya Dental Arts is a personalized concierge-level dental practice in Miami, Florida. Offering general and cosmetic dentistry, as well as adult and children’s orthodontics.",
       "email": "info@vizcayadentalarts.com",
       "fax": "+1-786-408-5968",
       "healthcare": "dentist",
@@ -909,7 +916,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/cadcammiami/"
   },
   {
     "id": "osm_node_13208401874",
@@ -1240,7 +1248,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@1dentalstudio.com"
   },
   {
     "id": "osm_node_8578398557",
@@ -1328,7 +1337,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://smiledesigndentalfl.com/contact-us/"
   },
   {
     "id": "osm_node_11884850490",
@@ -1415,7 +1425,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hello@drubieta.com",
+    "booking_url": "https://www.facebook.com/SunsetFamilyCosmeticDentistry/"
   },
   {
     "id": "osm_node_11965328807",
@@ -1850,7 +1862,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@ndiscovered.com"
   },
   {
     "id": "osm_node_13320069305",
@@ -2010,7 +2023,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://fldentalcaremiami.com/contact-us/"
   },
   {
     "id": "osm_node_5085334852",
@@ -2108,7 +2122,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://dentistmiamisprings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_6073264706",
@@ -2194,7 +2209,7 @@
       "addr:street": "Alhambra Circle",
       "addr:unit": "Suite A",
       "amenity": "dentist",
-      "description": "At our Coral Gables dental office, we know oral health is the window to your overall well-being. That\u2019s why we\u2019re committed to helping each patient stay healthy from the inside and out. From pediatric dentistry to orthodontics, preventive teeth cleanings",
+      "description": "At our Coral Gables dental office, we know oral health is the window to your overall well-being. That’s why we’re committed to helping each patient stay healthy from the inside and out. From pediatric dentistry to orthodontics, preventive teeth cleanings",
       "healthcare": "dentist",
       "healthcare:speciality": "dentist",
       "name": "Flossy Smiles Dental Implants & Esthetics: Dr. Gio",
@@ -2205,7 +2220,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://flossysmiles.com/wp-content/plugins/contact-form-7/includes/css/styles.css"
   },
   {
     "id": "osm_node_10755779540",
@@ -2263,7 +2279,7 @@
       "healthcare": "dentist",
       "healthcare:speciality": "orthodontist_specialist;dental_clinic",
       "name": "Zambrano Orthodontics",
-      "opening_hours": "Monday To Friday : 8:30\u202fAM-5:30\u202fPM || Sat :8\u202fAM-2\u202fPM",
+      "opening_hours": "Monday To Friday : 8:30 AM-5:30 PM || Sat :8 AM-2 PM",
       "phone": "+1 305-394-8112",
       "website": "https://miamidadeorthodontist.com/"
     },
@@ -2332,7 +2348,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@miamibeachds.com"
   },
   {
     "id": "osm_node_9781377369",
@@ -2394,7 +2411,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@drbelow.com",
+    "booking_url": "https://www.facebook.com/profile.php?id=100070478470900"
   },
   {
     "id": "osm_way_435528206",
@@ -2571,7 +2590,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@ccdl.co",
+    "booking_url": "https://www.ceramicsdentallab.com/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/css/dnd-upload-cf7.css?ver=1.3.5.9"
   },
   {
     "id": "osm_node_6027892086",
@@ -2723,7 +2744,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@advancedendodonticgroup.com",
+    "booking_url": "https://advancedendodonticgroup.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_11828927479",

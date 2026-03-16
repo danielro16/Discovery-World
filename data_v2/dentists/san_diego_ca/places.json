@@ -138,7 +138,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.HugeDomains.com/contact.cfm"
   },
   {
     "id": "osm_node_7103914253",
@@ -295,7 +296,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@pureaestheticdentistry.com",
+    "booking_url": "https://pureaestheticdentistry.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-forms/src/../dist/contact-form/css/jetpack-forms-layout.css?ver=15.6"
   },
   {
     "id": "osm_node_12506379766",
@@ -476,7 +479,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "dr@sddentistry.com",
+    "booking_url": "https://sddentistry.com/appointment"
   },
   {
     "id": "osm_node_12508670604",
@@ -534,7 +539,7 @@
       "addr:state": "CA",
       "addr:street": "Greyling Drive",
       "amenity": "dentist",
-      "description": "Greyling Dentistry in San Diego is committed to improving our patients\u2019 oral health and well-being. Our practice was built to provide not only immediate treatment but also long-term care to improve your happiness and health.",
+      "description": "Greyling Dentistry in San Diego is committed to improving our patients’ oral health and well-being. Our practice was built to provide not only immediate treatment but also long-term care to improve your happiness and health.",
       "healthcare": "dentist",
       "healthcare:speciality": "dentist",
       "name": "Greyling Dental",
@@ -613,7 +618,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "http://elcajonfamilydental.com/appointment"
   },
   {
     "id": "osm_node_10661145899",
@@ -865,7 +871,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://smiledentalservices.com/contact-us/"
   },
   {
     "id": "osm_node_12724457522",
@@ -941,7 +948,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://appointments.westerndental.com/verification-details/en-us"
   },
   {
     "id": "osm_node_12756677819",
@@ -1009,7 +1017,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/v11.0/dialog/oauth?client_id=266003681172790&redirect_uri=https://app.heylink.me/login/facebook&state=fbloginheylinkme&scope=email"
   },
   {
     "id": "osm_node_13318445984",
@@ -1075,7 +1084,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://lemongrovedental.com/contact/"
   },
   {
     "id": "osm_way_1364420168",
@@ -1151,7 +1161,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://lamaestra.org/index.php/appointments/"
   },
   {
     "id": "osm_node_276540980",
@@ -1233,7 +1244,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "office@lajollacolonydental.com"
   },
   {
     "id": "osm_node_9684712979",
@@ -1421,7 +1433,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/texasfms/"
   },
   {
     "id": "osm_node_2769574259",
@@ -1586,7 +1599,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "designer@wesleydoyle.com",
+    "booking_url": "https://www.facebook.com/pages/Sorrento-Valley-Dental-Group/140432309326022?ref=br_tf"
   },
   {
     "id": "osm_node_12208941458",
@@ -1899,7 +1914,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hola@dentalia.com"
   },
   {
     "id": "osm_node_11156114362",
@@ -1988,12 +2004,13 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hola@dentalia.com"
   },
   {
     "id": "osm_node_13585620065",
     "name": "Baja Dental Smile",
-    "address": "Planta 2, Int 1 Calle Germ\u00e1n Gedovius 9506, Tijuana, Baja California, 22010",
+    "address": "Planta 2, Int 1 Calle Germán Gedovius 9506, Tijuana, Baja California, 22010",
     "location": {
       "lat": 32.520784,
       "lng": -117.0124962
@@ -2047,7 +2064,7 @@
       "addr:neighbourhood": "Zona Urbana Rio tijuana",
       "addr:postcode": "22010",
       "addr:state": "Baja California",
-      "addr:street": "Calle Germ\u00e1n Gedovius 9506",
+      "addr:street": "Calle Germán Gedovius 9506",
       "amenity": "dentist",
       "email": "hello@mexdentalimplants.com",
       "healthcare": "dentist",
@@ -2059,7 +2076,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hello@mexdentalimplants.com",
+    "booking_url": "https://www.mexdentalimplants.com/contact"
   },
   {
     "id": "osm_node_11626066493",
@@ -2161,7 +2180,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "sandiego@aplusfamilydentistry.com",
+    "booking_url": "https://aplusfamilydentistry.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4"
   },
   {
     "id": "osm_node_12128842939",
@@ -2219,7 +2240,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://smileswest.com/rancho-san-diego/book-appointment/"
   },
   {
     "id": "osm_node_12238990164",
@@ -2623,7 +2645,7 @@
       "payment_plans": true,
       "technology": [
         "Digital X-Rays",
-        "CEREC\u00ae CAD/CAM single-visit crowns"
+        "CEREC® CAD/CAM single-visit crowns"
       ],
       "year_established": null,
       "team_size": null,
@@ -2768,7 +2790,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/Dr.DaliaJamma"
   },
   {
     "id": "osm_node_8855566586",
@@ -2829,7 +2852,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.brightnow.com/appointment/?officeId=51050"
   },
   {
     "id": "osm_way_31809757",
@@ -2891,7 +2915,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "http://www.coastdentalcare.net/contact-us/"
   },
   {
     "id": "osm_node_13479585253",
@@ -2987,7 +3012,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@weomedia.com"
   },
   {
     "id": "osm_node_596157925",
@@ -3050,7 +3076,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://appointments.westerndental.com/verification-details/en-us"
   },
   {
     "id": "osm_node_9414338726",
@@ -3150,7 +3177,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@aerodentistry.com",
+    "booking_url": "https://www.flexbook.me/aerodent"
   },
   {
     "id": "osm_node_9440551281",
@@ -3272,7 +3301,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "elcajon@smileplusdds.com"
   },
   {
     "id": "osm_node_10616570754",
@@ -3836,7 +3866,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@starrysmilez.com",
+    "booking_url": "https://www.facebook.com/childrensdentistryofsandiego"
   },
   {
     "id": "osm_node_12145134201",
@@ -4097,7 +4129,7 @@
   },
   {
     "id": "osm_node_7372810569",
-    "name": "Cl\u00ednica Dental Tijuana",
+    "name": "Clínica Dental Tijuana",
     "address": "8024 Calle Emiliano Zapata",
     "location": {
       "lat": 32.5318239,
@@ -4131,7 +4163,7 @@
       "addr:street": "Calle Emiliano Zapata",
       "amenity": "dentist",
       "healthcare": "dentist",
-      "name": "Cl\u00ednica Dental Tijuana"
+      "name": "Clínica Dental Tijuana"
     },
     "sources": [
       "osm"
@@ -4225,7 +4257,7 @@
   {
     "id": "osm_way_922486206",
     "name": "Centro Medico Excel",
-    "address": "2507 Calle Paseo de los H\u00e9roes, Tijuana, 22320",
+    "address": "2507 Calle Paseo de los Héroes, Tijuana, 22320",
     "location": {
       "lat": 32.5206274,
       "lng": -117.0118809
@@ -4258,7 +4290,7 @@
       "addr:city": "Tijuana",
       "addr:housenumber": "2507",
       "addr:postcode": "22320",
-      "addr:street": "Calle Paseo de los H\u00e9roes",
+      "addr:street": "Calle Paseo de los Héroes",
       "alt_name": "Hospital Excel",
       "amenity": "dentist",
       "building": "yes",

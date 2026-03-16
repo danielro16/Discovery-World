@@ -124,7 +124,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@dentistinbrooklyn.com"
   },
   {
     "id": "osm_node_4961721023",
@@ -255,7 +256,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "drweiner@envysmile.com",
+    "booking_url": "https://www.envysmile.com/contact-us/"
   },
   {
     "id": "osm_node_5401113140",
@@ -425,7 +428,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@alfadentalny.com"
   },
   {
     "id": "osm_node_6902849785",
@@ -536,7 +540,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@luxden.com",
+    "booking_url": "https://luxden.com/contact-us/"
   },
   {
     "id": "osm_node_8213705591",
@@ -646,7 +652,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@pediatricdentistrycenter.com"
   },
   {
     "id": "osm_node_8753876453",
@@ -828,7 +835,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.thebrooklyndentist.com/contact-us/"
   },
   {
     "id": "osm_node_9219597083",
@@ -1018,7 +1026,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.myfirstdentistny.com/contactus"
   },
   {
     "id": "osm_node_10126874614",
@@ -1091,7 +1100,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.nycdental-dds.com/contact/"
   },
   {
     "id": "osm_node_11772065844",
@@ -1128,8 +1138,8 @@
         "Implant Dentistry",
         "Cosmetic Dentistry",
         "Sedation Dentistry",
-        "All on 4\u00ae",
-        "All on 6\u00ae"
+        "All on 4®",
+        "All on 6®"
       ],
       "insurance_accepted": "Cash, Credit Card, Checks, Insurance, CareCredit",
       "procedures": [
@@ -1287,7 +1297,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@vkdds.com",
+    "booking_url": "https://vkdds.com/contact-us/"
   },
   {
     "id": "osm_node_13082024698",
@@ -1369,7 +1381,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@brooklyninvisaligncenter.com",
+    "booking_url": "https://www.brooklyninvisaligncenter.com/contact-us/"
   },
   {
     "id": "osm_node_13381255535",
@@ -1478,7 +1492,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@vitadentbrooklyn.com",
+    "booking_url": "https://www.zocdoc.com/practice/vita-dent-brooklyn-169254?lock=true&isNewPatient=false&referrerType=widget"
   },
   {
     "id": "osm_node_9602294632",
@@ -1547,7 +1563,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@arvernedental.com"
   },
   {
     "id": "osm_node_11274342337",
@@ -1657,7 +1674,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://greateressexdental.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.7"
   },
   {
     "id": "osm_node_11598185304",
@@ -1850,7 +1868,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hello@hellotend.com",
+    "booking_url": "https://www.hellotend.com/booking/markets"
   },
   {
     "id": "osm_node_2549948684",
@@ -1920,7 +1940,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hello@smilepop.com",
+    "booking_url": "https://www.smilepop.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_2599098793",
@@ -2043,7 +2065,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/profile.php?id=61574860776993#"
   },
   {
     "id": "osm_node_2723493286",
@@ -2151,7 +2174,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@periony.com",
+    "booking_url": "https://booking.adit.com/cf5e91de-9ca8-43e1-a9f9-916e730a30a6"
   },
   {
     "id": "osm_node_2724212854",
@@ -2303,9 +2328,9 @@
       "procedures": [
         "Invisalign treatment",
         "Traditional braces",
-        "Clear/ceramic braces (Clarity\u2122)",
+        "Clear/ceramic braces (Clarity™)",
         "Palatal expander",
-        "Forsus\u2122",
+        "Forsus™",
         "PROPEL Orthodontics",
         "Teeth whitening (GLO)",
         "Surgical orthodontics",
@@ -2375,7 +2400,9 @@
       "status": "A",
       "enumeration_date": "2022-03-24",
       "last_updated": "2022-03-24"
-    }
+    },
+    "email": "officemanager@gibbsortho.com",
+    "booking_url": "https://book2.getweave.com/1757765d-0f07-4788-ab7d-228deb80ffd8/request-appointment"
   },
   {
     "id": "osm_node_2784323222",
@@ -2600,7 +2627,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@ilovend.com"
   },
   {
     "id": "osm_node_2967530069",
@@ -2757,7 +2785,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.smiledentalnjpa.com/appointment"
   },
   {
     "id": "osm_node_4744600021",
@@ -2852,7 +2881,7 @@
       "addr:unit": "5",
       "amenity": "dentist",
       "check_date": "2025-08-10",
-      "description": "At True Dental Care for Kids and Teens, you\u2019ll find compassionate dental care you can trust with your children\u2019s teeth \u2014 from the cradle to college.",
+      "description": "At True Dental Care for Kids and Teens, you’ll find compassionate dental care you can trust with your children’s teeth — from the cradle to college.",
       "email": "help@pediatricdentalnj.com",
       "healthcare": "dentist",
       "internet_access": "wlan",
@@ -2864,7 +2893,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@truedentalcare.us",
+    "booking_url": "https://www.facebook.com/True.dental.care"
   },
   {
     "id": "osm_node_4961679622",
@@ -2982,7 +3013,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.nycdentalimplantscenter.com/contact-dr-navid-rahmani/"
   },
   {
     "id": "osm_node_5231705398",
@@ -3112,7 +3144,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://legacyoms.com/contact/"
   },
   {
     "id": "osm_node_5522389588",
@@ -3201,7 +3234,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hello@freshorthodontics.com",
+    "booking_url": "https://www.facebook.com/freshorthodontics"
   },
   {
     "id": "osm_node_5555372798",
@@ -3321,7 +3356,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hello@hellotend.com",
+    "booking_url": "https://www.hellotend.com/booking/markets"
   },
   {
     "id": "osm_node_5582248927",
@@ -3390,7 +3427,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "williamsburg@wearebitesize.com",
+    "booking_url": "https://www.facebook.com/wearebitesize/"
   },
   {
     "id": "osm_node_5700823172",
@@ -3496,7 +3535,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/patientfriendlydental"
   },
   {
     "id": "osm_node_5799992952",
@@ -3580,7 +3620,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@courtdds.com",
+    "booking_url": "https://www.flexbook.me/csddental/googlereserve/1"
   },
   {
     "id": "osm_node_5849767739",
@@ -3666,7 +3708,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/cgortho"
   },
   {
     "id": "osm_node_5888559896",
@@ -3759,7 +3802,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/Smiles4LifeOrthodontics/"
   },
   {
     "id": "osm_node_6689923811",
@@ -5109,7 +5153,7 @@
       "Tuesday": "09:00 - 18:00",
       "Wednesday": "09:00 - 18:00",
       "Thursday": "09:00 - 18:00",
-      "Friday": "09:00\u2009-\u200915:00",
+      "Friday": "09:00 - 15:00",
       "Saturday": "Closed",
       "Sunday": "Closed"
     },
@@ -5138,7 +5182,7 @@
       "healthcare:speciality": "cosmetic_dentist",
       "mobile": "+1 212-829-1515",
       "name": "Cosmetic Dentistry Center NYC",
-      "opening_hours": "Mo-Th 09:00 - 18:00; Fr 09:00\u2009-\u200915:00; Sa-Su Closed",
+      "opening_hours": "Mo-Th 09:00 - 18:00; Fr 09:00 - 15:00; Sa-Su Closed",
       "operator": "Pia Lieb",
       "phone": "+1 646-832-4386",
       "website": "https://www.cosmeticdentistrycenternyc.com/"
@@ -8858,7 +8902,7 @@
       "addr:state": "NJ",
       "addr:street": "Engle Street",
       "amenity": "dentist",
-      "description": "At East Madison Dental \u2013 Englewood, we provide complete, family-friendly dental care with a focus on comfort and quality. Our multi-specialty team offers a full range of services including Preventive Dentistry, Restorative Dentistry, Dental Implants, All-",
+      "description": "At East Madison Dental – Englewood, we provide complete, family-friendly dental care with a focus on comfort and quality. Our multi-specialty team offers a full range of services including Preventive Dentistry, Restorative Dentistry, Dental Implants, All-",
       "email": "eastmadisonenglewood@gmail.com",
       "healthcare": "dentist",
       "healthcare:speciality": "dentist",
@@ -18220,7 +18264,7 @@
   },
   {
     "id": "osm_node_11211174954",
-    "name": "Dr. Fern\u00e1ndez Dental Office",
+    "name": "Dr. Fernández Dental Office",
     "address": "1640 Madison Street, Ridgewood, NY, 11385",
     "location": {
       "lat": 40.6994862,
@@ -18255,7 +18299,7 @@
       "addr:state": "NY",
       "addr:street": "Madison Street",
       "amenity": "dentist",
-      "name": "Dr. Fern\u00e1ndez Dental Office",
+      "name": "Dr. Fernández Dental Office",
       "payment:american_express": "yes",
       "payment:discover_card": "yes",
       "payment:mastercard": "yes",
@@ -20677,7 +20721,7 @@
   },
   {
     "id": "osm_way_703413209",
-    "name": "David J. D\u2019Apolito, D.M.D.",
+    "name": "David J. D’Apolito, D.M.D.",
     "address": "511 Rahway Avenue, Woodbridge, NJ, 07095",
     "location": {
       "lat": 40.5589931,
@@ -20716,7 +20760,7 @@
       "amenity": "dentist",
       "building": "yes",
       "healthcare": "dentist",
-      "name": "David J. D\u2019Apolito, D.M.D."
+      "name": "David J. D’Apolito, D.M.D."
     },
     "sources": [
       "osm"
