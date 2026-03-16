@@ -19,17 +19,44 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "09:00-18:00",
-      "Tuesday": "09:00-18:00",
-      "Wednesday": "09:00-18:00",
-      "Thursday": "09:00-18:00",
-      "Friday": "09:00-18:00"
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "09:00-17:00",
+      "Sunday": "09:00-17:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Partition Actions",
+        "Real Estate Law",
+        "Partnership Disputes",
+        "Civil Litigation"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 15,
+      "notable_cases": [
+        "Multi-million dollar partition actions"
+      ],
+      "awards": [
+        "Super Lawyers",
+        "AVVO Clients Choice",
+        "Million Dollar Advocates Forum"
+      ],
+      "education": [
+        "California Western School of Law",
+        "Stanford University",
+        "University of San Diego School of Law"
+      ]
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -87,9 +114,28 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Foreclosure",
+        "Real Estate Litigation",
+        "Commercial Real Estate",
+        "Neighbor Disputes",
+        "Property Disputes",
+        "HOA Disputes"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "California"
+      ],
+      "free_consultation": true,
+      "years_experience": 40,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -146,9 +192,21 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Criminal Defense"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 58,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -204,9 +262,26 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Employment Discrimination",
+        "Sexual Harassment",
+        "Civil Rights",
+        "Workplace Discrimination"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "California"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -263,9 +338,24 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accident",
+        "Personal Injury"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "California"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -323,9 +413,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 53,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -372,9 +472,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -513,9 +623,30 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Workers' Compensation",
+        "SIBTF"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [
+        "$3,000,000 hotel worker assault",
+        "$1,900,000 chef door injury"
+      ],
+      "awards": [
+        "AVVO 5 Star Rating"
+      ],
+      "education": []
+    },
+    "profile_completeness": 46,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",

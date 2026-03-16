@@ -21,18 +21,44 @@
     ],
     "hours": {
       "Monday": "09:00-17:00",
-      "Tuesday": "07:30-15:00",
+      "Tuesday": "08:00-17:00",
       "Wednesday": "08:00-17:00",
-      "Thursday": "07:00-15:00",
-      "Friday": "open \"by appointment only\"",
-      "Saturday": "off",
-      "Sunday": "off"
+      "Thursday": "07:00-15:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General dentistry",
+        "Teeth whitening",
+        "Cosmetic dentistry",
+        "Emergency dentistry"
+      ],
+      "insurance_accepted": null,
+      "procedures": [
+        "General dentistry",
+        "Teeth whitening",
+        "Cosmetic dentistry",
+        "Emergency dental care"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": true,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": {
+        "Monday": "09:00-17:00",
+        "Tuesday": "08:00-17:00",
+        "Wednesday": "08:00-17:00",
+        "Thursday": "07:00-15:00"
+      }
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -85,19 +111,67 @@
       "paediatrics;orthodontics"
     ],
     "hours": {
-      "Monday": "08:00-17:00 open,  12:00-13:00 off \"Lunch\"",
-      "Tuesday": "08:00-17:00 open,  12:00-13:00 off \"Lunch\"",
-      "Wednesday": "08:00-17:00 open,  12:00-13:00 off \"Lunch\"",
-      "Thursday": "08:00-17:00 open,  12:00-13:00 off \"Lunch\"",
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
       "Friday": "08:00-14:00",
-      "Saturday": "open \"By appointment only\"",
-      "Sunday": "off"
+      "Sunday": "Closed"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Pediatric Dentistry",
+        "Comprehensive Kids Care",
+        "Sedation Dentistry",
+        "Tongue Tie & Lip Tie Release",
+        "Early Orthodontic Treatment",
+        "Pediatric Emergency Care",
+        "Special Needs Dentistry"
+      ],
+      "insurance_accepted": [
+        "Cigna",
+        "MetLife",
+        "Delta Dental",
+        "Aetna",
+        "Guardian",
+        "BlueCross BlueShield",
+        "United Health Care",
+        "Principal",
+        "Boon Chapman",
+        "Most PPO plans"
+      ],
+      "procedures": [
+        "Dental checkups",
+        "Cavity treatment",
+        "Tongue and lip tie release",
+        "Space maintainers",
+        "Crossbite correction",
+        "Arch expansion",
+        "Emergency dental treatment"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "emergency": true,
+      "free_consultation": null,
+      "payment_plans": true,
+      "technology": null,
+      "year_established": null,
+      "team_size": 3,
+      "opening_hours": {
+        "Monday": "08:00-17:00",
+        "Tuesday": "08:00-17:00",
+        "Wednesday": "08:00-17:00",
+        "Thursday": "08:00-17:00",
+        "Friday": "08:00-14:00",
+        "Sunday": "Closed"
+      }
+    },
+    "profile_completeness": 77,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -146,17 +220,68 @@
     "hours": {
       "Monday": "09:00-17:00",
       "Tuesday": "09:00-17:00",
+      "Wednesday": "10:00-19:00",
       "Thursday": "09:00-17:00",
       "Friday": "09:00-17:00",
-      "Wednesday": "10:00-17:00",
-      "Saturday": "09:00-15:00",
-      "Sunday": "off"
+      "Saturday": "09:00-15:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Preventive Dentistry",
+        "Restorative Dentistry",
+        "Dental Implants",
+        "Cosmetic Dentistry",
+        "Emergency Dentistry",
+        "Periodontal Therapy",
+        "TMJ/TMD Therapy"
+      ],
+      "insurance_accepted": [
+        "Cigna",
+        "Aetna",
+        "All PPO plans"
+      ],
+      "procedures": [
+        "Dental Checkups and Cleanings",
+        "Children's Dentistry",
+        "Custom Mouthguard",
+        "Dental Sealants",
+        "Full & Partial Dentures",
+        "Tooth-Colored Fillings",
+        "Traditional Crown & Bridge",
+        "Tooth Extractions",
+        "Full Mouth Reconstruction",
+        "Root Canal Therapy",
+        "Implant Dentures",
+        "Porcelain Veneers",
+        "Invisalign",
+        "Teeth Whitening",
+        "Dental Bonding",
+        "K\u00f6R\u00ae Teeth Whitening"
+      ],
+      "languages": [
+        "English",
+        "Spanish",
+        "Vietnamese"
+      ],
+      "emergency": true,
+      "free_consultation": null,
+      "payment_plans": true,
+      "technology": "All-digital offices, state-of-the-art treatment rooms",
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": {
+        "Monday": "09:00-17:00",
+        "Tuesday": "09:00-17:00",
+        "Wednesday": "10:00-19:00",
+        "Thursday": "09:00-17:00",
+        "Friday": "09:00-17:00",
+        "Saturday": "09:00-15:00"
+      }
+    },
+    "profile_completeness": 77,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -203,16 +328,73 @@
       "dentist"
     ],
     "hours": {
-      "Monday": "08:00-17:00",
-      "Tuesday": "08:00-17:00",
-      "Wednesday": "08:00-17:00",
-      "Thursday": "08:00-17:00"
+      "Monday": "08:00-16:00",
+      "Tuesday": "08:00-16:00",
+      "Wednesday": "08:00-16:00",
+      "Thursday": "08:00-16:00",
+      "Friday": "Closed",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General Dentistry",
+        "Restorative Dentistry",
+        "Cosmetic Dentistry",
+        "Dental Implants",
+        "Orthodontics",
+        "Periodontics",
+        "Sleep Apnea Treatment",
+        "Pediatric Sleep Apnea",
+        "TMJ/TMD",
+        "Therapeutic Services"
+      ],
+      "insurance_accepted": "All major insurance providers",
+      "procedures": [
+        "Oral hygiene",
+        "Tooth-colored fillings",
+        "Oral cancer screenings",
+        "Extractions",
+        "Emergency dentistry",
+        "Crowns",
+        "Bridges",
+        "Dentures",
+        "Full mouth reconstruction",
+        "Teeth whitening",
+        "Veneers",
+        "Bonding",
+        "LANAP laser treatment",
+        "Chao Pinhole gum rejuvenation",
+        "Invisalign",
+        "Custom oral appliances for sleep apnea",
+        "Botox"
+      ],
+      "languages": null,
+      "emergency": true,
+      "free_consultation": null,
+      "payment_plans": true,
+      "technology": [
+        "LANAP laser",
+        "Chao Pinhole technology",
+        "Custom oral appliances",
+        "Digital imaging"
+      ],
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": {
+        "Monday": "08:00-16:00",
+        "Tuesday": "08:00-16:00",
+        "Wednesday": "08:00-16:00",
+        "Thursday": "08:00-16:00",
+        "Friday": "Closed",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      }
+    },
+    "profile_completeness": 72,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -265,14 +447,64 @@
       "Tuesday": "09:00-17:00",
       "Wednesday": "09:00-17:00",
       "Thursday": "09:00-17:00",
-      "Friday": "09:00-18:00",
-      "Saturday": "09:00-16:00"
+      "Friday": "09:00-17:00",
+      "Saturday": "09:00-17:00",
+      "Sunday": "Closed"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General Dentistry",
+        "Oral Surgery",
+        "Cosmetic Dentistry",
+        "Laser Dentistry",
+        "Sleep Apnea Treatment"
+      ],
+      "insurance_accepted": null,
+      "procedures": [
+        "Exams & Cleanings",
+        "Dental Implants",
+        "All-on-4/All-on-6 Implants",
+        "Root Canal Therapy",
+        "Tooth Extractions",
+        "Dental Crowns",
+        "Dental Bridges",
+        "Invisalign",
+        "Porcelain Veneers",
+        "Teeth Whitening",
+        "Sinus Lift",
+        "Bone Graft",
+        "Crown Lengthening",
+        "Gingivectomy",
+        "Frenectomies"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "emergency": true,
+      "free_consultation": null,
+      "payment_plans": true,
+      "technology": [
+        "Laser Dentistry (Solea)",
+        "CBCT Scanners",
+        "Digital X-rays",
+        "Digital Imaging"
+      ],
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": {
+        "Tuesday": "09:00-17:00",
+        "Wednesday": "09:00-17:00",
+        "Thursday": "09:00-17:00",
+        "Friday": "09:00-17:00",
+        "Saturday": "09:00-17:00",
+        "Sunday": "Closed"
+      }
+    },
+    "profile_completeness": 72,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -327,9 +559,21 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": null,
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -395,9 +639,21 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": null,
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -441,15 +697,47 @@
       "dentist"
     ],
     "hours": {
-      "Tuesday": "10:00-18:00",
+      "Tuesday": "07:30-17:00",
       "Wednesday": "08:00-17:00",
-      "Thursday": "08:00-17:00",
-      "Friday": "08:00-15:00"
+      "Thursday": "07:30-17:00",
+      "Friday": "08:00-15:00",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Pediatric dentistry",
+        "Infants through adolescence",
+        "Special health care needs"
+      ],
+      "insurance_accepted": null,
+      "procedures": [
+        "Preventative dentistry",
+        "Emergency dental care",
+        "Cavities and fillings",
+        "Oral health exams",
+        "Restorative dentistry",
+        "Sedation dentistry"
+      ],
+      "languages": null,
+      "emergency": true,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": "State-of-the-art pediatric dental care",
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": {
+        "Tuesday": "07:30-17:00",
+        "Wednesday": "08:00-17:00",
+        "Thursday": "07:30-17:00",
+        "Friday": "08:00-15:00",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      }
+    },
     "profile_completeness": 65,
     "claimed": false,
     "source": "osm",
@@ -500,14 +788,58 @@
       "Monday": "12:00-20:00",
       "Tuesday": "08:00-17:30",
       "Wednesday": "08:00-17:30",
-      "Thursday": "07:00-17:00",
-      "Friday": "07:00-14:00"
+      "Thursday": "07:00-15:00",
+      "Friday": "08:00-12:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Family Dentistry",
+        "Cosmetic Dentistry",
+        "Restorative Dentistry",
+        "Comprehensive Dentistry",
+        "Orthodontics",
+        "Implant Restorations"
+      ],
+      "insurance_accepted": null,
+      "procedures": [
+        "Dental Bonding",
+        "Teeth Whitening",
+        "Invisalign",
+        "Dental Implant Restorations",
+        "Dental Crowns and Bridges",
+        "Dental Fillings",
+        "Dental Sealants",
+        "Dental Exams",
+        "Dental Extractions",
+        "TMJ Treatment",
+        "Emergency Dentistry"
+      ],
+      "languages": [
+        "English",
+        "Spanish",
+        "French"
+      ],
+      "emergency": true,
+      "free_consultation": null,
+      "payment_plans": true,
+      "technology": [
+        "Digital X-rays",
+        "iTero Digital Scanner"
+      ],
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": {
+        "Monday": "12:00-20:00",
+        "Tuesday": "08:00-17:30",
+        "Wednesday": "08:00-17:30",
+        "Thursday": "07:00-15:00",
+        "Friday": "08:00-12:00"
+      }
+    },
+    "profile_completeness": 72,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -563,13 +895,50 @@
       "Tuesday": "08:00-17:00",
       "Wednesday": "08:00-17:00",
       "Thursday": "08:00-17:00",
-      "Friday": "08:00-17:00"
+      "Friday": "08:00-12:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Periodontics",
+        "Dental Implants",
+        "Implantology"
+      ],
+      "insurance_accepted": [
+        "Cigna"
+      ],
+      "procedures": [
+        "Periodontal Treatment",
+        "Dental Implants",
+        "Gum Grafting",
+        "LANAP Laser Periodontal Treatment",
+        "Gummy Smile Treatment",
+        "Short Teeth Treatment",
+        "Emergency Dentistry"
+      ],
+      "languages": null,
+      "emergency": true,
+      "free_consultation": null,
+      "payment_plans": true,
+      "technology": [
+        "Cone Beam CT Imaging",
+        "Digital Impressions",
+        "Digital X-Rays",
+        "LANAP Laser Technology"
+      ],
+      "year_established": null,
+      "team_size": 3,
+      "opening_hours": {
+        "Monday": "08:00-17:00",
+        "Tuesday": "08:00-17:00",
+        "Wednesday": "08:00-17:00",
+        "Thursday": "08:00-17:00",
+        "Friday": "08:00-12:00"
+      }
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -628,9 +997,21 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": null,
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -678,18 +1059,60 @@
       "general_dentistry;orthodontics;pediatric_dentistry;restorative_dentistry"
     ],
     "hours": {
-      "Monday": "07:00-19:00",
-      "Tuesday": "07:00-19:00",
-      "Wednesday": "07:00-19:00",
-      "Thursday": "07:00-19:00",
-      "Friday": "07:00-19:00",
-      "Saturday": "07:00-16:00"
+      "Monday": "08:30-17:00",
+      "Tuesday": "08:30-17:00",
+      "Wednesday": "08:30-17:00",
+      "Thursday": "08:30-17:00",
+      "Saturday": "08:00-14:00",
+      "Sunday": "Closed"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Dental Implants",
+        "Cosmetic Dentistry",
+        "Family Dentistry",
+        "Emergency Dentistry",
+        "Periodontics",
+        "General Dentistry",
+        "Invisalign",
+        "Teeth Whitening"
+      ],
+      "insurance_accepted": null,
+      "procedures": [
+        "Dental Implant Surgery",
+        "Full Mouth Dental Implants",
+        "Porcelain Veneers",
+        "Dental Crowns",
+        "Root Canals",
+        "Dentures",
+        "Gum Disease Treatment",
+        "Laser Gum Surgery",
+        "Teeth Whitening",
+        "Smile Makeover"
+      ],
+      "languages": null,
+      "emergency": true,
+      "free_consultation": null,
+      "payment_plans": true,
+      "technology": [
+        "Advanced Dental Technology",
+        "Digital imaging"
+      ],
+      "year_established": null,
+      "team_size": 4,
+      "opening_hours": {
+        "Monday": "08:30-17:00",
+        "Tuesday": "08:30-17:00",
+        "Wednesday": "08:30-17:00",
+        "Thursday": "08:30-17:00",
+        "Saturday": "08:00-14:00",
+        "Sunday": "Closed"
+      }
+    },
+    "profile_completeness": 70,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -737,13 +1160,55 @@
       "dentist"
     ],
     "hours": {
-      "Monday": "07:00-19:00,  Tu-Th 07:00-15:30,  Sa 08:00-14:00"
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-14:00",
+      "Saturday": "09:00-14:00",
+      "Sunday": "Closed"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Cosmetic dentistry",
+        "General and family dentistry",
+        "Restorative dentistry"
+      ],
+      "insurance_accepted": null,
+      "procedures": [
+        "Dental bonding",
+        "Dental veneers",
+        "Teeth whitening",
+        "Dental crowns",
+        "Dental implant restorations",
+        "Dentures",
+        "Invisalign"
+      ],
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": true,
+      "technology": [
+        "Intraoral cameras",
+        "Digital X-rays",
+        "Computerized office"
+      ],
+      "year_established": 2008,
+      "team_size": null,
+      "opening_hours": {
+        "Monday": "09:00-17:00",
+        "Tuesday": "09:00-17:00",
+        "Wednesday": "09:00-17:00",
+        "Thursday": "09:00-17:00",
+        "Friday": "09:00-14:00",
+        "Saturday": "09:00-14:00",
+        "Sunday": "Closed"
+      }
+    },
+    "profile_completeness": 68,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -799,9 +1264,36 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Cosmetic dentistry",
+        "General and family dentistry",
+        "Restorative dentistry"
+      ],
+      "insurance_accepted": null,
+      "procedures": [
+        "Dental bonding",
+        "Dental veneers",
+        "Teeth whitening",
+        "Dental crowns",
+        "Dental implant restorations",
+        "Dentures",
+        "Invisalign"
+      ],
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": true,
+      "technology": [
+        "Intraoral cameras",
+        "Digital X-rays"
+      ],
+      "year_established": 2008,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 68,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -856,9 +1348,41 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Orthodontics",
+        "Invisalign",
+        "Braces",
+        "Early treatment (Kids)",
+        "Teen treatment",
+        "Adult treatment",
+        "Teeth whitening"
+      ],
+      "insurance_accepted": null,
+      "procedures": [
+        "Traditional braces",
+        "Self-ligating brackets",
+        "Clear braces",
+        "Invisalign clear aligners",
+        "Diode laser treatment"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "emergency": true,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": [
+        "Digital impression system",
+        "Diode laser treatment"
+      ],
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 74,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -914,9 +1438,38 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Cosmetic dentistry",
+        "Same-day dental veneers",
+        "Dental implants",
+        "Crowns and bridges",
+        "Diagnostics"
+      ],
+      "insurance_accepted": null,
+      "procedures": [
+        "Same-day veneers",
+        "Implants",
+        "Crowns & bridges",
+        "Virtual smile consultations",
+        "Bonding",
+        "Root canals"
+      ],
+      "languages": null,
+      "emergency": null,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": [
+        "Advanced dental technologies",
+        "In-house laboratory",
+        "AI Smile Generator"
+      ],
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -963,13 +1516,56 @@
       "Tuesday": "07:30-17:30",
       "Wednesday": "07:30-17:30",
       "Thursday": "07:30-17:30",
-      "Friday": "08:00-15:00"
+      "Friday": "07:30-17:30"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Orthodontics for children",
+        "Orthodontics for teens",
+        "Orthodontics for adults",
+        "Invisalign",
+        "Traditional braces",
+        "Clear braces",
+        "Quick braces",
+        "TMJ/TMD treatment",
+        "Sleep apnea treatment",
+        "Airway-focused orthodontics"
+      ],
+      "insurance_accepted": null,
+      "procedures": [
+        "Clinical examination",
+        "Braces placement",
+        "Invisalign treatment",
+        "Jaw expansion",
+        "Early orthodontic treatment",
+        "Retainer fitting"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "emergency": null,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": [
+        "3D imaging",
+        "OrthoCAD",
+        "Invisalign SmileView"
+      ],
+      "year_established": 2009,
+      "team_size": 12,
+      "opening_hours": {
+        "Monday": "07:30-17:30",
+        "Tuesday": "07:30-17:30",
+        "Wednesday": "07:30-17:30",
+        "Thursday": "07:30-17:30",
+        "Friday": "07:30-17:30"
+      }
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1021,9 +1617,21 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": null,
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1077,9 +1685,21 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": null,
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1139,9 +1759,21 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": null,
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1197,9 +1829,27 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": "Cosmetic and plastic surgery, maxillofacial surgery",
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": "State-of-the-art, accredited surgical facility",
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": {
+        "Monday": "09:00-17:00",
+        "Tuesday": "09:00-17:00",
+        "Wednesday": "09:00-17:00",
+        "Thursday": "09:00-17:00",
+        "Friday": "08:00-16:00"
+      }
+    },
+    "profile_completeness": 62,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1243,15 +1893,68 @@
       "dentist"
     ],
     "hours": {
-      "Monday": "08:30-17:00,  Fr 08:30-14:00",
-      "Tuesday": "08:30-17:00,  Fr 08:30-14:00",
-      "Wednesday": "08:30-17:00,  Fr 08:30-14:00"
+      "Monday": "08:30-17:00",
+      "Tuesday": "08:30-17:00",
+      "Wednesday": "08:30-17:00",
+      "Thursday": "By Appointment Only",
+      "Friday": "08:30-14:00",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General Dentistry",
+        "Restorative Dentistry",
+        "Cosmetic Dentistry",
+        "Orthodontics",
+        "Prosthodontics"
+      ],
+      "insurance_accepted": null,
+      "procedures": [
+        "Dental Exams & Cleanings",
+        "Emergency Dentistry",
+        "Wisdom Teeth Extractions",
+        "Dental Implants",
+        "Root Canal Therapy",
+        "Porcelain Crowns",
+        "Porcelain Veneers",
+        "Invisalign",
+        "Zoom! Teeth Whitening",
+        "Composite Fillings",
+        "Dental Sealants",
+        "Oral Cancer Screening",
+        "Sleep Apnea Treatment",
+        "TMJ Treatment",
+        "Bruxism Treatment"
+      ],
+      "languages": [
+        "English",
+        "Spanish",
+        "Chinese (Simplified)"
+      ],
+      "emergency": true,
+      "free_consultation": null,
+      "payment_plans": true,
+      "technology": [
+        "Digital imaging",
+        "Intraoral cameras"
+      ],
+      "year_established": 2006,
+      "team_size": null,
+      "opening_hours": {
+        "Monday": "08:30-17:00",
+        "Tuesday": "08:30-17:00",
+        "Wednesday": "08:30-17:00",
+        "Thursday": "By Appointment Only",
+        "Friday": "08:30-14:00",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      }
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1295,19 +1998,43 @@
       "orthodontics"
     ],
     "hours": {
-      "Monday": "09:00-18:00",
-      "Wednesday": "09:00-18:00",
-      "Thursday": "09:00-18:00",
-      "Saturday": "08:00-12:00",
-      "Sunday": "closed",
-      "Tuesday": "closed",
-      "Friday": "closed"
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-16:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Orthodontics",
+        "Braces",
+        "Invisalign"
+      ],
+      "insurance_accepted": null,
+      "procedures": [
+        "Braces",
+        "Invisalign",
+        "Emergency & Repairs"
+      ],
+      "languages": null,
+      "emergency": true,
+      "free_consultation": null,
+      "payment_plans": true,
+      "technology": null,
+      "year_established": 2018,
+      "team_size": null,
+      "opening_hours": {
+        "Monday": "08:00-17:00",
+        "Tuesday": "08:00-17:00",
+        "Wednesday": "08:00-17:00",
+        "Thursday": "08:00-17:00",
+        "Friday": "08:00-16:00"
+      }
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1360,9 +2087,21 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": null,
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1413,13 +2152,39 @@
       "Tuesday": "08:00-17:00",
       "Wednesday": "08:00-17:00",
       "Thursday": "08:00-17:00",
-      "Friday": "08:00-17:00"
+      "Friday": "08:00-16:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Orthodontics",
+        "Braces",
+        "Invisalign"
+      ],
+      "insurance_accepted": null,
+      "procedures": [
+        "Braces",
+        "Invisalign",
+        "Emergency & Repairs"
+      ],
+      "languages": null,
+      "emergency": true,
+      "free_consultation": null,
+      "payment_plans": true,
+      "technology": null,
+      "year_established": 2018,
+      "team_size": null,
+      "opening_hours": {
+        "Monday": "08:00-17:00",
+        "Tuesday": "08:00-17:00",
+        "Wednesday": "08:00-17:00",
+        "Thursday": "08:00-17:00",
+        "Friday": "08:00-16:00"
+      }
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1467,16 +2232,78 @@
     ],
     "hours": {
       "Monday": "08:00-17:00",
-      "Tuesday": "08:00-17:00",
-      "Wednesday": "08:00-17:00",
-      "Thursday": "08:00-17:00",
-      "Friday": "07:00-14:00"
+      "Tuesday": "07:00-17:00",
+      "Wednesday": "07:00-17:00",
+      "Thursday": "07:00-17:00",
+      "Friday": "07:00-14:00",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General Dentistry",
+        "Preventative & Oral Health",
+        "Periodontal Therapy",
+        "Restorative Dentistry",
+        "Cosmetic Dentistry",
+        "Oral Surgery",
+        "Emergency Dental Care"
+      ],
+      "insurance_accepted": [
+        "Delta",
+        "Cigna",
+        "UHC",
+        "MetLife",
+        "Aetna",
+        "DNOA",
+        "Guardian",
+        "Humana",
+        "UCCI",
+        "Unum",
+        "Careington",
+        "Assurant SunLife",
+        "BCBS",
+        "GEHA Connection",
+        "Aflac"
+      ],
+      "procedures": [
+        "Dental Cleanings & Checkups",
+        "Comprehensive Exams",
+        "Dental Imaging & X-rays",
+        "Root Canal Treatment",
+        "Crowns",
+        "Implants",
+        "Dentures",
+        "Invisalign Treatment",
+        "Teeth Whitening",
+        "Extractions",
+        "Wisdom Tooth Removal"
+      ],
+      "languages": null,
+      "emergency": true,
+      "free_consultation": null,
+      "payment_plans": true,
+      "technology": [
+        "Intraoral Camera",
+        "Dental Imaging & X-rays",
+        "Laser Assisted Periodontal Therapy"
+      ],
+      "year_established": 2021,
+      "team_size": null,
+      "opening_hours": {
+        "Monday": "08:00-17:00",
+        "Tuesday": "07:00-17:00",
+        "Wednesday": "07:00-17:00",
+        "Thursday": "07:00-17:00",
+        "Friday": "07:00-14:00",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      }
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1591,9 +2418,21 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 55,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": null,
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1699,9 +2538,21 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 55,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": null,
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1802,15 +2653,64 @@
     "hours": {
       "Monday": "09:00-17:00",
       "Tuesday": "09:00-17:00",
-      "Thursday": "09:00-17:00",
       "Wednesday": "10:00-18:00",
+      "Thursday": "09:00-17:00",
       "Friday": "08:00-16:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 55,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Dental exams and cleanings",
+        "Invisalign",
+        "Dental veneers",
+        "Dental implants",
+        "Root canals",
+        "Dental crowns",
+        "Teeth whitening",
+        "Dental inlays and onlays",
+        "Tooth extractions",
+        "Dental fillings",
+        "Fluoride treatment",
+        "Dental sealants",
+        "Gum treatments",
+        "Sleep apnea treatment",
+        "Halitosis treatment"
+      ],
+      "insurance_accepted": [
+        "PPO dental insurance",
+        "Texas Medicaid",
+        "CHIP"
+      ],
+      "procedures": [
+        "Single-tooth dental implants",
+        "All-on-4 dental implants",
+        "Full mouth dental implant smile makeover",
+        "Snap-on dentures",
+        "Porcelain veneers"
+      ],
+      "languages": [
+        "English",
+        "Spanish",
+        "Arabic",
+        "French"
+      ],
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": true,
+      "technology": "Advanced techniques and state-of-the-art dentistry",
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": {
+        "Monday": "09:00-17:00",
+        "Tuesday": "09:00-17:00",
+        "Wednesday": "10:00-18:00",
+        "Thursday": "09:00-17:00",
+        "Friday": "08:00-16:00"
+      }
+    },
+    "profile_completeness": 65,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1865,9 +2765,21 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 55,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": "Pediatric dentistry",
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 45,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1966,9 +2878,21 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": null,
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2014,9 +2938,26 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Dental Implants",
+        "General Dentistry",
+        "Cosmetic Dentistry",
+        "Orthodontics"
+      ],
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 45,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2064,12 +3005,59 @@
       "dentist",
       "dentist"
     ],
-    "hours": {},
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-13:00",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Pediatric dentistry",
+        "Special needs dentistry",
+        "Emergency pediatric dentistry",
+        "Preventive and diagnostic dentistry",
+        "Cosmetic dentistry",
+        "Restorative dentistry",
+        "Sedation dentistry"
+      ],
+      "insurance_accepted": "Cash, Credit Card",
+      "procedures": [
+        "Oral examinations",
+        "Dental cleanings",
+        "Teeth whitening",
+        "Cosmetic bonding",
+        "Cavity treatment",
+        "Restorative procedures",
+        "Sedation options (nitrous oxide to general anesthesia)"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "emergency": true,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": 2,
+      "opening_hours": {
+        "Monday": "08:00-17:00",
+        "Tuesday": "08:00-17:00",
+        "Wednesday": "08:00-17:00",
+        "Thursday": "08:00-17:00",
+        "Friday": "08:00-13:00",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      }
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2114,9 +3102,21 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": null,
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2160,12 +3160,43 @@
       "dentist",
       "dentist"
     ],
-    "hours": {},
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "10:00-17:00",
+      "Wednesday": "10:00-17:00",
+      "Thursday": "10:00-17:00",
+      "Friday": "09:00-16:00",
+      "Saturday": "09:00-15:00",
+      "Sunday": "Closed"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Comprehensive dental care",
+        "General dentistry"
+      ],
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": {
+        "Monday": "09:00-17:00",
+        "Tuesday": "10:00-17:00",
+        "Wednesday": "10:00-17:00",
+        "Thursday": "10:00-17:00",
+        "Friday": "09:00-16:00",
+        "Saturday": "09:00-15:00",
+        "Sunday": "Closed"
+      }
+    },
+    "profile_completeness": 55,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2214,9 +3245,21 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": null,
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2262,9 +3305,25 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": null,
+      "insurance_accepted": null,
+      "procedures": [
+        "Dental Implants",
+        "Crowns",
+        "Bridges"
+      ],
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 45,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2307,12 +3366,60 @@
       "dentist",
       "dentist"
     ],
-    "hours": {},
+    "hours": {
+      "Monday": "09:00-16:00",
+      "Tuesday": "08:30-16:00",
+      "Wednesday": "08:30-16:00",
+      "Thursday": "08:30-16:00",
+      "Friday": "09:00-13:00"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Cosmetic Dentistry",
+        "Restorative Dentistry",
+        "Dental Implants",
+        "Invisalign",
+        "Porcelain Veneers",
+        "Teeth Whitening",
+        "Holistic Dentistry"
+      ],
+      "insurance_accepted": [
+        "Delta Dental",
+        "Cigna",
+        "Aetna",
+        "MetLife",
+        "Most PPO Plans"
+      ],
+      "procedures": [
+        "Smile Makeovers",
+        "Dental Implants",
+        "Invisalign Clear Aligners",
+        "Teeth Whitening",
+        "Porcelain Veneers",
+        "General Family Checkups",
+        "Emergency Care",
+        "Root Canal Therapy",
+        "Crowns and Bridges"
+      ],
+      "languages": null,
+      "emergency": true,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": null,
+      "year_established": 1994,
+      "team_size": null,
+      "opening_hours": {
+        "Monday": "09:00-16:00",
+        "Tuesday": "08:30-16:00",
+        "Wednesday": "08:30-16:00",
+        "Thursday": "08:30-16:00",
+        "Friday": "09:00-13:00"
+      }
+    },
+    "profile_completeness": 74,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2366,9 +3473,21 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": null,
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2414,9 +3533,21 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": null,
+      "insurance_accepted": null,
+      "procedures": null,
+      "languages": null,
+      "emergency": null,
+      "free_consultation": null,
+      "payment_plans": null,
+      "technology": null,
+      "year_established": null,
+      "team_size": null,
+      "opening_hours": null
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",

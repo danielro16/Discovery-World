@@ -26,9 +26,26 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specializations": [
+        "hypnotherapy",
+        "clinical hypnosis"
+      ],
+      "therapy_types": [
+        "hypnotic psychotherapy"
+      ],
+      "insurance_accepted": null,
+      "languages": null,
+      "accepts_new_patients": true,
+      "teletherapy": true,
+      "sliding_scale": null,
+      "free_consultation": true,
+      "years_experience": null,
+      "education": null,
+      "license_type": "LCSW"
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -84,7 +101,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -146,9 +163,30 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specializations": null,
+      "therapy_types": [
+        "individual counseling",
+        "couples therapy",
+        "family therapy",
+        "group therapy",
+        "children's therapy"
+      ],
+      "insurance_accepted": null,
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "accepts_new_patients": true,
+      "teletherapy": true,
+      "sliding_scale": true,
+      "free_consultation": null,
+      "years_experience": null,
+      "education": null,
+      "license_type": null
+    },
+    "profile_completeness": 72,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -199,9 +237,33 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specializations": [
+        "autism spectrum disorder",
+        "behavioral challenges"
+      ],
+      "therapy_types": [
+        "ABA therapy",
+        "at-home ABA",
+        "autism evaluation support"
+      ],
+      "insurance_accepted": [
+        "Blue Cross Blue Shield",
+        "Anthem",
+        "Aetna",
+        "UnitedHealthcare"
+      ],
+      "languages": null,
+      "accepts_new_patients": true,
+      "teletherapy": null,
+      "sliding_scale": null,
+      "free_consultation": true,
+      "years_experience": null,
+      "education": "BCBA, RBT",
+      "license_type": "BCBA"
+    },
+    "profile_completeness": 77,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -250,9 +312,37 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "specializations": [
+        "anxiety disorders",
+        "bipolar disorder",
+        "borderline personality disorder",
+        "depression",
+        "PTSD",
+        "schizophrenia",
+        "substance use disorders",
+        "co-occurring disorders"
+      ],
+      "therapy_types": [
+        "inpatient psychiatric treatment",
+        "PHP",
+        "IOP",
+        "DBT",
+        "expressive therapy",
+        "telehealth"
+      ],
+      "insurance_accepted": null,
+      "languages": null,
+      "accepts_new_patients": true,
+      "teletherapy": true,
+      "sliding_scale": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "education": null,
+      "license_type": "Licensed psychiatric hospital"
+    },
+    "profile_completeness": 60,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -300,9 +390,42 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "specializations": [
+        "psychiatric treatment",
+        "addiction treatment",
+        "depression",
+        "anxiety",
+        "bipolar disorder",
+        "behavioral disorders",
+        "co-occurring disorders"
+      ],
+      "therapy_types": [
+        "individual therapy",
+        "group therapy",
+        "family therapy",
+        "medication management",
+        "holistic therapies"
+      ],
+      "insurance_accepted": [
+        "Aetna",
+        "Blue Cross Blue Shield",
+        "Cigna",
+        "Medicare",
+        "Tricare",
+        "United Healthcare"
+      ],
+      "languages": null,
+      "accepts_new_patients": true,
+      "teletherapy": true,
+      "sliding_scale": null,
+      "free_consultation": true,
+      "years_experience": null,
+      "education": null,
+      "license_type": "Inpatient psychiatric hospital"
+    },
+    "profile_completeness": 63,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",

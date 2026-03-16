@@ -28,9 +28,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -82,9 +92,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -133,9 +153,21 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 55,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -191,9 +223,24 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Immigration",
+        "Asylum",
+        "Green Cards",
+        "Naturalization"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 55,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -245,9 +292,46 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Immigration",
+        "Personal Injury",
+        "Workers' Compensation",
+        "Car Accidents",
+        "Truck Accidents",
+        "Slip & Fall",
+        "Asylum",
+        "Green Cards"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish",
+        "Portuguese"
+      ],
+      "bar_admissions": [
+        "Massachusetts"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 4,
+      "notable_cases": [
+        {
+          "type": "Personal Injury",
+          "amount": "$3,000,000"
+        },
+        {
+          "type": "Slip and Fall",
+          "amount": "$518,000"
+        }
+      ],
+      "awards": [
+        "WBA (Women's Bar Association)",
+        "Top 40"
+      ],
+      "education": null
+    },
+    "profile_completeness": 72,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -262,7 +346,7 @@
       "addr:unit": "3",
       "contact:facebook": "https://www.facebook.com/BrooksLawEnglish",
       "contact:instagram": "https://www.instagram.com/brookslawfirmpc/",
-      "description": "If you’ve been seriously hurt in an accident, you already have a lot on your mind. On top of the concerns about your physical recovery, you and your family may be struggling to make ends meet while you are out of work. You may already be facing a pile of",
+      "description": "If you\u2019ve been seriously hurt in an accident, you already have a lot on your mind. On top of the concerns about your physical recovery, you and your family may be struggling to make ends meet while you are out of work. You may already be facing a pile of",
       "name": "Brooks Law",
       "office": "lawyer",
       "opening_hours": "Mo-Fr 09:00-17:00",
@@ -301,9 +385,30 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Employment Discrimination",
+        "Sexual Harassment",
+        "Wrongful Termination",
+        "FMLA",
+        "Wage and Overtime",
+        "Non-Competes"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": 21,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "Super Lawyers Members",
+        "AV Preeminent Peer Rated",
+        "America's Top 100 Attorneys"
+      ],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -356,9 +461,33 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Bankruptcy",
+        "Chapter 7 Bankruptcy",
+        "Chapter 11 Bankruptcy",
+        "Chapter 13 Bankruptcy",
+        "Creditors' Rights"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Massachusetts"
+      ],
+      "free_consultation": true,
+      "years_experience": 34,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "AVVO - Clients' Choice Award",
+        "Super Lawyers"
+      ],
+      "education": [
+        "New England School of Law",
+        "Boston University School of Law (LL.M.)"
+      ]
+    },
+    "profile_completeness": 70,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -412,9 +541,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -470,9 +609,25 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Regulatory",
+        "Transactions",
+        "Litigation"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "Best Lawyers Lawyer of the Year"
+      ],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -531,9 +686,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -587,9 +752,52 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Truck Accidents",
+        "Motorcycle Accidents",
+        "Slip and Fall",
+        "Workers' Compensation",
+        "Medical Malpractice",
+        "Product Liability",
+        "Wrongful Death"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish",
+        "Portuguese"
+      ],
+      "bar_admissions": [
+        "Massachusetts"
+      ],
+      "free_consultation": true,
+      "years_experience": 30,
+      "team_size": 21,
+      "notable_cases": [
+        {
+          "type": "Defective Mesh",
+          "amount": "$20+ Million"
+        },
+        {
+          "type": "Medical Malpractice",
+          "amount": "$9.02 Million"
+        },
+        {
+          "type": "Pedestrian Car Accident",
+          "amount": "$9 Million"
+        }
+      ],
+      "awards": [
+        "Super Lawyers",
+        "Top 100 Trial Lawyers",
+        "Million Dollar Advocates Forum",
+        "Best of Boston"
+      ],
+      "education": []
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -641,9 +849,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -689,9 +907,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -735,9 +963,26 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Business & Civil Litigation",
+        "Real Estate",
+        "Fee Collections",
+        "Criminal Defense"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 2,
+      "notable_cases": [],
+      "awards": [
+        "Reader's Choice 2017"
+      ],
+      "education": []
+    },
+    "profile_completeness": 54,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -774,12 +1019,35 @@
     "types": [
       "lawyer"
     ],
-    "hours": {},
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Residential Real Estate Transactions",
+        "Title Examination & Insurance",
+        "Contract Review & Negotiation",
+        "Refinancing Services"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Massachusetts"
+      ],
+      "free_consultation": true,
+      "years_experience": 15,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -820,9 +1088,29 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Professional Misconduct",
+        "Therapist Abuse",
+        "Clergy Abuse",
+        "Breach of Fiduciary Duty",
+        "Child Abuse"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": 31,
+      "team_size": 2,
+      "notable_cases": [],
+      "awards": [
+        "Million Dollar Award",
+        "AV Peer Review Rated",
+        "Super Lawyer"
+      ],
+      "education": []
+    },
+    "profile_completeness": 57,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -866,9 +1154,26 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Immigration",
+        "Criminal Defense",
+        "Personal Injury"
+      ],
+      "languages_spoken": [
+        "English",
+        "Russian"
+      ],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 53,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -912,9 +1217,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -955,12 +1270,52 @@
     "types": [
       "lawyer"
     ],
-    "hours": {},
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accidents",
+        "Motorcycle Accidents",
+        "Truck Accidents",
+        "Dog Bite",
+        "Slip & Fall",
+        "Wrongful Death"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Massachusetts",
+        "New Hampshire"
+      ],
+      "free_consultation": true,
+      "years_experience": 50,
+      "team_size": null,
+      "notable_cases": [
+        {
+          "type": "Severe Burns",
+          "amount": "$4.4 Million"
+        },
+        {
+          "type": "Brain Injury",
+          "amount": "$2.6 Million"
+        }
+      ],
+      "awards": [
+        "Super Lawyers",
+        "American Association for Justice",
+        "BBB A+ Rating"
+      ],
+      "education": []
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1005,9 +1360,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1051,9 +1416,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1097,9 +1472,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1145,9 +1530,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1191,9 +1586,26 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Insurance Litigation",
+        "Commercial Litigation",
+        "Healthcare",
+        "Employment",
+        "Transportation",
+        "Workers' Compensation"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 45,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1238,9 +1650,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1286,9 +1708,32 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Employment Discrimination",
+        "Wage and Hour Law",
+        "Wrongful Termination",
+        "Sexual Harassment",
+        "Non-Compete Agreements",
+        "Class Actions"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 4,
+      "notable_cases": [
+        "Wal-Mart class action - $40,000,000 settlement"
+      ],
+      "awards": [
+        "Best Lawyers",
+        "Super Lawyers Top 100",
+        "Boston Top Lawyers 2021"
+      ],
+      "education": []
+    },
+    "profile_completeness": 54,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1332,9 +1777,46 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Family Immigration",
+        "Employment-Based Immigration",
+        "Green Cards",
+        "Deportation Defense",
+        "Asylum",
+        "DACA",
+        "Work Visas"
+      ],
+      "languages_spoken": [
+        "English",
+        "Italian",
+        "Spanish",
+        "French",
+        "Portuguese",
+        "Arabic",
+        "Mandarin",
+        "Hindi"
+      ],
+      "bar_admissions": [
+        "Massachusetts"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 3,
+      "notable_cases": [],
+      "awards": [
+        "Elite Lawyer Immigration 2022",
+        "Super Lawyers 2018",
+        "Top 100 Immigration Attorneys in the US"
+      ],
+      "education": [
+        "Harvard University",
+        "Boston University",
+        "Northeastern University"
+      ]
+    },
+    "profile_completeness": 65,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1378,9 +1860,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1424,9 +1916,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 30,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1605,9 +2107,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 30,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1645,9 +2157,32 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Intellectual Property Litigation",
+        "Corporate and Securities Litigation",
+        "Bankruptcy and Financial Restructuring",
+        "Environmental Law",
+        "Labor and Employment",
+        "Real Estate",
+        "Tax"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": 250,
+      "notable_cases": [],
+      "awards": [
+        "Top Women-Led Business in Massachusetts (The Commonwealth Institute, 2013\u20132025)",
+        "Massachusetts Powerhouse (Law360, 2019, 2021, 2022, 2025)",
+        "Top Place to Work (The Boston Globe, 8 consecutive years)",
+        "Chambers USA Band 1 ranking for Intellectual Property Practice (18 years)"
+      ],
+      "education": []
+    },
+    "profile_completeness": 41,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1687,9 +2222,23 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Criminal Defense"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Massachusetts"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 41,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1779,9 +2328,21 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 38,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1824,9 +2385,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 30,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1868,9 +2439,24 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Real Estate - Buyers",
+        "Real Estate - Sellers",
+        "Real Estate - Commercial",
+        "Real Estate - Investors"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 38,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",

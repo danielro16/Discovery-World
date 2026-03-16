@@ -195,9 +195,44 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Classic",
+        "Black Card"
+      ],
+      "price_range": "$10-$25/month",
+      "classes_offered": [
+        "PE@PF (group fitness classes)"
+      ],
+      "amenities": [
+        "Cardio Equipment",
+        "Strength Equipment",
+        "HydroMassage",
+        "Tanning",
+        "Black Card Spa",
+        "Free Wi-Fi",
+        "Locker Rooms"
+      ],
+      "personal_training": false,
+      "group_classes": true,
+      "free_trial": false,
+      "open_24h": false,
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "opening_hours": {
+        "Monday": "05:00-23:00",
+        "Tuesday": "05:00-23:00",
+        "Wednesday": "05:00-23:00",
+        "Thursday": "05:00-23:00",
+        "Friday": "05:00-21:00",
+        "Saturday": "07:00-19:00",
+        "Sunday": "07:00-19:00"
+      }
+    },
+    "profile_completeness": 80,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -308,9 +343,58 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Diamond",
+        "Onyx",
+        "Day Pass",
+        "Digital Membership"
+      ],
+      "price_range": "$199+/month",
+      "classes_offered": [
+        "Signature Group Training",
+        "Cycle",
+        "Yoga",
+        "Pilates",
+        "Strength",
+        "Cardio",
+        "Barre",
+        "Dance",
+        "ARORA Classes"
+      ],
+      "amenities": [
+        "Pool",
+        "Sauna",
+        "Steam rooms",
+        "Cold plunge",
+        "Spa",
+        "Pickleball courts",
+        "Basketball courts",
+        "Dining",
+        "Kids Academy",
+        "Work lounge",
+        "Locker rooms",
+        "Chiropractic services"
+      ],
+      "personal_training": true,
+      "group_classes": true,
+      "free_trial": false,
+      "open_24h": false,
+      "languages_spoken": [
+        "English"
+      ],
+      "opening_hours": {
+        "Monday": "04:00-00:00",
+        "Tuesday": "04:00-00:00",
+        "Wednesday": "04:00-00:00",
+        "Thursday": "04:00-00:00",
+        "Friday": "04:00-00:00",
+        "Saturday": "05:00-23:00",
+        "Sunday": "05:00-23:00"
+      }
+    },
+    "profile_completeness": 80,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -366,9 +450,45 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Premier Plus",
+        "Premier",
+        "Elite",
+        "Basic",
+        "Class Packs"
+      ],
+      "price_range": "$79-$179/month",
+      "classes_offered": [
+        "Coach-led full-body workouts",
+        "Heart rate zone training",
+        "Strength training",
+        "HIIT"
+      ],
+      "amenities": [
+        "Real-time performance tracking",
+        "OTbeat Heart Rate Monitor",
+        "Full-body workout equipment"
+      ],
+      "personal_training": false,
+      "group_classes": true,
+      "free_trial": true,
+      "open_24h": false,
+      "languages_spoken": [
+        "English"
+      ],
+      "opening_hours": {
+        "Monday": "05:00-18:45",
+        "Tuesday": "05:00-18:45",
+        "Wednesday": "05:00-18:45",
+        "Thursday": "05:00-18:45",
+        "Friday": "05:00-18:45",
+        "Saturday": "06:15-12:45",
+        "Sunday": "06:15-12:45"
+      }
+    },
+    "profile_completeness": 80,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -482,9 +602,30 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [],
+      "price_range": null,
+      "classes_offered": [
+        "Practitioner-Assisted Stretching"
+      ],
+      "amenities": [],
+      "personal_training": false,
+      "group_classes": false,
+      "free_trial": true,
+      "open_24h": false,
+      "languages_spoken": [],
+      "opening_hours": {
+        "Monday": "08:00-19:00",
+        "Tuesday": "08:00-19:00",
+        "Wednesday": "08:00-19:00",
+        "Thursday": "08:00-19:00",
+        "Friday": "08:00-19:00",
+        "Saturday": "08:00-16:00",
+        "Sunday": "Closed"
+      }
+    },
+    "profile_completeness": 73,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -598,9 +739,58 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Diamond",
+        "Onyx",
+        "Day Pass",
+        "Digital Membership"
+      ],
+      "price_range": "$199+/month",
+      "classes_offered": [
+        "Signature Group Training",
+        "Cycle",
+        "Yoga",
+        "Pilates",
+        "Strength",
+        "Cardio",
+        "Barre",
+        "Dance",
+        "ARORA Classes"
+      ],
+      "amenities": [
+        "Pool",
+        "Sauna",
+        "Steam rooms",
+        "Cold plunge",
+        "Spa",
+        "Pickleball courts",
+        "Basketball courts",
+        "Dining",
+        "Kids Academy",
+        "Work lounge",
+        "Locker rooms",
+        "Chiropractic services"
+      ],
+      "personal_training": true,
+      "group_classes": true,
+      "free_trial": false,
+      "open_24h": false,
+      "languages_spoken": [
+        "English"
+      ],
+      "opening_hours": {
+        "Monday": "04:00-00:00",
+        "Tuesday": "04:00-00:00",
+        "Wednesday": "04:00-00:00",
+        "Thursday": "04:00-00:00",
+        "Friday": "04:00-00:00",
+        "Saturday": "05:00-23:00",
+        "Sunday": "05:00-23:00"
+      }
+    },
+    "profile_completeness": 80,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -655,9 +845,42 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Daily passes",
+        "10-visit passes",
+        "20-visit passes",
+        "Memberships"
+      ],
+      "price_range": null,
+      "classes_offered": [
+        "Group Fitness Classes",
+        "Aqua Aerobics"
+      ],
+      "amenities": [
+        "Indoor Pool",
+        "Gymnasium",
+        "Weight Room",
+        "Cardio equipment",
+        "Child Care"
+      ],
+      "personal_training": false,
+      "group_classes": true,
+      "free_trial": false,
+      "open_24h": false,
+      "languages_spoken": [],
+      "opening_hours": {
+        "Monday": "05:00-22:00",
+        "Tuesday": "05:00-22:00",
+        "Wednesday": "05:00-22:00",
+        "Thursday": "05:00-22:00",
+        "Friday": "05:00-22:00",
+        "Saturday": "07:00-17:00",
+        "Sunday": "07:00-17:00"
+      }
+    },
+    "profile_completeness": 77,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -835,9 +1058,28 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "One-On-One Stretches",
+        "Group Stretch Classes"
+      ],
+      "price_range": "$$",
+      "classes_offered": [
+        "One-on-One Stretching",
+        "Group Stretches",
+        "Normatec",
+        "Body Scan"
+      ],
+      "amenities": [],
+      "personal_training": false,
+      "group_classes": true,
+      "free_trial": true,
+      "open_24h": false,
+      "languages_spoken": [],
+      "opening_hours": {}
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -892,9 +1134,40 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Full Membership",
+        "Month to Month",
+        "Class Pack",
+        "Trial (3 Classes for $30)",
+        "Passport"
+      ],
+      "price_range": null,
+      "classes_offered": [
+        "Cardio",
+        "Resistance",
+        "Hybrid",
+        "Recovery",
+        "HYROX",
+        "PEAK500",
+        "LIONHEART"
+      ],
+      "amenities": [
+        "Group fitness classes",
+        "Recovery services",
+        "Functional training equipment"
+      ],
+      "personal_training": false,
+      "group_classes": true,
+      "free_trial": true,
+      "open_24h": false,
+      "languages_spoken": [
+        "English"
+      ],
+      "opening_hours": {}
+    },
+    "profile_completeness": 76,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -950,9 +1223,44 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Classic",
+        "Black Card"
+      ],
+      "price_range": "$10-$25/month",
+      "classes_offered": [
+        "PE@PF (group fitness classes)"
+      ],
+      "amenities": [
+        "Cardio Equipment",
+        "Strength Equipment",
+        "HydroMassage",
+        "Tanning",
+        "Black Card Spa",
+        "Free Wi-Fi",
+        "Locker Rooms"
+      ],
+      "personal_training": false,
+      "group_classes": true,
+      "free_trial": false,
+      "open_24h": false,
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "opening_hours": {
+        "Monday": "05:00-23:00",
+        "Tuesday": "05:00-23:00",
+        "Wednesday": "05:00-23:00",
+        "Thursday": "05:00-23:00",
+        "Friday": "05:00-21:00",
+        "Saturday": "07:00-19:00",
+        "Sunday": "07:00-19:00"
+      }
+    },
+    "profile_completeness": 80,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1006,9 +1314,51 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Standard Membership"
+      ],
+      "price_range": null,
+      "classes_offered": [
+        "Hot Iso",
+        "Hot Pilates",
+        "Hot Yoga",
+        "Hot Buns",
+        "Hot Barre None",
+        "Hot Core",
+        "Hot Warrior",
+        "Hot Bands",
+        "Hot Stretch",
+        "Hot Cycle",
+        "Hot Thunder",
+        "Hot Blast"
+      ],
+      "amenities": [
+        "Infrared sauna",
+        "Functional Exercise Zone",
+        "Resistance bands",
+        "Weights",
+        "Ropes"
+      ],
+      "personal_training": false,
+      "group_classes": true,
+      "free_trial": true,
+      "open_24h": true,
+      "languages_spoken": [
+        "English"
+      ],
+      "opening_hours": {
+        "Monday": "00:00-24:00",
+        "Tuesday": "00:00-24:00",
+        "Wednesday": "00:00-24:00",
+        "Thursday": "00:00-24:00",
+        "Friday": "00:00-24:00",
+        "Saturday": "00:00-24:00",
+        "Sunday": "00:00-24:00"
+      }
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1063,9 +1413,52 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Student membership",
+        "Individual membership",
+        "Family membership",
+        "Short-term membership"
+      ],
+      "price_range": "$106+/month",
+      "classes_offered": [
+        "Rope climbing",
+        "Bouldering",
+        "Yoga (Yin, Hatha, Vinyasa)",
+        "Fitness (Total Body Fitness, Strength, Core Fit, Conditioning)",
+        "Private coaching",
+        "Youth programs"
+      ],
+      "amenities": [
+        "Climbing walls (up to 45 ft)",
+        "Lead cave",
+        "Bouldering areas",
+        "Fitness space",
+        "Yoga studio",
+        "Locker rooms with showers",
+        "Gear shop",
+        "Community lounge",
+        "WiFi",
+        "Parking",
+        "ADA accessible"
+      ],
+      "personal_training": true,
+      "group_classes": true,
+      "free_trial": true,
+      "open_24h": false,
+      "languages_spoken": [],
+      "opening_hours": {
+        "Monday": "06:00-23:00",
+        "Tuesday": "06:00-23:00",
+        "Wednesday": "06:00-23:00",
+        "Thursday": "06:00-23:00",
+        "Friday": "06:00-23:00",
+        "Saturday": "08:00-20:00",
+        "Sunday": "08:00-18:00"
+      }
+    },
+    "profile_completeness": 79,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1279,9 +1672,44 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Classic",
+        "Black Card"
+      ],
+      "price_range": "$10-$25/month",
+      "classes_offered": [
+        "PE@PF (group fitness classes)"
+      ],
+      "amenities": [
+        "Cardio Equipment",
+        "Strength Equipment",
+        "HydroMassage",
+        "Tanning",
+        "Black Card Spa",
+        "Free Wi-Fi",
+        "Locker Rooms"
+      ],
+      "personal_training": false,
+      "group_classes": true,
+      "free_trial": false,
+      "open_24h": false,
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "opening_hours": {
+        "Monday": "05:00-23:00",
+        "Tuesday": "05:00-23:00",
+        "Wednesday": "05:00-23:00",
+        "Thursday": "05:00-23:00",
+        "Friday": "05:00-21:00",
+        "Saturday": "07:00-19:00",
+        "Sunday": "07:00-19:00"
+      }
+    },
+    "profile_completeness": 80,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1440,9 +1868,52 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Student memberships",
+        "Individual memberships",
+        "Family memberships",
+        "Short-term memberships",
+        "Trial membership"
+      ],
+      "price_range": "$106+/month",
+      "classes_offered": [
+        "Bouldering",
+        "Climbing Classes",
+        "Yoga (Yin, Hatha, Vinyasa)",
+        "Fitness (Total Body Circuit, Conditioning, Alpine Fit, Core Fit)",
+        "AcroYoga"
+      ],
+      "amenities": [
+        "Bouldering walls",
+        "Rope climbing",
+        "Yoga studio",
+        "Fitness area",
+        "Cardio equipment",
+        "Traverse wall",
+        "Locker rooms with showers",
+        "Gear shop",
+        "WiFi",
+        "Parking",
+        "ADA accessible"
+      ],
+      "personal_training": true,
+      "group_classes": true,
+      "free_trial": true,
+      "open_24h": false,
+      "languages_spoken": [],
+      "opening_hours": {
+        "Monday": "06:00-23:00",
+        "Tuesday": "06:00-23:00",
+        "Wednesday": "06:00-23:00",
+        "Thursday": "06:00-23:00",
+        "Friday": "06:00-23:00",
+        "Saturday": "08:00-20:00",
+        "Sunday": "08:00-18:00"
+      }
+    },
+    "profile_completeness": 79,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1495,9 +1966,34 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Standard Membership",
+        "Day Pass"
+      ],
+      "price_range": null,
+      "classes_offered": [
+        "Coaching",
+        "Yoga",
+        "Summer Camp",
+        "Youth Team Programs"
+      ],
+      "amenities": [
+        "Bouldering walls",
+        "Pad rentals",
+        "Shoe rentals"
+      ],
+      "personal_training": true,
+      "group_classes": true,
+      "free_trial": false,
+      "open_24h": false,
+      "languages_spoken": [
+        "English"
+      ],
+      "opening_hours": {}
+    },
+    "profile_completeness": 76,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1554,9 +2050,30 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Unlimited Monthly Membership",
+        "Class packages"
+      ],
+      "price_range": "$$",
+      "classes_offered": [
+        "Sensory yoga experience",
+        "Strength-focused classes",
+        "Flexibility and balance classes",
+        "Agility classes"
+      ],
+      "amenities": [],
+      "personal_training": false,
+      "group_classes": true,
+      "free_trial": false,
+      "open_24h": false,
+      "languages_spoken": [
+        "English"
+      ],
+      "opening_hours": {}
+    },
+    "profile_completeness": 76,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2719,9 +3236,44 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Classic",
+        "Black Card"
+      ],
+      "price_range": "$10-$25/month",
+      "classes_offered": [
+        "PE@PF (group fitness classes)"
+      ],
+      "amenities": [
+        "Cardio Equipment",
+        "Strength Equipment",
+        "HydroMassage",
+        "Tanning",
+        "Black Card Spa",
+        "Free Wi-Fi",
+        "Locker Rooms"
+      ],
+      "personal_training": false,
+      "group_classes": true,
+      "free_trial": false,
+      "open_24h": false,
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "opening_hours": {
+        "Monday": "05:00-23:00",
+        "Tuesday": "05:00-23:00",
+        "Wednesday": "05:00-23:00",
+        "Thursday": "05:00-23:00",
+        "Friday": "05:00-21:00",
+        "Saturday": "07:00-19:00",
+        "Sunday": "07:00-19:00"
+      }
+    },
+    "profile_completeness": 80,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -5108,9 +5660,40 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Full Membership",
+        "Month to Month",
+        "Class Pack",
+        "Trial (3 Classes for $30)",
+        "Passport"
+      ],
+      "price_range": null,
+      "classes_offered": [
+        "Cardio",
+        "Resistance",
+        "Hybrid",
+        "Recovery",
+        "HYROX",
+        "PEAK500",
+        "LIONHEART"
+      ],
+      "amenities": [
+        "Group fitness classes",
+        "Recovery services",
+        "Functional training equipment"
+      ],
+      "personal_training": false,
+      "group_classes": true,
+      "free_trial": true,
+      "open_24h": false,
+      "languages_spoken": [
+        "English"
+      ],
+      "opening_hours": {}
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -5830,12 +6413,56 @@
     "types": [
       "fitness_centre"
     ],
-    "hours": {},
+    "hours": {
+      "Monday": "05:00-18:45",
+      "Tuesday": "05:00-18:45",
+      "Wednesday": "05:00-18:45",
+      "Thursday": "05:00-18:45",
+      "Friday": "05:00-18:45",
+      "Saturday": "06:15-12:45",
+      "Sunday": "06:15-12:45"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Premier Plus",
+        "Premier",
+        "Elite",
+        "Basic",
+        "Class Packs"
+      ],
+      "price_range": "$79-$179/month",
+      "classes_offered": [
+        "Coach-led full-body workouts",
+        "Heart rate zone training",
+        "Strength training",
+        "HIIT"
+      ],
+      "amenities": [
+        "Real-time performance tracking",
+        "OTbeat Heart Rate Monitor",
+        "Full-body workout equipment"
+      ],
+      "personal_training": false,
+      "group_classes": true,
+      "free_trial": true,
+      "open_24h": false,
+      "languages_spoken": [
+        "English"
+      ],
+      "opening_hours": {
+        "Monday": "05:00-18:45",
+        "Tuesday": "05:00-18:45",
+        "Wednesday": "05:00-18:45",
+        "Thursday": "05:00-18:45",
+        "Friday": "05:00-18:45",
+        "Saturday": "06:15-12:45",
+        "Sunday": "06:15-12:45"
+      }
+    },
+    "profile_completeness": 65,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -6951,12 +7578,56 @@
     "types": [
       "fitness_centre"
     ],
-    "hours": {},
+    "hours": {
+      "Monday": "05:00-18:45",
+      "Tuesday": "05:00-18:45",
+      "Wednesday": "05:00-18:45",
+      "Thursday": "05:00-18:45",
+      "Friday": "05:00-18:45",
+      "Saturday": "06:15-12:45",
+      "Sunday": "06:15-12:45"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Premier Plus",
+        "Premier",
+        "Elite",
+        "Basic",
+        "Class Packs"
+      ],
+      "price_range": "$79-$179/month",
+      "classes_offered": [
+        "Coach-led full-body workouts",
+        "Heart rate zone training",
+        "Strength training",
+        "HIIT"
+      ],
+      "amenities": [
+        "Real-time performance tracking",
+        "OTbeat Heart Rate Monitor",
+        "Full-body workout equipment"
+      ],
+      "personal_training": false,
+      "group_classes": true,
+      "free_trial": true,
+      "open_24h": false,
+      "languages_spoken": [
+        "English"
+      ],
+      "opening_hours": {
+        "Monday": "05:00-18:45",
+        "Tuesday": "05:00-18:45",
+        "Wednesday": "05:00-18:45",
+        "Thursday": "05:00-18:45",
+        "Friday": "05:00-18:45",
+        "Saturday": "06:15-12:45",
+        "Sunday": "06:15-12:45"
+      }
+    },
+    "profile_completeness": 65,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -9963,12 +10634,69 @@
     "types": [
       "fitness_centre"
     ],
-    "hours": {},
+    "hours": {
+      "Monday": "04:00-00:00",
+      "Tuesday": "04:00-00:00",
+      "Wednesday": "04:00-00:00",
+      "Thursday": "04:00-00:00",
+      "Friday": "04:00-00:00",
+      "Saturday": "05:00-23:00",
+      "Sunday": "05:00-23:00"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "membership_types": [
+        "Diamond",
+        "Onyx",
+        "Day Pass",
+        "Digital Membership"
+      ],
+      "price_range": "$199+/month",
+      "classes_offered": [
+        "Signature Group Training",
+        "Cycle",
+        "Yoga",
+        "Pilates",
+        "Strength",
+        "Cardio",
+        "Barre",
+        "Dance",
+        "ARORA Classes"
+      ],
+      "amenities": [
+        "Pool",
+        "Sauna",
+        "Steam rooms",
+        "Cold plunge",
+        "Spa",
+        "Pickleball courts",
+        "Basketball courts",
+        "Dining",
+        "Kids Academy",
+        "Work lounge",
+        "Locker rooms",
+        "Chiropractic services"
+      ],
+      "personal_training": true,
+      "group_classes": true,
+      "free_trial": false,
+      "open_24h": false,
+      "languages_spoken": [
+        "English"
+      ],
+      "opening_hours": {
+        "Monday": "04:00-00:00",
+        "Tuesday": "04:00-00:00",
+        "Wednesday": "04:00-00:00",
+        "Thursday": "04:00-00:00",
+        "Friday": "04:00-00:00",
+        "Saturday": "05:00-23:00",
+        "Sunday": "05:00-23:00"
+      }
+    },
+    "profile_completeness": 55,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",

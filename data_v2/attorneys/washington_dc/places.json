@@ -27,9 +27,21 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 58,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -83,9 +95,24 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Estate Planning",
+        "Trust Administration",
+        "Tax Planning",
+        "Wealth Planning"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": 5,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -143,9 +170,26 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Criminal Defense",
+        "Personal Injury",
+        "Trucking Accidents",
+        "Motorcycle Accidents"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Virginia State Bar"
+      ],
+      "free_consultation": true,
+      "years_experience": 46,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -199,9 +243,23 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Military Justice",
+        "Security Clearance Defense",
+        "Federal Employment"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 58,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -252,9 +310,25 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Maryland",
+        "Virginia",
+        "District of Columbia"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -305,9 +379,28 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Nursing Home Abuse",
+        "Medical Malpractice",
+        "Healthcare Fraud",
+        "Medicare Fraud",
+        "Qui Tam",
+        "Personal Injury"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [
+        "HCR ManorCare Medicare Fraud prosecution"
+      ],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 55,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -361,9 +454,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -416,9 +519,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -469,9 +582,30 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Criminal Defense",
+        "Traffic Defense",
+        "DUI/DWI",
+        "Drug Crimes",
+        "Assault",
+        "Theft Crimes",
+        "Expungement",
+        "Appeals"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Maryland"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 1,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -529,9 +663,26 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Family Law",
+        "Divorce",
+        "Child Custody",
+        "Mediation"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Maryland"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -585,9 +736,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -642,9 +803,33 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Divorce",
+        "Child Custody",
+        "Child Support",
+        "Alimony",
+        "Property Division",
+        "Family Mediation",
+        "Domestic Violence"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Maryland"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 6,
+      "notable_cases": [],
+      "awards": [
+        "National Association of Distinguished Counsel (2015)",
+        "AV Preeminent - Martindale-Hubbell",
+        "Avvo Rating 10.0 - Top Attorney"
+      ],
+      "education": []
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -696,9 +881,32 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Divorce",
+        "Alimony/Spousal Support",
+        "Mediation",
+        "Property Division",
+        "Child Custody",
+        "Child Support",
+        "Military Divorce"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Maryland"
+      ],
+      "free_consultation": true,
+      "years_experience": 23,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "Super Lawyers",
+        "AVVO Ratings"
+      ],
+      "education": []
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -751,9 +959,33 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accidents",
+        "Bicycle Accidents",
+        "Medical Malpractice",
+        "Criminal Defense",
+        "DUI Defense",
+        "Wrongful Death"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": 50,
+      "team_size": 3,
+      "notable_cases": [],
+      "awards": [
+        "Super Lawyers",
+        "Top Lawyer",
+        "Best Lawyers"
+      ],
+      "education": [
+        "National Law Center, George Washington University Law School"
+      ]
+    },
+    "profile_completeness": 70,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -807,9 +1039,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -867,9 +1109,25 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Divorce Law",
+        "Custody Law",
+        "Family Law"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "Best of Bethesda 2026 Finalist"
+      ],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -935,9 +1193,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -986,9 +1254,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 43,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1029,12 +1307,42 @@
     "types": [
       "lawyer"
     ],
-    "hours": {},
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Workplace Discrimination",
+        "Retaliation",
+        "Sexual Harassment",
+        "Wrongful Termination",
+        "Security Clearance Defense",
+        "Federal Employee Rights"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Virginia State Bar"
+      ],
+      "free_consultation": true,
+      "years_experience": 15,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "Distinguished Service in the Sex & Domestic Violence Unit",
+        "Great Place To Work"
+      ],
+      "education": [
+        "Georgetown University Law Center"
+      ]
+    },
+    "profile_completeness": 70,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1081,9 +1389,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1127,9 +1445,21 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 48,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1177,9 +1507,22 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Criminal Defense",
+        "DUI Defense"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 48,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1222,9 +1565,33 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accidents",
+        "Slip and Fall",
+        "Medical Malpractice",
+        "Nursing Home Abuse",
+        "Wrongful Death"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Maryland",
+        "District of Columbia"
+      ],
+      "free_consultation": true,
+      "years_experience": 20,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "Top 40 Under 40 - The National Trial Lawyers"
+      ],
+      "education": [
+        "Howard University School of Law"
+      ]
+    },
+    "profile_completeness": 60,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1268,9 +1635,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1315,9 +1692,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 30,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1356,9 +1743,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 30,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1402,9 +1799,25 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Patent Law",
+        "Trademark Law",
+        "Copyright Law",
+        "Intellectual Property Litigation",
+        "Licensing"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": 30,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 38,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1446,9 +1859,27 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Immigration Law",
+        "USCIS Petitions",
+        "Visa Applications",
+        "Immigration Court Defense"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 43,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1488,9 +1919,32 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Family Law",
+        "Bankruptcy",
+        "Landlord-Tenant",
+        "Personal Injury",
+        "Employment Law"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Virginia State Bar",
+        "Fairfax Bar",
+        "DC Bar",
+        "NYSBA"
+      ],
+      "free_consultation": true,
+      "years_experience": 30,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "AV Preeminent"
+      ],
+      "education": []
+    },
+    "profile_completeness": 47,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1583,9 +2037,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 30,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",

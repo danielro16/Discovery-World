@@ -27,9 +27,34 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Divorce",
+        "Child Custody",
+        "Child Support",
+        "Spousal Support",
+        "Property Division",
+        "High Net Worth Divorce",
+        "Marital Agreements",
+        "Legal Separation",
+        "Grandparents' Rights",
+        "Family Law Order Modifications"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "State Bar of Texas"
+      ],
+      "free_consultation": false,
+      "years_experience": 10,
+      "team_size": 1,
+      "notable_cases": [],
+      "awards": [],
+      "education": [
+        "Stanford Law School"
+      ]
+    },
+    "profile_completeness": 70,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -82,9 +107,23 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Injury Law"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 58,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -136,9 +175,30 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Commercial & Business Litigation",
+        "Catastrophic Personal Injury",
+        "LLC Formations",
+        "Contract Review",
+        "Startup Counseling"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Texas"
+      ],
+      "free_consultation": null,
+      "years_experience": 33,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "AVVO Rating 10.0 Superb",
+        "AV Preeminent Badge"
+      ],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -194,9 +254,26 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Patents",
+        "Trademarks",
+        "Trade Secrets and Unfair Competition",
+        "Copyrights and Software Agreements",
+        "Intellectual Property Strategy",
+        "Licensing"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 58,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -250,9 +327,37 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Truck Accidents",
+        "Rideshare Accidents",
+        "Motorcycle Accidents",
+        "Pedestrian Accidents",
+        "Wrongful Death",
+        "Personal Injury"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Texas"
+      ],
+      "free_consultation": true,
+      "years_experience": 10,
+      "team_size": null,
+      "notable_cases": [
+        {
+          "description": "Amputation case",
+          "recovery": "$6,000,000"
+        }
+      ],
+      "awards": [
+        "Super Lawyers",
+        "Million Dollar Advocates"
+      ],
+      "education": []
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -307,9 +412,46 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Truck Accidents",
+        "Car Accidents",
+        "Motorcycle Accidents",
+        "Personal Injury",
+        "Commercial Litigation"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Texas",
+        "U.S. District Court - Western District of Texas",
+        "U.S. District Court - Northern District of Texas",
+        "U.S. District Court - Southern District of Texas"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 3,
+      "notable_cases": [
+        "18 Wheeler Collision - Spine Injury: $971,006",
+        "Defective Medical Device - Brain Injury: $17,684,854",
+        "Medical Malpractice - Birth Injury: $2,250,000"
+      ],
+      "awards": [
+        "Texas Super Lawyers 2009-2023",
+        "Million Dollar Advocate Forum",
+        "AVVO Superb Rating"
+      ],
+      "education": [
+        "South Texas College of Law (J.D., magna cum laude, 2004)",
+        "Texas A&M University (B.B.A., cum laude, 1999)"
+      ]
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -362,9 +504,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -415,9 +567,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -468,9 +630,22 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Tax Law",
+        "Business Law"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 58,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -513,19 +688,58 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "00:00 - 24:00",
-      "Tuesday": "00:00 - 24:00",
-      "Wednesday": "00:00 - 24:00",
-      "Thursday": "00:00 - 24:00",
-      "Friday": "00:00 - 24:00",
-      "Saturday": "00:00 - 24:00",
-      "Sunday": "00:00 - 24:00"
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "09:00-17:00",
+      "Sunday": "09:00-17:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Truck Accidents",
+        "Bicycle Accidents",
+        "Bus Accidents",
+        "Motorcycle Accidents",
+        "Pedestrian Accidents",
+        "Burn Injuries",
+        "Construction Accidents",
+        "Wrongful Death",
+        "Personal Injury"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Texas",
+        "Illinois",
+        "California"
+      ],
+      "free_consultation": true,
+      "years_experience": 30,
+      "team_size": 10,
+      "notable_cases": [
+        {
+          "amount": "$2,000,000",
+          "type": "Motor Vehicle Accident"
+        },
+        {
+          "amount": "$1,800,000",
+          "type": "Product Defect - Bicycle"
+        }
+      ],
+      "awards": [
+        "AV Preeminent",
+        "Best Lawyers in America",
+        "Super Lawyers",
+        "Million Dollar Advocates Forum"
+      ],
+      "education": []
+    },
+    "profile_completeness": 70,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -583,9 +797,21 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": 40,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -639,9 +865,23 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Criminal Defense"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Texas"
+      ],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 58,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -704,9 +944,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 53,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -756,9 +1006,28 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Estate Planning",
+        "Asset Protection",
+        "Business Succession",
+        "Probate",
+        "Estate Litigation",
+        "Trust Administration"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Texas"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 15,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -772,7 +1041,7 @@
       "addr:street": "North Lamar Boulevard",
       "addr:unit": "200",
       "contact:facebook": "https://www.facebook.com/kylerobbinslaw/",
-      "description": "Probate & Estate Planning isn’t about money, it’s about families. We provide families with predictable, quality advice to achieve their goals.",
+      "description": "Probate & Estate Planning isn\u2019t about money, it\u2019s about families. We provide families with predictable, quality advice to achieve their goals.",
       "lawyer:speciality:family": "yes",
       "name": "Robbins Estate Law",
       "office": "lawyer",
@@ -812,9 +1081,23 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Property Tax Litigation",
+        "Property Tax Appeals",
+        "Delinquent Tax Defense"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": 125,
+      "team_size": 14,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -866,9 +1149,32 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Employment Discrimination",
+        "Employment Contracts",
+        "Wages and Overtime",
+        "Wrongful Termination",
+        "FMLA",
+        "ADA"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Texas"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 2,
+      "notable_cases": [],
+      "awards": [
+        "Board Certified Specialist in Labor & Employment Law",
+        "Super Lawyers (2012-present)",
+        "Avvo Rating 10"
+      ],
+      "education": []
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -921,9 +1227,30 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "DWI",
+        "Drug Possession",
+        "Assault",
+        "Theft",
+        "Criminal Defense",
+        "Expunctions"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": 16,
+      "team_size": 1,
+      "notable_cases": [
+        "Family Assault - Dismissed",
+        "DWI 2nd - Reduced to Traffic Ticket",
+        "Harassment Offense - NOT GUILTY"
+      ],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -975,9 +1302,24 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Probate Administration",
+        "Probate Litigation",
+        "Estate Planning",
+        "Guardianships"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 58,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1028,9 +1370,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 53,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1082,9 +1434,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 53,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1131,9 +1493,41 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accidents",
+        "Construction Accidents",
+        "Truck Accidents",
+        "Wrongful Death",
+        "Nursing Home Neglect & Abuse",
+        "Product Liability"
+      ],
+      "languages_spoken": [
+        "English"
+      ],
+      "bar_admissions": [
+        "Texas"
+      ],
+      "free_consultation": true,
+      "years_experience": 65,
+      "team_size": 8,
+      "notable_cases": [
+        "Bus Accident Involving Three-Year-Old Boy"
+      ],
+      "awards": [
+        "Super Lawyers",
+        "Best Lawyers",
+        "Best Law Firms",
+        "AV Preeminent Rating"
+      ],
+      "education": [
+        "University of Texas",
+        "St. Mary's University School of Law"
+      ]
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1177,17 +1571,41 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "08:30-18:00",
-      "Tuesday": "08:30-18:00",
-      "Wednesday": "08:30-18:00",
-      "Thursday": "08:30-18:00",
-      "Friday": "08:30-18:00"
+      "Monday": "08:30-17:00",
+      "Tuesday": "08:30-17:00",
+      "Wednesday": "08:30-17:00",
+      "Thursday": "08:30-17:00",
+      "Friday": "08:30-17:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Class Action Lawsuits",
+        "Consumer Protection",
+        "False Advertising",
+        "Product Liability",
+        "Fair Credit Reporting",
+        "Fair Debt Collection"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "California",
+        "Georgia",
+        "Texas"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 8,
+      "notable_cases": [
+        "Vroom title disputes",
+        "Carvana title issues"
+      ],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1284,12 +1702,34 @@
     "types": [
       "lawyer"
     ],
-    "hours": {},
+    "hours": {
+      "Monday": "08:30-17:00",
+      "Tuesday": "08:30-17:00",
+      "Wednesday": "08:30-17:00",
+      "Thursday": "08:30-17:00",
+      "Friday": "08:30-17:00"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Real Estate Law",
+        "Business Law",
+        "Aviation Law",
+        "Construction Law",
+        "Wills & Estates"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": 10,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1334,9 +1774,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1379,9 +1829,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1425,9 +1885,22 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Commercial Real Estate",
+        "Business Law"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 35,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",

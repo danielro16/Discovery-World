@@ -56,8 +56,16 @@ if (enriched.free_trial || (place as any).free_trial) miniHighlights.push('Free 
       <p class="text-sm text-gray-400 mt-0.5 truncate">{place.address}</p>
     </div>
     <div class="shrink-0">
-      <RatingStars rating={place.rating} size="sm" />
-      <p class="text-xs text-gray-400 text-right mt-0.5">{place.review_count.toLocaleString()} reviews</p>
+      {place.rating == null && place.review_count === 0 ? (
+        <span class="inline-block text-xs font-medium px-2.5 py-1 rounded-full bg-gray-100 text-gray-400">
+          New listing
+        </span>
+      ) : (
+        <>
+          <RatingStars rating={place.rating} size="sm" />
+          <p class="text-xs text-gray-400 text-right mt-0.5">{place.review_count.toLocaleString()} reviews</p>
+        </>
+      )}
     </div>
   </div>
 

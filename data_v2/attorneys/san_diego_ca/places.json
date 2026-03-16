@@ -29,9 +29,24 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Criminal Defense"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 63,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -75,19 +90,45 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "00:00 - 24:00",
-      "Tuesday": "00:00 - 24:00",
-      "Wednesday": "00:00 - 24:00",
-      "Thursday": "00:00 - 24:00",
-      "Friday": "00:00 - 24:00",
-      "Saturday": "00:00 - 24:00",
-      "Sunday": "00:00 - 24:00"
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accidents",
+        "Motorcycle Accidents",
+        "Truck Accidents",
+        "Wrongful Death",
+        "Premises Liability"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "The State Bar of California",
+        "U.S. District Court for the Central District of California"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "Martindale-Hubbell - Client Champion",
+        "Martindale-Hubbell - AV Preeminent"
+      ],
+      "education": [
+        "University of West Los Angeles School of Law"
+      ]
+    },
+    "profile_completeness": 72,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -145,9 +186,21 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 58,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -200,9 +253,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -257,9 +320,33 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Discrimination",
+        "Sexual Harassment",
+        "Wrongful Termination",
+        "FMLA",
+        "Wage and Overtime",
+        "Retaliation",
+        "Employment Contracts"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [
+        "Over $500 Million obtained for clients since 2003"
+      ],
+      "awards": [
+        "Super Lawyers Members",
+        "AV Preeminent Peer Rated",
+        "America's Top 100 Attorneys"
+      ],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -311,9 +398,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -365,9 +462,22 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Employment Law"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 55,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -420,9 +530,32 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Assault",
+        "Domestic Violence",
+        "Drug Crimes",
+        "DUI",
+        "Expungements",
+        "Federal Crimes",
+        "Sex Crimes",
+        "White Collar Crimes"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "California"
+      ],
+      "free_consultation": true,
+      "years_experience": 50,
+      "team_size": null,
+      "notable_cases": [
+        "Capital murder cases (more than a dozen)"
+      ],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -464,19 +597,43 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "00:00 - 24:00",
-      "Tuesday": "00:00 - 24:00",
-      "Wednesday": "00:00 - 24:00",
-      "Thursday": "00:00 - 24:00",
-      "Friday": "00:00 - 24:00",
-      "Saturday": "00:00 - 24:00",
-      "Sunday": "00:00 - 24:00"
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accidents",
+        "Motorcycle Accidents",
+        "Wrongful Death",
+        "Employment Litigation"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "California State Bar"
+      ],
+      "free_consultation": true,
+      "years_experience": 20,
+      "team_size": 2,
+      "notable_cases": [
+        "7-8 figure recoveries against major defendants"
+      ],
+      "awards": [
+        "Avvo Rating 10.0 Superb",
+        "Million Dollar Advocates Forum",
+        "Super Lawyers"
+      ],
+      "education": [
+        "University of San Diego School of Law"
+      ]
+    },
+    "profile_completeness": 73,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -533,9 +690,22 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Criminal Defense",
+        "Felony Defense"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 58,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -587,9 +757,25 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "IRS Back Taxes",
+        "IRS Audit",
+        "Sales Tax Settlement",
+        "Tax Appeals",
+        "Franchise Tax Board Audit"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 58,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -640,9 +826,26 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Estate Planning",
+        "Trust Administration",
+        "Trust Litigation",
+        "Guardianship",
+        "Probate",
+        "Tax Planning"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": 27,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -695,9 +898,24 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Real Estate Law",
+        "Real Estate Litigation"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "California"
+      ],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 58,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -752,9 +970,25 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Divorce",
+        "Child Custody",
+        "Child Support",
+        "Spousal Support",
+        "Family Law"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": 30,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -801,19 +1035,49 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "09:00-17:00",
-      "Tuesday": "09:00-17:00",
-      "Wednesday": "09:00-17:00",
-      "Thursday": "09:00-17:00",
-      "Friday": "09:00-17:00",
-      "Saturday": "off",
-      "Sunday": "off"
+      "monday": "09:00-17:00",
+      "tuesday": "09:00-17:00",
+      "wednesday": "09:00-17:00",
+      "thursday": "09:00-17:00",
+      "friday": "09:00-17:00",
+      "saturday": "Closed",
+      "sunday": "Closed"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "IRS audits",
+        "Tax disputes",
+        "Tax debt relief",
+        "Collections defense",
+        "Liens and levies",
+        "Tax litigation",
+        "Appeals",
+        "Criminal tax matters",
+        "Tax fraud defense",
+        "Tax evasion defense"
+      ],
+      "languages_spoken": [
+        "English"
+      ],
+      "bar_admissions": [
+        "Arizona",
+        "California",
+        "Nevada",
+        "Utah"
+      ],
+      "free_consultation": null,
+      "years_experience": 100,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "5-star aggregate rating"
+      ],
+      "education": []
+    },
+    "profile_completeness": 69,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -871,9 +1135,25 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Wage Disputes",
+        "Discrimination",
+        "Harassment",
+        "Retaliation",
+        "Employment Torts"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 58,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -924,9 +1204,35 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "California Lemon Law",
+        "Consumer Protection",
+        "Vehicle Repurchase Claims"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "California",
+        "Texas"
+      ],
+      "free_consultation": true,
+      "years_experience": 15,
+      "team_size": 30,
+      "notable_cases": [
+        "Truck settlements exceeding $250,000"
+      ],
+      "awards": [
+        "Super Lawyers",
+        "Avvo 10.0 Superb Rating",
+        "National Trial Lawyers"
+      ],
+      "education": []
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -979,14 +1285,32 @@
       "Monday": "09:00-18:00",
       "Tuesday": "09:00-18:00",
       "Wednesday": "09:00-18:00",
+      "Thursday": "Closed",
       "Friday": "09:00-18:00",
       "Saturday": "09:00-14:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Estate Planning",
+        "Living Trusts",
+        "Wills",
+        "Powers of Attorney"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": 1,
+      "notable_cases": [],
+      "awards": [
+        "Super Lawyers (California, San Diego)"
+      ],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1040,9 +1364,21 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 58,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1090,12 +1426,43 @@
     "types": [
       "lawyer"
     ],
-    "hours": {},
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "09:00-17:00",
+      "Sunday": "09:00-17:00"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "DUI Defense",
+        "Felony Defense",
+        "Drug Crimes",
+        "Sex Crimes",
+        "Violent Crimes",
+        "Federal Crimes",
+        "Expungements"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": 27,
+      "team_size": null,
+      "notable_cases": [
+        "Second offense DUI dismissed",
+        "Reckless driving dismissed"
+      ],
+      "awards": [
+        "One of California's most-awarded San Diego DUI attorneys"
+      ],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1139,9 +1506,31 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Immigration",
+        "Marriage Green Cards",
+        "Work Visas",
+        "U.S. Citizenship",
+        "Green Cards",
+        "DACA"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": 70,
+      "team_size": null,
+      "notable_cases": [
+        "Over 10,000 cases successfully handled"
+      ],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 56,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1183,12 +1572,41 @@
     "types": [
       "lawyer"
     ],
-    "hours": {},
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "IRS Audits",
+        "Tax Disputes",
+        "Tax Debt Relief",
+        "Tax Litigation",
+        "Criminal Tax Defense"
+      ],
+      "languages_spoken": [
+        "English"
+      ],
+      "bar_admissions": [
+        "Arizona",
+        "California",
+        "Nevada",
+        "Utah"
+      ],
+      "free_consultation": true,
+      "years_experience": 100,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 69,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1241,9 +1659,27 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Family Law",
+        "Estate Planning",
+        "Probate",
+        "Personal Injury"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": 50,
+      "team_size": 2,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 49,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1279,12 +1715,54 @@
     "types": [
       "lawyer"
     ],
-    "hours": {},
+    "hours": {
+      "Monday": "08:00-18:00",
+      "Tuesday": "08:00-18:00",
+      "Wednesday": "08:00-18:00",
+      "Thursday": "08:00-18:00",
+      "Friday": "08:00-18:00"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accident",
+        "Motorcycle Accident",
+        "Truck Accident",
+        "Elder Abuse",
+        "Nursing Home Abuse",
+        "Wrongful Death"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "California"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 2,
+      "notable_cases": [
+        {
+          "type": "Car Accident",
+          "amount": "$18 Million"
+        },
+        {
+          "type": "Trucking Accident/Brain Injury",
+          "amount": "$17.55 Million"
+        }
+      ],
+      "awards": [
+        "Super Lawyers",
+        "Avvo 10/10 Rating",
+        "Top 10 Settlements California 2017"
+      ],
+      "education": null
+    },
+    "profile_completeness": 62,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1557,7 +2035,7 @@
     "osm_type": "node",
     "osm_tags": {
       "address": "1230 Columbia St Ste 540 San Diego California",
-      "description": "San Diego Personal Injury Lawyer — Law Offices of Barry Pasternack",
+      "description": "San Diego Personal Injury Lawyer \u2014 Law Offices of Barry Pasternack",
       "name": "Pasternack Injury Law Group",
       "office": "lawyer",
       "phone": "+1-619-230-1007"
@@ -1588,9 +2066,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 30,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 20,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",

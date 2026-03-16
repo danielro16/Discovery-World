@@ -19,17 +19,51 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "08:30-18:00",
-      "Tuesday": "08:30-18:00",
-      "Wednesday": "08:30-18:00",
-      "Thursday": "08:30-18:00",
-      "Friday": "08:30-18:00"
+      "Monday": "08:30-18:30",
+      "Tuesday": "08:30-18:30",
+      "Wednesday": "08:30-18:30",
+      "Thursday": "08:30-18:30",
+      "Friday": "08:30-18:30"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Transportation Accidents",
+        "Aviation Accident",
+        "Car Accident",
+        "Truck Accident",
+        "Wrongful Death",
+        "Maritime Accident",
+        "Product Liability",
+        "Medical Malpractice",
+        "Personal Injury"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Texas",
+        "Colorado"
+      ],
+      "free_consultation": true,
+      "years_experience": 125,
+      "team_size": 9,
+      "notable_cases": [
+        "$81 Million verdict",
+        "$17 Million trucking accident settlement",
+        "$60 Million workplace electrical fire settlement"
+      ],
+      "awards": [
+        "Best of the Bar",
+        "Texas Trial Lawyers Association",
+        "Top 100"
+      ],
+      "education": null
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -71,17 +105,37 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "08:30-17:00",
-      "Tuesday": "08:30-17:00",
-      "Wednesday": "08:30-17:00",
-      "Thursday": "08:30-17:00",
-      "Friday": "08:30-17:00"
+      "Monday": "08:45-17:00",
+      "Tuesday": "08:45-17:00",
+      "Wednesday": "08:45-17:00",
+      "Thursday": "08:45-17:00",
+      "Friday": "08:45-15:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Family Law",
+        "Divorce",
+        "Child Custody",
+        "Child Support",
+        "Estate Planning",
+        "Prenuptial Agreements",
+        "Mediation"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Texas"
+      ],
+      "free_consultation": true,
+      "years_experience": 44,
+      "team_size": 2,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -133,9 +187,36 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Truck Accidents",
+        "Motorcycle Accidents",
+        "Bicycle Accidents",
+        "Pedestrian Accidents",
+        "Slip and Falls",
+        "Brain Injuries",
+        "Wrongful Death"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Texas"
+      ],
+      "free_consultation": true,
+      "years_experience": 20,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "Super Lawyers (5 years)",
+        "Best Lawyers in Sugar Land 2024"
+      ],
+      "education": []
+    },
+    "profile_completeness": 72,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -190,9 +271,31 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Estate Planning",
+        "Wills",
+        "Probate",
+        "Trusts",
+        "Durable Power of Attorney"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Indiana",
+        "Texas"
+      ],
+      "free_consultation": true,
+      "years_experience": 15,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "A+ Gold Star BBB Rating",
+        "AVVO Clients' Choice Award 2018"
+      ],
+      "education": []
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -245,9 +348,48 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accidents",
+        "Motorcycle Accidents",
+        "Wrongful Death",
+        "Medical Malpractice",
+        "Employment Law"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Texas State Bar"
+      ],
+      "free_consultation": true,
+      "years_experience": 15,
+      "team_size": 5,
+      "notable_cases": [
+        {
+          "type": "Commercial Vehicle Accident",
+          "amount": "$2,125,000"
+        },
+        {
+          "type": "Wrongful Death",
+          "amount": "$750,000"
+        }
+      ],
+      "awards": [
+        "Best American Institute of Criminal Attorneys",
+        "Elite Lawyer - Civil Litigation"
+      ],
+      "education": [
+        "South Texas College of Law",
+        "University of Wisconsin",
+        "Texas A&M University"
+      ]
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -298,9 +440,44 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accidents",
+        "Brain Injury",
+        "Medical Malpractice",
+        "Nursing Home Abuse",
+        "Workers' Compensation",
+        "Wrongful Death"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Texas"
+      ],
+      "free_consultation": true,
+      "years_experience": 40,
+      "team_size": null,
+      "notable_cases": [
+        {
+          "recovery": "$12.2 million",
+          "type": "Medical Malpractice"
+        },
+        {
+          "recovery": "$10.6 million",
+          "type": "Car Wreck with TBI"
+        }
+      ],
+      "awards": [
+        "Board Certified in Personal Injury Trial Law",
+        "$1 Billion Gross Recoveries Since 1985"
+      ],
+      "education": null
+    },
+    "profile_completeness": 72,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -351,9 +528,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -411,9 +598,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -467,9 +664,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 53,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -524,9 +731,44 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Motorcycle Accidents",
+        "Bicycle Accidents",
+        "Premises Liability",
+        "Maritime & Offshore",
+        "Oilfield Accidents",
+        "Wrongful Death",
+        "Medical Malpractice"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Texas"
+      ],
+      "free_consultation": true,
+      "years_experience": 30,
+      "team_size": null,
+      "notable_cases": [
+        {
+          "type": "Wrongful Death",
+          "amount": "$209 Million Verdict"
+        }
+      ],
+      "awards": [
+        "Texas Super Lawyer Rising Star",
+        "40 Under 40 by Houston Business Journal"
+      ],
+      "education": [
+        "University of Texas",
+        "South Texas College of Law"
+      ]
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -580,9 +822,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 53,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -638,9 +890,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -692,9 +954,35 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injuries",
+        "Work Injuries",
+        "Dangerous Drugs & Medical Devices"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Texas"
+      ],
+      "free_consultation": true,
+      "years_experience": 90,
+      "team_size": null,
+      "notable_cases": [
+        "Over $1 Billion recovered"
+      ],
+      "awards": [
+        "Best Lawyers",
+        "Super Lawyers",
+        "AV Preeminent",
+        "Best Law Firms"
+      ],
+      "education": null
+    },
+    "profile_completeness": 72,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -747,9 +1035,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -802,9 +1100,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -858,9 +1166,30 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Truck Accidents",
+        "Rideshare Accidents",
+        "Personal Injury",
+        "Wrongful Death"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Texas"
+      ],
+      "free_consultation": true,
+      "years_experience": 10,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "Super Lawyers",
+        "Million Dollar Advocates"
+      ],
+      "education": []
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -918,9 +1247,28 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Automobile Accidents",
+        "Truck Accidents",
+        "Wrongful Death",
+        "Pedestrian Accidents"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 63,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -968,9 +1316,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1014,19 +1372,56 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "00:00 - 24:00",
-      "Tuesday": "00:00 - 24:00",
-      "Wednesday": "00:00 - 24:00",
-      "Thursday": "00:00 - 24:00",
-      "Friday": "00:00 - 24:00",
-      "Saturday": "00:00 - 24:00",
-      "Sunday": "00:00 - 24:00"
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accident",
+        "Truck Accident",
+        "Wrongful Death",
+        "Construction Accident",
+        "Brain Injury",
+        "Spinal Cord Injury"
+      ],
+      "languages_spoken": [
+        "English"
+      ],
+      "bar_admissions": [
+        "Texas",
+        "Colorado"
+      ],
+      "free_consultation": true,
+      "years_experience": 40,
+      "team_size": null,
+      "notable_cases": [
+        {
+          "type": "Child Injury",
+          "recovery": "$6 Million"
+        },
+        {
+          "type": "Truck Accident",
+          "recovery": "$5.75 Million"
+        }
+      ],
+      "awards": [
+        "Super Lawyers",
+        "Martindale-Hubbell Preeminent Rated",
+        "AVVO 10.0 Rating"
+      ],
+      "education": [
+        "University of Nebraska College of Law",
+        "University of Denver (LL.M.)"
+      ]
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1080,9 +1475,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1127,9 +1532,22 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Family Law",
+        "Divorce"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 45,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1173,9 +1591,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 43,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1225,9 +1653,25 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accidents"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Texas"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 51,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1272,9 +1716,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1361,9 +1815,27 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Construction Law",
+        "Liens",
+        "Collections",
+        "Contract Review",
+        "Business Law",
+        "OSHA Defense",
+        "Real Estate Law"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 38,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1405,9 +1877,36 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "First Party Property Insurance",
+        "Personal Injury",
+        "Auto Accidents",
+        "Truck Accidents",
+        "Immigration",
+        "Family Law"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Texas",
+        "Arizona",
+        "Oklahoma",
+        "Iowa",
+        "Wisconsin",
+        "Missouri"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 2,
+      "notable_cases": [],
+      "awards": [
+        "National Association of Distinguished Counsel - Nation's Top One Percent",
+        "Super Lawyers"
+      ],
+      "education": []
+    },
+    "profile_completeness": 47,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",

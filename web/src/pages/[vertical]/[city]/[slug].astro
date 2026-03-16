@@ -160,7 +160,13 @@ if (languages.length) allTags.push({ label: 'Languages', items: languages });
         <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900">{place.name}</h1>
         <p class="mt-1 text-gray-400">{place.address}</p>
         <div class="mt-3">
-          <RatingStars rating={place.rating} reviewCount={place.review_count} size="lg" />
+          {place.rating == null && place.review_count === 0 ? (
+            <span class="inline-block text-sm font-medium px-3 py-1.5 rounded-full bg-gray-100 text-gray-400">
+              New listing
+            </span>
+          ) : (
+            <RatingStars rating={place.rating} reviewCount={place.review_count} size="lg" />
+          )}
         </div>
       </div>
       <div class="flex gap-2 shrink-0">
@@ -180,11 +186,11 @@ if (languages.length) allTags.push({ label: 'Languages', items: languages });
     <!-- Stats row -->
     <div class="grid grid-cols-3 gap-3 mb-8">
       <div class="rounded-2xl p-4 text-center" style={`background: ${colors.bg}`}>
-        <div class="text-2xl font-extrabold" style={`color: ${colors.accent}`}>{place.rating || 'N/A'}</div>
+        <div class="text-2xl font-extrabold" style={`color: ${colors.accent}`}>{place.rating != null ? place.rating : '—'}</div>
         <div class="text-xs text-gray-400 mt-1">Rating</div>
       </div>
       <div class="rounded-2xl p-4 text-center" style={`background: ${colors.bg}`}>
-        <div class="text-2xl font-extrabold" style={`color: ${colors.accent}`}>{place.review_count.toLocaleString()}</div>
+        <div class="text-2xl font-extrabold" style={`color: ${colors.accent}`}>{place.review_count > 0 ? place.review_count.toLocaleString() : '—'}</div>
         <div class="text-xs text-gray-400 mt-1">Reviews</div>
       </div>
       <div class="rounded-2xl p-4 text-center" style={`background: ${colors.bg}`}>

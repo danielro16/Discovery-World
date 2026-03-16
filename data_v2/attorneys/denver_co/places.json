@@ -27,9 +27,31 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Family Law",
+        "Divorce",
+        "Child Custody",
+        "Child Support",
+        "Marital Property Division",
+        "Alimony"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Colorado"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 6,
+      "notable_cases": [],
+      "awards": [
+        "AVVO Excellent rating",
+        "National Academy of Family Law Attorneys"
+      ],
+      "education": []
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -87,9 +109,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -144,9 +176,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -207,9 +249,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -261,9 +313,31 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Family Law",
+        "Divorce",
+        "Child Custody",
+        "Child Support",
+        "Marital Property Division",
+        "Alimony"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Colorado"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 6,
+      "notable_cases": [],
+      "awards": [
+        "AVVO Excellent rating",
+        "National Academy of Family Law Attorneys"
+      ],
+      "education": []
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -319,9 +393,29 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "DUI & Traffic Charges",
+        "Sex Offenses",
+        "Domestic Violence",
+        "Drug Cases",
+        "Assault & Criminal Mischief",
+        "Theft",
+        "Appeals"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Colorado"
+      ],
+      "free_consultation": true,
+      "years_experience": 30,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -378,9 +472,21 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 58,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -434,9 +540,29 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "DUI & Traffic Charges",
+        "Sex Offenses",
+        "Domestic Violence",
+        "Drug Cases",
+        "Assault & Criminal Mischief",
+        "Theft",
+        "Appeals"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Colorado"
+      ],
+      "free_consultation": true,
+      "years_experience": 30,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -491,9 +617,24 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Criminal Law",
+        "DUI Defense"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Colorado"
+      ],
+      "free_consultation": null,
+      "years_experience": 28,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -548,9 +689,48 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Car Accidents",
+        "Truck Accidents",
+        "Motorcycle Accidents",
+        "Wrongful Death"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Colorado Supreme Court",
+        "U.S. District Court District of Colorado",
+        "U.S. Supreme Court"
+      ],
+      "free_consultation": true,
+      "years_experience": 60,
+      "team_size": 6,
+      "notable_cases": [
+        {
+          "type": "Personal Injury",
+          "amount": "$3,200,000"
+        },
+        {
+          "type": "Personal Injury",
+          "amount": "$1,700,000"
+        }
+      ],
+      "awards": [
+        "Colorado Super Lawyer (2005\u20132025)",
+        "Best Lawyers in America (1995\u20132025)",
+        "AV Preeminent Rating by Martindale-Hubbell"
+      ],
+      "education": [
+        "Washburn University School of Law"
+      ]
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -601,9 +781,39 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Auto Injury",
+        "Personal Injury",
+        "Dog Bite",
+        "Nursing Home Abuse",
+        "Slip & Fall",
+        "Workers' Compensation",
+        "Wrongful Death"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Colorado",
+        "Nebraska",
+        "Arizona",
+        "Utah"
+      ],
+      "free_consultation": true,
+      "years_experience": 43,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": [
+        "Expertise.com Best Personal Injury Lawyer"
+      ],
+      "education": [
+        "University of Denver Sturm College of Law"
+      ]
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -655,9 +865,24 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Criminal Defense"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Colorado"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -708,9 +933,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -761,9 +996,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -814,9 +1059,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -867,9 +1122,32 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Criminal Defense",
+        "Assault",
+        "Domestic Violence",
+        "Drug Charges",
+        "DUI/DWAI",
+        "Sex Crimes",
+        "Theft",
+        "Traffic Tickets"
+      ],
+      "languages_spoken": [
+        "English"
+      ],
+      "bar_admissions": [
+        "Colorado"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 3,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 69,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -921,9 +1199,48 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Car Accidents",
+        "Truck Accidents",
+        "Motorcycle Accidents",
+        "Wrongful Death"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Colorado Supreme Court",
+        "U.S. District Court District of Colorado",
+        "U.S. Supreme Court"
+      ],
+      "free_consultation": true,
+      "years_experience": 60,
+      "team_size": 6,
+      "notable_cases": [
+        {
+          "type": "Personal Injury",
+          "amount": "$3,200,000"
+        },
+        {
+          "type": "Personal Injury",
+          "amount": "$1,700,000"
+        }
+      ],
+      "awards": [
+        "Colorado Super Lawyer (2005\u20132025)",
+        "Best Lawyers in America (1995\u20132025)",
+        "AV Preeminent Rating by Martindale-Hubbell"
+      ],
+      "education": [
+        "Washburn University School of Law"
+      ]
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -974,9 +1291,25 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Injury Law"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 63,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1028,9 +1361,26 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Traffic Tickets",
+        "Traffic Violations",
+        "Reckless Driving",
+        "Drivers License Suspensions"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Colorado"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1081,9 +1431,44 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Elder Law",
+        "Probate",
+        "Estate Planning",
+        "Trusts and Trust Administration",
+        "Special Needs Planning",
+        "Guardianship and Conservatorship",
+        "Fiduciary Representation",
+        "Public Benefits Eligibility",
+        "Personal Injury Settlement Assistance",
+        "Medicaid Eligibility and Appeals",
+        "SSI Eligibility and Appeals",
+        "Will Contest Litigation",
+        "Powers of Attorney Drafting and Administration"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Colorado Supreme Court",
+        "Federal District Court",
+        "Federal Court of Appeals for the 10th Circuit",
+        "United States Supreme Court"
+      ],
+      "free_consultation": null,
+      "years_experience": 25,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "Who's Who in Professional Women",
+        "Marquis Who's Who Top Lawyers"
+      ],
+      "education": [
+        "University of Colorado School of Law",
+        "Articles Editor, University of Colorado Law Review"
+      ]
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1137,9 +1522,28 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accidents",
+        "Motorcycle Accidents",
+        "Dog Bites",
+        "Wrongful Death"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Arizona",
+        "Colorado"
+      ],
+      "free_consultation": true,
+      "years_experience": 30,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1194,9 +1598,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1248,9 +1662,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1294,17 +1718,34 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "08:00-17:30",
-      "Tuesday": "08:00-17:30",
-      "Wednesday": "08:00-17:30",
-      "Thursday": "08:00-17:30",
-      "Friday": "08:00-17:30"
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Bankruptcy & Troubled Loans",
+        "Business Transactions",
+        "Eminent Domain",
+        "Land Use",
+        "Real Estate",
+        "Real Estate Finance"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 55,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1355,9 +1796,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1411,9 +1862,30 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Employment Discrimination",
+        "Sexual Harassment",
+        "Wrongful Termination",
+        "FMLA",
+        "Wage and Overtime",
+        "Non-Competes"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 11,
+      "notable_cases": [],
+      "awards": [
+        "Super Lawyers",
+        "Employment Law Firm of the Year",
+        "Best Lawyers \u2013 Best Law Firms"
+      ],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1467,9 +1939,24 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Accident Law"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Colorado"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1526,9 +2013,38 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Truck Accidents",
+        "Motorcycle Accidents",
+        "Pedestrian Accidents",
+        "Dog Bite",
+        "Wrongful Death",
+        "Traumatic Brain Injuries"
+      ],
+      "languages_spoken": [
+        "English"
+      ],
+      "bar_admissions": [
+        "Colorado Bar Association"
+      ],
+      "free_consultation": true,
+      "years_experience": 20,
+      "team_size": 2,
+      "notable_cases": [
+        "Top 10 Verdict in the State of Colorado"
+      ],
+      "awards": [
+        "SuperLawyers Rising Stars Honoree 2012-2022",
+        "Million Dollar Advocates Forum Member"
+      ],
+      "education": [
+        "University of Denver Sturm College of Law"
+      ]
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1584,9 +2100,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1638,9 +2164,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1695,9 +2231,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1749,19 +2295,78 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "00:00 - 24:00",
-      "Tuesday": "00:00 - 24:00",
-      "Wednesday": "00:00 - 24:00",
-      "Thursday": "00:00 - 24:00",
-      "Friday": "00:00 - 24:00",
-      "Saturday": "00:00 - 24:00",
-      "Sunday": "00:00 - 24:00"
+      "Monday": "9:00 am \u2013 5:00 pm",
+      "Tuesday": "9:00 am \u2013 5:00 pm",
+      "Wednesday": "9:00 am \u2013 5:00 pm",
+      "Thursday": "9:00 am \u2013 5:00 pm",
+      "Friday": "9:00 am \u2013 5:00 pm"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Truck Accidents",
+        "Motorcycle Accidents",
+        "Pedestrian Accidents",
+        "Bicycle Accidents",
+        "Slip and Fall",
+        "Premises Liability",
+        "Workplace Accidents",
+        "Workers' Compensation",
+        "Social Security Disability",
+        "VA Disabilities",
+        "Product Liability",
+        "Wrongful Death",
+        "Medical Malpractice",
+        "Nursing Home Abuse",
+        "Bus Accident",
+        "Catastrophic Injury",
+        "Child Injury",
+        "Dog Bite",
+        "Electric Scooter Accident",
+        "Mass Torts",
+        "Sexual Assault",
+        "Uber/Lyft Accident"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Colorado",
+        "Texas"
+      ],
+      "free_consultation": true,
+      "years_experience": 47,
+      "team_size": 43,
+      "notable_cases": [
+        {
+          "type": "Defective Construction Equipment Claim",
+          "amount": "$9.5M"
+        },
+        {
+          "type": "Auto Accident",
+          "amount": "$4.8M"
+        },
+        {
+          "type": "Motorcycle Accident",
+          "amount": "$4M"
+        }
+      ],
+      "awards": [
+        "Avvo Rating",
+        "Best Lawyers in Colorado",
+        "Best of Mile High (2023-2025)",
+        "Super Lawyer",
+        "Million Dollar Advocate",
+        "Top 50 Attorneys",
+        "Top 100 Attorneys"
+      ],
+      "education": []
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1812,9 +2417,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1825,7 +2440,7 @@
       "addr:postcode": "80014",
       "addr:state": "CO",
       "addr:street": "South Parker Road",
-      "description": "Law Office of Anna L. Burr in Aurora, CO offers trusted estate planning, probate, guardianship, personal injury services, and more.",
+      "description": "Law Office of Anna\u202fL.\u202fBurr in Aurora, CO offers trusted estate planning, probate, guardianship, personal injury services, and more.",
       "email": "Anna@burr-law.com",
       "name": "Law Office Of Anna L. Burr",
       "office": "lawyer",
@@ -1857,19 +2472,34 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "00:00 - 24:00",
-      "Tuesday": "00:00 - 24:00",
-      "Wednesday": "00:00 - 24:00",
-      "Thursday": "00:00 - 24:00",
-      "Friday": "00:00 - 24:00",
-      "Saturday": "00:00 - 24:00",
-      "Sunday": "00:00 - 24:00"
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "09:00-17:00",
+      "Sunday": "09:00-17:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Serious Injury Accidents"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Colorado"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1913,17 +2543,40 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "07:30-18:00",
-      "Tuesday": "07:30-18:00",
-      "Wednesday": "07:30-18:00",
-      "Thursday": "07:30-18:00",
-      "Friday": "07:30-18:00"
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 55,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Family Law",
+        "Divorce",
+        "Business Litigation",
+        "Estate Planning",
+        "Probate"
+      ],
+      "languages_spoken": [
+        "English"
+      ],
+      "bar_admissions": [
+        "Colorado"
+      ],
+      "free_consultation": true,
+      "years_experience": 30,
+      "team_size": 4,
+      "notable_cases": [],
+      "awards": [
+        "2012 Martindale-Hubbell Bar Register of Preeminent Lawyers"
+      ],
+      "education": []
+    },
+    "profile_completeness": 65,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1966,9 +2619,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2013,9 +2676,51 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accident",
+        "Bike Accident",
+        "Slip and Fall",
+        "Motorcycle Accident",
+        "Pedestrian Accident",
+        "Drunk Driving Accidents",
+        "Traumatic Brain Injury",
+        "Truck Accidents",
+        "Lyft and Uber Accidents",
+        "Dog Bite Accidents",
+        "Wrongful Death",
+        "Bad Faith Insurance"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [
+        {
+          "type": "Product liability settlement",
+          "amount": "$3M"
+        },
+        {
+          "type": "Auto accident",
+          "amount": "$602K"
+        },
+        {
+          "type": "Slip-and-fall case",
+          "amount": "$250K"
+        }
+      ],
+      "awards": [
+        "Martindale-Hubbell recognition",
+        "Super Lawyers",
+        "CTLA (Colorado Trial Lawyers Association)",
+        "CBA (Colorado Bar Association)"
+      ],
+      "education": []
+    },
+    "profile_completeness": 51,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2058,9 +2763,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2107,9 +2822,21 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 48,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2153,9 +2880,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2196,12 +2933,37 @@
     "types": [
       "lawyer"
     ],
-    "hours": {},
+    "hours": {
+      "Monday": "08:30-17:30",
+      "Tuesday": "08:30-17:30",
+      "Wednesday": "08:30-17:30",
+      "Thursday": "08:30-17:30",
+      "Friday": "08:30-17:30"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Chapter 7 Bankruptcy",
+        "Chapter 13 Bankruptcy",
+        "Consumer Protection",
+        "Bankruptcy Litigation"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Colorado"
+      ],
+      "free_consultation": true,
+      "years_experience": 15,
+      "team_size": 1,
+      "notable_cases": [],
+      "awards": [
+        "Top 3 Bankruptcy Lawyers (Aurora and Denver, Colorado)"
+      ],
+      "education": []
+    },
+    "profile_completeness": 70,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2247,9 +3009,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2295,9 +3067,21 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Criminal Defense"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 45,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2343,9 +3127,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 30,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2427,12 +3221,37 @@
     "types": [
       "lawyer"
     ],
-    "hours": {},
+    "hours": {
+      "Monday": "08:30-17:00",
+      "Tuesday": "08:30-17:00",
+      "Wednesday": "08:30-17:00",
+      "Thursday": "08:30-17:00",
+      "Friday": "08:30-17:00"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Divorce",
+        "Family Law",
+        "Child Support",
+        "Child Custody",
+        "Prenuptial Agreements",
+        "Estate Planning"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Colorado"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 2,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 54,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",

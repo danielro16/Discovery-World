@@ -19,17 +19,62 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "09:00-17:00",
-      "Tuesday": "09:00-17:00",
-      "Wednesday": "09:00-17:00",
-      "Thursday": "09:00-17:00",
-      "Friday": "09:00-17:00"
+      "monday": "24 hours",
+      "tuesday": "24 hours",
+      "wednesday": "24 hours",
+      "thursday": "24 hours",
+      "friday": "24 hours",
+      "saturday": "24 hours",
+      "sunday": "24 hours"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury Litigation",
+        "Car Accident Litigation",
+        "Truck Accident Litigation",
+        "Motorcycle Accident Litigation",
+        "Pedestrian Accident Litigation",
+        "Construction Accident Litigation",
+        "Slip and Fall Litigation",
+        "Wrongful Death Litigation",
+        "Head Injury Litigation",
+        "Bus Accident Litigation",
+        "Dog Bite Injury Litigation",
+        "Worker's Compensation",
+        "Medical Malpractice"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Washington State Bar Association"
+      ],
+      "free_consultation": true,
+      "years_experience": 85,
+      "team_size": 7,
+      "notable_cases": [
+        {
+          "amount": "$20+ Million",
+          "description": "Commercial injury settlement (confidential)"
+        },
+        {
+          "amount": "$19 Million",
+          "description": "Coverage grant by insurance company in environmental litigation"
+        }
+      ],
+      "awards": [
+        "AV Peer Review Rated",
+        "AVVO Rated",
+        "American Association for Justice",
+        "Washington State Bar Association"
+      ],
+      "education": []
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -79,9 +124,27 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Divorce Law",
+        "Family Law",
+        "Child Support",
+        "Parenting Plans",
+        "Mediation"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Washington State"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 1,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -133,9 +196,37 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Social Security Disability (SSDI)",
+        "VA Disability",
+        "Personal Injury",
+        "Car Accidents",
+        "Motorcycle Accidents",
+        "Nursing Home Neglect"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Washington State",
+        "Social Security Administration",
+        "VA-Accredited Attorney"
+      ],
+      "free_consultation": true,
+      "years_experience": 24,
+      "team_size": 2,
+      "notable_cases": [],
+      "awards": [
+        "Avvo Clients' Choice Award 2026",
+        "WSAJ Eagle 2025",
+        "Best Car Accident Lawyers in Puyallup 2023"
+      ],
+      "education": []
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -185,9 +276,43 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "DUI Defense",
+        "Personal Injury",
+        "Criminal Defense",
+        "Automobile Accidents",
+        "Pedestrian Accidents",
+        "Bicycle Accidents",
+        "Motorcycle Accidents",
+        "Trucking Accidents",
+        "Motor Vehicle Accidents"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [
+        "$2,100,000 Pedestrian Accident settlement",
+        "$1,600,000 Bus Accident settlement",
+        "Not Guilty verdict in DUI case with 0.3 BAC",
+        "Not Guilty verdict in 7 Counts Felony case"
+      ],
+      "awards": [
+        "Million Dollar Advocates",
+        "Washington Super Lawyer",
+        "Top American Lawyers",
+        "Avvo 10.0 Rating"
+      ],
+      "education": [
+        "Bachelor's degree in Rhetoric from University of California at Berkeley",
+        "Law degree from University of Washington",
+        "Gerry Spence Trial Lawyers College"
+      ]
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -243,9 +368,23 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Criminal Defense"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Washington"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -290,17 +429,41 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "9:00-17:00",
-      "Tuesday": "9:00-17:00",
-      "Wednesday": "9:00-17:00",
-      "Thursday": "9:00-17:00",
-      "Friday": "9:00-17:00"
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Fianc\u00e9 Visas",
+        "Family Green Cards",
+        "Marriage Immigrant Visa",
+        "Relative Immigrant Visa",
+        "U.S. Citizenship"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": 25,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "AVVO Rating",
+        "AILA Member",
+        "Three Best Rated",
+        "Martindale Badge",
+        "2023 Client Champion Badge"
+      ],
+      "education": [
+        "Law school in the United States"
+      ]
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -358,9 +521,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -415,9 +588,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -467,9 +650,40 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accidents",
+        "Medical Malpractice",
+        "Birth Injuries",
+        "Truck Accidents",
+        "Wrongful Death",
+        "Police Misconduct"
+      ],
+      "languages_spoken": [
+        "English"
+      ],
+      "bar_admissions": [
+        "California",
+        "Washington",
+        "Oregon"
+      ],
+      "free_consultation": true,
+      "years_experience": 45,
+      "team_size": 30,
+      "notable_cases": [
+        "$10,000,000 victory"
+      ],
+      "awards": [
+        "BBB Accredited Business",
+        "American Association for Justice member"
+      ],
+      "education": [
+        "University of Florida"
+      ]
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -523,9 +737,38 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Bus Accident",
+        "Car Accident",
+        "Trucking Accident",
+        "Wrongful Death"
+      ],
+      "languages_spoken": [
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Russian",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Washington State"
+      ],
+      "free_consultation": true,
+      "years_experience": 26,
+      "team_size": null,
+      "notable_cases": [
+        "Antonio Mays Jr. Wrongful Death - $30.5M verdict against City of Seattle"
+      ],
+      "awards": [
+        "NADC Recognition"
+      ],
+      "education": null
+    },
+    "profile_completeness": 72,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -577,9 +820,35 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Divorce",
+        "Child Custody",
+        "Child Support",
+        "Spousal Support",
+        "Property Division",
+        "Collaborative Divorce",
+        "International Divorce",
+        "High Net Worth Divorce"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Washington State Bar Association"
+      ],
+      "free_consultation": true,
+      "years_experience": 20,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "Top 100 Family Law Lawyer (National Advocates)",
+        "National Trial Lawyers Top 100"
+      ],
+      "education": [
+        "Master's in Taxation (University of Washington)"
+      ]
+    },
+    "profile_completeness": 70,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -632,9 +901,22 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Intellectual Property",
+        "Patent Law"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 55,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -686,9 +968,34 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Divorce",
+        "Child Custody",
+        "Spousal Support",
+        "Prenuptial Agreements",
+        "High Net Worth Divorce",
+        "Tech Industry Divorce"
+      ],
+      "languages_spoken": [
+        "English",
+        "Chinese"
+      ],
+      "bar_admissions": [
+        "Washington State"
+      ],
+      "free_consultation": true,
+      "years_experience": 10,
+      "team_size": 5,
+      "notable_cases": [],
+      "awards": [
+        "AVVO Rating Award",
+        "Super Lawyers Rising Star"
+      ],
+      "education": []
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -741,9 +1048,31 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Employment Discrimination",
+        "Sexual Harassment",
+        "Wrongful Termination",
+        "FMLA",
+        "Wage and Overtime",
+        "Non-Competes"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 9,
+      "notable_cases": [
+        "Over $500 Million Obtained for Clients"
+      ],
+      "awards": [
+        "Super Lawyers Members",
+        "AV Preeminent Peer Rated"
+      ],
+      "education": []
+    },
+    "profile_completeness": 64,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -797,9 +1126,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 50,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -848,9 +1187,31 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Domestic Violence Protection & Safety Orders",
+        "Prenuptial, Postnuptial & Property Settlement Agreements",
+        "Divorce and Legal Separation",
+        "Committed Intimate Relationship Dissolutions",
+        "Child Custody and Parenting Plans",
+        "Guardianships and Juvenile Dependency",
+        "Paternity and Parentage",
+        "Child Support Establishment and Modification",
+        "Enforcement of Family Law Orders",
+        "Adoption and Family Formation",
+        "Post-Divorce Estate Planning and Probate"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": 40,
+      "team_size": 8,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 61,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -894,17 +1255,37 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "09:00-17:00",
-      "Tuesday": "09:00-17:00",
-      "Wednesday": "09:00-17:00",
-      "Thursday": "09:00-17:00",
-      "Friday": "09:00-17:00"
+      "monday_to_friday": "9:00 AM to 5:00 PM"
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Real Estate Escrow",
+        "Business Escrow",
+        "Landlord & Tenant",
+        "Purchase & Sales",
+        "Titles & Liens",
+        "Partition",
+        "Boundary Lines",
+        "Adult Family Home",
+        "Breach of Contract",
+        "Drafting Contracts",
+        "Entity Formation",
+        "Estate Planning",
+        "Probate"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 55,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1008,9 +1389,19 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 55,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1054,9 +1445,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1100,9 +1501,47 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Asbestos & Mesothelioma",
+        "Auto Accidents",
+        "Brain Injury / Spinal Cord Injury",
+        "Class Actions",
+        "Crime Victims",
+        "Elder and Vulnerable Adult Abuse",
+        "Employment Law",
+        "Legal Malpractice",
+        "Medical Malpractice",
+        "Personal Injury & Wrongful Death",
+        "Product Liability",
+        "Sexual Assault & Harassment",
+        "Birth Injury",
+        "Consumer Protection",
+        "Race Discrimination and Harassment"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": 56,
+      "team_size": null,
+      "notable_cases": [
+        "$21 Million verdict for race discrimination against Seattle Children's Hospital",
+        "$17 Million verdict in birth injury/hypoglycemia case",
+        "$16.6 Million verdict for asbestos-exposed mesothelioma worker"
+      ],
+      "awards": [
+        "Super Lawyers (nearly every attorney)",
+        "Avvo 10/10 rating or Superb (nearly every attorney)",
+        "US News and Best Lawyers Tier 1 ranking",
+        "American College of Trial Lawyers recognition"
+      ],
+      "education": []
+    },
+    "profile_completeness": 59,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1147,9 +1586,25 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Environmental Law",
+        "Land Use Law",
+        "Property Disputes",
+        "Anti-Development Law",
+        "Environmental Litigation"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 48,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1193,9 +1648,32 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Chapter 7 Bankruptcy",
+        "Chapter 13 Bankruptcy",
+        "Bankruptcy Means Test",
+        "Stopping Foreclosure in Bankruptcy",
+        "Stopping Wage Garnishments",
+        "Bankruptcy Exemptions",
+        "Resolving Tax Debt in Bankruptcy"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Washington State Bar Association"
+      ],
+      "free_consultation": true,
+      "years_experience": 28,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "Super Lawyers Rising Stars",
+        "NACBA Member"
+      ],
+      "education": []
+    },
+    "profile_completeness": 57,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1239,9 +1717,35 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Insurance Claims and Bad Faith",
+        "Personal Injury",
+        "Aviation",
+        "Wrongful Death",
+        "Medical Malpractice",
+        "Trucking",
+        "Product Liability"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Washington",
+        "Alaska"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 23,
+      "notable_cases": [
+        "Cox v. 3M Company - $67.5 million",
+        "Washington v. Endoscopy Center - $104 million"
+      ],
+      "awards": [
+        "2026 Best Law Firm by Best Lawyers"
+      ],
+      "education": []
+    },
+    "profile_completeness": 57,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1285,9 +1789,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1331,9 +1845,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1380,9 +1904,26 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Immigration Law",
+        "Information Technology Law",
+        "National Security Law",
+        "Cases involving suspected fraud",
+        "Travel rights and government investigations",
+        "Federal law enforcement matters"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 45,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1428,9 +1969,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1474,9 +2025,43 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Divorce",
+        "High Asset Divorce",
+        "Divorce with Domestic Violence",
+        "Prenuptial and Post-Marital Agreements",
+        "Parental Rights and Paternity",
+        "Parenting Plans and Child Custody",
+        "Criminal Defense",
+        "DUI and Reckless Driving",
+        "Drug Possession, Delivery, and Manufacturing",
+        "Federal Charges",
+        "Homicide",
+        "Assault",
+        "Robbery",
+        "Arson",
+        "Burglary",
+        "Sex Crimes",
+        "Juvenile Criminal Defense"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": 18,
+      "team_size": 4,
+      "notable_cases": [],
+      "awards": [
+        "Avvo Clients' Choice Award 2017",
+        "Avvo Clients' Choice Award 2018",
+        "Avvo Clients' Choice Award 2019",
+        "Avvo Clients' Choice Award 2021",
+        "Avvo 10.0 Rating"
+      ],
+      "education": []
+    },
+    "profile_completeness": 57,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1520,9 +2105,45 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accident",
+        "Motorcycle Accident",
+        "Pedestrian Accident",
+        "Construction Accident",
+        "Wrongful Death",
+        "Medical Malpractice",
+        "Worker's Compensation"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Washington State"
+      ],
+      "free_consultation": true,
+      "years_experience": 85,
+      "team_size": 7,
+      "notable_cases": [
+        {
+          "description": "Commercial injury settlement",
+          "amount": "$20+ million"
+        },
+        {
+          "description": "Wrongful death automobile collision",
+          "amount": "$1.6+ million"
+        }
+      ],
+      "awards": [
+        "AV Peer Review Rating",
+        "AVVO Rated"
+      ],
+      "education": null
+    },
+    "profile_completeness": 65,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1566,9 +2187,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 40,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1613,9 +2244,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 43,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1658,9 +2299,29 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Wrongful Death in Jail/Prison",
+        "Police Brutality",
+        "Police Shootings",
+        "Prison Inmate Abuse",
+        "Jail Medical Neglect"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 4,
+      "notable_cases": [
+        "$26.75 Million - Jail death case",
+        "$25 Million - Jail injury case",
+        "$8 Million - Excessive force by police"
+      ],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 51,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1702,12 +2363,47 @@
     "types": [
       "lawyer"
     ],
-    "hours": {},
+    "hours": {
+      "monday_to_friday": "09:00-17:00"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Real Estate Law",
+        "Land Use",
+        "Probate Law",
+        "Construction Law",
+        "Business Law",
+        "Family Law",
+        "Estate Planning",
+        "Employment Law",
+        "Civil Litigation",
+        "Landlord-Tenant Law",
+        "Contract Law",
+        "Trust Law"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Washington State Bar Association"
+      ],
+      "free_consultation": true,
+      "years_experience": 100,
+      "team_size": 20,
+      "notable_cases": [],
+      "awards": [
+        "Distinguished Lawyer",
+        "Best Law Firm 2024",
+        "Best Lawyers",
+        "Washington Best of the Bar",
+        "BBB Accredited Business (A+ Rating)",
+        "Best Lawyers - National Badge",
+        "Best in the PNW 2025 Employment & Labor Law Winner"
+      ],
+      "education": []
+    },
+    "profile_completeness": 70,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1752,9 +2448,21 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 45,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1797,9 +2505,25 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accidents",
+        "Injury Law"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": 30,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [
+        "Award-winning team"
+      ],
+      "education": []
+    },
+    "profile_completeness": 54,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1847,12 +2571,41 @@
     "types": [
       "lawyer"
     ],
-    "hours": {},
+    "hours": {
+      "Monday": "08:30-17:00",
+      "Tuesday": "08:30-17:00",
+      "Wednesday": "08:30-17:00",
+      "Thursday": "08:30-17:00",
+      "Friday": "08:30-17:00"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Motorcycle Accidents",
+        "Truck Accidents",
+        "Bicycle Accidents",
+        "Pedestrian Accidents",
+        "DUI Accidents",
+        "Wrongful Death",
+        "Traumatic Brain Injuries"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Washington"
+      ],
+      "free_consultation": true,
+      "years_experience": 40,
+      "team_size": 4,
+      "notable_cases": [
+        "$5.5 million settlement - drunk driver collision"
+      ],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 67,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1900,9 +2653,23 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Estate Planning",
+        "Tax Planning",
+        "Probate"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 45,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1945,9 +2712,27 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Commercial Aviation",
+        "Corporate Aviation",
+        "Aircraft Sales",
+        "Aircraft Leasing",
+        "Aircraft Financing",
+        "Aircraft Exchange",
+        "Transactional Aviation Law"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": 20,
+      "team_size": 7,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 51,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2215,9 +3000,24 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Wills",
+        "Estate Planning",
+        "Probate",
+        "Real Estate Assets"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 35,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2259,9 +3059,24 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accidents"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Washington State"
+      ],
+      "free_consultation": true,
+      "years_experience": 30,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 44,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2299,9 +3114,37 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Labor certifications (ETA 9089)",
+        "Extraordinary ability immigrant petitions (I-140)",
+        "Outstanding researcher immigrant petitions (I-140)",
+        "National interest waiver immigrant petitions (I-140)",
+        "Family-based immigrant petitions (I-130)",
+        "Adjustment of Status (I-485)",
+        "Consular Immigrant Visas",
+        "K-3 Spouse and K-1 Fiance Nonimmigrant Visas (I-129)",
+        "Naturalization (N-400)",
+        "Nonimmigrant status (H, TN, L, E, O, Q, R, U, VAWA)"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Washington State Bar Association",
+        "Michigan State Bar Association"
+      ],
+      "free_consultation": null,
+      "years_experience": 15,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": [
+        "Juris Doctor from Wayne State University (2005)",
+        "Bachelor of Arts in Music from Calvin College",
+        "Bachelor of Arts in Urban Studies from Calvin College"
+      ]
+    },
+    "profile_completeness": 44,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2342,12 +3185,49 @@
     "types": [
       "lawyer"
     ],
-    "hours": {},
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "09:00-17:00",
+      "Sunday": "09:00-17:00"
+    },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Traumatic Brain Injury",
+        "Pedestrian Injuries",
+        "Drunk Driver Accidents",
+        "Bicycle Accidents",
+        "Wrongful Death",
+        "Rideshare Accidents"
+      ],
+      "languages_spoken": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Washington State"
+      ],
+      "free_consultation": true,
+      "years_experience": 35,
+      "team_size": 5,
+      "notable_cases": [],
+      "awards": [
+        "Super Lawyers",
+        "Million Dollar Advocate",
+        "AVVO Rating"
+      ],
+      "education": [
+        "Georgetown Law"
+      ]
+    },
+    "profile_completeness": 68,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2389,9 +3269,44 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "DUI Defense",
+        "Personal Injury",
+        "Criminal Defense",
+        "Automobile Accidents",
+        "Pedestrian Accidents",
+        "Bicycle Accidents",
+        "Motorcycle Accidents",
+        "Trucking Accidents",
+        "Motor Vehicle Accidents"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [
+        "$2,100,000 Pedestrian Accident settlement",
+        "$1,600,000 Bus Accident settlement",
+        "Not Guilty verdict in DUI case with 0.3 BAC",
+        "Not Guilty verdict in 7 Counts Felony case"
+      ],
+      "awards": [
+        "Million Dollar Advocates",
+        "Washington Super Lawyer",
+        "Top American Lawyers",
+        "Gerry Spence Trial Lawyers College",
+        "Avvo 10.0 Rating"
+      ],
+      "education": [
+        "Bachelor's degree in Rhetoric from University of California at Berkeley",
+        "Law degree from University of Washington",
+        "Gerry Spence Trial Lawyers College"
+      ]
+    },
+    "profile_completeness": 44,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2436,9 +3351,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 30,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2528,9 +3453,23 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 40,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Auto accident",
+        "Motorcycle accident",
+        "Dog bite/attack"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": true,
+      "years_experience": 25,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 41,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -2838,9 +3777,43 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 30,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Foodborne illness litigation",
+        "Food poisoning claims",
+        "E. coli outbreak cases",
+        "Salmonella contamination",
+        "Listeria infection cases",
+        "Food safety advocacy",
+        "Product liability"
+      ],
+      "languages_spoken": [],
+      "bar_admissions": [
+        "Washington State",
+        "King County Bar Association"
+      ],
+      "free_consultation": null,
+      "years_experience": 30,
+      "team_size": null,
+      "notable_cases": [
+        "Jack in the Box E. coli O157:H7 outbreak (Brianne Kiner settlement: $15.6 million)",
+        "Stephanie Smith hamburger E. coli case",
+        "Cases against Cargill, Chipotle, McDonald's, Taco Bell, Wendy's"
+      ],
+      "awards": [
+        "2013 - Seattle University Distinguished Law Graduate Award",
+        "2011 - Seattle University Professional Achievement Award",
+        "2010 - NSF Food Safety Leadership Award for Education",
+        "2008 - Outstanding Lawyer Award, King County Bar Association",
+        "1998-Present - Super Lawyer designation, Washington State"
+      ],
+      "education": [
+        "1987 - J.D. from Seattle University School of Law",
+        "1982 - B.A. in Political Science, Economics, and English from Washington State University"
+      ]
+    },
+    "profile_completeness": 37,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -3358,9 +4331,19 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 30,
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [],
+      "languages_spoken": [],
+      "bar_admissions": [],
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [],
+      "awards": [],
+      "education": []
+    },
+    "profile_completeness": 20,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
