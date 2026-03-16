@@ -3623,8 +3623,7 @@
     },
     "sources": [
       "osm"
-    ],
-    "email": "example@mail.com"
+    ]
   },
   {
     "id": "osm_node_12421326801",

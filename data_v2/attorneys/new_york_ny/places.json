@@ -990,8 +990,7 @@
     },
     "sources": [
       "osm"
-    ],
-    "email": "jo@lawfirmsites.com"
+    ]
   },
   {
     "id": "osm_node_5825032358",
@@ -2430,7 +2429,6 @@
     "sources": [
       "osm"
     ],
-    "email": "john@smith.com",
     "booking_url": "https://www.leofraserlaw.com/wp-content/plugins/contact-form-7/includes/css/styles.css"
   },
   {
@@ -3077,7 +3075,6 @@
     "sources": [
       "osm"
     ],
-    "email": "email@work.com",
     "booking_url": "https://www.yourlawyer.com/about/melanie-h-muhlstock/"
   },
   {
@@ -4323,7 +4320,6 @@
     "sources": [
       "osm"
     ],
-    "email": "email@work.com",
     "booking_url": "https://www.yourlawyer.com/about/melanie-h-muhlstock/"
   },
   {

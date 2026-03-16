@@ -1509,8 +1509,7 @@
     },
     "sources": [
       "osm"
-    ],
-    "email": "email@address.com"
+    ]
   },
   {
     "id": "osm_node_11882925662",
