@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Ocean Drive Ops — Real Slice</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div id="app">
+    <div id="map"></div>
+    <div class="map-vignette"></div>
+
+    <header class="topbar">
+      <div class="brand-block">
+        <span class="eyebrow">Hybrid prototype</span>
+        <h1>Ocean Drive Ops</h1>
+        <p>Real South Beach map underneath. Collaborative business facts on top.</p>
+      </div>
+      <div class="top-stats">
+        <div class="stat-card">
+          <span class="label">Slice</span>
+          <strong id="slice-label">Ocean Drive Core</strong>
+        </div>
+        <div class="stat-card">
+          <span class="label">Nearby</span>
+          <strong id="nearby-count">0</strong>
+        </div>
+        <div class="stat-card">
+          <span class="label">Verified Facts</span>
+          <strong id="verified-count">0</strong>
+        </div>
+        <div class="stat-card">
+          <span class="label">Community Actions</span>
+          <strong id="actions-count">0</strong>
+        </div>
+      </div>
+    </header>
+
+    <aside class="missions-panel">
+      <div class="panel-head">
+        <span class="eyebrow">Priority queue</span>
+        <h2>Closest businesses needing data</h2>
+      </div>
+      <div id="queue-list" class="queue-list"></div>
+      <div class="panel-foot">
+        Move with <kbd>WASD</kbd> or drag the map. If a marker enters the scan ring, you can validate facts.
+      </div>
+    </aside>
+
+    <aside class="detail-panel">
+      <div id="detail-empty" class="detail-empty">
+        <span class="eyebrow">Select a place</span>
+        <h2>Point the scan ring at a business</h2>
+        <p>
+          This demo uses a small real slice of South Beach and a local subset of the repo's
+          OSM-backed business data.
+        </p>
+      </div>
+
+      <div id="detail-content" class="detail-content hidden">
+        <div class="panel-head compact">
+          <span class="eyebrow">Live business card</span>
+          <h2 id="business-name">News Cafe</h2>
+        </div>
+
+        <div class="business-meta">
+          <span id="business-category" class="meta-chip">Restaurant</span>
+          <span id="business-completeness" class="meta-chip emphasis">65% complete</span>
+          <span id="business-distance" class="meta-chip">0m away</span>
+        </div>
+
+        <p id="business-address" class="business-address"></p>
+
+        <div class="known-grid">
+          <div class="known-card">
+            <span class="known-label">Phone</span>
+            <strong id="known-phone">Missing</strong>
+          </div>
+          <div class="known-card">
+            <span class="known-label">Website</span>
+            <strong id="known-website">Missing</strong>
+          </div>
+          <div class="known-card">
+            <span class="known-label">Hours</span>
+            <strong id="known-hours">Missing</strong>
+          </div>
+        </div>
+
+        <div class="facts-head">
+          <div>
+            <span class="eyebrow">Micro tasks</span>
+            <h3>Community verification</h3>
+          </div>
+          <button id="focus-button" class="ghost-button">Center marker</button>
+        </div>
+
+        <div id="facts-list" class="facts-list"></div>
+
+        <div class="data-footer">
+          <span id="business-source">Source: OSM</span>
+          <span id="business-license">License: ODbL 1.0</span>
+        </div>
+      </div>
+    </aside>
+
+    <section class="feed-panel">
+      <div class="panel-head compact">
+        <span class="eyebrow">Session feed</span>
+        <h2>Recent contributions</h2>
+      </div>
+      <div id="feed-list" class="feed-list"></div>
+    </section>
+
+    <div class="scanner">
+      <div class="scanner-ring"></div>
+      <div class="scanner-crosshair"></div>
+    </div>
+
+    <div id="visit-prompt" class="visit-prompt hidden">
+      <span id="visit-copy">Business in range</span>
+      <button id="visit-button" class="visit-button">Open business</button>
+    </div>
+
+    <div class="controls-panel">
+      <span><kbd>WASD</kbd> move</span>
+      <span><kbd>Shift</kbd> faster pan</span>
+      <span><kbd>E</kbd> open nearest business</span>
+      <span>Map data sample from local `data_v2`</span>
+    </div>
+
+    <div id="toast" class="toast"></div>
+  </div>
+
+  <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
