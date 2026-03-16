@@ -83,7 +83,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://robertsmarkland.com/wp-content/plugins/contact-form-7/includes/css/styles.css"
   },
   {
     "id": "osm_node_9433328601",
@@ -157,7 +158,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://westhoustonattorney.com/contact-us/"
   },
   {
     "id": "osm_node_11381294125",
@@ -241,7 +243,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "shane@hmtrial.com",
+    "booking_url": "https://hmtrial.com/contact-us/"
   },
   {
     "id": "osm_node_11510394286",
@@ -316,7 +320,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.serafinismithlawfirm.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_13439763051",
@@ -498,7 +503,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.terrybryant.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.8"
   },
   {
     "id": "osm_node_5293574632",
@@ -699,7 +705,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "barbara@gardneremploymentlaw.com",
+    "booking_url": "https://gardneremploymentlaw.com/services/employee-stock-options/"
   },
   {
     "id": "osm_node_7896661199",
@@ -792,7 +800,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "thalia@neonambition.com",
+    "booking_url": "https://www.johnsongarcialaw.com/contact-us/"
   },
   {
     "id": "osm_node_9340219635",
@@ -858,7 +868,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://connect.facebook.net"
   },
   {
     "id": "osm_node_9596652799",
@@ -924,7 +935,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@katherineboydlaw.com",
+    "booking_url": "https://www.katherineboydlaw.com/contact"
   },
   {
     "id": "osm_node_9963293854",
@@ -1005,7 +1018,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "alex@lawfirmmarketing360.com",
+    "booking_url": "https://heardlawfirm.com/contact-us/"
   },
   {
     "id": "osm_node_10296204552",
@@ -1217,7 +1232,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@sutliffstout.com",
+    "booking_url": "https://www.sutliffstout.com/contact-us/"
   },
   {
     "id": "osm_node_12665355202",
@@ -1286,7 +1303,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://luisgarcialaw.com/index.aspx?TypeContent=CONTACTUS"
   },
   {
     "id": "osm_node_5850939868",
@@ -1443,7 +1461,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@baumgartnerlawyers.com"
   },
   {
     "id": "osm_node_5941989446",
@@ -1567,7 +1586,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://sbrownlawyer.com/divorce-book/"
   },
   {
     "id": "osm_node_3691751845",
@@ -1692,7 +1712,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://joelagordon.com/contact-us/"
   },
   {
     "id": "osm_node_6413914341",
@@ -1853,7 +1874,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "marketing@thecromeenslawfirm.com",
+    "booking_url": "https://www.facebook.com/cromeenslawfirm/"
   },
   {
     "id": "osm_node_7064255366",
@@ -1924,7 +1947,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.defyoppression.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.7"
   },
   {
     "id": "osm_node_12023733184",
