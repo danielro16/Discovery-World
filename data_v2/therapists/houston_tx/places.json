@@ -260,7 +260,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@psynergypsych.com"
   },
   {
     "id": "osm_node_9853158674",
@@ -334,7 +335,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@roomforchange.info",
+    "booking_url": "https://ajanatherapy.com/contact/"
   },
   {
     "id": "osm_way_520346693",
@@ -420,7 +423,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://lp.constantcontactpages.com/su/U9Z7pbJ/subscribe"
   },
   {
     "id": "osm_node_10911289185",
@@ -492,7 +496,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "http://facebook.com/elitespectrumaba"
   },
   {
     "id": "osm_node_9681850576",
@@ -751,7 +756,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.cypresscreekhospital.com/contact-us/"
   },
   {
     "id": "osm_way_1100740604",
@@ -1179,7 +1185,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "admissions@ethoswellness.com",
+    "booking_url": "https://ethoswellness.com/contact/"
   },
   {
     "id": "osm_node_13267171040",
@@ -1311,7 +1319,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/houstonbehavioralhealth"
   },
   {
     "id": "osm_node_3227140991",
@@ -1405,7 +1414,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@sunhouston.com",
+    "booking_url": "https://sunhouston.com/wp-content/plugins/simply-schedule-appointments/includes/divi/styles/style.min.css?ver=1.0.2"
   },
   {
     "id": "osm_way_567855233",
@@ -1458,7 +1469,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@sunhouston.com",
+    "booking_url": "https://sunhouston.com/wp-content/plugins/simply-schedule-appointments/includes/divi/styles/style.min.css?ver=1.0.2"
   },
   {
     "id": "osm_node_9555501663",
@@ -1517,7 +1530,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://optimisticcounseling.com/contact-me/what-you-need/"
   },
   {
     "id": "osm_way_840370690",
@@ -1570,7 +1584,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://morganrecordsmanagement.com/contact-us/"
   },
   {
     "id": "osm_way_1216013617",
@@ -1662,7 +1677,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "otsid606@otsid.org",
+    "booking_url": "https://oldtownspringshopping.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_way_628730333",
