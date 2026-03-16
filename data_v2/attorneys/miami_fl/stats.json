@@ -1,0 +1,17 @@
+{
+  "vertical": "attorneys",
+  "city": "Miami, FL",
+  "total_places": 79,
+  "sources": {
+    "osm": 79,
+    "public_records": 0
+  },
+  "with_website": 67,
+  "with_phone": 67,
+  "with_address": 78,
+  "with_license": 0,
+  "avg_completeness": 56.3,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

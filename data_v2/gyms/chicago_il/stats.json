@@ -1,0 +1,17 @@
+{
+  "vertical": "gyms",
+  "city": "Chicago, IL",
+  "total_places": 402,
+  "sources": {
+    "osm": 402,
+    "public_records": 0
+  },
+  "with_website": 110,
+  "with_phone": 35,
+  "with_address": 333,
+  "with_license": 0,
+  "avg_completeness": 32.8,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

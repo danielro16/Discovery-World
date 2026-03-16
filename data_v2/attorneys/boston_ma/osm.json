@@ -1,0 +1,3430 @@
+[
+  {
+    "id": "osm_node_8423171244",
+    "name": "Carmen Bello Immigration Law Office",
+    "address": "",
+    "location": {
+      "lat": 42.1923621,
+      "lng": -71.2020995
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8423171244",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8423171244,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Carmen Bello Immigration Law Office",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_5915839585",
+    "name": "Paul Cooperstein Counsellor At Law",
+    "address": "500 Victory Road, Quincy, MA, 02171",
+    "location": {
+      "lat": 42.2989145,
+      "lng": -71.0303864
+    },
+    "phone": "+1 617-328-7333",
+    "website": "https://www.paulcoopersteincounselloratlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5915839585",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5915839585,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Quincy",
+      "addr:housenumber": "500",
+      "addr:postcode": "02171",
+      "addr:state": "MA",
+      "addr:street": "Victory Road",
+      "fax": "+1 617-687-2589",
+      "name": "Paul Cooperstein Counsellor At Law",
+      "office": "lawyer",
+      "phone": "+1 617-328-7333",
+      "website": "https://www.paulcoopersteincounselloratlaw.com/"
+    }
+  },
+  {
+    "id": "osm_node_10930424735",
+    "name": "Chin Law Firm",
+    "address": "",
+    "location": {
+      "lat": 42.2737372,
+      "lng": -71.0255624
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10930424735",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10930424735,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Chin Law Firm",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_10980055830",
+    "name": "Peck Law Offices LLC",
+    "address": "506 Washington Street, Braintree, MA, 02184",
+    "location": {
+      "lat": 42.2155585,
+      "lng": -71.0040365
+    },
+    "phone": "+1-781-843-2295",
+    "website": "https://pecklawoffices2008.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10980055830",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "10:00-18:00",
+      "Tuesday": "10:00-18:00",
+      "Wednesday": "10:00-18:00",
+      "Thursday": "10:00-18:00",
+      "Friday": "10:00-20:00",
+      "Saturday": "8:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10980055830,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Braintree",
+      "addr:country": "US",
+      "addr:housenumber": "506",
+      "addr:postcode": "02184",
+      "addr:state": "MA",
+      "addr:street": "Washington Street",
+      "fax": "+1-781-380-7711",
+      "name": "Peck Law Offices LLC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Th 10:00-18:00; Fr 10:00-20:00; Sa 8:00-17:00",
+      "phone": "+1-781-843-2295",
+      "website": "https://pecklawoffices2008.com"
+    }
+  },
+  {
+    "id": "osm_node_1424503582",
+    "name": "Peck Law Offices",
+    "address": "882 Commercial Street, Weymouth, MA",
+    "location": {
+      "lat": 42.2156045,
+      "lng": -70.9242035
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/1424503582",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1424503582,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Weymouth",
+      "addr:housenumber": "882",
+      "addr:state": "MA",
+      "addr:street": "Commercial Street",
+      "name": "Peck Law Offices",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_6042031014",
+    "name": "S. David White P.C Real Estate Attorneys",
+    "address": "",
+    "location": {
+      "lat": 42.1811356,
+      "lng": -70.9015229
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6042031014",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6042031014,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "S. David White P.C Real Estate Attorneys",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_7041128333",
+    "name": "Potter MacLellan",
+    "address": "113 Ripley Road",
+    "location": {
+      "lat": 42.2408868,
+      "lng": -70.80405
+    },
+    "phone": "+1-784-240-1414",
+    "website": "http://www.pottermaclaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7041128333",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7041128333,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "113",
+      "addr:street": "Ripley Road",
+      "name": "Potter MacLellan",
+      "office": "lawyer",
+      "phone": "+1-784-240-1414",
+      "website": "http://www.pottermaclaw.com/"
+    }
+  },
+  {
+    "id": "osm_node_7176044834",
+    "name": "Ohrenberger, De Lisi & Harris, LLP",
+    "address": "5 Brook Street",
+    "location": {
+      "lat": 42.2399924,
+      "lng": -70.8008618
+    },
+    "phone": "+1-781-383-6700",
+    "website": "http://www.odhlegal.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7176044834",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-17:00",
+      "Tuesday": "08:30-17:00",
+      "Wednesday": "08:30-17:00",
+      "Thursday": "08:30-17:00",
+      "Friday": "08:30-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7176044834,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "5",
+      "addr:street": "Brook Street",
+      "name": "Ohrenberger, De Lisi & Harris, LLP",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-17:00",
+      "phone": "+1-781-383-6700",
+      "website": "http://www.odhlegal.com/"
+    }
+  },
+  {
+    "id": "osm_node_7176044835",
+    "name": "Henderson & Henderson",
+    "address": "9 Brook Street",
+    "location": {
+      "lat": 42.2400428,
+      "lng": -70.8008303
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7176044835",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7176044835,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "9",
+      "addr:street": "Brook Street",
+      "name": "Henderson & Henderson",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_way_102903630",
+    "name": "Law offices of Drew M Elinoff",
+    "address": "1382 Pleasant Street, Weymouth, MA",
+    "location": {
+      "lat": 42.2138051,
+      "lng": -70.9254011
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/102903630",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 102903630,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Weymouth",
+      "addr:housenumber": "1382",
+      "addr:state": "MA",
+      "addr:street": "Pleasant Street",
+      "building": "yes",
+      "name": "Law offices of Drew M Elinoff",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_3814131771",
+    "name": "John Holt Insurance Agency",
+    "address": "807 Massachusetts Avenue",
+    "location": {
+      "lat": 42.4305616,
+      "lng": -71.2075053
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3814131771",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3814131771,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "807",
+      "addr:street": "Massachusetts Avenue",
+      "name": "John Holt Insurance Agency",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_6101537054",
+    "name": "Ellen Sullivan, P.C.",
+    "address": "",
+    "location": {
+      "lat": 42.3935159,
+      "lng": -71.1310884
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6101537054",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6101537054,
+    "osm_type": "node",
+    "osm_tags": {
+      "description": "Immigration law",
+      "name": "Ellen Sullivan, P.C.",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_9647708066",
+    "name": "Law Office of Katz & Whitehead",
+    "address": "161 Harvard Avenue, Allston, MA, 02134",
+    "location": {
+      "lat": 42.3515322,
+      "lng": -71.1319333
+    },
+    "phone": "",
+    "website": "https://katzandwhitehead.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9647708066",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9647708066,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Allston",
+      "addr:housenumber": "161",
+      "addr:postcode": "02134",
+      "addr:state": "MA",
+      "addr:street": "Harvard Avenue",
+      "addr:unit": "4",
+      "name": "Law Office of Katz & Whitehead",
+      "office": "lawyer",
+      "website": "https://katzandwhitehead.com/"
+    }
+  },
+  {
+    "id": "osm_node_10098282298",
+    "name": "Morgan & Morgan",
+    "address": "1601 Trapelo Rd, Waltham, MA, 02451",
+    "location": {
+      "lat": 42.4173667,
+      "lng": -71.2589553
+    },
+    "phone": "+1 857-221-4000",
+    "website": "https://www.forthepeople.com/waltham/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10098282298",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10098282298,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Waltham",
+      "addr:housenumber": "1601",
+      "addr:postcode": "02451",
+      "addr:state": "MA",
+      "addr:street": "Trapelo Rd",
+      "addr:unit": "#174",
+      "brand": "Morgan & Morgan",
+      "brand:wikidata": "Q111597979",
+      "brand:wikipedia": "en:Morgan & Morgan",
+      "name": "Morgan & Morgan",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 857-221-4000",
+      "website": "https://www.forthepeople.com/waltham/"
+    }
+  },
+  {
+    "id": "osm_node_10819895607",
+    "name": "Credentials Title and Escrow",
+    "address": "148 Massachusetts Avenue, Arlington, MA, 02474",
+    "location": {
+      "lat": 42.4043659,
+      "lng": -71.140865
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10819895607",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10819895607,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Arlington",
+      "addr:housenumber": "148",
+      "addr:postcode": "02474",
+      "addr:state": "MA",
+      "addr:street": "Massachusetts Avenue",
+      "name": "Credentials Title and Escrow",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_10828123239",
+    "name": "Gosselin Law",
+    "address": "635 Massachusetts Avenue, Arlington, MA, 02476",
+    "location": {
+      "lat": 42.415762,
+      "lng": -71.1533968
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10828123239",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10828123239,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Arlington",
+      "addr:housenumber": "635",
+      "addr:postcode": "02476",
+      "addr:state": "MA",
+      "addr:street": "Massachusetts Avenue",
+      "check_date": "2025-06-12",
+      "name": "Gosselin Law",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_10861393768",
+    "name": "John V. Hurd, P.C.",
+    "address": "400 Massachusetts Avenue, Arlington, MA, 02474",
+    "location": {
+      "lat": 42.4133163,
+      "lng": -71.1499457
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10861393768",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10861393768,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Arlington",
+      "addr:housenumber": "400",
+      "addr:postcode": "02474",
+      "addr:state": "MA",
+      "addr:street": "Massachusetts Avenue",
+      "check_date:opening_hours": "2024-01-30",
+      "name": "John V. Hurd, P.C.",
+      "office": "lawyer",
+      "opening_hours:signed": "no"
+    }
+  },
+  {
+    "id": "osm_node_12004360940",
+    "name": "O'Connell Law Office",
+    "address": "1026 Massachusetts Avenue, Arlington, MA, 02476",
+    "location": {
+      "lat": 42.4199666,
+      "lng": -71.1694444
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12004360940",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12004360940,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Arlington",
+      "addr:housenumber": "1026",
+      "addr:postcode": "02476",
+      "addr:state": "MA",
+      "addr:street": "Massachusetts Avenue",
+      "addr:unit": "A",
+      "name": "O'Connell Law Office",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_12005031380",
+    "name": "Law Office of Melanie Hagopian",
+    "address": "754 Massachusetts Avenue, Arlington, MA, 02476",
+    "location": {
+      "lat": 42.4162181,
+      "lng": -71.1577935
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12005031380",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12005031380,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Arlington",
+      "addr:housenumber": "754",
+      "addr:postcode": "02476",
+      "addr:state": "MA",
+      "addr:street": "Massachusetts Avenue",
+      "lawyer": "solicitor",
+      "name": "Law Office of Melanie Hagopian",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_12047230406",
+    "name": "Law Office of Deborah Nowell",
+    "address": "1193 Massachusetts Avenue, Arlington, MA, 02476",
+    "location": {
+      "lat": 42.4236758,
+      "lng": -71.1756217
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12047230406",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12047230406,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Arlington",
+      "addr:housenumber": "1193",
+      "addr:postcode": "02476",
+      "addr:state": "MA",
+      "addr:street": "Massachusetts Avenue",
+      "name": "Law Office of Deborah Nowell",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_12056678946",
+    "name": "Law Office of Bridgett Garballey James",
+    "address": "58 Medford Street, Arlington, MA, 02474",
+    "location": {
+      "lat": 42.4165561,
+      "lng": -71.1486051
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12056678946",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12056678946,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Arlington",
+      "addr:housenumber": "58",
+      "addr:postcode": "02474",
+      "addr:state": "MA",
+      "addr:street": "Medford Street",
+      "name": "Law Office of Bridgett Garballey James",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_12056678947",
+    "name": "Alfred J. Wolsky",
+    "address": "58 Medford Street, Arlington, MA, 02474",
+    "location": {
+      "lat": 42.4165828,
+      "lng": -71.1485474
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12056678947",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12056678947,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Arlington",
+      "addr:housenumber": "58",
+      "addr:postcode": "02474",
+      "addr:state": "MA",
+      "addr:street": "Medford Street",
+      "name": "Alfred J. Wolsky",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_way_196454101",
+    "name": "Robert J Annese",
+    "address": "1171 Massachusetts Avenue, Arlington, MA, 02476",
+    "location": {
+      "lat": 42.4235348,
+      "lng": -71.174359
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/196454101",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 196454101,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Arlington",
+      "addr:housenumber": "1171",
+      "addr:postcode": "02476",
+      "addr:state": "MA",
+      "addr:street": "Massachusetts Avenue",
+      "building": "yes",
+      "name": "Robert J Annese",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_1734147538",
+    "name": "Family Legal",
+    "address": "",
+    "location": {
+      "lat": 42.4263761,
+      "lng": -71.0808337
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/1734147538",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1734147538,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Family Legal",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_1765724858",
+    "name": "Rappa & Associates",
+    "address": "204 Main Street, Melrose",
+    "location": {
+      "lat": 42.4477252,
+      "lng": -71.0683342
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/1765724858",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1765724858,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Melrose",
+      "addr:housenumber": "204",
+      "addr:street": "Main Street",
+      "name": "Rappa & Associates",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_2672417233",
+    "name": "Hannaford Immigration Law",
+    "address": "265 Franklin Street, Boston, 02110",
+    "location": {
+      "lat": 42.3565617,
+      "lng": -71.0534199
+    },
+    "phone": "+1-617-855-8593",
+    "website": "https://www.hannafordimmigration.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2672417233",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-21:00",
+      "Tuesday": "09:00-21:00",
+      "Wednesday": "09:00-21:00",
+      "Thursday": "09:00-21:00",
+      "Friday": "09:00-21:00",
+      "Saturday": "10:00-18:00",
+      "Sunday": "10:00-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2672417233,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housename": "Hannaford Immigration Law",
+      "addr:housenumber": "265",
+      "addr:postcode": "02110",
+      "addr:street": "Franklin Street",
+      "addr:unit": "1702",
+      "name": "Hannaford Immigration Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 10:00-18:00",
+      "phone": "+1-617-855-8593",
+      "website": "https://www.hannafordimmigration.com/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": "osm_node_4035652713",
+    "name": "Law Office of Linda Olmstead",
+    "address": "84 South Street, Jamaica Plain, MA, 02130",
+    "location": {
+      "lat": 42.3068539,
+      "lng": -71.1152132
+    },
+    "phone": "+1-617 524-2821",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4035652713",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4035652713,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Jamaica Plain",
+      "addr:housenumber": "84",
+      "addr:postcode": "02130",
+      "addr:state": "MA",
+      "addr:street": "South Street",
+      "check_date": "2023-08-15",
+      "contact:phone": "+1-617 524-2821",
+      "description": "Wills, trusts, estates",
+      "name": "Law Office of Linda Olmstead",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_4035864388",
+    "name": "The Law Offices of Jenny H. Guirado, P.C.",
+    "address": "112 South Street",
+    "location": {
+      "lat": 42.3060478,
+      "lng": -71.1147874
+    },
+    "phone": "+1 617 983-0010",
+    "website": "https://www.guiradolaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4035864388",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4035864388,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "112",
+      "addr:street": "South Street",
+      "fax": "+1 617 983-0020",
+      "name": "The Law Offices of Jenny H. Guirado, P.C.",
+      "office": "lawyer",
+      "phone": "+1 617 983-0010",
+      "website": "https://www.guiradolaw.com/"
+    }
+  },
+  {
+    "id": "osm_node_4042927458",
+    "name": "Individual Practices of Law",
+    "address": "",
+    "location": {
+      "lat": 42.3129031,
+      "lng": -71.1133793
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4042927458",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4042927458,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Individual Practices of Law",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_4065241702",
+    "name": "Paul F. Murphy Attorney at Law",
+    "address": "8 Thomas Street",
+    "location": {
+      "lat": 42.3106551,
+      "lng": -71.115278
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4065241702",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4065241702,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "8",
+      "addr:street": "Thomas Street",
+      "name": "Paul F. Murphy Attorney at Law",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_4353430755",
+    "name": "Tetzel Law, LLC",
+    "address": "2 Center Plaza, Boston, MA, 02108",
+    "location": {
+      "lat": 42.3596785,
+      "lng": -71.0602202
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4353430755",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4353430755,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "2",
+      "addr:place": "Two Center Plaza",
+      "addr:postcode": "02108",
+      "addr:state": "MA",
+      "addr:street": "Center Plaza",
+      "addr:unit": "610",
+      "description": "Personal Injury Lawyer.",
+      "name": "Tetzel Law, LLC",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_4518892748",
+    "name": "The Law Offices of SJ Spero & Associates",
+    "address": "175 Federal Street, Boston, MA, 02110",
+    "location": {
+      "lat": 42.3532674,
+      "lng": -71.0562747
+    },
+    "phone": "+1-617-491-1200",
+    "website": "https://sjsperoandassociates.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4518892748",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4518892748,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "175",
+      "addr:postcode": "02110",
+      "addr:state": "MA",
+      "addr:street": "Federal Street",
+      "addr:unit": "1425",
+      "name": "The Law Offices of SJ Spero & Associates",
+      "office": "lawyer",
+      "phone": "+1-617-491-1200",
+      "website": "https://sjsperoandassociates.com/"
+    }
+  },
+  {
+    "id": "osm_node_4542605933",
+    "name": "Law Office of Alexander I. Shapoval, P.C.",
+    "address": "84 Winnisimmet Street, Chelsea, MA, 02150",
+    "location": {
+      "lat": 42.3884474,
+      "lng": -71.0398629
+    },
+    "phone": "+1 617-889-5800",
+    "website": "https://shapovallaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4542605933",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4542605933,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Chelsea",
+      "addr:housenumber": "84",
+      "addr:postcode": "02150",
+      "addr:state": "MA",
+      "addr:street": "Winnisimmet Street",
+      "fax": "+1 617-409-9994",
+      "name": "Law Office of Alexander I. Shapoval, P.C.",
+      "office": "lawyer",
+      "phone": "+1 617-889-5800",
+      "website": "https://shapovallaw.com/"
+    }
+  },
+  {
+    "id": "osm_node_4590999029",
+    "name": "Goulston & Storrs PC",
+    "address": "",
+    "location": {
+      "lat": 42.3555949,
+      "lng": -71.0504666
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4590999029",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4590999029,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Goulston & Storrs PC",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_5019078102",
+    "name": "Law Offices of Frank J. Cliano",
+    "address": "",
+    "location": {
+      "lat": 42.3727563,
+      "lng": -71.0805311
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5019078102",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5019078102,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Law Offices of Frank J. Cliano",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_5438855153",
+    "name": "Law Offices of Paul J. Sweeney",
+    "address": "63 Chatham Street, Boston, MA, 02109",
+    "location": {
+      "lat": 42.359627,
+      "lng": -71.0544442
+    },
+    "phone": "+1 617 720 2500",
+    "website": "https://pjsweeneylaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5438855153",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5438855153,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "63",
+      "addr:postcode": "02109",
+      "addr:state": "MA",
+      "addr:street": "Chatham Street",
+      "email": "info@pjsweeneylaw.com",
+      "name": "Law Offices of Paul J. Sweeney",
+      "office": "lawyer",
+      "phone": "+1 617 720 2500",
+      "website": "https://pjsweeneylaw.com/"
+    }
+  },
+  {
+    "id": "osm_node_5558513577",
+    "name": "Kiley Law Group, LLC",
+    "address": "265 Franklin Street, Boston, MA, 02110",
+    "location": {
+      "lat": 42.3566653,
+      "lng": -71.0534748
+    },
+    "phone": "+1-617-302-8489",
+    "website": "https://www.tomkileylaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5558513577",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5558513577,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "265",
+      "addr:postcode": "02110",
+      "addr:state": "MA",
+      "addr:street": "Franklin Street",
+      "addr:unit": "1702",
+      "description": "Kiley Law Group, LLC operates on the philosophy of giving timely legal attention to individuals no matter what their status in life is.",
+      "name": "Kiley Law Group, LLC",
+      "office": "lawyer",
+      "phone": "+1-617-302-8489",
+      "website": "https://www.tomkileylaw.com"
+    }
+  },
+  {
+    "id": "osm_node_5745239039",
+    "name": "Alan Hildreth King & Associates",
+    "address": "385 Broadway, Revere, MA, 02151",
+    "location": {
+      "lat": 42.4101942,
+      "lng": -71.0120747
+    },
+    "phone": "+1 781-284-2900",
+    "website": "http://ahkinglaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5745239039",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5745239039,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Revere",
+      "addr:housenumber": "385",
+      "addr:postcode": "02151",
+      "addr:state": "MA",
+      "addr:street": "Broadway",
+      "addr:unit": "101",
+      "name": "Alan Hildreth King & Associates",
+      "office": "lawyer",
+      "phone": "+1 781-284-2900",
+      "website": "http://ahkinglaw.com/"
+    }
+  },
+  {
+    "id": "osm_node_5942533519",
+    "name": "Parkhurst Law Offices",
+    "address": "45 School Street, Boston, MA, 02108",
+    "location": {
+      "lat": 42.3580374,
+      "lng": -71.0593875
+    },
+    "phone": "+1 617-357-9200",
+    "website": "https://www.parkhurstlawma.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5942533519",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5942533519,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "45",
+      "addr:postcode": "02108",
+      "addr:state": "MA",
+      "addr:street": "School Street",
+      "addr:unit": "3A",
+      "name": "Parkhurst Law Offices",
+      "office": "lawyer",
+      "phone": "+1 617-357-9200",
+      "website": "https://www.parkhurstlawma.com/"
+    }
+  },
+  {
+    "id": "osm_node_6114674648",
+    "name": "Peter Georgiou",
+    "address": "2285 Massachusetts Avenue, Cambridge, MA, 02140",
+    "location": {
+      "lat": 42.3949608,
+      "lng": -71.1272074
+    },
+    "phone": "+1 617 547 9600",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6114674648",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6114674648,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "2285",
+      "addr:postcode": "02140",
+      "addr:state": "MA",
+      "addr:street": "Massachusetts Avenue",
+      "description": "Personal injury, SSDI, workers' compensation",
+      "name": "Peter Georgiou",
+      "office": "lawyer",
+      "phone": "+1 617 547 9600"
+    }
+  },
+  {
+    "id": "osm_node_6120432143",
+    "name": "Bob Sweeney",
+    "address": "Cambridge Street, Cambridge, MA",
+    "location": {
+      "lat": 42.3709328,
+      "lng": -71.0782557
+    },
+    "phone": "+1 781 526 9440",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6120432143",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6120432143,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Cambridge",
+      "addr:state": "MA",
+      "addr:street": "Cambridge Street",
+      "check_date:opening_hours": "2023-11-08",
+      "description": "Constable Services - Summons - Subpoenas - Evictions - Notices - Summary Process",
+      "name": "Bob Sweeney",
+      "office": "lawyer",
+      "opening_hours:signed": "no",
+      "phone": "+1 781 526 9440"
+    }
+  },
+  {
+    "id": "osm_node_6471326408",
+    "name": "Walsh and Walsh Law Offices",
+    "address": "655 Somerville Avenue",
+    "location": {
+      "lat": 42.3847953,
+      "lng": -71.1119143
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6471326408",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6471326408,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "655",
+      "addr:street": "Somerville Avenue",
+      "name": "Walsh and Walsh Law Offices",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_6563825085",
+    "name": "QuickSilva Title",
+    "address": "",
+    "location": {
+      "lat": 42.4017567,
+      "lng": -71.1267646
+    },
+    "phone": "+1 617 666 9977",
+    "website": "https://quicksilvatitle.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6563825085",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6563825085,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "QuickSilva Title",
+      "office": "lawyer",
+      "phone": "+1 617 666 9977",
+      "website": "https://quicksilvatitle.com/"
+    }
+  },
+  {
+    "id": "osm_node_7714644988",
+    "name": "Lichten & Liss-Riordan, P.C.",
+    "address": "729 Boylston Street, Boston, MA, 02116",
+    "location": {
+      "lat": 42.3495934,
+      "lng": -71.0802498
+    },
+    "phone": "+1-617-994-5800",
+    "website": "https://www.llrlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7714644988",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7714644988,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "729",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Boylston Street",
+      "addr:unit": "#2000",
+      "email": "info@llrlaw.com",
+      "fax": "+1-617-994-5801",
+      "name": "Lichten & Liss-Riordan, P.C.",
+      "office": "lawyer",
+      "phone": "+1-617-994-5800",
+      "website": "https://www.llrlaw.com/"
+    }
+  },
+  {
+    "id": "osm_node_7811482114",
+    "name": "Warshaw, DiCarlo & Associates, P.C.",
+    "address": "77 Newbury Street, Boston, MA, 02116",
+    "location": {
+      "lat": 42.3520819,
+      "lng": -71.0746653
+    },
+    "phone": "+1-617-262-7800",
+    "website": "https://www.warshawlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7811482114",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7811482114,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "77",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Newbury Street",
+      "email": "info@warshawlaw.com",
+      "name": "Warshaw, DiCarlo & Associates, P.C.",
+      "office": "lawyer",
+      "phone": "+1-617-262-7800",
+      "website": "https://www.warshawlaw.com/"
+    }
+  },
+  {
+    "id": "osm_node_7865949122",
+    "name": "Brooks Law",
+    "address": "10 High Street, Medford, MA, 02155",
+    "location": {
+      "lat": 42.4181332,
+      "lng": -71.1101173
+    },
+    "phone": "+1-617-245-8090",
+    "website": "https://www.brookslawfirm.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7865949122",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7865949122,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Medford",
+      "addr:housenumber": "10",
+      "addr:postcode": "02155",
+      "addr:state": "MA",
+      "addr:street": "High Street",
+      "addr:unit": "3",
+      "contact:facebook": "https://www.facebook.com/BrooksLawEnglish",
+      "contact:instagram": "https://www.instagram.com/brookslawfirmpc/",
+      "description": "If you’ve been seriously hurt in an accident, you already have a lot on your mind. On top of the concerns about your physical recovery, you and your family may be struggling to make ends meet while you are out of work. You may already be facing a pile of",
+      "name": "Brooks Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-617-245-8090",
+      "website": "https://www.brookslawfirm.com"
+    }
+  },
+  {
+    "id": "osm_node_7888717535",
+    "name": "Morrison Mahoney LLP",
+    "address": "250 Summer Street, Boston, MA, 02210",
+    "location": {
+      "lat": 42.3508483,
+      "lng": -71.0508227
+    },
+    "phone": "+1-617-439-7500",
+    "website": "https://www.morrisonmahoney.com/locations/1-boston-ma",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7888717535",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7888717535,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "250",
+      "addr:postcode": "02210",
+      "addr:state": "MA",
+      "addr:street": "Summer Street",
+      "email": "boston@morrisonmahoney.com",
+      "fax": "+1-617-439-7590",
+      "name": "Morrison Mahoney LLP",
+      "office": "lawyer",
+      "phone": "+1-617-439-7500",
+      "website": "https://www.morrisonmahoney.com/locations/1-boston-ma"
+    }
+  },
+  {
+    "id": "osm_node_7926688803",
+    "name": "Ropes & Gray LLP",
+    "address": "800 Boylston Street, Boston, MA, 02199",
+    "location": {
+      "lat": 42.3472912,
+      "lng": -71.0825124
+    },
+    "phone": "+1-617-951-7000",
+    "website": "https://www.ropesgray.com/en/locations/boston",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7926688803",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7926688803,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "800",
+      "addr:postcode": "02199",
+      "addr:state": "MA",
+      "addr:street": "Boylston Street",
+      "fax": "+1-617-951-7050",
+      "name": "Ropes & Gray LLP",
+      "office": "lawyer",
+      "phone": "+1-617-951-7000",
+      "website": "https://www.ropesgray.com/en/locations/boston",
+      "wikidata": "Q7366746",
+      "wikipedia": "en:Ropes & Gray"
+    }
+  },
+  {
+    "id": "osm_node_7926688808",
+    "name": "Gordon Law Group LLP",
+    "address": "585 Boylston Street, Boston, MA, 02116",
+    "location": {
+      "lat": 42.3505454,
+      "lng": -71.0767698
+    },
+    "phone": "+1-617-536-1800",
+    "website": "https://www.gordonllp.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7926688808",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7926688808,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "585",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Boylston Street",
+      "fax": "+1-617-536-1802",
+      "name": "Gordon Law Group LLP",
+      "office": "lawyer",
+      "phone": "+1-617-536-1800",
+      "website": "https://www.gordonllp.com/"
+    }
+  },
+  {
+    "id": "osm_node_7926688810",
+    "name": "Immigration Solutions LLC",
+    "address": "585 Boylston Street, Boston, MA, 02116",
+    "location": {
+      "lat": 42.3506175,
+      "lng": -71.0767221
+    },
+    "phone": "+1-617-536-0584",
+    "website": "https://immsolutionsllc.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7926688810",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7926688810,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "585",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Boylston Street",
+      "fax": "+1-617-536-9454",
+      "name": "Immigration Solutions LLC",
+      "office": "lawyer",
+      "phone": "+1-617-536-0584",
+      "website": "https://immsolutionsllc.com/"
+    }
+  },
+  {
+    "id": "osm_node_8310494685",
+    "name": "WilmerHale",
+    "address": "Boston, MA, 02109",
+    "location": {
+      "lat": 42.3592637,
+      "lng": -71.0565436
+    },
+    "phone": "",
+    "website": "https://www.wilmerhale.com/en/contact-us/boston",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8310494685",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8310494685,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:postcode": "02109",
+      "addr:state": "MA",
+      "name": "WilmerHale",
+      "office": "lawyer",
+      "website": "https://www.wilmerhale.com/en/contact-us/boston"
+    }
+  },
+  {
+    "id": "osm_node_9317667380",
+    "name": "HKM Employment Attorneys LLP",
+    "address": "10 High Street, Boston, MA, 02110",
+    "location": {
+      "lat": 42.3537797,
+      "lng": -71.0564506
+    },
+    "phone": "+1 617-315-4724",
+    "website": "https://www.hkm.com/boston",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9317667380",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-17:30",
+      "Tuesday": "08:30-17:30",
+      "Wednesday": "08:30-17:30",
+      "Thursday": "08:30-17:30",
+      "Friday": "08:30-17:30"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9317667380,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "10",
+      "addr:postcode": "02110",
+      "addr:state": "MA",
+      "addr:street": "High Street",
+      "addr:unit": "Suite 401",
+      "description": "HKM Employment Attorneys LLP represents individuals and employees nationwide in all facets of employment litigation, counseling, and advice. We assist employees in all industries, from all ranks, and against all companies, large or small.",
+      "name": "HKM Employment Attorneys LLP",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-17:30",
+      "phone": "+1 617-315-4724",
+      "start_date": "2008",
+      "website": "https://www.hkm.com/boston"
+    }
+  },
+  {
+    "id": "osm_node_9655221258",
+    "name": "Jon L. Kennedy",
+    "address": "",
+    "location": {
+      "lat": 42.4172332,
+      "lng": -71.0466703
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9655221258",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9655221258,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Jon L. Kennedy",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_9709347573",
+    "name": "Law Offices of Richard N Gottlieb",
+    "address": "10 Tremont Street, Boston, MA, 02108",
+    "location": {
+      "lat": 42.3588222,
+      "lng": -71.0595746
+    },
+    "phone": "+1-617-742-4491",
+    "website": "https://rngbankruptcy.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9709347573",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9709347573,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "10",
+      "addr:postcode": "02108",
+      "addr:state": "MA",
+      "addr:street": "Tremont Street",
+      "addr:unit": "11",
+      "level": "3",
+      "name": "Law Offices of Richard N Gottlieb",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1-617-742-4491",
+      "website": "https://rngbankruptcy.com"
+    }
+  },
+  {
+    "id": "osm_node_10098458923",
+    "name": "Morgan & Morgan",
+    "address": "155 Federal Street, Boston, MA, 02110",
+    "location": {
+      "lat": 42.3537365,
+      "lng": -71.0565886
+    },
+    "phone": "+1 857 214 2148",
+    "website": "https://www.forthepeople.com/boston/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10098458923",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10098458923,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "155",
+      "addr:postcode": "02110",
+      "addr:state": "MA",
+      "addr:street": "Federal Street",
+      "addr:unit": "Suite 1502",
+      "brand": "Morgan & Morgan",
+      "brand:wikidata": "Q111597979",
+      "brand:wikipedia": "en:Morgan & Morgan",
+      "name": "Morgan & Morgan",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 857 214 2148",
+      "website": "https://www.forthepeople.com/boston/"
+    }
+  },
+  {
+    "id": "osm_node_10111477906",
+    "name": "Robert A. Indresano",
+    "address": "",
+    "location": {
+      "lat": 42.3713063,
+      "lng": -71.0392977
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10111477906",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10111477906,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Robert A. Indresano",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_10690320125",
+    "name": "Boston Banking Law",
+    "address": "26 Arborway, Jamaica Plain, MA, 02130",
+    "location": {
+      "lat": 42.3117561,
+      "lng": -71.1217032
+    },
+    "phone": "+1 857-203-9922",
+    "website": "https://bostonbankinglaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10690320125",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10690320125,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Jamaica Plain",
+      "addr:country": "US",
+      "addr:housenumber": "26",
+      "addr:postcode": "02130",
+      "addr:state": "MA",
+      "addr:street": "Arborway",
+      "name": "Boston Banking Law",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "payment:american_express": "yes",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:discover_card": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "phone": "+1 857-203-9922",
+      "website": "https://bostonbankinglaw.com"
+    }
+  },
+  {
+    "id": "osm_node_10886510731",
+    "name": "Macias & Greenstein",
+    "address": "59 Meridian Street, East Boston, MA, 02128",
+    "location": {
+      "lat": 42.3717501,
+      "lng": -71.0388194
+    },
+    "phone": "+1 617-561-0400",
+    "website": "https://www.maciasgreensteinlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10886510731",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10886510731,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "East Boston",
+      "addr:housenumber": "59",
+      "addr:postcode": "02128",
+      "addr:state": "MA",
+      "addr:street": "Meridian Street",
+      "addr:unit": "2",
+      "name": "Macias & Greenstein",
+      "office": "lawyer",
+      "phone": "+1 617-561-0400",
+      "website": "https://www.maciasgreensteinlaw.com/"
+    }
+  },
+  {
+    "id": "osm_node_11013978925",
+    "name": "Law Office Of Frank Fernandez, Esq.",
+    "address": "185 Devonshire Street, Boston, MA, 02110",
+    "location": {
+      "lat": 42.3560144,
+      "lng": -71.057562
+    },
+    "phone": "",
+    "website": "https://thefernandezfirm.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11013978925",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11013978925,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "185",
+      "addr:postcode": "02110",
+      "addr:state": "MA",
+      "addr:street": "Devonshire Street",
+      "addr:unit": "Suite 302",
+      "description": "Criminal Defense Attorney, within 185 Devonshire",
+      "name": "Law Office Of Frank Fernandez, Esq.",
+      "office": "lawyer",
+      "website": "https://thefernandezfirm.com/"
+    }
+  },
+  {
+    "id": "osm_node_11117680327",
+    "name": "Law Office of Robert M. Josephs",
+    "address": "84 South Street, Jamaica Plain, MA, 02130",
+    "location": {
+      "lat": 42.3068783,
+      "lng": -71.1152194
+    },
+    "phone": "+1-617-522-3200",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11117680327",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11117680327,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Jamaica Plain",
+      "addr:housenumber": "84",
+      "addr:postcode": "02130",
+      "addr:state": "MA",
+      "addr:street": "South Street",
+      "check_date": "2023-08-15",
+      "description": "Bankruptcy law",
+      "name": "Law Office of Robert M. Josephs",
+      "office": "lawyer",
+      "phone": "+1-617-522-3200"
+    }
+  },
+  {
+    "id": "osm_node_11271082532",
+    "name": "Sweeney Merrigan Law, LLP",
+    "address": "268 Summer Street, Boston, MA, 02210",
+    "location": {
+      "lat": 42.3506227,
+      "lng": -71.0502278
+    },
+    "phone": "+1 617-391-9001",
+    "website": "https://www.sweeneymerrigan.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11271082532",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11271082532,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:postcode": "02210",
+      "addr:state": "MA",
+      "addr:street": "268 Summer Street",
+      "addr:unit": "LL",
+      "description": "The Boston personal injury lawyers at Sweeney Merrigan have the experience and dedication required to help our clients recoup their losses following an accident or injury.",
+      "email": "contact@sweeneymerrigan.com",
+      "name": "Sweeney Merrigan Law, LLP",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 617-391-9001",
+      "website": "https://www.sweeneymerrigan.com"
+    }
+  },
+  {
+    "id": "osm_node_11575760870",
+    "name": "Elena Ayala",
+    "address": "",
+    "location": {
+      "lat": 42.407739,
+      "lng": -71.0547286
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11575760870",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11575760870,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "471",
+      "name": "Elena Ayala",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_11575760930",
+    "name": "Scalli and Murphy",
+    "address": "",
+    "location": {
+      "lat": 42.4096054,
+      "lng": -71.0529792
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11575760930",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11575760930,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Scalli and Murphy",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_13184581583",
+    "name": "Galluccio & Watson",
+    "address": "",
+    "location": {
+      "lat": 42.3657338,
+      "lng": -71.1060218
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13184581583",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13184581583,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Galluccio & Watson",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_13238564512",
+    "name": "DiBella Law Injury and Accident Lawyers",
+    "address": "659 Massachusetts Avenue, Boston, MA, 02118",
+    "location": {
+      "lat": 42.3359024,
+      "lng": -71.0766144
+    },
+    "phone": "",
+    "website": "https://www.dibellalawoffice.com/boston/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13238564512",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13238564512,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "659",
+      "addr:postcode": "02118",
+      "addr:state": "MA",
+      "addr:street": "Massachusetts Avenue",
+      "addr:unit": "C",
+      "name": "DiBella Law Injury and Accident Lawyers",
+      "office": "lawyer",
+      "website": "https://www.dibellalawoffice.com/boston/"
+    }
+  },
+  {
+    "id": "osm_node_13384488588",
+    "name": "Vining Law",
+    "address": "",
+    "location": {
+      "lat": 42.4008384,
+      "lng": -71.1144147
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13384488588",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13384488588,
+    "osm_type": "node",
+    "osm_tags": {
+      "check_date": "2025-12-17",
+      "name": "Vining Law",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_13607709367",
+    "name": "Cohn Legal, PLLC",
+    "address": "",
+    "location": {
+      "lat": 42.3999849,
+      "lng": -71.1119912
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13607709367",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13607709367,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Cohn Legal, PLLC",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_13607727687",
+    "name": "Frank D. Privitera Jr.",
+    "address": "",
+    "location": {
+      "lat": 42.396977,
+      "lng": -71.1039437
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13607727687",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13607727687,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Frank D. Privitera Jr.",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_13622823192",
+    "name": "Jeffrey Glassman Injury Lawyers",
+    "address": "1 International Pl, Boston, MA, 02110",
+    "location": {
+      "lat": 42.3556284,
+      "lng": -71.0520138
+    },
+    "phone": "+1-617-777-7777",
+    "website": "https://www.jeffreysglassman.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13622823192",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13622823192,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "1",
+      "addr:postcode": "02110",
+      "addr:state": "MA",
+      "addr:street": "International Pl",
+      "addr:unit": "1810",
+      "email": "intake@jeffreysglassman.com",
+      "name": "Jeffrey Glassman Injury Lawyers",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-617-777-7777",
+      "website": "https://www.jeffreysglassman.com/"
+    }
+  },
+  {
+    "id": "osm_node_12158748527",
+    "name": "Currie & Associates",
+    "address": "",
+    "location": {
+      "lat": 42.4540094,
+      "lng": -71.1373048
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12158748527",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12158748527,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Currie & Associates",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_13238543793",
+    "name": "DiBella Law Injury and Accident Lawyers",
+    "address": "127 Cambridge Street, Burlington, MA, 01803",
+    "location": {
+      "lat": 42.5020015,
+      "lng": -71.1956646
+    },
+    "phone": "",
+    "website": "https://www.dibellalawoffice.com/burlington/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13238543793",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13238543793,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Burlington",
+      "addr:housenumber": "127",
+      "addr:postcode": "01803",
+      "addr:state": "MA",
+      "addr:street": "Cambridge Street",
+      "name": "DiBella Law Injury and Accident Lawyers",
+      "office": "lawyer",
+      "website": "https://www.dibellalawoffice.com/burlington/"
+    }
+  },
+  {
+    "id": "osm_node_1942231654",
+    "name": "McAvoy & McAvoy LLP",
+    "address": "",
+    "location": {
+      "lat": 42.4596186,
+      "lng": -71.0623588
+    },
+    "phone": "+1 781 6627900",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/1942231654",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1942231654,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "McAvoy & McAvoy LLP",
+      "office": "lawyer",
+      "phone": "+1 781 6627900"
+    }
+  },
+  {
+    "id": "osm_node_4255694305",
+    "name": "Martino Law Group, LLC",
+    "address": "616 Main Street, Melrose, MA, 02176",
+    "location": {
+      "lat": 42.4575899,
+      "lng": -71.0639911
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4255694305",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4255694305,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Melrose",
+      "addr:housenumber": "616",
+      "addr:postcode": "02176",
+      "addr:state": "MA",
+      "addr:street": "Main Street",
+      "name": "Martino Law Group, LLC",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_5809137329",
+    "name": "Carter Law Office",
+    "address": "",
+    "location": {
+      "lat": 42.5134152,
+      "lng": -71.1041761
+    },
+    "phone": "+1 781 9449222",
+    "website": "https://www.carterrealestatelaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5809137329",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5809137329,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Carter Law Office",
+      "office": "lawyer",
+      "phone": "+1 781 9449222",
+      "website": "https://www.carterrealestatelaw.com/"
+    }
+  },
+  {
+    "id": "osm_node_6126466875",
+    "name": "Jason C. Matalas, P.C.",
+    "address": "144 Lynnfield Street, Peabody, MA, 01960",
+    "location": {
+      "lat": 42.5165193,
+      "lng": -70.9585886
+    },
+    "phone": "+1 978-304-2888",
+    "website": "https://www.matalaslaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6126466875",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6126466875,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Peabody",
+      "addr:housenumber": "144",
+      "addr:postcode": "01960",
+      "addr:state": "MA",
+      "addr:street": "Lynnfield Street",
+      "addr:unit": "3",
+      "lawyer": "family;divorce",
+      "name": "Jason C. Matalas, P.C.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1 978-304-2888",
+      "website": "https://www.matalaslaw.com/"
+    }
+  },
+  {
+    "id": "osm_way_29866918",
+    "name": "Bell & Izzi",
+    "address": "70 West Foster Street, Melrose, MA, 02176",
+    "location": {
+      "lat": 42.4548077,
+      "lng": -71.0666696
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/29866918",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 29866918,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Melrose",
+      "addr:housenumber": "70",
+      "addr:postcode": "02176",
+      "addr:state": "MA",
+      "addr:street": "West Foster Street",
+      "building": "yes",
+      "name": "Bell & Izzi",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_way_158973409",
+    "name": "Guthro Law Offices",
+    "address": "35 Essex Street, Melrose, MA, 02176",
+    "location": {
+      "lat": 42.45657,
+      "lng": -71.0656108
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/158973409",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 158973409,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Melrose",
+      "addr:housenumber": "35",
+      "addr:postcode": "02176",
+      "addr:state": "MA",
+      "addr:street": "Essex Street",
+      "building": "yes",
+      "name": "Guthro Law Offices",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_way_257491169",
+    "name": "Latham Law Offices",
+    "address": "643 Main Street, Reading, MA, 01867",
+    "location": {
+      "lat": 42.5241997,
+      "lng": -71.1023819
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/257491169",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 257491169,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Reading",
+      "addr:housenumber": "643",
+      "addr:postcode": "01867",
+      "addr:state": "MA",
+      "addr:street": "Main Street",
+      "building": "yes",
+      "name": "Latham Law Offices",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_5569604986",
+    "name": "Law Offices of Paul R. Moraski",
+    "address": "15 Church Street, Salem, 01970",
+    "location": {
+      "lat": 42.522538,
+      "lng": -70.8943261
+    },
+    "phone": "+1 978 397 0011",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5569604986",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5569604986,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Salem",
+      "addr:housenumber": "15",
+      "addr:postcode": "01970",
+      "addr:street": "Church Street",
+      "name": "Law Offices of Paul R. Moraski",
+      "office": "lawyer",
+      "phone": "+1 978 397 0011"
+    }
+  },
+  {
+    "id": "osm_node_10717510980",
+    "name": "Porcello Law Offices",
+    "address": "",
+    "location": {
+      "lat": 42.5093211,
+      "lng": -70.8912241
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10717510980",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10717510980,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Porcello Law Offices",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_10743574436",
+    "name": "Hemsey Judge, P. C.",
+    "address": "",
+    "location": {
+      "lat": 42.5229136,
+      "lng": -70.8974051
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10743574436",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10743574436,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Hemsey Judge, P. C.",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_12105261752",
+    "name": "Ronan, Segal & Harrington",
+    "address": "",
+    "location": {
+      "lat": 42.5171705,
+      "lng": -70.8891781
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12105261752",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12105261752,
+    "osm_type": "node",
+    "osm_tags": {
+      "check_date": "2025-08-02",
+      "name": "Ronan, Segal & Harrington",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_13043306558",
+    "name": "Shepard Law Offices",
+    "address": "8 Essex Street",
+    "location": {
+      "lat": 42.5252405,
+      "lng": -70.8846885
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13043306558",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13043306558,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:floor": "1",
+      "addr:housenumber": "8",
+      "addr:street": "Essex Street",
+      "check_date": "2025-08-02",
+      "level": "0",
+      "name": "Shepard Law Offices",
+      "office": "lawyer",
+      "wheelchair": "no"
+    }
+  }
+]

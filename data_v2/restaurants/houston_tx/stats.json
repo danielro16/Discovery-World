@@ -1,0 +1,17 @@
+{
+  "vertical": "restaurants",
+  "city": "Houston, TX",
+  "total_places": 3868,
+  "sources": {
+    "osm": 3868,
+    "public_records": 0
+  },
+  "with_website": 1777,
+  "with_phone": 1677,
+  "with_address": 2797,
+  "with_license": 0,
+  "avg_completeness": 40.8,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

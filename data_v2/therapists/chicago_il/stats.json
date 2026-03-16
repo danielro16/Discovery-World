@@ -1,0 +1,17 @@
+{
+  "vertical": "therapists",
+  "city": "Chicago, IL",
+  "total_places": 59,
+  "sources": {
+    "osm": 59,
+    "public_records": 0
+  },
+  "with_website": 41,
+  "with_phone": 31,
+  "with_address": 50,
+  "with_license": 0,
+  "avg_completeness": 44.7,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

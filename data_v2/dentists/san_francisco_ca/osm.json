@@ -1,0 +1,974 @@
+[
+  {
+    "id": "osm_node_3442069656",
+    "name": "ShoreView Dental",
+    "address": "731 Oceana Boulevard, Pacifica, CA, 94044",
+    "location": {
+      "lat": 37.6443105,
+      "lng": -122.4911601
+    },
+    "phone": "+1 650 738 2100",
+    "website": "https://www.shoreviewdental.net/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3442069656",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3442069656,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Pacifica",
+      "addr:housenumber": "731",
+      "addr:postcode": "94044",
+      "addr:state": "CA",
+      "addr:street": "Oceana Boulevard",
+      "amenity": "dentist",
+      "name": "ShoreView Dental",
+      "phone": "+1 650 738 2100",
+      "website": "https://www.shoreviewdental.net/"
+    }
+  },
+  {
+    "id": "osm_node_3468362959",
+    "name": "Pacific Manor Dental",
+    "address": "55 Bill Drake Way, Pacifica, CA, 94044",
+    "location": {
+      "lat": 37.651293,
+      "lng": -122.491931
+    },
+    "phone": "+1 650 735 1608",
+    "website": "https://www.pacificmanordental.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3468362959",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3468362959,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Pacifica",
+      "addr:housenumber": "55",
+      "addr:postcode": "94044",
+      "addr:state": "CA",
+      "addr:street": "Bill Drake Way",
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "name": "Pacific Manor Dental",
+      "phone": "+1 650 735 1608",
+      "website": "https://www.pacificmanordental.com/"
+    }
+  },
+  {
+    "id": "osm_node_4884452490",
+    "name": "Millbrae Smile Center",
+    "address": "15 El Camino Real",
+    "location": {
+      "lat": 37.5988249,
+      "lng": -122.3881903
+    },
+    "phone": "+1 650-697-9000",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4884452490",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4884452490,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "15",
+      "addr:street": "El Camino Real",
+      "amenity": "dentist",
+      "check_date": "2023-06-16",
+      "healthcare": "dentist",
+      "name": "Millbrae Smile Center",
+      "phone": "+1 650-697-9000"
+    }
+  },
+  {
+    "id": "osm_node_5314002501",
+    "name": "Westlake Dental Care",
+    "address": "341 Westlake Center, Daly City, CA, 94015",
+    "location": {
+      "lat": 37.700867,
+      "lng": -122.4821797
+    },
+    "phone": "+1-650-755-8650",
+    "website": "https://www.westlake-dentalcare.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5314002501",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00",
+      "Saturday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5314002501,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Daly City",
+      "addr:housenumber": "341",
+      "addr:postcode": "94015",
+      "addr:state": "CA",
+      "addr:street": "Westlake Center",
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "name": "Westlake Dental Care",
+      "opening_hours": "Mo-Sa 08:00-17:00",
+      "phone": "+1-650-755-8650",
+      "website": "https://www.westlake-dentalcare.com/"
+    }
+  },
+  {
+    "id": "osm_node_6548982338",
+    "name": "James Warren Dental",
+    "address": "453 Broadway, Milbrae, CA, 94030",
+    "location": {
+      "lat": 37.6020872,
+      "lng": -122.3935129
+    },
+    "phone": "+1-650-697-2073",
+    "website": "https://www.jameswarrendental.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6548982338",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist",
+      "General_Dentistry;Cosmetic_Dentistry"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6548982338,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Milbrae",
+      "addr:housenumber": "453",
+      "addr:postcode": "94030",
+      "addr:state": "CA",
+      "addr:street": "Broadway",
+      "amenity": "dentist",
+      "check_date": "2023-06-16",
+      "healthcare": "dentist",
+      "healthcare:speciality": "General_Dentistry;Cosmetic_Dentistry",
+      "name": "James Warren Dental",
+      "opening_hours": "Mo-Th 08:00-17:00",
+      "operator": "Dr. James Warren, DDS",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "phone": "+1-650-697-2073",
+      "website": "https://www.jameswarrendental.com/"
+    }
+  },
+  {
+    "id": "osm_node_6704967531",
+    "name": "Bayhill Dental Care",
+    "address": "",
+    "location": {
+      "lat": 37.6257214,
+      "lng": -122.4262004
+    },
+    "phone": "+1-650-873-9500",
+    "website": "https://bayhilldentalcare.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6704967531",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist"
+    ],
+    "hours": {
+      "Monday": "10:00-19:00",
+      "Wednesday": "10:00-19:00",
+      "Tuesday": "07:00-19:00",
+      "Thursday": "07:00-19:00",
+      "Friday": "07:00-16:00",
+      "Saturday": "08:00-13:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6704967531,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:unit": "36",
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "name": "Bayhill Dental Care",
+      "opening_hours": "Mo,We 10:00-19:00; Tu,Th 07:00-19:00; Fr 07:00-16:00; Sa 08:00-13:00",
+      "phone": "+1-650-873-9500",
+      "website": "https://bayhilldentalcare.com/"
+    }
+  },
+  {
+    "id": "osm_node_8245534223",
+    "name": "Tolosa Sison Dental Group",
+    "address": "",
+    "location": {
+      "lat": 37.6940848,
+      "lng": -122.4646774
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8245534223",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8245534223,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "name": "Tolosa Sison Dental Group"
+    }
+  },
+  {
+    "id": "osm_node_8883425798",
+    "name": "A+ Dental",
+    "address": "",
+    "location": {
+      "lat": 37.6913612,
+      "lng": -122.4651747
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8883425798",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8883425798,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "name": "A+ Dental"
+    }
+  },
+  {
+    "id": "osm_node_8893186802",
+    "name": "Pacific Rim",
+    "address": "",
+    "location": {
+      "lat": 37.7033168,
+      "lng": -122.4626688
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8893186802",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8893186802,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "name": "Pacific Rim"
+    }
+  },
+  {
+    "id": "osm_node_9251127742",
+    "name": "Daly City Dental Center",
+    "address": "",
+    "location": {
+      "lat": 37.7050039,
+      "lng": -122.461948
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9251127742",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9251127742,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "name": "Daly City Dental Center"
+    }
+  },
+  {
+    "id": "osm_node_9456437760",
+    "name": "Tanforan Dental Care",
+    "address": "1150 El Camino Real, San Bruno, CA, 94066",
+    "location": {
+      "lat": 37.6363085,
+      "lng": -122.4189509
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9456437760",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9456437760,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Bruno",
+      "addr:housenumber": "1150",
+      "addr:postcode": "94066",
+      "addr:state": "CA",
+      "addr:street": "El Camino Real",
+      "addr:unit": "128",
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "name": "Tanforan Dental Care"
+    }
+  },
+  {
+    "id": "osm_node_9980868662",
+    "name": "South City Smile",
+    "address": "",
+    "location": {
+      "lat": 37.644176,
+      "lng": -122.4530649
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9980868662",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9980868662,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "dentist",
+      "name": "South City Smile"
+    }
+  },
+  {
+    "id": "osm_node_10588026548",
+    "name": "Ray Oliver Caoili D.D.S.",
+    "address": "5105 Mission Street, San Francisco, CA, 94112",
+    "location": {
+      "lat": 37.7170081,
+      "lng": -122.4404279
+    },
+    "phone": "+1 415 469 7111",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10588026548",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist",
+      "dentist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10588026548,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Francisco",
+      "addr:housenumber": "5105",
+      "addr:postcode": "94112",
+      "addr:state": "CA",
+      "addr:street": "Mission Street",
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "healthcare:speciality": "dentist",
+      "name": "Ray Oliver Caoili D.D.S.",
+      "phone": "+1 415 469 7111"
+    }
+  },
+  {
+    "id": "osm_node_10981827530",
+    "name": "Bronzini Dental Group",
+    "address": "101 Taylor Boulevard",
+    "location": {
+      "lat": 37.6023765,
+      "lng": -122.3939277
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10981827530",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10981827530,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "101",
+      "addr:street": "Taylor Boulevard",
+      "amenity": "dentist",
+      "check_date": "2023-06-16",
+      "healthcare": "dentist",
+      "name": "Bronzini Dental Group"
+    }
+  },
+  {
+    "id": "osm_node_11363363727",
+    "name": "59b Dental",
+    "address": "",
+    "location": {
+      "lat": 37.6724826,
+      "lng": -122.4698564
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11363363727",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11363363727,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "name": "59b Dental"
+    }
+  },
+  {
+    "id": "osm_node_12963136403",
+    "name": "Pombra Dental",
+    "address": "",
+    "location": {
+      "lat": 37.6394897,
+      "lng": -122.420019
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12963136403",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12963136403,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "name": "Pombra Dental"
+    }
+  },
+  {
+    "id": "osm_node_13477915502",
+    "name": "Bayshore Smiles",
+    "address": "1101 El Camino Real, 94066",
+    "location": {
+      "lat": 37.6348962,
+      "lng": -122.4206291
+    },
+    "phone": "",
+    "website": "https://bayshoresmile.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13477915502",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13477915502,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "1101",
+      "addr:postcode": "94066",
+      "addr:street": "El Camino Real",
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "level": "0",
+      "name": "Bayshore Smiles",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "website": "https://bayshoresmile.com/"
+    }
+  },
+  {
+    "id": "osm_node_3684650512",
+    "name": "Timothy G. Bricca DDS",
+    "address": "",
+    "location": {
+      "lat": 37.947653,
+      "lng": -122.5105721
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3684650512",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3684650512,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "name": "Timothy G. Bricca DDS"
+    }
+  },
+  {
+    "id": "osm_node_8759012038",
+    "name": "Crown Dental Care",
+    "address": "",
+    "location": {
+      "lat": 37.9145813,
+      "lng": -122.310587
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8759012038",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8759012038,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "name": "Crown Dental Care"
+    }
+  },
+  {
+    "id": "osm_node_8759012196",
+    "name": "Art dental",
+    "address": "",
+    "location": {
+      "lat": 37.9112809,
+      "lng": -122.3080068
+    },
+    "phone": "+1-510-559-8598",
+    "website": "http://artdentalcentre.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8759012196",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8759012196,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "name": "Art dental",
+      "phone": "+1-510-559-8598",
+      "website": "http://artdentalcentre.com/"
+    }
+  },
+  {
+    "id": "osm_node_10195853716",
+    "name": "Dr. An and Dr. Duan Dental Care",
+    "address": "3288 Pierce Street, Richmond, CA, 94704",
+    "location": {
+      "lat": 37.8989101,
+      "lng": -122.3073905
+    },
+    "phone": "+1-510-558-8668",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10195853716",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist",
+      "general;cosmetic_dentistry;endodontics"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10195853716,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Richmond",
+      "addr:country": "US",
+      "addr:housenumber": "3288",
+      "addr:postcode": "94704",
+      "addr:state": "CA",
+      "addr:street": "Pierce Street",
+      "addr:unit": "C-139",
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "healthcare:speciality": "general;cosmetic_dentistry;endodontics",
+      "name": "Dr. An and Dr. Duan Dental Care",
+      "phone": "+1-510-558-8668"
+    }
+  },
+  {
+    "id": "osm_node_11933579496",
+    "name": "Strawberry Village Dentist",
+    "address": "800 Redwood Highway, Mill Valley, CA, 94941",
+    "location": {
+      "lat": 37.8986252,
+      "lng": -122.5138267
+    },
+    "phone": "+1-415-380-3600",
+    "website": "https://strawberryvillagedentist.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11933579496",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist",
+      "dentist;preventive_dentistry"
+    ],
+    "hours": {
+      "Monday": "07:00-19:00",
+      "Tuesday": "07:00-19:00",
+      "Wednesday": "07:00-19:00",
+      "Thursday": "07:00-19:00",
+      "Friday": "07:00-14:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11933579496,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Mill Valley",
+      "addr:housenumber": "800",
+      "addr:postcode": "94941",
+      "addr:state": "CA",
+      "addr:street": "Redwood Highway",
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "healthcare:speciality": "dentist;preventive_dentistry",
+      "name": "Strawberry Village Dentist",
+      "opening_hours": "Mo-Th 07:00-19:00; Fr 07:00-14:00",
+      "operator": "Dr. Chris Johns DDS",
+      "phone": "+1-415-380-3600",
+      "website": "https://strawberryvillagedentist.com/"
+    }
+  },
+  {
+    "id": "osm_node_13124392697",
+    "name": "DAL Dentistry",
+    "address": "30 Caledonia Street",
+    "location": {
+      "lat": 37.8583438,
+      "lng": -122.4846008
+    },
+    "phone": "+1-415-332-4011",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13124392697",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "dentist",
+      "dentist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13124392697,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "30",
+      "addr:street": "Caledonia Street",
+      "amenity": "dentist",
+      "check_date": "2025-09-06",
+      "healthcare": "dentist",
+      "name": "DAL Dentistry",
+      "phone": "+1-415-332-4011"
+    }
+  }
+]

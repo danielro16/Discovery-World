@@ -1,0 +1,6038 @@
+[
+  {
+    "id": "osm_node_5756477521",
+    "name": "Plog & Stein, P.C.",
+    "address": "7900 East Union Avenue, Denver, CO, 80237",
+    "location": {
+      "lat": 39.6277323,
+      "lng": -104.896071
+    },
+    "phone": "+1-303-781-0322",
+    "website": "https://www.plogsteinlaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5756477521",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-17:00",
+      "Tuesday": "08:30-17:00",
+      "Wednesday": "08:30-17:00",
+      "Thursday": "08:30-17:00",
+      "Friday": "08:30-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5756477521,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "7900",
+      "addr:postcode": "80237",
+      "addr:state": "CO",
+      "addr:street": "East Union Avenue",
+      "addr:unit": "1100",
+      "description": "Specializing in family law",
+      "name": "Plog & Stein, P.C.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-17:00",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "phone": "+1-303-781-0322",
+      "website": "https://www.plogsteinlaw.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6665298024",
+    "name": "Thomas R Lefly, Attorney at Law",
+    "address": "333 West Hampden Avenue, Englewood, CO, 80110",
+    "location": {
+      "lat": 39.6535728,
+      "lng": -104.9923971
+    },
+    "phone": "+1-303-783-4947",
+    "website": "https://www.leflyattorneyatlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6665298024",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6665298024,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Englewood",
+      "addr:housenumber": "333",
+      "addr:postcode": "80110",
+      "addr:state": "CO",
+      "addr:street": "West Hampden Avenue",
+      "addr:unit": "350",
+      "name": "Thomas R Lefly, Attorney at Law",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-303-783-4947",
+      "type": "Personal Injury Lawyer",
+      "website": "https://www.leflyattorneyatlaw.com/",
+      "year": "2007"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9169425306",
+    "name": "McDivitt Law Firm",
+    "address": "1777 South Harrison Street, Denver, CO, 80210",
+    "location": {
+      "lat": 39.6845098,
+      "lng": -104.942117
+    },
+    "phone": "+1-303-396-6474",
+    "website": "https://www.mcdivittlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9169425306",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9169425306,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1777",
+      "addr:postcode": "80210",
+      "addr:state": "CO",
+      "addr:street": "South Harrison Street",
+      "addr:unit": "#1350",
+      "contact:facebook": "McDivittLawDenver",
+      "contact:fax": "+1-303-996-8569",
+      "contact:linkedin": "https://www.linkedin.com/company/McDivittLawFirm",
+      "contact:twitter": "https://twitter.com/McDivittLaw",
+      "contact:youtube": "https://www.youtube.com/watch?v=IWQ5FNkt1AA",
+      "description": "McDivitt Law Firm is one of the largest Personal Injury law firms in Colorado, with some of the most experienced attorneys in the state representing injured victims.",
+      "email": "legalhelp@mcdivittlaw.com",
+      "name": "McDivitt Law Firm",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-303-396-6474",
+      "phone:US": "+1-800-800-8543",
+      "website": "https://www.mcdivittlaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9435117071",
+    "name": "The Hermele Law Firm LLC",
+    "address": "69 West Floyd Avenue, Englewood, CO, 80110",
+    "location": {
+      "lat": 39.6565787,
+      "lng": -104.988598
+    },
+    "phone": "+1-720-740-0889",
+    "website": "https://herm-law.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9435117071",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "off",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9435117071,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Englewood",
+      "addr:housenumber": "69",
+      "addr:postcode": "80110",
+      "addr:state": "CO",
+      "addr:street": "West Floyd Avenue",
+      "addr:unit": "306",
+      "email": "jay@herm-law.com",
+      "name": "The Hermele Law Firm LLC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00; Sa-Su off",
+      "phone": "+1-720-740-0889",
+      "website": "https://herm-law.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9581569467",
+    "name": "Plog & Stein, P.C.",
+    "address": "6021 South Syracuse Way, Greenwood Village, CO, 80111",
+    "location": {
+      "lat": 39.6054146,
+      "lng": -104.89988
+    },
+    "phone": "+1-303-781-0322",
+    "website": "https://www.plogsteinlaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9581569467",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-17:00",
+      "Tuesday": "08:30-17:00",
+      "Wednesday": "08:30-17:00",
+      "Thursday": "08:30-17:00",
+      "Friday": "08:30-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9581569467,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Greenwood Village",
+      "addr:housenumber": "6021",
+      "addr:postcode": "80111",
+      "addr:state": "CO",
+      "addr:street": "South Syracuse Way",
+      "addr:unit": "202",
+      "name": "Plog & Stein, P.C.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-17:00",
+      "payment:cheque": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "phone": "+1-303-781-0322",
+      "website": "https://www.plogsteinlaw.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10246876330",
+    "name": "Law Offices of M. Colin Bresee",
+    "address": "6465 Greenwood Plaza Boulevard, Centennial, CO, 80111",
+    "location": {
+      "lat": 39.5993903,
+      "lng": -104.8960575
+    },
+    "phone": "+1-303-377-0100",
+    "website": "https://bresee.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10246876330",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10246876330,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Centennial",
+      "addr:housenumber": "6465",
+      "addr:postcode": "80111",
+      "addr:state": "CO",
+      "addr:street": "Greenwood Plaza Boulevard",
+      "addr:unit": "180",
+      "description": "Available for legal advice around the clock.",
+      "email": "colin@bresee.com",
+      "fax": "+1 303-534-0400",
+      "name": "Law Offices of M. Colin Bresee",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-303-377-0100",
+      "start_date": "1999-7-8",
+      "website": "https://bresee.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12376010340",
+    "name": "Flesch Law Denver Injury Accident Lawyers",
+    "address": "333 West Hampden Avenue, Englewood, CO, 80110",
+    "location": {
+      "lat": 39.6535813,
+      "lng": -104.9925396
+    },
+    "phone": "+1-303-218-9394",
+    "website": "https://www.fleschlawfirm.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12376010340",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12376010340,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Englewood",
+      "addr:housenumber": "333",
+      "addr:postcode": "80110",
+      "addr:state": "CO",
+      "addr:street": "West Hampden Avenue",
+      "addr:unit": "750",
+      "email": "kevinflesch@fleschlawfirm.com",
+      "name": "Flesch Law Denver Injury Accident Lawyers",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-303-218-9394",
+      "website": "https://www.fleschlawfirm.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12578768824",
+    "name": "M. Colin Bresee Attorney at Law",
+    "address": "9085 East Mineral Circle, Englewood, CO, 80112",
+    "location": {
+      "lat": 39.5766477,
+      "lng": -104.8851361
+    },
+    "phone": "+1-303-377-0100",
+    "website": "https://bresee.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12578768824",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12578768824,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Englewood",
+      "addr:housenumber": "9085",
+      "addr:postcode": "80112",
+      "addr:state": "CO",
+      "addr:street": "East Mineral Circle",
+      "addr:unit": "200",
+      "fax": "+1-303-534-0400",
+      "name": "M. Colin Bresee Attorney at Law",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-303-377-0100",
+      "start_date": "1999-01-01",
+      "website": "https://bresee.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13055749402",
+    "name": "Law Office of Matthew A. Martin, P.C.",
+    "address": "1873 South Bellaire Street, Denver, CO, 80222",
+    "location": {
+      "lat": 39.6828816,
+      "lng": -104.937747
+    },
+    "phone": "+1-303-725-0017",
+    "website": "https://denversdefenseattorney.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13055749402",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13055749402,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1873",
+      "addr:postcode": "80222",
+      "addr:state": "CO",
+      "addr:street": "South Bellaire Street",
+      "addr:unit": "Suite 200",
+      "contact:facebook": "https://www.facebook.com/DenversDefenseAttorney/",
+      "contact:linkedin": "https://www.linkedin.com/in/matthew-martin-3303368/",
+      "contact:twitter": "https://x.com/denversdefense",
+      "language:en": "yes",
+      "name": "Law Office of Matthew A. Martin, P.C.",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-303-725-0017",
+      "website": "https://denversdefenseattorney.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_2613564586",
+    "name": "The Frickey Law Firm",
+    "address": "940 North Wadsworth Boulevard, Lakewood, CO, 80214",
+    "location": {
+      "lat": 39.7316593,
+      "lng": -105.081103
+    },
+    "phone": "+1-303-237-7373",
+    "website": "https://www.frickey.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2613564586",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2613564586,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Lakewood",
+      "addr:housenumber": "940",
+      "addr:postcode": "80214",
+      "addr:state": "CO",
+      "addr:street": "North Wadsworth Boulevard",
+      "addr:unit": "400",
+      "name": "The Frickey Law Firm",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-303-237-7373",
+      "website": "https://www.frickey.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11301481802",
+    "name": "Mintz Law Firm, LLC",
+    "address": "605 Parfet St, Lakewood, CO, 80215",
+    "location": {
+      "lat": 39.7263992,
+      "lng": -105.1198659
+    },
+    "phone": "+1 303-462-2999",
+    "website": "https://www.mintzlawfirm.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11301481802",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11301481802,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Lakewood",
+      "addr:postcode": "80215",
+      "addr:state": "CO",
+      "addr:street": "605 Parfet St",
+      "addr:unit": "102",
+      "description": "Mintz Law Firm is a Lakewood personal injury law firm. We are confident that we will obtain the financial compensation you deserve following your personal injury.",
+      "email": "info@mintzlawfirm.com",
+      "name": "Mintz Law Firm, LLC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1 303-462-2999",
+      "website": "https://www.mintzlawfirm.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12955951220",
+    "name": "James L. Finegan P.C",
+    "address": "165 South Union Boulevard, Lakewood, CO, 80228",
+    "location": {
+      "lat": 39.7133536,
+      "lng": -105.1346
+    },
+    "phone": "+1-303-980-5511",
+    "website": "https://fineganlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12955951220",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12955951220,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Lakewood",
+      "addr:housenumber": "165",
+      "addr:postcode": "80228",
+      "addr:state": "CO",
+      "addr:street": "South Union Boulevard",
+      "addr:unit": "660",
+      "name": "James L. Finegan P.C",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1-303-980-5511",
+      "website": "https://fineganlaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13302663194",
+    "name": "The Drake Law Firm, P.C.",
+    "address": "12600 West Colfax Avenue, Lakewood, CO, 80215",
+    "location": {
+      "lat": 39.7391295,
+      "lng": -105.1404518
+    },
+    "phone": "+13039516427",
+    "website": "https://thedrakelawfirm.com/colorado/locations/lakewood/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13302663194",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13302663194,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Lakewood",
+      "addr:housenumber": "12600",
+      "addr:postcode": "80215",
+      "addr:state": "CO",
+      "addr:street": "West Colfax Avenue",
+      "addr:unit": "B-400",
+      "name": "The Drake Law Firm, P.C.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+13039516427",
+      "website": "https://thedrakelawfirm.com/colorado/locations/lakewood/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_407306785",
+    "name": "The Drake Law Firm, P.C.",
+    "address": "2117 Ford Street, Golden, CO, 80401",
+    "location": {
+      "lat": 39.748874,
+      "lng": -105.2114835
+    },
+    "phone": "+1-720-679-8813",
+    "website": "https://thedrakelawfirm.com/colorado/locations/golden/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/407306785",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 407306785,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Golden",
+      "addr:housenumber": "2117",
+      "addr:postcode": "80401",
+      "addr:state": "CO",
+      "addr:street": "Ford Street",
+      "building": "office",
+      "name": "The Drake Law Firm, P.C.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1-720-679-8813",
+      "website": "https://thedrakelawfirm.com/colorado/locations/golden/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_1450413988",
+    "name": "The Drake Law Firm, P.C.",
+    "address": "2117 Ford Street, Golden, CO, 80401",
+    "location": {
+      "lat": 39.748874,
+      "lng": -105.2114835
+    },
+    "phone": "+17206798813",
+    "website": "https://thedrakelawfirm.com/colorado/locations/golden/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/1450413988",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1450413988,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Golden",
+      "addr:housenumber": "2117",
+      "addr:postcode": "80401",
+      "addr:state": "CO",
+      "addr:street": "Ford Street",
+      "building": "yes",
+      "name": "The Drake Law Firm, P.C.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+17206798813",
+      "website": "https://thedrakelawfirm.com/colorado/locations/golden/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_2613561469",
+    "name": "Wolf Law, LLC",
+    "address": "1385 South Colorado Boulevard, Denver, CO, 80222",
+    "location": {
+      "lat": 39.6914253,
+      "lng": -104.941058
+    },
+    "phone": "+1-720-789-8926",
+    "website": "https://wolflawcolorado.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2613561469",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2613561469,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1385",
+      "addr:postcode": "80222",
+      "addr:state": "CO",
+      "addr:street": "South Colorado Boulevard",
+      "addr:unit": "220",
+      "name": "Wolf Law, LLC",
+      "note": "dfds",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1-720-789-8926",
+      "website": "https://wolflawcolorado.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_2613576191",
+    "name": "The Frickey Law Firm",
+    "address": "2043 York Street, Denver, 80205",
+    "location": {
+      "lat": 39.7477814,
+      "lng": -104.9601098
+    },
+    "phone": "+1-303-369-3450",
+    "website": "https://www.frickey.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2613576191",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2613576191,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "2043",
+      "addr:postcode": "80205",
+      "addr:street": "York Street",
+      "name": "The Frickey Law Firm",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-303-369-3450",
+      "website": "https://www.frickey.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3388574066",
+    "name": "The Wilhite Law Firm",
+    "address": "1600 Ogden Street, Denver, CO, 80218",
+    "location": {
+      "lat": 39.741932,
+      "lng": -104.97444
+    },
+    "phone": "+1 303-466-3529",
+    "website": "https://www.wilhitelawfirm.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3388574066",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3388574066,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1600",
+      "addr:postcode": "80218",
+      "addr:state": "CO",
+      "addr:street": "Ogden Street",
+      "name": "The Wilhite Law Firm",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 303-466-3529",
+      "start_date": "1977-1-1",
+      "website": "https://www.wilhitelawfirm.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5632373766",
+    "name": "Denver Traffic Lawyer, LLC",
+    "address": "501 South Cherry Street, Denver, CO, 80246",
+    "location": {
+      "lat": 39.70712,
+      "lng": -104.9341025
+    },
+    "phone": "+1-303-625-9400",
+    "website": "https://www.denvertrafficlawyer.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5632373766",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-20:00",
+      "Tuesday": "08:00-20:00",
+      "Wednesday": "08:00-20:00",
+      "Thursday": "08:00-20:00",
+      "Friday": "08:00-20:00",
+      "Saturday": "08:00-15:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5632373766,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "501",
+      "addr:postcode": "80246",
+      "addr:state": "CO",
+      "addr:street": "South Cherry Street",
+      "addr:unit": "610",
+      "name": "Denver Traffic Lawyer, LLC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-15:00",
+      "phone": "+1-303-625-9400",
+      "website": "https://www.denvertrafficlawyer.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5950462165",
+    "name": "Law Offices Of Rebecca L Shandrick, LLC",
+    "address": "950 South Cherry Street, Denver, CO, 80246",
+    "location": {
+      "lat": 39.6989608,
+      "lng": -104.9335757
+    },
+    "phone": "+1-303-292-1327",
+    "website": "http://elderlawdenver.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5950462165",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:30-17:30",
+      "Tuesday": "09:30-17:30",
+      "Wednesday": "09:30-17:30",
+      "Thursday": "09:30-17:30",
+      "Friday": "09:30-17:30"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5950462165,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "950",
+      "addr:postcode": "80246",
+      "addr:state": "CO",
+      "addr:street": "South Cherry Street",
+      "addr:unit": "714",
+      "fax": "+1 303-292-2249",
+      "name": "Law Offices Of Rebecca L Shandrick, LLC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:30-17:30",
+      "phone": "+1-303-292-1327",
+      "website": "http://elderlawdenver.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9610647063",
+    "name": "Lamber Goodnow Injury Lawyers Denver",
+    "address": "1330 Logan Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7374739,
+      "lng": -104.9820044
+    },
+    "phone": "+1-303-800-8888",
+    "website": "https://lambergoodnow.com/denver",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9610647063",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9610647063,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1330",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Logan Street",
+      "addr:unit": "B2",
+      "description": "Injured? Why us? 1) 99% won or settled.* 2) No fee unless and until we recover money for you. 3) Named \"#1 personal injury legal team in the U.S.\" by Attorney at Law Magazine. Call now for a free case evaluation.",
+      "email": "info@lambergoodnow.com",
+      "name": "Lamber Goodnow Injury Lawyers Denver",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-303-800-8888",
+      "website": "https://lambergoodnow.com/denver"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10099181429",
+    "name": "Morgan & Morgan",
+    "address": "1641 Downing Street, Denver, CO, 80218",
+    "location": {
+      "lat": 39.7424647,
+      "lng": -104.973807
+    },
+    "phone": "+1-303-264-1770",
+    "website": "https://www.forthepeople.com/denver/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10099181429",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10099181429,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1641",
+      "addr:postcode": "80218",
+      "addr:state": "CO",
+      "addr:street": "Downing Street",
+      "brand": "Morgan & Morgan",
+      "brand:wikipedia": "en:Morgan & Morgan",
+      "name": "Morgan & Morgan",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-303-264-1770",
+      "website": "https://www.forthepeople.com/denver/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10212052335",
+    "name": "The Hermele Law Firm",
+    "address": "1800 Gaylord Street, Denver, CO, 80206",
+    "location": {
+      "lat": 39.7450013,
+      "lng": -104.960278
+    },
+    "phone": "+1-720-740-0889",
+    "website": "https://herm-law.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10212052335",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10212052335,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1800",
+      "addr:postcode": "80206",
+      "addr:state": "CO",
+      "addr:street": "Gaylord Street",
+      "description": "Denver Business and Personal Injury Attorneys, licensed In Colorado And Wyoming.",
+      "email": "jay@herm-law.com",
+      "name": "The Hermele Law Firm",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-720-740-0889",
+      "website": "https://herm-law.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10786022254",
+    "name": "Otten Johnson Robinson Neff + Ragonetti PC",
+    "address": "950 17th Street, Denver, CO, 80202",
+    "location": {
+      "lat": 39.747757,
+      "lng": -104.9937774
+    },
+    "phone": "+1-303-825-8400",
+    "website": "https://www.ottenjohnson.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10786022254",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:30",
+      "Tuesday": "08:00-17:30",
+      "Wednesday": "08:00-17:30",
+      "Thursday": "08:00-17:30",
+      "Friday": "08:00-17:30"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10786022254,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "950",
+      "addr:postcode": "80202",
+      "addr:state": "CO",
+      "addr:street": "17th Street",
+      "addr:unit": "1600",
+      "name": "Otten Johnson Robinson Neff + Ragonetti PC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:30",
+      "phone": "+1-303-825-8400",
+      "website": "https://www.ottenjohnson.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11463848862",
+    "name": "Jorgensen, Brownell & Pepin, P.C.",
+    "address": "3461 Ringsby Court, Denver, CO, 80216",
+    "location": {
+      "lat": 39.7723835,
+      "lng": -104.9838429
+    },
+    "phone": "+1-720-496-0841",
+    "website": "https://www.jbplegal.com/denver/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11463848862",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11463848862,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "3461",
+      "addr:postcode": "80216",
+      "addr:state": "CO",
+      "addr:street": "Ringsby Court",
+      "addr:unit": "350",
+      "check_date": "2023-12-28",
+      "name": "Jorgensen, Brownell & Pepin, P.C.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1-720-496-0841",
+      "website": "https://www.jbplegal.com/denver/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11491547995",
+    "name": "HKM Employment Attorneys LLP",
+    "address": "518 17th Street, Denver, CO, 80202",
+    "location": {
+      "lat": 39.7447611,
+      "lng": -104.9897508
+    },
+    "phone": "+1 303-991-3075",
+    "website": "https://hkm.com/denver",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11491547995",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00",
+      "Saturday": "08:00-16:00",
+      "Sunday": "08:00-16:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11491547995,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "518",
+      "addr:postcode": "80202",
+      "addr:state": "CO",
+      "addr:street": "17th Street",
+      "addr:unit": "1100",
+      "description": "HKM Employment Attorneys LLP represents individuals and employees nationwide in all facets of employment litigation, counseling, and advice.",
+      "name": "HKM Employment Attorneys LLP",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00; Sa-Su 08:00-16:00",
+      "phone": "+1 303-991-3075",
+      "website": "https://hkm.com/denver"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11868493259",
+    "name": "Levine Law LLC",
+    "address": "4500 Cherry Creek South Drive, Denver, CO, 80246",
+    "location": {
+      "lat": 39.7042512,
+      "lng": -104.9356632
+    },
+    "phone": "+1 303-333-8000",
+    "website": "https://www.mydenveraccidentlawfirm.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11868493259",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11868493259,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "4500",
+      "addr:postcode": "80246",
+      "addr:state": "CO",
+      "addr:street": "Cherry Creek South Drive",
+      "addr:unit": "Suite 400",
+      "contact:facebook": "https://www.facebook.com/people/Levine-Law-LLC",
+      "description": "As a full-service Denver personal injury law firm, our first and most important goal is to work for you and to put your mind at ease.",
+      "email": "jordan@levlawllc.com",
+      "name": "Levine Law LLC",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 303-333-8000",
+      "start_date": "2003-07-10",
+      "website": "https://www.mydenveraccidentlawfirm.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11888480286",
+    "name": "Denver Car Accident Attorneys - Law Firm of Jeremy Rosenthal",
+    "address": "600 17th Street, Denver, CO, 80202",
+    "location": {
+      "lat": 39.7454417,
+      "lng": -104.9907911
+    },
+    "phone": "+1-720-414-6977",
+    "website": "https://www.lawfirmofjeremyrosenthal.com/denver-car-accident-lawyer/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11888480286",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11888480286,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "600",
+      "addr:postcode": "80202",
+      "addr:state": "CO",
+      "addr:street": "17th Street",
+      "addr:unit": "Suite 2803K",
+      "contact:facebook": "thelawfirmofjeremyrosenthal",
+      "contact:linkedin": "the-law-firm-of-jeremy-rosenthal",
+      "contact:twitter": "JRLawFirm",
+      "contact:youtube": "UCWq45wX6ClMyz14AN6I-pIg",
+      "name": "Denver Car Accident Attorneys - Law Firm of Jeremy Rosenthal",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-720-414-6977",
+      "start_date": "2005-01-01",
+      "website": "https://www.lawfirmofjeremyrosenthal.com/denver-car-accident-lawyer/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13575512541",
+    "name": "Coakley Law",
+    "address": "2373 Central Park Boulevard, Denver, CO, 80238",
+    "location": {
+      "lat": 39.7512573,
+      "lng": -104.8897397
+    },
+    "phone": "+1 303-500-1778",
+    "website": "https://www.coakleylaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13575512541",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-18:00",
+      "Tuesday": "08:00-18:00",
+      "Wednesday": "08:00-18:00",
+      "Thursday": "08:00-18:00",
+      "Friday": "08:00-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13575512541,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "2373",
+      "addr:postcode": "80238",
+      "addr:state": "CO",
+      "addr:street": "Central Park Boulevard",
+      "addr:unit": "100",
+      "contact:linkedin": "coakley-law",
+      "name": "Coakley Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-18:00",
+      "phone": "+1 303-500-1778",
+      "website": "https://www.coakleylaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_1130936600",
+    "name": "William H. O'Rourke, P.C.",
+    "address": "221 South Olive Street, Denver, CO, 80230",
+    "location": {
+      "lat": 39.711949,
+      "lng": -104.906692
+    },
+    "phone": "+1-720-232-4412",
+    "website": "https://williamhorourke.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/1130936600",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1130936600,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "221",
+      "addr:postcode": "80230",
+      "addr:state": "CO",
+      "addr:street": "South Olive Street",
+      "building": "yes",
+      "name": "William H. O'Rourke, P.C.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "phone": "+1-720-232-4412",
+      "website": "https://williamhorourke.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9166932922",
+    "name": "McDivitt Law Firm",
+    "address": "14261 East 4th Avenue, Aurora, CO, 80011",
+    "location": {
+      "lat": 39.7227998,
+      "lng": -104.822597
+    },
+    "phone": "+1-303-343-7910",
+    "website": "https://www.mcdivittlaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9166932922",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9166932922,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Aurora",
+      "addr:housenumber": "14261",
+      "addr:postcode": "80011",
+      "addr:state": "CO",
+      "addr:street": "East 4th Avenue",
+      "addr:unit": "300",
+      "contact:email": "legalhelp@mcdivittlaw.com",
+      "contact:facebook": "http://www.facebook.com/McDivittlawAuroraCO",
+      "contact:fax": "+1-303-996-8569",
+      "contact:instagram": "http://www.instagram.com/mcdivitt_law_firm",
+      "contact:linkedin": "http://www.linkedin.com/company/McDivittLawFirm",
+      "contact:phone": "+1-800-800-8543",
+      "contact:twitter": "http://twitter.com/McDivittLaw",
+      "contact:website": "https://www.mcdivittlaw.com",
+      "contact:youtube": "http://www.youtube.com/user/McDivittLaw",
+      "name": "McDivitt Law Firm",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-303-343-7910",
+      "start_date": "1992"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12863016634",
+    "name": "The Wilhite Law Firm - Personal Injury Attorney",
+    "address": "2851 South Parker Road, Aurora, CO, 80014",
+    "location": {
+      "lat": 39.664379,
+      "lng": -104.8611423
+    },
+    "phone": "+1-303-268-4063",
+    "website": "https://www.wilhitelawfirm.com/aurora/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12863016634",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12863016634,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Aurora",
+      "addr:housenumber": "2851",
+      "addr:postcode": "80014",
+      "addr:state": "CO",
+      "addr:street": "South Parker Road",
+      "addr:unit": "#1-0642",
+      "name": "The Wilhite Law Firm - Personal Injury Attorney",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-303-268-4063",
+      "website": "https://www.wilhitelawfirm.com/aurora/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13070115247",
+    "name": "Law Office Of Anna L. Burr",
+    "address": "2851 South Parker Road, CO, 80014",
+    "location": {
+      "lat": 39.6643961,
+      "lng": -104.8611886
+    },
+    "phone": "+1-720-500-2076",
+    "website": "https://burr-law.comaddr:city=Aurora",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13070115247",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13070115247,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "2851",
+      "addr:postcode": "80014",
+      "addr:state": "CO",
+      "addr:street": "South Parker Road",
+      "description": "Law Office of Anna L. Burr in Aurora, CO offers trusted estate planning, probate, guardianship, personal injury services, and more.",
+      "email": "Anna@burr-law.com",
+      "name": "Law Office Of Anna L. Burr",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-720-500-2076",
+      "website": "https://burr-law.comaddr:city=Aurora"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13525917134",
+    "name": "Flanagan Law - Personal Injury and Car Accident Attorney",
+    "address": "13575 East 104th Way, Commerce City, CO, 80022",
+    "location": {
+      "lat": 39.8864177,
+      "lng": -104.8287669
+    },
+    "phone": "+1-720-764-9695",
+    "website": "https://flanagan.law/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13525917134",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13525917134,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Commerce City",
+      "addr:housenumber": "13575",
+      "addr:postcode": "80022",
+      "addr:state": "CO",
+      "addr:street": "East 104th Way",
+      "addr:unit": "100",
+      "name": "Flanagan Law - Personal Injury and Car Accident Attorney",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-720-764-9695",
+      "start_date": "2021-01-01",
+      "website": "https://flanagan.law/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6838468856",
+    "name": "The Littleton Law Office of Bahr, Kreidle & Flicker",
+    "address": "2596 West Alamo Avenue, Littleton, CO, 80120",
+    "location": {
+      "lat": 39.612541,
+      "lng": -105.0182539
+    },
+    "phone": "",
+    "website": "https://littletonlawyers.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6838468856",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "07:30-18:00",
+      "Tuesday": "07:30-18:00",
+      "Wednesday": "07:30-18:00",
+      "Thursday": "07:30-18:00",
+      "Friday": "07:30-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 55,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6838468856,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Littleton",
+      "addr:housenumber": "2596",
+      "addr:postcode": "80120",
+      "addr:state": "CO",
+      "addr:street": "West Alamo Avenue",
+      "name": "The Littleton Law Office of Bahr, Kreidle & Flicker",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 07:30-18:00",
+      "website": "https://littletonlawyers.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4534493998",
+    "name": "Earl H. Staelin",
+    "address": "1873 South Bellaire Street, Denver, CO, 80222",
+    "location": {
+      "lat": 39.6828464,
+      "lng": -104.9376895
+    },
+    "phone": "+1-720-457-7057",
+    "website": "http://earlhstaelinattorney.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4534493998",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4534493998,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1873",
+      "addr:postcode": "80222",
+      "addr:state": "CO",
+      "addr:street": "South Bellaire Street",
+      "addr:unit": "Suite 1401",
+      "description": "Personal Injury Attorney",
+      "name": "Earl H. Staelin",
+      "office": "lawyer",
+      "phone": "+1-720-457-7057",
+      "website": "http://earlhstaelinattorney.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5965489344",
+    "name": "The Boyle Law Firm",
+    "address": "3780 South Broadway, Englewood, CO, 80113",
+    "location": {
+      "lat": 39.6449954,
+      "lng": -104.9882793
+    },
+    "phone": "+1-720-379-5480",
+    "website": "https://www.boyleinjurylaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5965489344",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5965489344,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Englewood",
+      "addr:housenumber": "3780",
+      "addr:postcode": "80113",
+      "addr:state": "CO",
+      "addr:street": "South Broadway",
+      "name": "The Boyle Law Firm",
+      "office": "lawyer",
+      "phone": "+1-720-379-5480",
+      "website": "https://www.boyleinjurylaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6427930840",
+    "name": "Andrew T. Brake, P.C.",
+    "address": "3615 South Tamarac Drive, Denver, CO, 80237",
+    "location": {
+      "lat": 39.6510469,
+      "lng": -104.899052
+    },
+    "phone": "+1-303-806-9000",
+    "website": "https://www.brakelaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6427930840",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6427930840,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "3615",
+      "addr:postcode": "80237",
+      "addr:state": "CO",
+      "addr:street": "South Tamarac Drive",
+      "addr:unit": "200",
+      "facebook": "https://www.facebook.com/Andrew-T-Brake-PC-211771462274429",
+      "fax": "+1-888-236-7709",
+      "name": "Andrew T. Brake, P.C.",
+      "office": "lawyer",
+      "phone": "+1-303-806-9000",
+      "website": "https://www.brakelaw.com/",
+      "year": "1984"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5885143943",
+    "name": "Bloch & Chapleau, LLC",
+    "address": "1725 Gaylord Street, Denver, CO, 80206",
+    "location": {
+      "lat": 39.743776,
+      "lng": -104.9613193
+    },
+    "phone": "+1-303-331-1700",
+    "website": "https://www.blochchapleau.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5885143943",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5885143943,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1725",
+      "addr:postcode": "80206",
+      "addr:state": "CO",
+      "addr:street": "Gaylord Street",
+      "email": "blochchapleaulocal@legalwebdesign.com",
+      "name": "Bloch & Chapleau, LLC",
+      "office": "lawyer",
+      "phone": "+1-303-331-1700",
+      "website": "https://www.blochchapleau.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6429017089",
+    "name": "Law Office of Jennifer L. Donaldson",
+    "address": "3200 Cherry Creek South Drive, Denver, CO, 80209",
+    "location": {
+      "lat": 39.7114816,
+      "lng": -104.9491475
+    },
+    "phone": "+1-303-458-5000",
+    "website": "https://donaldsonlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6429017089",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6429017089,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "3200",
+      "addr:postcode": "80209",
+      "addr:state": "CO",
+      "addr:street": "Cherry Creek South Drive",
+      "addr:unit": "Suite 520",
+      "name": "Law Office of Jennifer L. Donaldson",
+      "office": "lawyer",
+      "phone": "+1-303-458-5000",
+      "website": "https://donaldsonlaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12948823507",
+    "name": "Consumer Law Pro",
+    "address": "90 Madison Street, Denver, CO, 80206",
+    "location": {
+      "lat": 39.7174614,
+      "lng": -104.945917
+    },
+    "phone": "+1 720-466-5144",
+    "website": "https://consumerlawpro.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12948823507",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12948823507,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "90",
+      "addr:postcode": "80206",
+      "addr:state": "CO",
+      "addr:street": "Madison Street",
+      "addr:unit": "302",
+      "name": "Consumer Law Pro",
+      "office": "lawyer",
+      "opening_hours": "M - F: 8:30am - 5:30pm",
+      "phone": "+1 720-466-5144",
+      "start_date": "2017-01-03",
+      "website": "https://consumerlawpro.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_619603311",
+    "name": "King & Greisen LLP",
+    "address": "1670 York Street, Denver, CO, 80206",
+    "location": {
+      "lat": 39.7429736,
+      "lng": -104.9595301
+    },
+    "phone": "+1 303 298-9878",
+    "website": "https://www.kinggreisen.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/619603311",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 619603311,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1670",
+      "addr:postcode": "80206",
+      "addr:state": "CO",
+      "addr:street": "York Street",
+      "building": "office",
+      "fax": "+1-303-298-9879",
+      "name": "King & Greisen LLP",
+      "office": "lawyer",
+      "phone": "+1 303 298-9878",
+      "source": "DigitalGlobe-Premium",
+      "website": "https://www.kinggreisen.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_1136861314",
+    "name": "Daniel M. Murphy, P.C.",
+    "address": "598 South Gilpin Street, Denver, CO, 80209",
+    "location": {
+      "lat": 39.7058021,
+      "lng": -104.9672279
+    },
+    "phone": "+1-303-996-8998",
+    "website": "https://www.denvercocriminaldefenselawyer.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/1136861314",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1136861314,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "598",
+      "addr:postcode": "80209",
+      "addr:state": "CO",
+      "addr:street": "South Gilpin Street",
+      "building": "house",
+      "description": "Aggressive Criminal Defense Attorney Serving Denver, Co for More Than Two Decades.",
+      "email": "danielmurphlaw@gmail.com",
+      "name": "Daniel M. Murphy, P.C.",
+      "office": "lawyer",
+      "phone": "+1-303-996-8998",
+      "website": "https://www.denvercocriminaldefenselawyer.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9544316353",
+    "name": "Easy Legal",
+    "address": "3845 Wadsworth Boulevard",
+    "location": {
+      "lat": 39.7705342,
+      "lng": -105.0819201
+    },
+    "phone": "",
+    "website": "https://www.easylegalcolorado.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9544316353",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9544316353,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "3845",
+      "addr:street": "Wadsworth Boulevard",
+      "facebook": "https://www.facebook.com/EasyLegalCenter/",
+      "name": "Easy Legal",
+      "office": "lawyer",
+      "website": "https://www.easylegalcolorado.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4293957691",
+    "name": "Schlueter, Mahoney & Ross, P.C.",
+    "address": "999 18th Street, Denver, CO, 80202",
+    "location": {
+      "lat": 39.7490617,
+      "lng": -104.9918904
+    },
+    "phone": "+1-303-292-4525",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4293957691",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4293957691,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "999",
+      "addr:postcode": "80202",
+      "addr:state": "CO",
+      "addr:street": "18th Street",
+      "addr:unit": "2200",
+      "name": "Schlueter, Mahoney & Ross, P.C.",
+      "office": "lawyer",
+      "phone": "+1-303-292-4525"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4763500583",
+    "name": "Lewis & Matthews, P.C.",
+    "address": "",
+    "location": {
+      "lat": 39.7467874,
+      "lng": -104.9606818
+    },
+    "phone": "+1-303-329-3802",
+    "website": "https://matthewsfamilylawyers.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4763500583",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4763500583,
+    "osm_type": "node",
+    "osm_tags": {
+      "email": "jlewis@matthewslaw.com",
+      "name": "Lewis & Matthews, P.C.",
+      "office": "lawyer",
+      "phone": "+1-303-329-3802",
+      "website": "https://matthewsfamilylawyers.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4934309566",
+    "name": "ColoLawyer",
+    "address": "1468 South Pearl Street, Denver, CO, 80210",
+    "location": {
+      "lat": 39.6899497,
+      "lng": -104.9802542
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4934309566",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4934309566,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1468",
+      "addr:postcode": "80210",
+      "addr:state": "CO",
+      "addr:street": "South Pearl Street",
+      "name": "ColoLawyer",
+      "office": "lawyer",
+      "wheelchair": "no"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4934309567",
+    "name": "Denver Immigration Attorney",
+    "address": "1468 South Pearl Street, Denver, CO, 80210",
+    "location": {
+      "lat": 39.6899106,
+      "lng": -104.9802562
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4934309567",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4934309567,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1468",
+      "addr:postcode": "80210",
+      "addr:state": "CO",
+      "addr:street": "South Pearl Street",
+      "name": "Denver Immigration Attorney",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7039369830",
+    "name": "Iyer Law Office",
+    "address": "3333 South Bannock Street, Englewood, CO, 80110",
+    "location": {
+      "lat": 39.6557535,
+      "lng": -104.9906685
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7039369830",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7039369830,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Englewood",
+      "addr:housenumber": "3333",
+      "addr:postcode": "80110",
+      "addr:state": "CO",
+      "addr:street": "South Bannock Street",
+      "addr:unit": "840",
+      "name": "Iyer Law Office",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6038009457",
+    "name": "King Law Firm",
+    "address": "1000 Sheridan Boulevard, Denver, CO, 80214",
+    "location": {
+      "lat": 39.7333902,
+      "lng": -105.0529363
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6038009457",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6038009457,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1000",
+      "addr:postcode": "80214",
+      "addr:state": "CO",
+      "addr:street": "Sheridan Boulevard",
+      "name": "King Law Firm",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_1629198298",
+    "name": "Miguel Martinez Law Offices",
+    "address": "3155 Federal Boulevard, Denver, CO, 80211",
+    "location": {
+      "lat": 39.7618638,
+      "lng": -105.0255262
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/1629198298",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1629198298,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "3155",
+      "addr:postcode": "80211",
+      "addr:state": "CO",
+      "addr:street": "Federal Boulevard",
+      "name": "Miguel Martinez Law Offices",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_2833223766",
+    "name": "O'Sullivan Law Firm",
+    "address": "600 Ogden Street, Denver, CO, 80218",
+    "location": {
+      "lat": 39.7257171,
+      "lng": -104.9749849
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2833223766",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2833223766,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "600",
+      "addr:postcode": "80218",
+      "addr:state": "CO",
+      "addr:street": "Ogden Street",
+      "name": "O'Sullivan Law Firm",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3196591341",
+    "name": "Baltz & Co",
+    "address": "3455 Ringsby Court, Denver, CO, 80216",
+    "location": {
+      "lat": 39.7718067,
+      "lng": -104.9821934
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3196591341",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3196591341,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "3455",
+      "addr:postcode": "80216",
+      "addr:state": "CO",
+      "addr:street": "Ringsby Court",
+      "name": "Baltz & Co",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3221725901",
+    "name": "Foster & Graham Huttner LLP",
+    "address": "1226 Bannock Street, Denver, CO, 80204",
+    "location": {
+      "lat": 39.7357439,
+      "lng": -104.9900336
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3221725901",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3221725901,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1226",
+      "addr:postcode": "80204",
+      "addr:state": "CO",
+      "addr:street": "Bannock Street",
+      "name": "Foster & Graham Huttner LLP",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3367141039",
+    "name": "Robert Corry Law Office",
+    "address": "437 West Colfax Avenue, Denver, CO, 80204",
+    "location": {
+      "lat": 39.7402258,
+      "lng": -104.9939738
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3367141039",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3367141039,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "437",
+      "addr:postcode": "80204",
+      "addr:state": "CO",
+      "addr:street": "West Colfax Avenue",
+      "name": "Robert Corry Law Office",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3373597140",
+    "name": "Lau & Choi P.C. Attorneys at Law",
+    "address": "1930 Sherman Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7467742,
+      "lng": -104.9845844
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3373597140",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3373597140,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1930",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Sherman Street",
+      "name": "Lau & Choi P.C. Attorneys at Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3373642721",
+    "name": "The Colorado and Denver Bar Association",
+    "address": "1900 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7466448,
+      "lng": -104.9833487
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3373642721",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3373642721,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1900",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "name": "The Colorado and Denver Bar Association",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3373647830",
+    "name": "Chalat Hatten & Koupal PC",
+    "address": "1900 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7467108,
+      "lng": -104.9833487
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3373647830",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3373647830,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1900",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "addr:unit": "1050",
+      "name": "Chalat Hatten & Koupal PC",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3373652698",
+    "name": "Chan Law Firm",
+    "address": "1900 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7469211,
+      "lng": -104.9833434
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3373652698",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3373652698,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1900",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "addr:unit": "750",
+      "name": "Chan Law Firm",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3373652838",
+    "name": "David Lindsey Attorney at Law",
+    "address": "1900 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7468489,
+      "lng": -104.9833461
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3373652838",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3373652838,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1900",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "addr:unit": "750",
+      "name": "David Lindsey Attorney at Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3373654806",
+    "name": "Litvak Litvak Mehrtens & Carlton",
+    "address": "1900 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7467788,
+      "lng": -104.9833487
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3373654806",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3373654806,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1900",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "addr:unit": "500",
+      "name": "Litvak Litvak Mehrtens & Carlton",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3373655190",
+    "name": "Legal Aid Foundation",
+    "address": "1900 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7465829,
+      "lng": -104.9833514
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3373655190",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3373655190,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1900",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "addr:unit": "1112",
+      "name": "Legal Aid Foundation",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3373661440",
+    "name": "Hunter + Geist, Inc.",
+    "address": "1900 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7465107,
+      "lng": -104.9833541
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3373661440",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3373661440,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1900",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "addr:unit": "1025",
+      "name": "Hunter + Geist, Inc.",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3378012431",
+    "name": "Hamil-Hecht Law Firm",
+    "address": "140 East 19th Avenue, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7459857,
+      "lng": -104.9846299
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3378012431",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3378012431,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "140",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "East 19th Avenue",
+      "addr:unit": "600",
+      "name": "Hamil-Hecht Law Firm",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3378016441",
+    "name": "Law Offices of Stuart Kritzer",
+    "address": "140 East 19th Avenue, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7458475,
+      "lng": -104.9846299
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3378016441",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3378016441,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "140",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "East 19th Avenue",
+      "addr:unit": "300",
+      "name": "Law Offices of Stuart Kritzer",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3382275016",
+    "name": "Dufford & Brown PC",
+    "address": "1700 Broadway, Denver, CO, 80202",
+    "location": {
+      "lat": 39.7437642,
+      "lng": -104.9870945
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3382275016",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3382275016,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1700",
+      "addr:postcode": "80202",
+      "addr:state": "CO",
+      "addr:street": "Broadway",
+      "name": "Dufford & Brown PC",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3382283402",
+    "name": "Ogborn Mihm, LLP Law Firm",
+    "address": "1700 Broadway, Denver, CO, 80202",
+    "location": {
+      "lat": 39.7434178,
+      "lng": -104.9870892
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3382283402",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3382283402,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1700",
+      "addr:postcode": "80202",
+      "addr:state": "CO",
+      "addr:street": "Broadway",
+      "addr:unit": "1900",
+      "name": "Ogborn Mihm, LLP Law Firm",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3382305536",
+    "name": "Kline Alvarado Veio P.C. Law Firm",
+    "address": "1775 Sherman Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7444632,
+      "lng": -104.9854246
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3382305536",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3382305536,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1775",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Sherman Street",
+      "addr:unit": "1790",
+      "name": "Kline Alvarado Veio P.C. Law Firm",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3383044586",
+    "name": "Kolko and Associates, P.C.",
+    "address": "303 East 17th Avenue, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7436355,
+      "lng": -104.9832797
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3383044586",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3383044586,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "303",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "East 17th Avenue",
+      "addr:unit": "585",
+      "name": "Kolko and Associates, P.C.",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3383044761",
+    "name": "American Civil Liberties Union of Colorado",
+    "address": "303 East 17th Avenue, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7435829,
+      "lng": -104.9833025
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3383044761",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3383044761,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "303",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "East 17th Avenue",
+      "addr:unit": "350",
+      "name": "American Civil Liberties Union of Colorado",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3383048216",
+    "name": "Esquire Deposition Solutions, LLC",
+    "address": "303 East 17th Avenue, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7435313,
+      "lng": -104.9833293
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3383048216",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3383048216,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "303",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "East 17th Avenue",
+      "addr:unit": "565",
+      "name": "Esquire Deposition Solutions, LLC",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3385563788",
+    "name": "Sam Barfield Law LLC",
+    "address": "1665 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7430948,
+      "lng": -104.9841233
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3385563788",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3385563788,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1665",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "name": "Sam Barfield Law LLC",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3385563893",
+    "name": "D'Angelo Law Office",
+    "address": "1665 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7431371,
+      "lng": -104.9841235
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3385563893",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3385563893,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1665",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "name": "D'Angelo Law Office",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3385564345",
+    "name": "Lapham Law Firm",
+    "address": "1665 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7430535,
+      "lng": -104.9841232
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3385564345",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3385564345,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1665",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "name": "Lapham Law Firm",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3385564387",
+    "name": "Advanced Legal Service",
+    "address": "1665 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7430092,
+      "lng": -104.984123
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3385564387",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3385564387,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1665",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "name": "Advanced Legal Service",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3385566405",
+    "name": "Susan Brushaber Law Office",
+    "address": "1665 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7429391,
+      "lng": -104.9841227
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3385566405",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3385566405,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1665",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "name": "Susan Brushaber Law Office",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3386961717",
+    "name": "T M Palmer Law Office",
+    "address": "1638 Pennsylvania Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7424221,
+      "lng": -104.9808649
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3386961717",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3386961717,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1638",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Pennsylvania Street",
+      "name": "T M Palmer Law Office",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3386964671",
+    "name": "Nrai Corporation Services",
+    "address": "1638 Pennsylvania Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7423839,
+      "lng": -104.9808635
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3386964671",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3386964671,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1638",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Pennsylvania Street",
+      "name": "Nrai Corporation Services",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3386968053",
+    "name": "Olnek & Ware Law",
+    "address": "1638 Pennsylvania Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.742454,
+      "lng": -104.9807643
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3386968053",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3386968053,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1638",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Pennsylvania Street",
+      "name": "Olnek & Ware Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3386974634",
+    "name": "T M Palmer Law Office",
+    "address": "1638 Pennsylvania Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7423839,
+      "lng": -104.9807656
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3386974634",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3386974634,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1638",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Pennsylvania Street",
+      "addr:unit": "102",
+      "name": "T M Palmer Law Office",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3386995902",
+    "name": "Law Offices of Todd J Hall",
+    "address": "1612 Pennsylvania Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.742008,
+      "lng": -104.9808917
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3386995902",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3386995902,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1612",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Pennsylvania Street",
+      "name": "Law Offices of Todd J Hall",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3387015797",
+    "name": "Darrell S. Elliott, PC Personal Injury",
+    "address": "1600 Pennsylvania Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7418812,
+      "lng": -104.9809031
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3387015797",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3387015797,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1600",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Pennsylvania Street",
+      "name": "Darrell S. Elliott, PC Personal Injury",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3387195868",
+    "name": "Harrington Brewster & Clein",
+    "address": "1623 Washington Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7421269,
+      "lng": -104.9790722
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3387195868",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3387195868,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1623",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Washington Street",
+      "name": "Harrington Brewster & Clein",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3387200450",
+    "name": "Overturf Mcgath Hull & Doherty",
+    "address": "625 East 16th Avenue, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7418206,
+      "lng": -104.979107
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3387200450",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3387200450,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "625",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "East 16th Avenue",
+      "name": "Overturf Mcgath Hull & Doherty",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3388806115",
+    "name": "Pensco Trust Company",
+    "address": "1560 Broadway, Denver, CO, 80202",
+    "location": {
+      "lat": 39.7409691,
+      "lng": -104.9864136
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3388806115",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3388806115,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1560",
+      "addr:postcode": "80202",
+      "addr:state": "CO",
+      "addr:street": "Broadway",
+      "addr:unit": "400",
+      "name": "Pensco Trust Company",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3394794499",
+    "name": "Chesler Law Office",
+    "address": "1343 Delaware Street, Denver, CO, 80204",
+    "location": {
+      "lat": 39.7376911,
+      "lng": -104.993192
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3394794499",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3394794499,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1343",
+      "addr:postcode": "80204",
+      "addr:state": "CO",
+      "addr:street": "Delaware Street",
+      "name": "Chesler Law Office",
+      "office": "lawyer",
+      "wheelchair": "no"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3394794554",
+    "name": "Kintzele Jack Attorney",
+    "address": "1317 Delaware Street, Denver, CO, 80204",
+    "location": {
+      "lat": 39.73728,
+      "lng": -104.9931599
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3394794554",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3394794554,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1317",
+      "addr:postcode": "80204",
+      "addr:state": "CO",
+      "addr:street": "Delaware Street",
+      "name": "Kintzele Jack Attorney",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3406727828",
+    "name": "Farrell Law Offices",
+    "address": "1275 Sherman Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7366256,
+      "lng": -104.9851319
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3406727828",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3406727828,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1275",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Sherman Street",
+      "addr:unit": "207",
+      "name": "Farrell Law Offices",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3413492483",
+    "name": "Calvert & Calvert",
+    "address": "1459 Pennsylvania Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7394714,
+      "lng": -104.9813587
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3413492483",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3413492483,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1459",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Pennsylvania Street",
+      "name": "Calvert & Calvert",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3415713767",
+    "name": "McKenzie Curtiss-Lusher & Assoc LLC",
+    "address": "1129 Pennsylvania Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7343503,
+      "lng": -104.9813796
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3415713767",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3415713767,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1129",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Pennsylvania Street",
+      "name": "McKenzie Curtiss-Lusher & Assoc LLC",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3444707894",
+    "name": "Shazam Kianpour & Associates",
+    "address": "190 East 9th Avenue, Denver, CO, 80203",
+    "location": {
+      "lat": 39.730281,
+      "lng": -104.9852227
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3444707894",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3444707894,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "190",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "East 9th Avenue",
+      "name": "Shazam Kianpour & Associates",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3444729295",
+    "name": "Contiguglia / Fazzone PC Law Office",
+    "address": "837 Sherman Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7299179,
+      "lng": -104.9851771
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3444729295",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3444729295,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "837",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Sherman Street",
+      "name": "Contiguglia / Fazzone PC Law Office",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3446174136",
+    "name": "Campbell Latiolais & Averbach",
+    "address": "825 Logan Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.72962,
+      "lng": -104.9827104
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3446174136",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3446174136,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "825",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Logan Street",
+      "name": "Campbell Latiolais & Averbach",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3446178420",
+    "name": "Buchanan & Yonushewski",
+    "address": "899 Logan Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7295426,
+      "lng": -104.9827131
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3446178420",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3446178420,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "899",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Logan Street",
+      "name": "Buchanan & Yonushewski",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3448325797",
+    "name": "Clifton Hook & Bovarnick",
+    "address": "789 Sherman Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7284654,
+      "lng": -104.9852568
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3448325797",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3448325797,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "789",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Sherman Street",
+      "name": "Clifton Hook & Bovarnick",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3448994885",
+    "name": "Skeen & Skeen PC",
+    "address": "217 East 7th Avenue, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7275537,
+      "lng": -104.9843079
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3448994885",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3448994885,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "217",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "East 7th Avenue",
+      "name": "Skeen & Skeen PC",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3449035754",
+    "name": "Leif Furmansky Attorney at Law",
+    "address": "217 East 7th Avenue, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7274949,
+      "lng": -104.9844018
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3449035754",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3449035754,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "217",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "East 7th Avenue",
+      "name": "Leif Furmansky Attorney at Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3449039060",
+    "name": "Catherine A. Chan, PC",
+    "address": "217 East 7th Avenue, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7275413,
+      "lng": -104.9843964
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3449039060",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3449039060,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "217",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "East 7th Avenue",
+      "name": "Catherine A. Chan, PC",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3449042125",
+    "name": "Daniel M. Murphy, P.C.",
+    "address": "217 East 7th Avenue, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7274462,
+      "lng": -104.984408
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3449042125",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3449042125,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "217",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "East 7th Avenue",
+      "name": "Daniel M. Murphy, P.C.",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3449043505",
+    "name": "Michael P. Gianelli, L.L.C.",
+    "address": "217 East 7th Avenue, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7275021,
+      "lng": -104.9842995
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3449043505",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3449043505,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "217",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "East 7th Avenue",
+      "name": "Michael P. Gianelli, L.L.C.",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3449044109",
+    "name": "Christopher T. Braddock Law Office",
+    "address": "217 East 7th Avenue, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7274472,
+      "lng": -104.9843004
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3449044109",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3449044109,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "217",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "East 7th Avenue",
+      "name": "Christopher T. Braddock Law Office",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3455006194",
+    "name": "Deisch, Marion, & Klaus, PC",
+    "address": "851 Clarkson Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7300173,
+      "lng": -104.9778211
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3455006194",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3455006194,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "851",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Clarkson Street",
+      "name": "Deisch, Marion, & Klaus, PC",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3458938636",
+    "name": "Gonzales E. Ricardo, Attorney",
+    "address": "645 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7264796,
+      "lng": -104.9840283
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3458938636",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3458938636,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "645",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "name": "Gonzales E. Ricardo, Attorney",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3458955999",
+    "name": "JFG Law Firm",
+    "address": "681 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7271505,
+      "lng": -104.9839066
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3458955999",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3458955999,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "681",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "name": "JFG Law Firm",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3458982109",
+    "name": "Laurie A Schmidt - Divorce & Family Law",
+    "address": "600 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7262243,
+      "lng": -104.9831619
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3458982109",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3458982109,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "600",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "addr:unit": "Suite 201",
+      "name": "Laurie A Schmidt - Divorce & Family Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3464646389",
+    "name": "Tirella Bankruptcy Law",
+    "address": "612 Washington Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.726028,
+      "lng": -104.9786162
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3464646389",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3464646389,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "612",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Washington Street",
+      "addr:unit": "104",
+      "name": "Tirella Bankruptcy Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3491714772",
+    "name": "Scheitler & Elio Law One",
+    "address": "675 Kalamath Street, Denver, CO, 80204",
+    "location": {
+      "lat": 39.7271514,
+      "lng": -105.0005659
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3491714772",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3491714772,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "675",
+      "addr:postcode": "80204",
+      "addr:state": "CO",
+      "addr:street": "Kalamath Street",
+      "name": "Scheitler & Elio Law One",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3497390844",
+    "name": "Robert Leland Johnson Attorney",
+    "address": "705 West 8th Avenue, Denver, CO, 80204",
+    "location": {
+      "lat": 39.7291435,
+      "lng": -104.9965875
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3497390844",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3497390844,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "705",
+      "addr:postcode": "80204",
+      "addr:state": "CO",
+      "addr:street": "West 8th Avenue",
+      "name": "Robert Leland Johnson Attorney",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3500181669",
+    "name": "Immigration Law Office, David N. Simmons",
+    "address": "1175 Osage Street, Denver, CO, 80204",
+    "location": {
+      "lat": 39.7350647,
+      "lng": -105.0057368
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3500181669",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3500181669,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1175",
+      "addr:postcode": "80204",
+      "addr:state": "CO",
+      "addr:street": "Osage Street",
+      "name": "Immigration Law Office, David N. Simmons",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3500181917",
+    "name": "Danielle M McCarthy PC",
+    "address": "1175 Osage Street, Denver, CO, 80204",
+    "location": {
+      "lat": 39.7347368,
+      "lng": -105.0057421
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3500181917",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3500181917,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1175",
+      "addr:postcode": "80204",
+      "addr:state": "CO",
+      "addr:street": "Osage Street",
+      "name": "Danielle M McCarthy PC",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3510429864",
+    "name": "Meyer Law Office",
+    "address": "1029 Santa Fe Drive, Denver, CO, 80204",
+    "location": {
+      "lat": 39.7327448,
+      "lng": -104.9988097
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3510429864",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3510429864,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1029",
+      "addr:postcode": "80204",
+      "addr:state": "CO",
+      "addr:street": "Santa Fe Drive",
+      "name": "Meyer Law Office",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3510472869",
+    "name": "Overton Law Firm",
+    "address": "1080 Kalamath Street, Denver, CO, 80204",
+    "location": {
+      "lat": 39.733395,
+      "lng": -104.9997526
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3510472869",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3510472869,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1080",
+      "addr:postcode": "80204",
+      "addr:state": "CO",
+      "addr:street": "Kalamath Street",
+      "name": "Overton Law Firm",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4139923575",
+    "name": "M & C Company Tax Service",
+    "address": "3155 Federal Boulevard, Denver, CO, 80211",
+    "location": {
+      "lat": 39.7618899,
+      "lng": -105.0256786
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4139923575",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4139923575,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "3155",
+      "addr:postcode": "80211",
+      "addr:state": "CO",
+      "addr:street": "Federal Boulevard",
+      "name": "M & C Company Tax Service",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4171308589",
+    "name": "Lucero & Associates",
+    "address": "3030 West 38th Avenue, Denver, CO, 80211",
+    "location": {
+      "lat": 39.769068,
+      "lng": -105.026164
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4171308589",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4171308589,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "3030",
+      "addr:postcode": "80211",
+      "addr:state": "CO",
+      "addr:street": "West 38th Avenue",
+      "name": "Lucero & Associates",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4404348829",
+    "name": "Unippafa",
+    "address": "3932 Federal Boulevard, Denver, CO, 80211",
+    "location": {
+      "lat": 39.7717442,
+      "lng": -105.0250326
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4404348829",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4404348829,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "3932",
+      "addr:postcode": "80211",
+      "addr:state": "CO",
+      "addr:street": "Federal Boulevard",
+      "name": "Unippafa",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5090774298",
+    "name": "Hogan Lovells",
+    "address": "1601 Wewatta Street, Denver, CO, 80202",
+    "location": {
+      "lat": 39.7539839,
+      "lng": -105.002974
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5090774298",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5090774298,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1601",
+      "addr:postcode": "80202",
+      "addr:state": "CO",
+      "addr:street": "Wewatta Street",
+      "addr:unit": "900",
+      "name": "Hogan Lovells",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5090813225",
+    "name": "ESQlegal",
+    "address": "3343 Larimer Street, Denver, CO, 80205",
+    "location": {
+      "lat": 39.7660054,
+      "lng": -104.9761646
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5090813225",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5090813225,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "3343",
+      "addr:postcode": "80205",
+      "addr:state": "CO",
+      "addr:street": "Larimer Street",
+      "name": "ESQlegal",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5336074237",
+    "name": "Hnd Law Offices",
+    "address": "1505 Osceola Street, Denver, CO, 80204",
+    "location": {
+      "lat": 39.7405301,
+      "lng": -105.03841
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5336074237",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5336074237,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1505",
+      "addr:postcode": "80204",
+      "addr:state": "CO",
+      "addr:street": "Osceola Street",
+      "name": "Hnd Law Offices",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5400081985",
+    "name": "Cage Bucar Lewis",
+    "address": "4045 Pecos Street, Denver, CO, 80211",
+    "location": {
+      "lat": 39.7726053,
+      "lng": -105.0067187
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5400081985",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5400081985,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "4045",
+      "addr:postcode": "80211",
+      "addr:state": "CO",
+      "addr:street": "Pecos Street",
+      "name": "Cage Bucar Lewis",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5579725205",
+    "name": "Hodson Law Firm",
+    "address": "1129 East 17th Avenue, Denver, CO, 80218",
+    "location": {
+      "lat": 39.7434949,
+      "lng": -104.9725722
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5579725205",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5579725205,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1129",
+      "addr:postcode": "80218",
+      "addr:state": "CO",
+      "addr:street": "East 17th Avenue",
+      "name": "Hodson Law Firm",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5579725206",
+    "name": "Andrew M. Toft",
+    "address": "1129 East 17th Avenue, Denver, CO, 80218",
+    "location": {
+      "lat": 39.7435764,
+      "lng": -104.9725722
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5579725206",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5579725206,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1129",
+      "addr:postcode": "80218",
+      "addr:state": "CO",
+      "addr:street": "East 17th Avenue",
+      "name": "Andrew M. Toft",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6035312516",
+    "name": "Clara N. Romero",
+    "address": "745 Federal Boulevard, Denver, CO, 80204",
+    "location": {
+      "lat": 39.7281738,
+      "lng": -105.0254467
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6035312516",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6035312516,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "745",
+      "addr:postcode": "80204",
+      "addr:state": "CO",
+      "addr:street": "Federal Boulevard",
+      "name": "Clara N. Romero",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6997589723",
+    "name": "Meurer Law Offices, P.C.",
+    "address": "3801 East Florida Avenue, Denver, CO, 80210",
+    "location": {
+      "lat": 39.6896966,
+      "lng": -104.9423974
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6997589723",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6997589723,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "3801",
+      "addr:postcode": "80210",
+      "addr:state": "CO",
+      "addr:street": "East Florida Avenue",
+      "addr:unit": "906",
+      "name": "Meurer Law Offices, P.C.",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7039375202",
+    "name": "Iyer Law Office",
+    "address": "1565 Franklin Street, Denver, CO, 80218",
+    "location": {
+      "lat": 39.7412805,
+      "lng": -104.9687374
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7039375202",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7039375202,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1565",
+      "addr:postcode": "80218",
+      "addr:state": "CO",
+      "addr:street": "Franklin Street",
+      "name": "Iyer Law Office",
+      "office": "lawyer",
+      "opening_hours": "\"by appointment\""
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7050560042",
+    "name": "Law Office Of Lynne A. Weitzel",
+    "address": "1660 Lincoln Street, Denver, CO, 80264",
+    "location": {
+      "lat": 39.7430705,
+      "lng": -104.985944
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7050560042",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7050560042,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1660",
+      "addr:postcode": "80264",
+      "addr:state": "CO",
+      "addr:street": "Lincoln Street",
+      "addr:unit": "2000",
+      "name": "Law Office Of Lynne A. Weitzel",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7105062787",
+    "name": "Helen C. Shreves",
+    "address": "501 South Cherry Street, Glendale, CO, 80246",
+    "location": {
+      "lat": 39.7071914,
+      "lng": -104.9341169
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7105062787",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7105062787,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Glendale",
+      "addr:housenumber": "501",
+      "addr:postcode": "80246",
+      "addr:state": "CO",
+      "addr:street": "South Cherry Street",
+      "addr:unit": "660",
+      "name": "Helen C. Shreves",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7564558931",
+    "name": "Norton Rose Fulbright",
+    "address": "1225 17th Street, Denver, CO, 80202",
+    "location": {
+      "lat": 39.7504791,
+      "lng": -104.9952801
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7564558931",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7564558931,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1225",
+      "addr:postcode": "80202",
+      "addr:state": "CO",
+      "addr:street": "17th Street",
+      "name": "Norton Rose Fulbright",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6232469679",
+    "name": "Alhasoon, Glidden & Glidden, LLC",
+    "address": "",
+    "location": {
+      "lat": 39.738779,
+      "lng": -104.9188266
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6232469679",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6232469679,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Alhasoon, Glidden & Glidden, LLC",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7937344891",
+    "name": "Fortis Law Partners LLC",
+    "address": "",
+    "location": {
+      "lat": 39.7540918,
+      "lng": -104.996389
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7937344891",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7937344891,
+    "osm_type": "node",
+    "osm_tags": {
+      "description": "Fortis Law Partners LLC is a woman-owned, boutique law firm with a focus on emerging and middle-market companies.\n\nAddress :- 1900 Wazee St # 300, Denver, CO 80202\n\nTel No :- 303-295-9700\n\nWebsite :- https://www.fortislawpartners.com/",
+      "name": "Fortis Law Partners LLC",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  }
+]

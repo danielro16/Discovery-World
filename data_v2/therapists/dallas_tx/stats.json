@@ -1,0 +1,17 @@
+{
+  "vertical": "therapists",
+  "city": "Dallas, TX",
+  "total_places": 25,
+  "sources": {
+    "osm": 25,
+    "public_records": 0
+  },
+  "with_website": 15,
+  "with_phone": 12,
+  "with_address": 18,
+  "with_license": 0,
+  "avg_completeness": 42.8,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

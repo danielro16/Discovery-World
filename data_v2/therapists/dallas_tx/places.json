@@ -1,0 +1,1265 @@
+[
+  {
+    "id": "osm_node_13266649637",
+    "name": "Action Behavior Centers - ABA Therapy for Autism",
+    "address": "355 Rodeo Center Boulevard, Mesquite, TX, 75149",
+    "location": {
+      "lat": 32.7663595,
+      "lng": -96.6234713
+    },
+    "phone": "+1-682-651-1110",
+    "website": "https://www.actionbehavior.com/location/texas/west-mesquite",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13266649637",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13266649637,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Mesquite",
+      "addr:housenumber": "355",
+      "addr:postcode": "75149",
+      "addr:state": "TX",
+      "addr:street": "Rodeo Center Boulevard",
+      "addr:unit": "Suite 100",
+      "contact:facebook": "https://www.facebook.com/ActionBehaviorCenters/",
+      "contact:instagram": "https://www.instagram.com/actionbehaviorcenters/",
+      "contact:linkedin": "https://www.linkedin.com/company/action-behavior-centers",
+      "contact:twitter": "https://x.com/actionbehavior",
+      "contact:youtube": "https://www.youtube.com/@actionbehaviorcenters",
+      "healthcare": "psychotherapist",
+      "language:en": "yes",
+      "name": "Action Behavior Centers - ABA Therapy for Autism",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1-682-651-1110",
+      "website": "https://www.actionbehavior.com/location/texas/west-mesquite"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13279397688",
+    "name": "Action Behavior Centers - ABA Therapy for Autism",
+    "address": "1152 North Buckner Boulevard, Dallas, TX, 75218",
+    "location": {
+      "lat": 32.834955,
+      "lng": -96.7021785
+    },
+    "phone": "+1-214-666-5598",
+    "website": "https://www.actionbehavior.com/location/texas/casa-linda",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13279397688",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13279397688,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Dallas",
+      "addr:housenumber": "1152",
+      "addr:postcode": "75218",
+      "addr:state": "TX",
+      "addr:street": "North Buckner Boulevard",
+      "addr:unit": "Suites 230 - 260",
+      "contact:facebook": "https://www.facebook.com/ActionBehaviorCenters/",
+      "contact:instagram": "https://www.instagram.com/actionbehaviorcenters/",
+      "contact:linkedin": "https://www.linkedin.com/company/action-behavior-centers",
+      "contact:twitter": "https://x.com/actionbehavior",
+      "contact:youtube": "https://www.youtube.com/@actionbehaviorcenters",
+      "healthcare": "psychotherapist",
+      "language:en": "yes",
+      "name": "Action Behavior Centers - ABA Therapy for Autism",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1-214-666-5598",
+      "website": "https://www.actionbehavior.com/location/texas/casa-linda"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10972259274",
+    "name": "Frisco Behavioral Health Group, LLC",
+    "address": "4500 Hillcrest Road, Frisco, TX, 75035",
+    "location": {
+      "lat": 33.1156769,
+      "lng": -96.7876365
+    },
+    "phone": "+1-469-213-6400",
+    "website": "friscobehavioralhealth.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10972259274",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist",
+      "behavior;psychotherapist;psychiatry;psychology;child_psychiatry"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10972259274,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Frisco",
+      "addr:housenumber": "4500",
+      "addr:postcode": "75035",
+      "addr:state": "TX",
+      "addr:street": "Hillcrest Road",
+      "addr:unit": "115",
+      "healthcare": "psychotherapist",
+      "healthcare:speciality": "behavior;psychotherapist;psychiatry;psychology;child_psychiatry",
+      "name": "Frisco Behavioral Health Group, LLC",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1-469-213-6400",
+      "website": "friscobehavioralhealth.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12757250168",
+    "name": "A Better You Wellness",
+    "address": "5300 Town and Country Boulevard, Frisco, TX, 75034",
+    "location": {
+      "lat": 33.0895733,
+      "lng": -96.8429243
+    },
+    "phone": "+1 832-810-8034",
+    "website": "https://abetteryouwellnessus.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12757250168",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling",
+      "mental_health;career_coaching"
+    ],
+    "hours": {
+      "Monday": "16:00-22:00",
+      "Tuesday": "16:00-22:00",
+      "Thursday": "16:00-22:00",
+      "Friday": "16:00-22:00",
+      "Wednesday": "16:00-18:00",
+      "Saturday": "08:00-12:00",
+      "Sunday": "14:00-20:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12757250168,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Frisco",
+      "addr:housenumber": "5300",
+      "addr:postcode": "75034",
+      "addr:state": "TX",
+      "addr:street": "Town and Country Boulevard",
+      "addr:unit": "240-28",
+      "email": "info@abetteryouwellnessus.com",
+      "healthcare": "counselling",
+      "healthcare:speciality": "mental_health;career_coaching",
+      "name": "A Better You Wellness",
+      "opening_hours": "Mo-Tu,Th-Fr 16:00-22:00; We 16:00-18:00; Sa 08:00-12:00; Su 14:00-20:00",
+      "phone": "+1 832-810-8034",
+      "website": "https://abetteryouwellnessus.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13184750545",
+    "name": "Planned Parenthood",
+    "address": "600 North Central Expressway, 75074",
+    "location": {
+      "lat": 33.0077785,
+      "lng": -96.7069253
+    },
+    "phone": "+1 972-424-6311",
+    "website": "https://www.plannedparenthood.org/health-center/texas/plano/75074/plano-health-center-4193-91620",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13184750545",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "clinic",
+      "counselling"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Tuesday": "11:00-19:00",
+      "Saturday": "off",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13184750545,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "600",
+      "addr:postcode": "75074",
+      "addr:street": "North Central Expressway",
+      "addr:unit": "601",
+      "amenity": "clinic",
+      "branch": "Plano",
+      "check_date": "2025-09-30",
+      "contact:fax": "+1 972-423-7659",
+      "contact:phone": "+1 972-424-6311",
+      "contact:website": "https://www.plannedparenthood.org/health-center/texas/plano/75074/plano-health-center-4193-91620",
+      "healthcare": "counselling",
+      "healthcare:counselling": "antenatal;sexual",
+      "internet_access": "wlan",
+      "internet_access:fee": "customers",
+      "name": "Planned Parenthood",
+      "opening_hours": "Mo,We-Fr 09:00-17:00; Tu 11:00-19:00; Sa-Su off",
+      "operator": "Planned Parenthood",
+      "operator:type": "ngo",
+      "operator:wikidata": "Q2553262",
+      "payment:american_express": "yes",
+      "payment:cash": "yes",
+      "payment:contactless": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "payment:discover_card": "yes",
+      "payment:mastercard": "yes",
+      "payment:unionpay": "yes",
+      "payment:visa": "yes",
+      "wheelchair": "yes"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11897607522",
+    "name": "The Helm ABA",
+    "address": "",
+    "location": {
+      "lat": 32.9994711,
+      "lng": -96.9777851
+    },
+    "phone": "+1-469-458-6832",
+    "website": "https://www.thehelaba.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11897607522",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist"
+    ],
+    "hours": {
+      "Monday": "08:30-17:30",
+      "Tuesday": "08:30-17:30",
+      "Wednesday": "08:30-17:30",
+      "Thursday": "08:30-17:30",
+      "Friday": "08:30-17:30",
+      "Saturday": "closed",
+      "Sunday": "closed"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 55,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11897607522,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:unit": "302",
+      "healthcare": "psychotherapist",
+      "level": "1",
+      "name": "The Helm ABA",
+      "opening_hours": "Mo-Fr 08:30-17:30; Sa-Su closed; PH closed",
+      "phone": "+1-469-458-6832",
+      "website": "https://www.thehelaba.com",
+      "wheelchair": "yes"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_1246916323",
+    "name": "Planned Parenthood",
+    "address": "4551 Beltway Drive, Addison, TX, 75001",
+    "location": {
+      "lat": 32.9528014,
+      "lng": -96.8344209
+    },
+    "phone": "",
+    "website": "https://www.plannedparenthood.org/health-center/texas/addison/75001/addison-health-center-2157-91620",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/1246916323",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "clinic",
+      "counselling"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Tuesday": "11:00-19:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 55,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1246916323,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Addison",
+      "addr:housenumber": "4551",
+      "addr:postcode": "75001",
+      "addr:state": "TX",
+      "addr:street": "Beltway Drive",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "counselling",
+      "healthcare:counselling": "antenatal;sexual",
+      "name": "Planned Parenthood",
+      "opening_hours": "Mo,We-Fr 09:00-17:00; Tu 11:00-19:00",
+      "operator": "Planned Parenthood",
+      "operator:type": "ngo",
+      "operator:wikidata": "Q2553262",
+      "website": "https://www.plannedparenthood.org/health-center/texas/addison/75001/addison-health-center-2157-91620"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13076411206",
+    "name": "Star Orthopedics",
+    "address": "149 West State Highway 121",
+    "location": {
+      "lat": 32.9865162,
+      "lng": -96.9961031
+    },
+    "phone": "+1-469-850-0680",
+    "website": "https://www.starorthopedics.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13076411206",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "physiotherapist",
+      "therapist",
+      "orthopaedics"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13076411206,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "149",
+      "addr:street": "West State Highway 121",
+      "addr:unit": "115",
+      "air_conditioning": "yes",
+      "check_date": "2025-08-17",
+      "fax": "+1-469-850-0681",
+      "healthcare": "physiotherapist",
+      "healthcare:speciality": "orthopaedics",
+      "internet_access": "no",
+      "name": "Star Orthopedics",
+      "office": "therapist",
+      "operator": "Andrew P. Dold, MD",
+      "payment:cash": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "phone": "+1-469-850-0680",
+      "website": "https://www.starorthopedics.com/",
+      "wheelchair": "yes"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11870240911",
+    "name": "Dallas Therapy Collective",
+    "address": "8140 Walnut Hill Ln, Dallas, TX, 75231",
+    "location": {
+      "lat": 32.8793713,
+      "lng": -96.7666328
+    },
+    "phone": "+1-469-709-9250",
+    "website": "https://dallastherapycollective.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11870240911",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist",
+      "physiotherapy"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11870240911,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Dallas",
+      "addr:housenumber": "8140",
+      "addr:postcode": "75231",
+      "addr:state": "TX",
+      "addr:street": "Walnut Hill Ln",
+      "addr:unit": "440",
+      "healthcare": "psychotherapist",
+      "healthcare:speciality": "physiotherapy",
+      "name": "Dallas Therapy Collective",
+      "phone": "+1-469-709-9250",
+      "website": "https://dallastherapycollective.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_569738421",
+    "name": "Medical City Green Oaks Hospital",
+    "address": "7808 Clodus Fields Drive, Dallas, 75251",
+    "location": {
+      "lat": 32.9128378,
+      "lng": -96.7717218
+    },
+    "phone": "+1 972 991 9504",
+    "website": "https://medicalcitygreenoaks.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/569738421",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "hospital",
+      "hospital",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 569738421,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Dallas",
+      "addr:housenumber": "7808",
+      "addr:postcode": "75251",
+      "addr:street": "Clodus Fields Drive",
+      "amenity": "hospital",
+      "beds": "124",
+      "emergency": "no",
+      "healthcare": "hospital",
+      "healthcare:speciality": "psychiatry",
+      "name": "Medical City Green Oaks Hospital",
+      "operator": "HCA",
+      "phone": "+1 972 991 9504",
+      "website": "https://medicalcitygreenoaks.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10916970556",
+    "name": "Eating Recovery Center Dallas / Plano",
+    "address": "5120 Legacy Drive, Plano, TX, 75024",
+    "location": {
+      "lat": 33.0708126,
+      "lng": -96.8016974
+    },
+    "phone": "+1 469 499 3900",
+    "website": "https://www.eatingrecoverycenter.com/recovery-centers/dallas",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10916970556",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "hospital",
+      "hospital",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10916970556,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Plano",
+      "addr:housenumber": "5120",
+      "addr:postcode": "75024",
+      "addr:state": "TX",
+      "addr:street": "Legacy Drive",
+      "amenity": "hospital",
+      "beds": "54",
+      "healthcare": "hospital",
+      "healthcare:speciality": "psychiatry",
+      "name": "Eating Recovery Center Dallas / Plano",
+      "phone": "+1 469 499 3900",
+      "website": "https://www.eatingrecoverycenter.com/recovery-centers/dallas"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_648870480",
+    "name": "Carrollton Springs",
+    "address": "2225 Parker Road, Carrollton, TX, 75010",
+    "location": {
+      "lat": 33.0457071,
+      "lng": -96.8684875
+    },
+    "phone": "+1 972 242 4114",
+    "website": "https://carrolltonsprings.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/648870480",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "hospital",
+      "hospital",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 648870480,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Carrollton",
+      "addr:housenumber": "2225",
+      "addr:postcode": "75010",
+      "addr:state": "TX",
+      "addr:street": "Parker Road",
+      "amenity": "hospital",
+      "beds": "78",
+      "healthcare": "hospital",
+      "healthcare:speciality": "psychiatry",
+      "name": "Carrollton Springs",
+      "phone": "+1 972 242 4114",
+      "website": "https://carrolltonsprings.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13076411204",
+    "name": "Monkey Mouth Pediatric Therapy",
+    "address": "165 West State Highway 121",
+    "location": {
+      "lat": 32.9867805,
+      "lng": -96.9966178
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13076411204",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "rehabilitation",
+      "therapist",
+      "paediatrics"
+    ],
+    "hours": {
+      "Monday": "\"By appountment\"",
+      "Tuesday": "\"By appountment\"",
+      "Wednesday": "\"By appountment\"",
+      "Thursday": "\"By appountment\"",
+      "Friday": "\"By appountment\""
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 45,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13076411204,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "165",
+      "addr:street": "West State Highway 121",
+      "addr:unit": "100",
+      "air_conditioning": "yes",
+      "check_date": "2025-08-17",
+      "healthcare": "rehabilitation",
+      "healthcare:speciality": "paediatrics",
+      "internet_access": "no",
+      "name": "Monkey Mouth Pediatric Therapy",
+      "office": "therapist",
+      "opening_hours": "Mo-Fr \"By appountment\"",
+      "wheelchair": "yes"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11910088792",
+    "name": "Center For Biofeedback And Behavior Therapy",
+    "address": "15028 Beltway Drive, Addison, TX, 75001",
+    "location": {
+      "lat": 32.9518346,
+      "lng": -96.8335651
+    },
+    "phone": "",
+    "website": "https://www.onlinebiofeedback.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11910088792",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11910088792,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Addison",
+      "addr:housenumber": "15028",
+      "addr:postcode": "75001",
+      "addr:state": "TX",
+      "addr:street": "Beltway Drive",
+      "healthcare": "psychotherapist",
+      "name": "Center For Biofeedback And Behavior Therapy",
+      "website": "https://www.onlinebiofeedback.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13282468453",
+    "name": "Cannenta Center",
+    "address": "15620 Quorum Drive, Addison, TX, 75001",
+    "location": {
+      "lat": 32.9620079,
+      "lng": -96.8256412
+    },
+    "phone": "",
+    "website": "https://www.cannentacenter.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13282468453",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist",
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13282468453,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Addison",
+      "addr:housenumber": "15620",
+      "addr:postcode": "75001",
+      "addr:state": "TX",
+      "addr:street": "Quorum Drive",
+      "healthcare": "psychotherapist",
+      "name": "Cannenta Center",
+      "office": "therapist",
+      "website": "https://www.cannentacenter.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_648870478",
+    "name": "Carrollton Springs",
+    "address": "2329 Parker Road, Carrollton, TX, 75010",
+    "location": {
+      "lat": 33.0456128,
+      "lng": -96.8648184
+    },
+    "phone": "",
+    "website": "https://carrolltonsprings.com/locations/carrollton-tx/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/648870478",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "hospital",
+      "hospital",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 648870478,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Carrollton",
+      "addr:housenumber": "2329",
+      "addr:postcode": "75010",
+      "addr:state": "TX",
+      "addr:street": "Parker Road",
+      "amenity": "hospital",
+      "beds": "60",
+      "healthcare": "hospital",
+      "healthcare:speciality": "psychiatry",
+      "name": "Carrollton Springs",
+      "website": "https://carrolltonsprings.com/locations/carrollton-tx/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5861488389",
+    "name": "D L Lawless",
+    "address": "",
+    "location": {
+      "lat": 32.9736779,
+      "lng": -96.7232558
+    },
+    "phone": "+1-972-412-7645",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5861488389",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5861488389,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:unit": "202",
+      "name": "D L Lawless",
+      "office": "therapist",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:credit_cards": "no",
+      "payment:debit_cards": "no",
+      "phone": "+1-972-412-7645"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_8740597312",
+    "name": "Ziggurat Group",
+    "address": "6220 Campbell Road, Dallas, TX, 75248",
+    "location": {
+      "lat": 32.9815761,
+      "lng": -96.8016851
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8740597312",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8740597312,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Dallas",
+      "addr:country": "US",
+      "addr:housenumber": "6220",
+      "addr:postcode": "75248",
+      "addr:state": "TX",
+      "addr:street": "Campbell Road",
+      "addr:unit": "404",
+      "healthcare": "counselling",
+      "name": "Ziggurat Group"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_8252573076",
+    "name": "Jenny Craig",
+    "address": "4801 West Park Boulevard, Plano, TX, 75093",
+    "location": {
+      "lat": 33.0282303,
+      "lng": -96.7909263
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8252573076",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling",
+      "weight_loss"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8252573076,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Plano",
+      "addr:country": "US",
+      "addr:housenumber": "4801",
+      "addr:postcode": "75093",
+      "addr:state": "TX",
+      "addr:street": "West Park Boulevard",
+      "addr:unit": "413",
+      "brand": "Jenny Craig",
+      "brand:wikidata": "Q6179221",
+      "healthcare": "counselling",
+      "healthcare:counselling": "dietitian",
+      "healthcare:speciality": "weight_loss",
+      "name": "Jenny Craig"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_8260733294",
+    "name": "Slim4Life",
+    "address": "308 Coit Road, TX, 75075",
+    "location": {
+      "lat": 33.0015661,
+      "lng": -96.7649038
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8260733294",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling",
+      "weight_loss"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8260733294,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "308",
+      "addr:postcode": "75075",
+      "addr:state": "TX",
+      "addr:street": "Coit Road",
+      "addr:unit": "300",
+      "healthcare": "counselling",
+      "healthcare:counselling": "dietitian",
+      "healthcare:speciality": "weight_loss",
+      "name": "Slim4Life"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13436050703",
+    "name": "Planned Parenthood",
+    "address": "",
+    "location": {
+      "lat": 32.5993711,
+      "lng": -96.9439966
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13436050703",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "clinic",
+      "counselling"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13436050703,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "clinic",
+      "healthcare": "counselling",
+      "healthcare:counselling": "antenatal;sexual",
+      "name": "Planned Parenthood",
+      "operator": "Planned Parenthood",
+      "operator:type": "ngo",
+      "operator:wikidata": "Q2553262"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7936364065",
+    "name": "Planned Parenthood",
+    "address": "",
+    "location": {
+      "lat": 32.8729511,
+      "lng": -96.7676155
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7936364065",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "clinic",
+      "counselling"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7936364065,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "clinic",
+      "brand": "Planned Parenthood",
+      "brand:wikidata": "Q2553262",
+      "healthcare": "counselling",
+      "healthcare:counselling": "antenatal;sexual",
+      "name": "Planned Parenthood",
+      "operator": "Planned Parenthood",
+      "operator:type": "ngo",
+      "operator:wikidata": "Q2553262"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5249087147",
+    "name": "Jenny Craig",
+    "address": "",
+    "location": {
+      "lat": 33.016666,
+      "lng": -96.7097202
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5249087147",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling",
+      "weight_loss"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5249087147,
+    "osm_type": "node",
+    "osm_tags": {
+      "brand": "Jenny Craig",
+      "brand:wikidata": "Q6179221",
+      "healthcare": "counselling",
+      "healthcare:counselling": "dietitian",
+      "healthcare:speciality": "weight_loss",
+      "name": "Jenny Craig"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11557766065",
+    "name": "Salience Health",
+    "address": "",
+    "location": {
+      "lat": 33.0160834,
+      "lng": -96.8073246
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11557766065",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "doctors",
+      "doctor",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11557766065,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "psychiatry",
+      "name": "Salience Health"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12520170095",
+    "name": "Massage District",
+    "address": "",
+    "location": {
+      "lat": 33.0905563,
+      "lng": -96.8371995
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12520170095",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12520170095,
+    "osm_type": "node",
+    "osm_tags": {
+      "healthcare": "psychotherapist",
+      "name": "Massage District"
+    },
+    "sources": [
+      "osm"
+    ]
+  }
+]

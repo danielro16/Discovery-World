@@ -1,0 +1,17 @@
+{
+  "vertical": "restaurants",
+  "city": "Los Angeles, CA",
+  "total_places": 8946,
+  "sources": {
+    "osm": 8946,
+    "public_records": 0
+  },
+  "with_website": 4259,
+  "with_phone": 4037,
+  "with_address": 5539,
+  "with_license": 0,
+  "avg_completeness": 40.0,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

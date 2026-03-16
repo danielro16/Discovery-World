@@ -1,0 +1,2373 @@
+[
+  {
+    "id": "osm_node_10637996976",
+    "name": "Frogale Law",
+    "address": "5250 Cherokee Avenue, Alexandria, VA, 22312",
+    "location": {
+      "lat": 38.8077974,
+      "lng": -77.1605345
+    },
+    "phone": "+1-703-488-7140",
+    "website": "https://frogalelaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10637996976",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10637996976,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Alexandria",
+      "addr:housenumber": "5250",
+      "addr:postcode": "22312",
+      "addr:state": "VA",
+      "addr:street": "Cherokee Avenue",
+      "addr:unit": "306",
+      "email": "james@frogalelaw.com",
+      "name": "Frogale Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "phone": "+1-703-488-7140",
+      "website": "https://frogalelaw.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10864195907",
+    "name": "Hughes Legacy Law PLLC",
+    "address": "916 Prince Street, Alexandria, VA, 22314",
+    "location": {
+      "lat": 38.8041311,
+      "lng": -77.050142
+    },
+    "phone": "+1-703-977-1139",
+    "website": "https://hugheslegacylaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10864195907",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-17:30",
+      "Tuesday": "08:30-17:30",
+      "Wednesday": "08:30-17:30",
+      "Thursday": "08:30-17:30",
+      "Friday": "08:30-17:30"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10864195907,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Alexandria",
+      "addr:housenumber": "916",
+      "addr:postcode": "22314",
+      "addr:state": "VA",
+      "addr:street": "Prince Street",
+      "addr:unit": "Suite 200",
+      "contact:email": "info@hugheslegacylaw.com",
+      "name": "Hughes Legacy Law PLLC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-17:30",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:credit_cards": "yes",
+      "payment:invoice": "yes",
+      "phone": "+1-703-977-1139",
+      "website": "https://hugheslegacylaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11274564887",
+    "name": "Law Office of Michael J. Sgarlat",
+    "address": "801 North Pitt Street, Alexandria, VA, 22314",
+    "location": {
+      "lat": 38.8133917,
+      "lng": -77.0422836
+    },
+    "phone": "+1 703-549-2000",
+    "website": "https://sgarlatlaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11274564887",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "7:00-17:00",
+      "Tuesday": "7:00-17:00",
+      "Wednesday": "7:00-17:00",
+      "Thursday": "7:00-17:00",
+      "Friday": "7:00-17:00",
+      "Saturday": "7:00-17:00",
+      "Sunday": "7:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11274564887,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Alexandria",
+      "addr:housenumber": "801",
+      "addr:postcode": "22314",
+      "addr:state": "VA",
+      "addr:street": "North Pitt Street",
+      "addr:unit": "109",
+      "name": "Law Office of Michael J. Sgarlat",
+      "office": "lawyer",
+      "opening_hours": "Mo-Su 7:00-17:00",
+      "operator": "Michael Sgarlat",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "phone": "+1 703-549-2000",
+      "website": "https://sgarlatlaw.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5861040650",
+    "name": "Patriots Law Group",
+    "address": "5819 Allentown Road, Suitland, MD, 20746",
+    "location": {
+      "lat": 38.8078849,
+      "lng": -76.900011
+    },
+    "phone": "+1 301-952-9000",
+    "website": "https://www.patriotslawgroup.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5861040650",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5861040650,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Suitland",
+      "addr:housenumber": "5819",
+      "addr:postcode": "20746",
+      "addr:state": "MD",
+      "addr:street": "Allentown Road",
+      "fax": "+1 240-699-8108",
+      "name": "Patriots Law Group",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1 301-952-9000",
+      "website": "https://www.patriotslawgroup.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6325211977",
+    "name": "ChasenBoscolo",
+    "address": "6402 Arlington Boulevard, Falls Church, VA, 22042",
+    "location": {
+      "lat": 38.8735163,
+      "lng": -77.1598838
+    },
+    "phone": "+1 703-538-1138",
+    "website": "https://www.chasenboscolo.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6325211977",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6325211977,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Falls Church",
+      "addr:housenumber": "6402",
+      "addr:postcode": "22042",
+      "addr:state": "VA",
+      "addr:street": "Arlington Boulevard",
+      "addr:unit": "600",
+      "name": "ChasenBoscolo",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1 703-538-1138",
+      "website": "https://www.chasenboscolo.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9773256559",
+    "name": "The Law Office of Jeffrey J. Downey, P.C.",
+    "address": "8270 Greensboro Drive, McLean, VA, 22102",
+    "location": {
+      "lat": 38.9236094,
+      "lng": -77.2305529
+    },
+    "phone": "+1 703-564-7318",
+    "website": "https://www.jeffdowney.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9773256559",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-17:30",
+      "Tuesday": "08:30-17:30",
+      "Wednesday": "08:30-17:30",
+      "Thursday": "08:30-17:30",
+      "Friday": "08:30-17:30"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9773256559,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "McLean",
+      "addr:housenumber": "8270",
+      "addr:postcode": "22102",
+      "addr:state": "VA",
+      "addr:street": "Greensboro Drive",
+      "addr:unit": "810",
+      "email": "jeffdowney1@outlook.com",
+      "name": "The Law Office of Jeffrey J. Downey, P.C.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-17:30",
+      "phone": "+1 703-564-7318",
+      "website": "https://www.jeffdowney.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10098579482",
+    "name": "Morgan & Morgan",
+    "address": "4250 Fairfax Drive, Arlington, VA, 22203",
+    "location": {
+      "lat": 38.8818548,
+      "lng": -77.1123641
+    },
+    "phone": "+1 571-357-7600",
+    "website": "https://www.forthepeople.com/arlington/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10098579482",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10098579482,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Arlington",
+      "addr:housenumber": "4250",
+      "addr:postcode": "22203",
+      "addr:state": "VA",
+      "addr:street": "Fairfax Drive",
+      "addr:unit": "635",
+      "brand": "Morgan & Morgan",
+      "brand:wikidata": "Q111597979",
+      "name": "Morgan & Morgan",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 571-357-7600",
+      "website": "https://www.forthepeople.com/arlington/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5906043378",
+    "name": "The Law Office of Alan B. Frankle",
+    "address": "751 Rockville Pike, Rockville, MD, 20852",
+    "location": {
+      "lat": 39.0786984,
+      "lng": -77.1423972
+    },
+    "phone": "+1 301-217-0505",
+    "website": "https://www.franklelaw.net/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5906043378",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "09:00-18:00",
+      "Thursday": "09:00-18:00",
+      "Friday": "09:00-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5906043378,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Rockville",
+      "addr:housenumber": "751",
+      "addr:postcode": "20852",
+      "addr:state": "MD",
+      "addr:street": "Rockville Pike",
+      "addr:unit": "#7",
+      "name": "The Law Office of Alan B. Frankle",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-18:00",
+      "phone": "+1 301-217-0505",
+      "website": "https://www.franklelaw.net/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6632176072",
+    "name": "The Law Office of Raymond F. Anthracite",
+    "address": "17 West Jefferson Street, Rockville, MD, 20850",
+    "location": {
+      "lat": 39.0832643,
+      "lng": -77.1534003
+    },
+    "phone": "+1-301-556-8709",
+    "website": "https://www.anthracitelaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6632176072",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-19:30",
+      "Tuesday": "08:00-19:30",
+      "Wednesday": "08:00-19:30",
+      "Thursday": "08:00-19:30",
+      "Friday": "08:00-19:30"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6632176072,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Rockville",
+      "addr:housenumber": "17",
+      "addr:postcode": "20850",
+      "addr:state": "MD",
+      "addr:street": "West Jefferson Street",
+      "addr:unit": "Suite 204",
+      "air_conditioning": "yes",
+      "email": "contact@anthracitelaw.com",
+      "fax": "+1-240-241-5529",
+      "level": "2",
+      "name": "The Law Office of Raymond F. Anthracite",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-19:30",
+      "operator": "Raymond F. Anthracite",
+      "phone": "+1-301-556-8709",
+      "website": "https://www.anthracitelaw.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7132479943",
+    "name": "The Law Offices of Sandra Guzman-Salvado",
+    "address": "11 North Washington Street, Rockville, MD, 20850",
+    "location": {
+      "lat": 39.0847348,
+      "lng": -77.1527255
+    },
+    "phone": "+1-301-340-1911",
+    "website": "https://www.guzmansalvadolaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7132479943",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:30-17:30",
+      "Tuesday": "09:30-17:30",
+      "Wednesday": "09:30-17:30",
+      "Thursday": "09:30-17:30",
+      "Friday": "09:30-17:30",
+      "Saturday": "off",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7132479943,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Rockville",
+      "addr:housenumber": "11",
+      "addr:postcode": "20850",
+      "addr:state": "MD",
+      "addr:street": "North Washington Street",
+      "addr:unit": "230",
+      "email": "sandra@guzmansalvadolaw.com",
+      "name": "The Law Offices of Sandra Guzman-Salvado",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:30-17:30; Sa-Su off",
+      "phone": "+1-301-340-1911",
+      "website": "https://www.guzmansalvadolaw.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10635718001",
+    "name": "P. A. Davis Law Office, LLC (Maryland)",
+    "address": "6701 Democracy Boulevard, Bethesda, MD, 20817",
+    "location": {
+      "lat": 39.0224746,
+      "lng": -77.1368136
+    },
+    "phone": "+1-240-201-2285",
+    "website": "https://www.pdavislawoffice.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10635718001",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10635718001,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Bethesda",
+      "addr:housenumber": "6701",
+      "addr:postcode": "20817",
+      "addr:state": "MD",
+      "addr:street": "Democracy Boulevard",
+      "addr:unit": "300",
+      "description": "P. A. Davis Law Office, LLC is committed to helping you through a challenging time in your life whether you are going through divorce, need to establish or modify custody, or have your access rights enforced. We serve families and their family law matters",
+      "email": "pdavis@pdavislawoffice.com",
+      "name": "P. A. Davis Law Office, LLC (Maryland)",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-240-201-2285",
+      "website": "https://www.pdavislawoffice.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10680079150",
+    "name": "Shah & Kishore",
+    "address": "9201 Corporate Boulevard, Rockville, MD, 20850",
+    "location": {
+      "lat": 39.1082935,
+      "lng": -77.1902082
+    },
+    "phone": "+1 301-315-0001",
+    "website": "https://maryland-lawoffice.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10680079150",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10680079150,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Rockville",
+      "addr:housenumber": "9201",
+      "addr:postcode": "20850",
+      "addr:state": "MD",
+      "addr:street": "Corporate Boulevard",
+      "addr:unit": "Suite 330",
+      "email": "kishore@maryland-lawoffice.com",
+      "name": "Shah & Kishore",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 301-315-0001",
+      "website": "https://maryland-lawoffice.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12167664099",
+    "name": "Hecht & Associates - Divorce Lawyers Rockville MD",
+    "address": "111 Rockville Pike, Rockville, MD, 20850",
+    "location": {
+      "lat": 39.085925,
+      "lng": -77.1496354
+    },
+    "phone": "+1-301-587-2099",
+    "website": "https://www.hechtassociates.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12167664099",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-18:00",
+      "Tuesday": "08:30-18:00",
+      "Wednesday": "08:30-18:00",
+      "Thursday": "08:30-18:00",
+      "Friday": "08:30-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12167664099,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Rockville",
+      "addr:door": "740",
+      "addr:housenumber": "111",
+      "addr:postcode": "20850",
+      "addr:state": "MD",
+      "addr:street": "Rockville Pike",
+      "contact:facebook": "HechtAssociates",
+      "contact:linkedin": "hecht-and-associates-llc",
+      "name": "Hecht & Associates - Divorce Lawyers Rockville MD",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-18:00",
+      "phone": "+1-301-587-2099",
+      "website": "https://www.hechtassociates.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4202150519",
+    "name": "DuBoff & Associates, Chartered",
+    "address": "1300 Spring Street, Silver Spring, MD, 20910",
+    "location": {
+      "lat": 38.9987943,
+      "lng": -77.0322456
+    },
+    "phone": "+1 301 4953131",
+    "website": "http://dubofflawgroup.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4202150519",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4202150519,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Silver Spring",
+      "addr:housenumber": "1300",
+      "addr:postcode": "20910",
+      "addr:state": "MD",
+      "addr:street": "Spring Street",
+      "addr:unit": "120",
+      "check_date": "2024-01-03",
+      "contact:facebook": "https://www.facebook.com/DuBoff-and-Associates-Chartered-1384147545173682/",
+      "contact:phone": "+1 301 4953131",
+      "contact:twitter": "https://twitter.com/BrandonDuBoff",
+      "contact:website": "http://dubofflawgroup.com/",
+      "name": "DuBoff & Associates, Chartered",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6665110134",
+    "name": "The Law Offices of Rick Narvaiz",
+    "address": "10605 Concord Street, Kensington, MD, 20895",
+    "location": {
+      "lat": 39.0303392,
+      "lng": -77.0747569
+    },
+    "phone": "+1-301-628-2066",
+    "website": "https://www.ricknarvaizlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6665110134",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "09:00-18:00",
+      "Thursday": "09:00-18:00",
+      "Friday": "09:00-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6665110134,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Kensington",
+      "addr:housenumber": "10605",
+      "addr:postcode": "20895",
+      "addr:state": "MD",
+      "addr:street": "Concord Street",
+      "addr:unit": "440",
+      "fax": "+1-301-942-0335",
+      "name": "The Law Offices of Rick Narvaiz",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-18:00",
+      "payment:cash": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "phone": "+1-301-628-2066",
+      "start_date": "1997",
+      "website": "https://www.ricknarvaizlaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_8998381126",
+    "name": "Malech Law",
+    "address": "7910 Woodmont Avenue, Bethesda, MD, 20814",
+    "location": {
+      "lat": 38.9893411,
+      "lng": -77.0965154
+    },
+    "phone": "+1-202-441-2107",
+    "website": "https://malechlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8998381126",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8998381126,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Bethesda",
+      "addr:housenumber": "7910",
+      "addr:postcode": "20814",
+      "addr:state": "MD",
+      "addr:street": "Woodmont Avenue",
+      "addr:unit": "Suite 1430",
+      "contact:facebook": "https://www.facebook.com/malechlaw/",
+      "contact:instagram": "http://instagram.com/malechlawfirm",
+      "contact:linkedin": "https://www.linkedin.com/in/lloydmalech/",
+      "contact:twitter": "https://twitter.com/MalechLawFirm",
+      "description": "For over 25 years, Lloyd Malech has been zealously representing his clients. Mr. Malech has tried hundreds and hundreds of cases and appeared in court thousands of times. It is hard to find a more experienced trial lawyer.",
+      "email": "lloyd@malechlaw.com",
+      "fax": "+1-301-913-0382",
+      "language:en": "yes",
+      "name": "Malech Law",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "payment:american_express": "yes",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "phone": "+1-202-441-2107",
+      "website": "https://malechlaw.com/",
+      "year_of_construction": "1994"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6046031795",
+    "name": "Donald L. Bell",
+    "address": "6305 Ivy Lane, Greenbelt, MD, 20770",
+    "location": {
+      "lat": 39.0077556,
+      "lng": -76.8979216
+    },
+    "phone": "+1-301-614-0536",
+    "website": "https://www.lawofficeofdonaldbell.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6046031795",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6046031795,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Greenbelt",
+      "addr:housenumber": "6305",
+      "addr:postcode": "20770",
+      "addr:state": "MD",
+      "addr:street": "Ivy Lane",
+      "addr:unit": "214",
+      "fax": "+1-301-614-0569",
+      "name": "Donald L. Bell",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:invoice": "yes",
+      "phone": "+1-301-614-0536",
+      "website": "https://www.lawofficeofdonaldbell.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11923237990",
+    "name": "Just Law International P.C.",
+    "address": "9689 Main Street, Fairfax, VA, 22031",
+    "location": {
+      "lat": 38.8415426,
+      "lng": -77.2801543
+    },
+    "phone": "+1-703-503-0791",
+    "website": "https://www.justlawintl.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11923237990",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11923237990,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Fairfax",
+      "addr:housenumber": "9689",
+      "addr:postcode": "22031",
+      "addr:state": "VA",
+      "addr:street": "Main Street",
+      "addr:unit": "Ste. C",
+      "name": "Just Law International P.C.",
+      "office": "lawyer",
+      "phone": "+1-703-503-0791",
+      "website": "https://www.justlawintl.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_2604941910",
+    "name": "The Spiggle Law Firm, PLLC",
+    "address": "4830 31st Street South, Arlington, VA, 22206",
+    "location": {
+      "lat": 38.8358767,
+      "lng": -77.0980309
+    },
+    "phone": "+1 202-449-8527",
+    "website": "https://www.spigglelaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2604941910",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2604941910,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Arlington",
+      "addr:housename": "Suite B",
+      "addr:housenumber": "4830",
+      "addr:postcode": "22206",
+      "addr:state": "VA",
+      "addr:street": "31st Street South",
+      "addr:unit": "A",
+      "name": "The Spiggle Law Firm, PLLC",
+      "note": "Northern Virginia Employment Attorneys",
+      "office": "lawyer",
+      "opening_hours": "\"by appointment only\"",
+      "phone": "+1 202-449-8527",
+      "website": "https://www.spigglelaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10741712666",
+    "name": "The Kaplan Law Firm",
+    "address": "1100 North Glebe Road, Arlington, VA, 22201",
+    "location": {
+      "lat": 38.8834895,
+      "lng": -77.1179864
+    },
+    "phone": "+1-703-665-9529",
+    "website": "https://thekaplanlawfirm.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10741712666",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10741712666,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Arlington",
+      "addr:housenumber": "1100",
+      "addr:postcode": "22201",
+      "addr:state": "VA",
+      "addr:street": "North Glebe Road",
+      "addr:unit": "1010",
+      "name": "The Kaplan Law Firm",
+      "office": "lawyer",
+      "phone": "+1-703-665-9529",
+      "website": "https://thekaplanlawfirm.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_156468485",
+    "name": "The Strong Law Firm - Vienna Personal Injury Lawyer",
+    "address": "8206 Leesburg Pike, Vienna, VA, 22182",
+    "location": {
+      "lat": 38.9175602,
+      "lng": -77.2284119
+    },
+    "phone": "+1 703-584-5420",
+    "website": "https://stronglawfirm.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/156468485",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 156468485,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Vienna",
+      "addr:housenumber": "8206",
+      "addr:postcode": "22182",
+      "addr:state": "VA",
+      "addr:street": "Leesburg Pike",
+      "addr:unit": "209",
+      "building": "yes",
+      "description": "Personal Injury Law; Business Law and Business Litigation; Real Estate Law and Title Settlements",
+      "email": "info@stronglawfirm.com",
+      "name": "The Strong Law Firm - Vienna Personal Injury Lawyer",
+      "office": "lawyer",
+      "phone": "+1 703-584-5420",
+      "start_date": "1993",
+      "website": "https://stronglawfirm.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13165788184",
+    "name": "The Law Office of Vernon Brownlee",
+    "address": "9701 Apollo Drive, Upper Marlboro, MD, 20774",
+    "location": {
+      "lat": 38.9044948,
+      "lng": -76.8384134
+    },
+    "phone": "+1-301-502-4441",
+    "website": "https://www.vbrownleelaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13165788184",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13165788184,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Upper Marlboro",
+      "addr:housenumber": "9701",
+      "addr:postcode": "20774",
+      "addr:state": "MD",
+      "addr:street": "Apollo Drive",
+      "name": "The Law Office of Vernon Brownlee",
+      "office": "lawyer",
+      "phone": "+1-301-502-4441",
+      "website": "https://www.vbrownleelaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4620397894",
+    "name": "The Poole Law Firm",
+    "address": "8701 Georgia Avenue, Silver Spring, MD, 20910",
+    "location": {
+      "lat": 38.9978798,
+      "lng": -77.029618
+    },
+    "phone": "+1-301-585-3014",
+    "website": "http://thepoolelawfirm.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4620397894",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4620397894,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Silver Spring",
+      "addr:housenumber": "8701",
+      "addr:postcode": "20910",
+      "addr:state": "MD",
+      "addr:street": "Georgia Avenue",
+      "addr:unit": "404",
+      "name": "The Poole Law Firm",
+      "office": "lawyer",
+      "phone": "+1-301-585-3014",
+      "website": "http://thepoolelawfirm.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_8069415789",
+    "name": "The Law Office of Andrew FitzGerald",
+    "address": "10401 Connecticut Avenue, Kensington, MD, 20895",
+    "location": {
+      "lat": 39.0269849,
+      "lng": -77.0760255
+    },
+    "phone": "+1-301-933-6550",
+    "website": "https://andyfitzgerald.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8069415789",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8069415789,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Kensington",
+      "addr:housenumber": "10401",
+      "addr:postcode": "20895",
+      "addr:state": "MD",
+      "addr:street": "Connecticut Avenue",
+      "addr:unit": "101",
+      "level": "1",
+      "name": "The Law Office of Andrew FitzGerald",
+      "office": "lawyer",
+      "phone": "+1-301-933-6550",
+      "website": "https://andyfitzgerald.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_1220392175",
+    "name": "The Law Office of Irina Vinogradsky",
+    "address": "",
+    "location": {
+      "lat": 38.7436436,
+      "lng": -77.1548833
+    },
+    "phone": "+1 202-580-4559",
+    "website": "https://www.iv-law.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/1220392175",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1220392175,
+    "osm_type": "way",
+    "osm_tags": {
+      "building": "yes",
+      "name": "The Law Office of Irina Vinogradsky",
+      "office": "lawyer",
+      "phone": "+1 202-580-4559",
+      "website": "https://www.iv-law.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3687271140",
+    "name": "Spirit Rock Consulting",
+    "address": "2312 Mount Vernon Avenue, Alexandria, VA, 22301",
+    "location": {
+      "lat": 38.8266821,
+      "lng": -77.0589169
+    },
+    "phone": "",
+    "website": "http://spiritrockconsulting.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3687271140",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3687271140,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Alexandria",
+      "addr:housenumber": "2312",
+      "addr:postcode": "22301",
+      "addr:state": "VA",
+      "addr:street": "Mount Vernon Avenue",
+      "addr:unit": "207",
+      "level": "2",
+      "name": "Spirit Rock Consulting",
+      "office": "lawyer",
+      "website": "http://spiritrockconsulting.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3720374045",
+    "name": "Breneman and Georges",
+    "address": "3150 Commonwealth Avenue, Alexandria, VA, 22305",
+    "location": {
+      "lat": 38.8334849,
+      "lng": -77.0591493
+    },
+    "phone": "",
+    "website": "https://breneman-iplaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3720374045",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3720374045,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Alexandria",
+      "addr:housenumber": "3150",
+      "addr:postcode": "22305",
+      "addr:state": "VA",
+      "addr:street": "Commonwealth Avenue",
+      "name": "Breneman and Georges",
+      "office": "lawyer",
+      "website": "https://breneman-iplaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11608677272",
+    "name": "Brown Law",
+    "address": "109 North Henry Street",
+    "location": {
+      "lat": 38.8060381,
+      "lng": -77.0511202
+    },
+    "phone": "",
+    "website": "https://www.brownlawpllc.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11608677272",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11608677272,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "109",
+      "addr:street": "North Henry Street",
+      "check_date": "2024-02-10",
+      "name": "Brown Law",
+      "office": "lawyer",
+      "website": "https://www.brownlawpllc.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11907412676",
+    "name": "Alexandria Family Law Office",
+    "address": "",
+    "location": {
+      "lat": 38.8036442,
+      "lng": -77.0436731
+    },
+    "phone": "+1-703-836-3400",
+    "website": "https://www.vogelmanturner.com/Alexandria-Family-Law-Office.html",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11907412676",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11907412676,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Alexandria Family Law Office",
+      "office": "lawyer",
+      "phone": "+1-703-836-3400",
+      "website": "https://www.vogelmanturner.com/Alexandria-Family-Law-Office.html"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_616724866",
+    "name": "Area Defense Counsel",
+    "address": "1398 Menoher Drive, Joint Base Andrews, MD, 20762",
+    "location": {
+      "lat": 38.806882,
+      "lng": -76.8890474
+    },
+    "phone": "+1 240 857 6624",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/616724866",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 616724866,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Joint Base Andrews",
+      "addr:country": "US",
+      "addr:housenumber": "1398",
+      "addr:postcode": "20762",
+      "addr:state": "MD",
+      "addr:street": "Menoher Drive",
+      "alt_name": "Airmen's Orientation Center",
+      "building": "office",
+      "fax": "+1 240 857 7583",
+      "height": "4.82199463545",
+      "military": "office",
+      "military_service": "air_force",
+      "name": "Area Defense Counsel",
+      "office": "lawyer",
+      "official_name": "Office of the Area Defense Counsel",
+      "phone": "+1 240 857 6624",
+      "roof:shape": "flat",
+      "short_name": "ADC",
+      "source": "M-NCPPC"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_2178389120",
+    "name": "Digney York Associates, LLC",
+    "address": "1919 Gallows Road, 22182",
+    "location": {
+      "lat": 38.9128945,
+      "lng": -77.2270775
+    },
+    "phone": "",
+    "website": "https://www.digneyyork.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2178389120",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2178389120,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "1919",
+      "addr:postcode": "22182",
+      "addr:street": "Gallows Road",
+      "name": "Digney York Associates, LLC",
+      "office": "lawyer",
+      "website": "https://www.digneyyork.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6138121561",
+    "name": "Kublan Khan PLC",
+    "address": "Arlington Boulevard, Falls Church, VA, 22042",
+    "location": {
+      "lat": 38.8703291,
+      "lng": -77.1677206
+    },
+    "phone": "+1-703-854-3081",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6138121561",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6138121561,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Falls Church",
+      "addr:postcode": "22042",
+      "addr:state": "VA",
+      "addr:street": "Arlington Boulevard",
+      "addr:unit": "201",
+      "name": "Kublan Khan PLC",
+      "office": "lawyer",
+      "phone": "+1-703-854-3081"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6541119144",
+    "name": "Law Office of Victor R. Ramirez, LLC",
+    "address": "5309 Baltimore Avenue",
+    "location": {
+      "lat": 38.9544726,
+      "lng": -76.9401307
+    },
+    "phone": "+1-301-434-3380",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6541119144",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6541119144,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "5309",
+      "addr:street": "Baltimore Avenue",
+      "name": "Law Office of Victor R. Ramirez, LLC",
+      "office": "lawyer",
+      "phone": "+1-301-434-3380"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6541148444",
+    "name": "Malouf & Associates Attorneys",
+    "address": "Farragut Street, Hyattsville, MD, 20781",
+    "location": {
+      "lat": 38.9518103,
+      "lng": -76.9413226
+    },
+    "phone": "+1-301-947-8998",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6541148444",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6541148444,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Hyattsville",
+      "addr:postcode": "20781",
+      "addr:state": "MD",
+      "addr:street": "Farragut Street",
+      "name": "Malouf & Associates Attorneys",
+      "office": "lawyer",
+      "phone": "+1-301-947-8998"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11608707136",
+    "name": "Victor M. Glasberg And Associates",
+    "address": "121 South Columbus Street",
+    "location": {
+      "lat": 38.8043924,
+      "lng": -77.0484032
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11608707136",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11608707136,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "121",
+      "addr:street": "South Columbus Street",
+      "check_date": "2024-02-10",
+      "description": "Attorneys",
+      "name": "Victor M. Glasberg And Associates",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6573505189",
+    "name": "Brooke-Devlin & Nester",
+    "address": "South Washington Street",
+    "location": {
+      "lat": 38.8817577,
+      "lng": -77.1713328
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6573505189",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6573505189,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:street": "South Washington Street",
+      "name": "Brooke-Devlin & Nester",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7561147282",
+    "name": "Arthur Cook & Associates",
+    "address": "6404 Seven Corners Place, Falls Church, VA, 22044",
+    "location": {
+      "lat": 38.8708028,
+      "lng": -77.1580215
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7561147282",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7561147282,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Falls Church",
+      "addr:housenumber": "6404",
+      "addr:postcode": "22044",
+      "addr:state": "VA",
+      "addr:street": "Seven Corners Place",
+      "addr:unit": "R",
+      "name": "Arthur Cook & Associates",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_387737845",
+    "name": "The Settlement Group",
+    "address": "6271 Old Dominion Drive, McLean, VA, 22101",
+    "location": {
+      "lat": 38.9204649,
+      "lng": -77.1524813
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/387737845",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 387737845,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "McLean",
+      "addr:housenumber": "6271",
+      "addr:postcode": "22101",
+      "addr:state": "VA",
+      "addr:street": "Old Dominion Drive",
+      "building": "yes",
+      "name": "The Settlement Group",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6541143350",
+    "name": "The Law offices of Christopher L. Peretti, LLC",
+    "address": "6220 Rhode Island Avenue",
+    "location": {
+      "lat": 38.9632295,
+      "lng": -76.9354837
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6541143350",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6541143350,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "6220",
+      "addr:street": "Rhode Island Avenue",
+      "name": "The Law offices of Christopher L. Peretti, LLC",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6541151834",
+    "name": "Damon Catacalos, Esq.",
+    "address": "6620 Rhode Island Avenue",
+    "location": {
+      "lat": 38.9631964,
+      "lng": -76.9354941
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6541151834",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6541151834,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "6620",
+      "addr:street": "Rhode Island Avenue",
+      "name": "Damon Catacalos, Esq.",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11601323516",
+    "name": "BRP Family Law",
+    "address": "16061 Comprint Circle",
+    "location": {
+      "lat": 39.1195777,
+      "lng": -77.1844467
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11601323516",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11601323516,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "16061",
+      "addr:street": "Comprint Circle",
+      "name": "BRP Family Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11601402384",
+    "name": "The Khurana Law Firm",
+    "address": "9049 Shady Grove Court",
+    "location": {
+      "lat": 39.1194013,
+      "lng": -77.1837087
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11601402384",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11601402384,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "9049",
+      "addr:street": "Shady Grove Court",
+      "name": "The Khurana Law Firm",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_2986680655",
+    "name": "The Colvin Law Firm",
+    "address": "7309 Georgia Avenue Northwest, Washington, DC, 20012",
+    "location": {
+      "lat": 38.9785579,
+      "lng": -77.0262054
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2986680655",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2986680655,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Washington",
+      "addr:country": "US",
+      "addr:housenumber": "7309",
+      "addr:postcode": "20012",
+      "addr:state": "DC",
+      "addr:street": "Georgia Avenue Northwest",
+      "name": "The Colvin Law Firm",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6721717350",
+    "name": "McKenzie & Tehrani Attorneys At Law",
+    "address": "",
+    "location": {
+      "lat": 38.964799,
+      "lng": -76.9386318
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6721717350",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6721717350,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "McKenzie & Tehrani Attorneys At Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6721717351",
+    "name": "Gaegler & Hopewell Attorney at Law",
+    "address": "",
+    "location": {
+      "lat": 38.9647682,
+      "lng": -76.9386519
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6721717351",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6721717351,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Gaegler & Hopewell Attorney at Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6721717352",
+    "name": "Keith A. Showstack Attorney at Law",
+    "address": "",
+    "location": {
+      "lat": 38.9648647,
+      "lng": -76.9388001
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6721717352",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6721717352,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Keith A. Showstack Attorney at Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6721717353",
+    "name": "Howard D. Wilson, JR Attorney at Law",
+    "address": "",
+    "location": {
+      "lat": 38.9648297,
+      "lng": -76.9388062
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6721717353",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6721717353,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Howard D. Wilson, JR Attorney at Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12371296678",
+    "name": "Doyle & Associates",
+    "address": "",
+    "location": {
+      "lat": 39.0851627,
+      "lng": -77.1546547
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12371296678",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12371296678,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Doyle & Associates",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12371318971",
+    "name": "Mallon A Snyder",
+    "address": "",
+    "location": {
+      "lat": 39.085552,
+      "lng": -77.1546721
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12371318971",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12371318971,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Mallon A Snyder",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11225793305",
+    "name": "Campos Law Firm",
+    "address": "",
+    "location": {
+      "lat": 39.0409611,
+      "lng": -77.047913
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11225793305",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11225793305,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Campos Law Firm",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  }
+]

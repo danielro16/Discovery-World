@@ -1,0 +1,17 @@
+{
+  "vertical": "gyms",
+  "city": "Seattle, WA",
+  "total_places": 593,
+  "sources": {
+    "osm": 593,
+    "public_records": 0
+  },
+  "with_website": 282,
+  "with_phone": 184,
+  "with_address": 424,
+  "with_license": 0,
+  "avg_completeness": 36.9,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

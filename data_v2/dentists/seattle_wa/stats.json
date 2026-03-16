@@ -1,0 +1,17 @@
+{
+  "vertical": "dentists",
+  "city": "Seattle, WA",
+  "total_places": 105,
+  "sources": {
+    "osm": 105,
+    "public_records": 0
+  },
+  "with_website": 39,
+  "with_phone": 39,
+  "with_address": 58,
+  "with_license": 0,
+  "avg_completeness": 35.4,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

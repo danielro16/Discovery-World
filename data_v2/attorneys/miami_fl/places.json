@@ -1,0 +1,5257 @@
+[
+  {
+    "id": "osm_node_5256440532",
+    "name": "Miami Car Accident Lawyer Group",
+    "address": "Old Cutler Road, Cutler Bay, FL, 33190",
+    "location": {
+      "lat": 25.5602199,
+      "lng": -80.3609951
+    },
+    "phone": "+1-904-236-4253",
+    "website": "http://caraccident.the-company-lawyer.com/jacksonville-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5256440532",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "07:00-22:00",
+      "Tuesday": "07:00-22:00",
+      "Wednesday": "07:00-22:00",
+      "Thursday": "07:00-22:00",
+      "Friday": "07:00-22:00",
+      "Saturday": "07:00-22:00",
+      "Sunday": "07:00-22:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5256440532,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Cutler Bay",
+      "addr:postcode": "33190",
+      "addr:state": "FL",
+      "addr:street": "Old Cutler Road",
+      "name": "Miami Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "Mo-Su 07:00-22:00",
+      "phone": "+1-904-236-4253",
+      "website": "http://caraccident.the-company-lawyer.com/jacksonville-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5400912887",
+    "name": "Cutler Bay Car Accident Lawyer Group",
+    "address": "18901 Southwest 106th Avenue, Cutler Bay, FL, 33157",
+    "location": {
+      "lat": 25.5898808,
+      "lng": -80.3626183
+    },
+    "phone": "+1-786-410-3723",
+    "website": "http://caraccident.the-company-lawyer.com/cutler-bay-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5400912887",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5400912887,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Cutler Bay",
+      "addr:housenumber": "18901",
+      "addr:postcode": "33157",
+      "addr:state": "FL",
+      "addr:street": "Southwest 106th Avenue",
+      "addr:unit": "B110",
+      "name": "Cutler Bay Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-786-410-3723",
+      "website": "http://caraccident.the-company-lawyer.com/cutler-bay-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5427055122",
+    "name": "Palmetto Bay Car Accident Lawyer Group",
+    "address": "14707 South Dixie, Palmetto Bay, FL, 33176",
+    "location": {
+      "lat": 25.633447,
+      "lng": -80.338401
+    },
+    "phone": "+1-786-232-0642",
+    "website": "http://caraccident.the-company-lawyer.com/palmetto-bay-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5427055122",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5427055122,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Palmetto Bay",
+      "addr:housenumber": "14707",
+      "addr:postcode": "33176",
+      "addr:state": "FL",
+      "addr:street": "South Dixie",
+      "addr:unit": "108",
+      "name": "Palmetto Bay Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-786-232-0642",
+      "website": "http://caraccident.the-company-lawyer.com/palmetto-bay-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6035367670",
+    "name": "Sanabria & Abogados",
+    "address": "10508 North Kendall Drive, Miami, FL, 33176",
+    "location": {
+      "lat": 25.6863955,
+      "lng": -80.3641058
+    },
+    "phone": "+1 786-723-6775",
+    "website": "https://slegal.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6035367670",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "10:00-16:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6035367670,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "10508",
+      "addr:postcode": "33176",
+      "addr:state": "FL",
+      "addr:street": "North Kendall Drive",
+      "addr:unit": "10B",
+      "check_date": "2026-01-30",
+      "lawyer": "immigration",
+      "level": "1",
+      "name": "Sanabria & Abogados",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00; Sa 10:00-16:00",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "phone": "+1 786-723-6775",
+      "website": "https://slegal.com/",
+      "wheelchair": "yes"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9261829376",
+    "name": "Rothrock Immigration Lawyer Miami",
+    "address": "12651 South Dixie Highway, Miami, FL, 33156",
+    "location": {
+      "lat": 25.652386,
+      "lng": -80.3296404
+    },
+    "phone": "+1-305-677-9048",
+    "website": "http://www.rothrockimmigrationlawyer.com/miami-immigration-lawyer/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9261829376",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "off",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Business Immigration",
+        "E2 Visas",
+        "L1 Visas",
+        "EB5 Investment Visas",
+        "EB1 Visas",
+        "EB2 Visas",
+        "EB3 Visas",
+        "Family Based Immigration",
+        "Fianc\u00e9e Visas",
+        "Marriage Visas",
+        "Citizenship",
+        "Naturalization",
+        "Inadmissibility Waivers"
+      ],
+      "languages": null,
+      "bar_admissions": [
+        "Florida",
+        "Texas",
+        "All Immigration Courts in the United States",
+        "Board of Immigration Appeals"
+      ],
+      "free_consultation": false,
+      "years_experience": 25,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": [
+        "AV Preeminent rating by Martindale-Hubbell",
+        "Perfect 10.0 score on AVVO.com",
+        "Top Rated Lawyers in Florida, Immigration (2019-2024)",
+        "Immigration Lawyer of the Year, Lawyer Monthly (2022)",
+        "Nations Top One Percent, National Association of Distinguished Counsel (2021-2024)"
+      ],
+      "education": null
+    },
+    "profile_completeness": 75,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9261829376,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "12651",
+      "addr:postcode": "33156",
+      "addr:state": "FL",
+      "addr:street": "South Dixie Highway",
+      "addr:unit": "100B",
+      "fax": "+1-239-791-1180",
+      "language:en": "yes",
+      "name": "Rothrock Immigration Lawyer Miami",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00; Sa-Su off",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:credit_cards": "yes",
+      "phone": "+1-305-677-9048",
+      "start_date": "1989",
+      "website": "http://www.rothrockimmigrationlawyer.com/miami-immigration-lawyer/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10572571436",
+    "name": "Arthur Spiegel, Esq., PA",
+    "address": "8900 Southwest 117th Avenue, Miami, FL, 33186",
+    "location": {
+      "lat": 25.6851472,
+      "lng": -80.3850678
+    },
+    "phone": "+1-305-752-0044",
+    "website": "https://arthurspiegellaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10572571436",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:30-18:30",
+      "Tuesday": "09:30-18:30",
+      "Wednesday": "09:30-18:30",
+      "Thursday": "09:30-18:30",
+      "Friday": "09:30-18:30"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10572571436,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "8900",
+      "addr:postcode": "33186",
+      "addr:state": "FL",
+      "addr:street": "Southwest 117th Avenue",
+      "addr:unit": "C-205",
+      "name": "Arthur Spiegel, Esq., PA",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:30-18:30",
+      "operator": "Arthur Spiegel",
+      "phone": "+1-305-752-0044",
+      "website": "https://arthurspiegellaw.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11346076823",
+    "name": "Orlando R. Murillo, P.A.",
+    "address": "7350 Southwest 89th Street, Miami, FL, 33156",
+    "location": {
+      "lat": 25.6875241,
+      "lng": -80.3145419
+    },
+    "phone": "+1 305-468-4120",
+    "website": "https://orlandomurillo.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11346076823",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Workers' Compensation",
+        "Workplace Accidents",
+        "Workplace Injuries",
+        "Maritime Law",
+        "Personal Injury",
+        "Motor Vehicle Accidents"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Florida"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 74,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11346076823,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "7350",
+      "addr:postcode": "33156",
+      "addr:state": "FL",
+      "addr:street": "Southwest 89th Street",
+      "addr:unit": "#100",
+      "description": "Orlando R. Murillo, an experienced personal injury lawyer in Miami, offers highly skilled and personalized legal representation in Miami, Florida. Our Miami personal injury lawyer is available to assist you in comprehending your legal rights and options.",
+      "email": "omurillo@ormpalaw.com",
+      "name": "Orlando R. Murillo, P.A.",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 305-468-4120",
+      "website": "https://orlandomurillo.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12543509461",
+    "name": "Miller Trial Law",
+    "address": "8650 Southwest 74th Court, Miami, FL, 33156",
+    "location": {
+      "lat": 25.6868742,
+      "lng": -80.3157795
+    },
+    "phone": "+1 561-783-2368",
+    "website": "https://millertriallaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12543509461",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12543509461,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "8650",
+      "addr:postcode": "33156",
+      "addr:state": "FL",
+      "addr:street": "Southwest 74th Court",
+      "addr:unit": "2201",
+      "description": "Injured in an accident? Miller Trial Law can help. Our personal injury attorneys specialize in car accidents, slip & fall, medical malpractice, and more. We fight for compensation for medical costs, lost wages, and pain. Contact us today.",
+      "email": "Ian@MillerTrialLaw.com",
+      "fax": "+1 305-670-1496",
+      "name": "Miller Trial Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1 561-783-2368",
+      "website": "https://millertriallaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12800098522",
+    "name": "Panter, Panter & Sampedro, P.A., Car Accident and Personal Injury Attorneys",
+    "address": "6950 North Kendall Drive, Miami, FL, 33156",
+    "location": {
+      "lat": 25.6883677,
+      "lng": -80.3080007
+    },
+    "phone": "+1-305-928-1748",
+    "website": "https://panterlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12800098522",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accidents",
+        "Bicycle Accidents",
+        "Motorcycle Accidents",
+        "Pedestrian Accidents",
+        "Wrongful Death"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12800098522,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "6950",
+      "addr:postcode": "33156",
+      "addr:state": "FL",
+      "addr:street": "North Kendall Drive",
+      "check_date": "2025-12-12",
+      "contact:facebook": "https://www.facebook.com/MiamiPersonalInjuryLawyer/",
+      "contact:instagram": "https://instagram.com/panterlaw/",
+      "contact:linkedin": "https://www.linkedin.com/company/panter-panter-&-sampedro-p-a-",
+      "contact:tiktok": "https://www.tiktok.com/@panterlaw",
+      "contact:twitter": "https://twitter.com/panterlaw",
+      "contact:youtube": "https://www.youtube.com/@panterlaw/",
+      "language:en": "yes",
+      "language:es": "yes",
+      "lawyer": "personal_injury",
+      "name": "Panter, Panter & Sampedro, P.A., Car Accident and Personal Injury Attorneys",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-305-928-1748",
+      "website": "https://panterlaw.com/",
+      "year_of_construction": "1990"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5432635094",
+    "name": "Key Biscayne Car Accident Lawyer Group",
+    "address": "30 West Mashta Drive, Key Biscayne, FL, 33149",
+    "location": {
+      "lat": 25.6862765,
+      "lng": -80.1635336
+    },
+    "phone": "+1-305-570-4884",
+    "website": "http://caraccident.the-company-lawyer.com/key-biscayne-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5432635094",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5432635094,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Key Biscayne",
+      "addr:housenumber": "30",
+      "addr:postcode": "33149",
+      "addr:state": "FL",
+      "addr:street": "West Mashta Drive",
+      "addr:unit": "400",
+      "name": "Key Biscayne Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-305-570-4884",
+      "website": "http://caraccident.the-company-lawyer.com/key-biscayne-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4800530590",
+    "name": "Footman Law Firm, P.A.",
+    "address": "100 Southeast 2nd Street, Miami, FL, 33131",
+    "location": {
+      "lat": 25.7721727,
+      "lng": -80.1916397
+    },
+    "phone": "+1 786-571-1031",
+    "website": "https://footmanlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4800530590",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "09:00-18:00",
+      "Thursday": "09:00-18:00",
+      "Friday": "09:00-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Chapter 7 Bankruptcy",
+        "Chapter 13 Bankruptcy"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": [
+        "Florida International University College of Law (2013)"
+      ]
+    },
+    "profile_completeness": 70,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4800530590,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "100",
+      "addr:postcode": "33131",
+      "addr:state": "FL",
+      "addr:street": "Southeast 2nd Street",
+      "addr:suite": "2000",
+      "contact:facebook": "https://www.facebook.com/Footman-Law-Firm-PA-1266894106754438/",
+      "email": "indiafootman@footmanlaw.com",
+      "name": "Footman Law Firm, P.A.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-18:00",
+      "phone": "+1 786-571-1031",
+      "website": "https://footmanlaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5380380130",
+    "name": "Miami Beach Car Accident Lawyer Group",
+    "address": "1674 Meridian Avenue, Miami Beach, FL, 33139",
+    "location": {
+      "lat": 25.7918515,
+      "lng": -80.1372447
+    },
+    "phone": "+1-786-257-0164",
+    "website": "http://caraccident.the-company-lawyer.com/miami-beach-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5380380130",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5380380130,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami Beach",
+      "addr:housenumber": "1674",
+      "addr:postcode": "33139",
+      "addr:state": "FL",
+      "addr:street": "Meridian Avenue",
+      "addr:unit": "308",
+      "name": "Miami Beach Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-786-257-0164",
+      "website": "http://caraccident.the-company-lawyer.com/miami-beach-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5400788626",
+    "name": "Coral Gables Car Accident Lawyer Group",
+    "address": "396 Alhambra Circle, Coral Gables, FL, 33134",
+    "location": {
+      "lat": 25.7515401,
+      "lng": -80.2623432
+    },
+    "phone": "+1-786-504-7131",
+    "website": "http://caraccident.the-company-lawyer.com/coral-gables-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5400788626",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5400788626,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Coral Gables",
+      "addr:housenumber": "396",
+      "addr:postcode": "33134",
+      "addr:state": "FL",
+      "addr:street": "Alhambra Circle",
+      "addr:unit": "210",
+      "name": "Coral Gables Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-786-504-7131",
+      "website": "http://caraccident.the-company-lawyer.com/coral-gables-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5431351260",
+    "name": "Miami Springs Car Accident Lawyer Group",
+    "address": "4649 NW 36th St, Miami Springs, FL, 33166",
+    "location": {
+      "lat": 25.8084144,
+      "lng": -80.2735813
+    },
+    "phone": "+1-305-515-5970",
+    "website": "http://caraccident.the-company-lawyer.com/miami-springs-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5431351260",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5431351260,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami Springs",
+      "addr:housenumber": "4649",
+      "addr:postcode": "33166",
+      "addr:state": "FL",
+      "addr:street": "NW 36th St",
+      "name": "Miami Springs Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-305-515-5970",
+      "website": "http://caraccident.the-company-lawyer.com/miami-springs-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5455932527",
+    "name": "The Grieco Criminal Law Center",
+    "address": "1688 Meridian Avenue, Miami Beach, FL, 33139",
+    "location": {
+      "lat": 25.7920199,
+      "lng": -80.1368746
+    },
+    "phone": "+1-305-857-0034",
+    "website": "https://www.miamicriminaldefense.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5455932527",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "09:00-18:00",
+      "Thursday": "09:00-18:00",
+      "Friday": "09:00-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Criminal Defense"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5455932527,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami Beach",
+      "addr:housenumber": "1688",
+      "addr:postcode": "33139",
+      "addr:state": "FL",
+      "addr:street": "Meridian Avenue",
+      "addr:unit": "900",
+      "description": "Miami Criminal Defense and Trial Attorney Michael Grieco.",
+      "name": "The Grieco Criminal Law Center",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-18:00",
+      "phone": "+1-305-857-0034",
+      "website": "https://www.miamicriminaldefense.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5460488619",
+    "name": "Michael C. Grieco, P.A.",
+    "address": "175 Southwest 7th Street, Miami, FL, 33130",
+    "location": {
+      "lat": 25.7674868,
+      "lng": -80.1968453
+    },
+    "phone": "+1-305-857-0034",
+    "website": "https://www.miamicriminaldefense.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5460488619",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "09:00-18:00",
+      "Thursday": "09:00-18:00",
+      "Friday": "09:00-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Criminal Defense"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5460488619,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "175",
+      "addr:postcode": "33130",
+      "addr:state": "FL",
+      "addr:street": "Southwest 7th Street",
+      "addr:unit": "2410",
+      "name": "Michael C. Grieco, P.A.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-18:00",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:credit_cards": "yes",
+      "phone": "+1-305-857-0034",
+      "website": "https://www.miamicriminaldefense.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5641285724",
+    "name": "Alcoba Law Group",
+    "address": "2800 Biscayne Boulevard, Miami, FL, 33137",
+    "location": {
+      "lat": 25.8034697,
+      "lng": -80.1930572
+    },
+    "phone": "+1-305-265-7772",
+    "website": "https://miamipatents.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5641285724",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "10:00-18:00",
+      "Tuesday": "10:00-18:00",
+      "Wednesday": "10:00-18:00",
+      "Thursday": "10:00-18:00",
+      "Friday": "10:00-18:00",
+      "Saturday": "11:00-14:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Patent Law",
+        "Intellectual Property"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5641285724,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "2800",
+      "addr:postcode": "33137",
+      "addr:state": "FL",
+      "addr:street": "Biscayne Boulevard",
+      "addr:unit": "777",
+      "fax": "+1-305-436-7429",
+      "name": "Alcoba Law Group",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 10:00-18:00; Sa 11:00-14:00",
+      "phone": "+1-305-265-7772",
+      "website": "https://miamipatents.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6015128340",
+    "name": "Jorge Chervony P.A. Attorney At Law",
+    "address": "407 Lincoln Rd, Miami Beach, FL, 33139",
+    "location": {
+      "lat": 25.7909746,
+      "lng": -80.1320674
+    },
+    "phone": "+1 305-534-0212",
+    "website": "https://www.jorgechervonyattorney.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6015128340",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "10:00-16:00",
+      "Tuesday": "10:00-16:00",
+      "Wednesday": "10:00-16:00",
+      "Thursday": "10:00-16:00",
+      "Friday": "10:00-16:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6015128340,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami Beach",
+      "addr:housenumber": "407",
+      "addr:postcode": "33139",
+      "addr:state": "FL",
+      "addr:street": "Lincoln Rd",
+      "facebook": "https://www.facebook.com/LawOfficesOfAndreaENewman",
+      "name": "Jorge Chervony P.A. Attorney At Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 10:00-16:00",
+      "phone": "+1 305-534-0212",
+      "website": "https://www.jorgechervonyattorney.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9547783970",
+    "name": "Wolfson & Leon",
+    "address": "3399 Southwest 3rd Avenue, Miami, FL, 33145",
+    "location": {
+      "lat": 25.7503368,
+      "lng": -80.2151857
+    },
+    "phone": "+1-305-285-1115",
+    "website": "https://www.wolfsonlawfirm.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9547783970",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Bicycle Accidents",
+        "Truck Accidents",
+        "Motorcycle Accidents",
+        "Pedestrian Accidents",
+        "Uninsured/Underinsured Motorist",
+        "Premises Liability",
+        "Wrongful Death",
+        "Serious Injury",
+        "Medical Malpractice",
+        "Train Accidents",
+        "Boating Accidents",
+        "Cruise Ship Accidents"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": null,
+      "free_consultation": true,
+      "years_experience": 56,
+      "team_size": null,
+      "notable_cases": [
+        {
+          "type": "Premises Liability",
+          "amount": "$2,200,000"
+        },
+        {
+          "type": "Motorcycle Accident",
+          "amount": "$1,500,000"
+        },
+        {
+          "type": "Pedestrian Accident",
+          "amount": "$650,000"
+        },
+        {
+          "type": "Car Accident",
+          "amount": "$525,000"
+        }
+      ],
+      "awards": [
+        "Chicago-Kent Young Alumni Award"
+      ],
+      "education": null
+    },
+    "profile_completeness": 77,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9547783970,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "3399",
+      "addr:postcode": "33145",
+      "addr:state": "FL",
+      "addr:street": "Southwest 3rd Avenue",
+      "contact:email": "jonahwolfson@wolfsonlawfirm.com",
+      "contact:phone": "+1-305-285-1115",
+      "contact:tollfree": "+1-855-982-2067",
+      "contact:website": "https://www.wolfsonlawfirm.com/",
+      "name": "Wolfson & Leon",
+      "office": "lawyer",
+      "opening_hours": "24/7"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10073004136",
+    "name": "David M. Edelstein, PA",
+    "address": "4770 Biscayne Boulevard, Miami, FL, 33137",
+    "location": {
+      "lat": 25.8189633,
+      "lng": -80.1882939
+    },
+    "phone": "+1-305-538-4545",
+    "website": "https://www.miami-criminal-lawyer.net/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10073004136",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Federal Crimes",
+        "Florida Crimes",
+        "Misdemeanor Crimes",
+        "Shoplifting",
+        "Domestic Violence",
+        "Probation Violations",
+        "Warrants",
+        "Injunctions"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Florida"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 4,
+      "notable_cases": null,
+      "awards": [
+        "AV Rated"
+      ],
+      "education": null
+    },
+    "profile_completeness": 77,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10073004136,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "4770",
+      "addr:postcode": "33137",
+      "addr:state": "FL",
+      "addr:street": "Biscayne Boulevard",
+      "addr:unit": "1250",
+      "name": "David M. Edelstein, PA",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-305-538-4545",
+      "start_date": "2000",
+      "website": "https://www.miami-criminal-lawyer.net/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11201558514",
+    "name": "Arias & Abbass Your Attorneys",
+    "address": "4531 Ponce de Leon Blvd, Coral Gables, FL, 33146",
+    "location": {
+      "lat": 25.7295903,
+      "lng": -80.2598731
+    },
+    "phone": "+1-786-530-4357",
+    "website": "https://talktomyattorneys.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11201558514",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Bad Faith Insurance Litigation",
+        "Insurance Coverage Litigation",
+        "Personal Injury",
+        "Auto & Truck Accidents",
+        "Motorcycle Accidents",
+        "Truck Accidents",
+        "Uber and Lyft Accidents",
+        "Dog Bite Injuries",
+        "Slip and Fall Injuries",
+        "Pedestrian Accident Injuries",
+        "Offshore Injuries",
+        "Property Damages",
+        "Fire Damage Claims",
+        "Storm Damage",
+        "Hurricane Damage",
+        "Water Damage Insurance Claims"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": null,
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [
+        {
+          "description": "Hurricane Ian insurance claim settlement - coverage for roof replacement after initial denial"
+        }
+      ],
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 74,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11201558514,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Coral Gables",
+      "addr:postcode": "33146",
+      "addr:state": "FL",
+      "addr:street": "4531 Ponce de Leon Blvd",
+      "addr:unit": "200",
+      "name": "Arias & Abbass Your Attorneys",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-786-530-4357",
+      "website": "https://talktomyattorneys.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11675953552",
+    "name": "Galbut Walters & Associates",
+    "address": "4770 Biscayne Boulevard, Miami, FL, 33137",
+    "location": {
+      "lat": 25.8189886,
+      "lng": -80.1885852
+    },
+    "phone": "+1-305-701-9811",
+    "website": "https://galbutwalters.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11675953552",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-18:30",
+      "Tuesday": "08:00-18:30",
+      "Wednesday": "08:00-18:30",
+      "Thursday": "08:00-18:30",
+      "Friday": "08:00-16:30",
+      "Saturday": "off",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Real Estate & Development",
+        "Business Law",
+        "Trust & Estate Planning",
+        "Civil Litigation"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": true,
+      "years_experience": 70,
+      "team_size": 6,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 72,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11675953552,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "4770",
+      "addr:postcode": "33137",
+      "addr:state": "FL",
+      "addr:street": "Biscayne Boulevard",
+      "addr:unit": "#1400",
+      "name": "Galbut Walters & Associates",
+      "office": "lawyer",
+      "opening_hours": "Mo-Th 08:00-18:30; Fr 08:00-16:30; Sa-Su off",
+      "phone": "+1-305-701-9811",
+      "start_date": "1953",
+      "website": "https://galbutwalters.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12420605543",
+    "name": "De Maio Immigration Law, PLLC",
+    "address": "2121 Ponce de Leon Boulevard, Coral Gables, FL, 33134",
+    "location": {
+      "lat": 25.7532188,
+      "lng": -80.2585327
+    },
+    "phone": "+1 786-232-9120",
+    "website": "https://www.demaio-law.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12420605543",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "9:00\u201317:30,  Sa-Su Close",
+      "Tuesday": "9:00\u201317:30,  Sa-Su Close",
+      "Wednesday": "9:00\u201317:30,  Sa-Su Close",
+      "Thursday": "9:00\u201317:30,  Sa-Su Close",
+      "Friday": "9:00\u201317:30,  Sa-Su Close"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Immigration Law"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 70,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12420605543,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Coral Gables",
+      "addr:housenumber": "2121",
+      "addr:postcode": "33134",
+      "addr:state": "FL",
+      "addr:street": "Ponce de Leon Boulevard",
+      "addr:unit": "550",
+      "contact:facebook": "https://www.facebook.com/demaioimmigrationlaw",
+      "description": "We specialize in Immigration Law and understand the complexities of the U.S immigrations system, we efficiently and swiftly navigate all Immigration matters for our clients throughout the U.S and abroad. Visit us on the web https://www.demaio-law.com",
+      "facebook": "demaioimmigrationla",
+      "lawyer": "immigration",
+      "name": "De Maio Immigration Law, PLLC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 9:00\u201317:30, Sa-Su Close",
+      "phone": "+1 786-232-9120",
+      "website": "https://www.demaio-law.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12462761385",
+    "name": "The Ferraro Law Firm, P.A.",
+    "address": "600 Brickell Avenue, Miami, FL, 33131",
+    "location": {
+      "lat": 25.76755,
+      "lng": -80.1910059
+    },
+    "phone": "+1 888-554-2030",
+    "website": "https://ferrarolaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12462761385",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-16:30"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Mesothelioma",
+        "Catastrophic Injury",
+        "Toxic Exposure"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 70,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12462761385,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "600",
+      "addr:postcode": "33131",
+      "addr:state": "FL",
+      "addr:street": "Brickell Avenue",
+      "addr:unit": "3800",
+      "description": "At The Ferraro Law Firm, P.A., obtaining results for our clients is what we do best. We know how to fight a case and win, and we\u2019ve been doing exactly that for the past 30 years.",
+      "name": "The Ferraro Law Firm, P.A.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-16:30",
+      "phone": "+1 888-554-2030",
+      "website": "https://ferrarolaw.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12552264373",
+    "name": "Legal Edge Services",
+    "address": "701 Brickell Avenue, Miami, FL, 33131",
+    "location": {
+      "lat": 25.7670016,
+      "lng": -80.18878
+    },
+    "phone": "+1 305-728-5300",
+    "website": "https://legaledgeservices.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12552264373",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12552264373,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "701",
+      "addr:postcode": "33131",
+      "addr:state": "FL",
+      "addr:street": "Brickell Avenue",
+      "addr:unit": "Suite 1550",
+      "description": "Since 2000, Legal Edge Services has provided turn-key law office solutions that include modern, professional office space and meeting space for attorneys along with a complete menu of optional multilingual legal support services and administrative service",
+      "email": "Info@LegalEdgeServices.com",
+      "name": "Legal Edge Services",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1 305-728-5300",
+      "website": "https://legaledgeservices.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12556640394",
+    "name": "Musca Law",
+    "address": "4300 Biscayne Boulevard, Miami, FL, 33137",
+    "location": {
+      "lat": 25.8160739,
+      "lng": -80.1891173
+    },
+    "phone": "+1 305-203-0333",
+    "website": "https://www.muscalaw.com/locations/miami",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12556640394",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "DUI",
+        "Sex Crimes",
+        "Domestic Violence",
+        "Drug Crimes",
+        "Theft Crimes",
+        "Violent Crimes",
+        "White Collar Crimes",
+        "Weapon Crimes",
+        "Federal Crimes",
+        "Juvenile Crimes",
+        "Traffic Offenses",
+        "Expungement",
+        "Probation Violation",
+        "Public Corruption"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 32,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 71,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12556640394,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "4300",
+      "addr:postcode": "33137",
+      "addr:state": "FL",
+      "addr:street": "Biscayne Boulevard",
+      "addr:unit": "203",
+      "email": "leads@muscalaw.com",
+      "name": "Musca Law",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 305-203-0333",
+      "start_date": "2001-01-01",
+      "website": "https://www.muscalaw.com/locations/miami"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12891778115",
+    "name": "Fleites Law, P.A.",
+    "address": "1800 Southwest 27th Avenue, Miami, FL, 33145",
+    "location": {
+      "lat": 25.7546805,
+      "lng": -80.2386945
+    },
+    "phone": "+1 305-643-0300",
+    "website": "https://www.fleiteslaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12891778115",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Immigration Law",
+        "Criminal Immigration Defense"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": null,
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [
+        "Millions recovered in personal injury cases",
+        "Over 10,000 immigrant families assisted",
+        "Over 4,000 personal accident cases handled"
+      ],
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 74,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12891778115,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "1800",
+      "addr:postcode": "33145",
+      "addr:state": "FL",
+      "addr:street": "Southwest 27th Avenue",
+      "addr:unit": "500",
+      "fax": "+1 305-643-0332",
+      "name": "Fleites Law, P.A.",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 305-643-0300",
+      "website": "https://www.fleiteslaw.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13228797429",
+    "name": "Silva & Silva, P.A.",
+    "address": "236 Valencia Avenue, Coral Gables, FL, 33134",
+    "location": {
+      "lat": 25.7476774,
+      "lng": -80.2595741
+    },
+    "phone": "+1-305-445-0011",
+    "website": "https://silvasilva.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13228797429",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:30",
+      "Tuesday": "09:00-17:30",
+      "Wednesday": "09:00-17:30",
+      "Thursday": "09:00-17:30",
+      "Friday": "09:00-17:30"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Medical Malpractice",
+        "Construction Accidents",
+        "Negligent Security",
+        "Trucking and Auto Accidents",
+        "Premises Liability",
+        "Products Liability",
+        "Toxic Torts",
+        "Air Disasters",
+        "Maritime Negligence",
+        "Railroad Disasters",
+        "Swimming Pool Accidents",
+        "Class Actions"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": null,
+      "free_consultation": true,
+      "years_experience": 32,
+      "team_size": 6,
+      "notable_cases": [
+        {
+          "case": "Golf Cart Injury",
+          "result": "$50,000,000 award"
+        },
+        {
+          "case": "Champlain Towers South Condominium Collapse",
+          "result": "Over $1,200,000,000 recovered"
+        }
+      ],
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 76,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13228797429,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Coral Gables",
+      "addr:housenumber": "236",
+      "addr:postcode": "33134",
+      "addr:state": "FL",
+      "addr:street": "Valencia Avenue",
+      "description": "Silva & Silva, P.A. has advocated the causes of victims of wrongful and tortuous conduct, concentrating exclusively in complex litigation.",
+      "name": "Silva & Silva, P.A.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:30",
+      "phone": "+1-305-445-0011",
+      "website": "https://silvasilva.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5256457642",
+    "name": "Hialeah Car Accident Lawyer Group",
+    "address": "11300 Northwest 87th Court, Hialeah Gdns, FL, 33018",
+    "location": {
+      "lat": 25.8766537,
+      "lng": -80.3410725
+    },
+    "phone": "+1-786-220-7262",
+    "website": "http://caraccident.the-company-lawyer.com/hialeah-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5256457642",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "07:00-22:05",
+      "Tuesday": "07:00-22:05",
+      "Wednesday": "07:00-22:05",
+      "Thursday": "07:00-22:05",
+      "Friday": "07:00-22:05",
+      "Saturday": "07:00-22:05",
+      "Sunday": "07:00-22:05"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5256457642,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Hialeah Gdns",
+      "addr:housenumber": "11300",
+      "addr:postcode": "33018",
+      "addr:state": "FL",
+      "addr:street": "Northwest 87th Court",
+      "name": "Hialeah Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "Mo-Su 07:00-22:05",
+      "phone": "+1-786-220-7262",
+      "website": "http://caraccident.the-company-lawyer.com/hialeah-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5377382296",
+    "name": "Miramar Car Accident Lawyer Group",
+    "address": "12741 Miramar Parkway, Miramar, FL, 33027",
+    "location": {
+      "lat": 25.9796265,
+      "lng": -80.3170108
+    },
+    "phone": "+1954 -417-6722",
+    "website": "http://caraccident.the-company-lawyer.com/miramar-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5377382296",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5377382296,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miramar",
+      "addr:housenumber": "12741",
+      "addr:postcode": "33027",
+      "addr:state": "FL",
+      "addr:street": "Miramar Parkway",
+      "addr:unit": "301",
+      "name": "Miramar Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1954 -417-6722",
+      "website": "http://caraccident.the-company-lawyer.com/miramar-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5400791201",
+    "name": "Doral Car Accident Lawyer Group",
+    "address": "3785 Northwest 82nd Avenue, Doral, FL, 33166",
+    "location": {
+      "lat": 25.8084615,
+      "lng": -80.3288724
+    },
+    "phone": "+1-786-232-3254",
+    "website": "http://caraccident.the-company-lawyer.com/doral-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5400791201",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5400791201,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Doral",
+      "addr:housenumber": "3785",
+      "addr:postcode": "33166",
+      "addr:state": "FL",
+      "addr:street": "Northwest 82nd Avenue",
+      "addr:unit": "403",
+      "name": "Doral Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-786-232-3254",
+      "website": "http://caraccident.the-company-lawyer.com/doral-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5425787520",
+    "name": "Miami Lakes Car Accident Lawyer Group",
+    "address": "5190 Northwest 167th, Miami Lakes, FL, 33014",
+    "location": {
+      "lat": 25.9246416,
+      "lng": -80.2845955
+    },
+    "phone": "+1-786-563-4866",
+    "website": "http://caraccident.the-company-lawyer.com/miami-lakes-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5425787520",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5425787520,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami Lakes",
+      "addr:housenumber": "5190",
+      "addr:postcode": "33014",
+      "addr:state": "FL",
+      "addr:street": "Northwest 167th",
+      "addr:unit": "310",
+      "name": "Miami Lakes Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-786-563-4866",
+      "website": "http://caraccident.the-company-lawyer.com/miami-lakes-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5427163245",
+    "name": "Hialeah Gardens Car Accident Lawyer Group",
+    "address": "11300 Northwest 87th Court, Hialeah Gardens, FL, 33018",
+    "location": {
+      "lat": 25.8763201,
+      "lng": -80.3401394
+    },
+    "phone": "+1-786-235-2826",
+    "website": "http://caraccident.the-company-lawyer.com/hialeah-gardens-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5427163245",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5427163245,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Hialeah Gardens",
+      "addr:housenumber": "11300",
+      "addr:postcode": "33018",
+      "addr:state": "FL",
+      "addr:street": "Northwest 87th Court",
+      "addr:unit": "157",
+      "name": "Hialeah Gardens Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-786-235-2826",
+      "website": "http://caraccident.the-company-lawyer.com/hialeah-gardens-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12761613664",
+    "name": "The Martinez Law Firm, P.A.",
+    "address": "1490 West 68th Street, Hialeah, FL, 33014",
+    "location": {
+      "lat": 25.8838795,
+      "lng": -80.3135157
+    },
+    "phone": "+1-786-536-5221",
+    "website": "https://themartinezfirm.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12761613664",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00\u201317:00",
+      "Tuesday": "08:00\u201317:00",
+      "Wednesday": "08:00\u201317:00",
+      "Thursday": "08:00\u201317:00",
+      "Friday": "08:00\u201317:00",
+      "Saturday": "Su off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Auto Accident",
+        "Solar Panel Fraud"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12761613664,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Hialeah",
+      "addr:housenumber": "1490",
+      "addr:postcode": "33014",
+      "addr:state": "FL",
+      "addr:street": "West 68th Street",
+      "addr:unit": "103",
+      "description": "The Martinez Law Firm is a personal injury law firm in Hialeah, FL, providing thorough and aggressive representation with over 26 years of experience in South Florida. We specialize in solar panel fraud cases, auto accidents, and personal injury claims.",
+      "email": "dmartinez@themartinezfirm.com",
+      "name": "The Martinez Law Firm, P.A.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00\u201317:00; Sa, Su off",
+      "phone": "+1-786-536-5221",
+      "website": "https://themartinezfirm.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12841495172",
+    "name": "The Diaz Law Firm, P.A.",
+    "address": "1490 West 68th Street, Hialeah, FL, 33014",
+    "location": {
+      "lat": 25.8839234,
+      "lng": -80.3134526
+    },
+    "phone": "+1-305-271-7766",
+    "website": "https://thediazlawfirm.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12841495172",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Employment Law",
+        "Unpaid Overtime and Minimum Wage Claims",
+        "Consumer Protection",
+        "Insurance Claims",
+        "Real Estate Litigation",
+        "Personal Injury",
+        "Mediation",
+        "Contract Disputes",
+        "Collection Matters",
+        "Solar Panel Fraud"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": true,
+      "years_experience": 30,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 71,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12841495172,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Hialeah",
+      "addr:housenumber": "1490",
+      "addr:postcode": "33014",
+      "addr:state": "FL",
+      "addr:street": "West 68th Street",
+      "addr:unit": "104",
+      "description": "The Diaz Law Firm is your trusted legal advocate in Florida, specializing in solar panel scams, solar power fraud, and employment law. If you\u2019ve been a victim of deceptive solar companies like Titan Solar in Miami, or need help with a solar panel lawsuit.",
+      "email": "jose@thediazlawfirm.com",
+      "fax": "+1-786-431-1357",
+      "name": "The Diaz Law Firm, P.A.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-305-271-7766",
+      "website": "https://thediazlawfirm.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13347278511",
+    "name": "Mario Serralta & Associates",
+    "address": "7900 Oak Lane, Miami Lakes, FL, 33016",
+    "location": {
+      "lat": 25.9081615,
+      "lng": -80.3296392
+    },
+    "phone": "+1-305-612-3333",
+    "website": "https://abogadomario.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13347278511",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injuries",
+        "Slip and Fall",
+        "Car Accidents",
+        "Truck Accidents",
+        "Motorcycle Accidents",
+        "Medical Malpractice",
+        "Hurricane Damage Claims"
+      ],
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "bar_admissions": [
+        "Florida"
+      ],
+      "free_consultation": true,
+      "years_experience": 25,
+      "team_size": null,
+      "notable_cases": [
+        "Represented thousands of clients",
+        "Recovered millions of dollars against insurance companies"
+      ],
+      "awards": null,
+      "education": [
+        "University of Miami School of Law"
+      ]
+    },
+    "profile_completeness": 77,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13347278511,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami Lakes",
+      "addr:housenumber": "7900",
+      "addr:postcode": "33016",
+      "addr:state": "FL",
+      "addr:street": "Oak Lane",
+      "addr:unit": "301",
+      "lawyer:speciality:traffic": "yes",
+      "name": "Mario Serralta & Associates",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-305-612-3333",
+      "website": "https://abogadomario.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13379223932",
+    "name": "Vasquez de Lara Law Group",
+    "address": "15450 New Barn Road, Miami Lakes, FL, 33014",
+    "location": {
+      "lat": 25.9136577,
+      "lng": -80.3111746
+    },
+    "phone": "+1-305-419-0120",
+    "website": "https://www.familylawprotection.com/florida/locations/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13379223932",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-18:30",
+      "Tuesday": "08:30-18:30",
+      "Wednesday": "08:30-18:30",
+      "Thursday": "08:30-18:30",
+      "Friday": "08:30-18:30"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Divorce",
+        "High Net-Worth Divorce",
+        "Child Custody",
+        "Alimony",
+        "Property Division",
+        "Child Support",
+        "Paternity",
+        "Prenup/Postnup",
+        "Post-Judgment Modification",
+        "Child Visitation",
+        "Divorce Mediation",
+        "Family Law"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": null,
+      "free_consultation": true,
+      "years_experience": 20,
+      "team_size": 9,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 74,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13379223932,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami Lakes",
+      "addr:housenumber": "15450",
+      "addr:postcode": "33014",
+      "addr:state": "FL",
+      "addr:street": "New Barn Road",
+      "addr:unit": "Suite 200",
+      "description": "Vasquez de Lara Law Group is a dedicated legal practice providing experienced and comprehensive family law services in Miami Lakes and the surrounding South Florida communities.",
+      "name": "Vasquez de Lara Law Group",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-18:30",
+      "phone": "+1-305-419-0120",
+      "website": "https://www.familylawprotection.com/florida/locations/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_435569239",
+    "name": "Paterson Injury Lawyers",
+    "address": "3499 West 4th Avenue, Hialeah, 33012",
+    "location": {
+      "lat": 25.8534336,
+      "lng": -80.2899712
+    },
+    "phone": "+1-813-358-2098",
+    "website": "https://patersoninjurylawyer.com/location/car-accident-lawyer-hialeah",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/435569239",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 435569239,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Hialeah",
+      "addr:housenumber": "3499",
+      "addr:postcode": "33012",
+      "addr:street": "West 4th Avenue",
+      "building": "yes",
+      "email": "hialeah@patersoninjurylawyer.com",
+      "height": "11.2",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrDI6WLAQReP5qeufdVe_bakXMO_aduzig95fKkwNSpjbxk3TGGqL7tNsdr15j2ArwPyIU_bHCCNqAokyKKPwwWtOQQ1C1diWTMvcgb9Q9xRHEtaq4DrojOMw3RhVed9TMDXPlu_UdzZii3=w141-h235-n-k-no-nu",
+      "internet_access": "wlan",
+      "name": "Paterson Injury Lawyers",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-813-358-2098",
+      "ref:miabldg": "33726",
+      "website": "https://patersoninjurylawyer.com/location/car-accident-lawyer-hialeah",
+      "wheelchair": "yes"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5377554834",
+    "name": "Miami Gardens Car Accident Lawyer Group",
+    "address": "1505-1525 Northwest 167th Street, Miami Gardens, FL, 33169",
+    "location": {
+      "lat": 25.9277797,
+      "lng": -80.2278469
+    },
+    "phone": "+1786- 991-2506",
+    "website": "http://caraccident.the-company-lawyer.com/miami-gardens-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5377554834",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5377554834,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami Gardens",
+      "addr:housenumber": "1505-1525",
+      "addr:postcode": "33169",
+      "addr:state": "FL",
+      "addr:street": "Northwest 167th Street",
+      "addr:unit": "410",
+      "name": "Miami Gardens Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1786- 991-2506",
+      "website": "http://caraccident.the-company-lawyer.com/miami-gardens-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5400840368",
+    "name": "North Miami Beach Car Accident Lawyer Group",
+    "address": "633 Northeast 167th Street, North Miami Beach, FL, 33162",
+    "location": {
+      "lat": 25.9289934,
+      "lng": -80.1872894
+    },
+    "phone": "+1-786-207-1934",
+    "website": "http://caraccident.the-company-lawyer.com/north-miami-beach-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5400840368",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5400840368,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "North Miami Beach",
+      "addr:housenumber": "633",
+      "addr:postcode": "33162",
+      "addr:state": "FL",
+      "addr:street": "Northeast 167th Street",
+      "name": "North Miami Beach Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-786-207-1934",
+      "website": "http://caraccident.the-company-lawyer.com/north-miami-beach-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5401045462",
+    "name": "Aventura Car Accident Lawyer Group",
+    "address": "20807 Biscayne Boulevard, Aventura, FL, 33180",
+    "location": {
+      "lat": 25.9686364,
+      "lng": -80.1422774
+    },
+    "phone": "+1-786-540-0139",
+    "website": "http://caraccident.the-company-lawyer.com/aventura-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5401045462",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5401045462,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Aventura",
+      "addr:housenumber": "20807",
+      "addr:postcode": "33180",
+      "addr:state": "FL",
+      "addr:street": "Biscayne Boulevard",
+      "addr:unit": "204",
+      "name": "Aventura Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-786-540-0139",
+      "website": "http://caraccident.the-company-lawyer.com/aventura-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5427867624",
+    "name": "Sunny Isles Beach Car Accident Lawyer Group",
+    "address": "17555 Atlantic Boulevard, Sunny Isles Beach, FL, 33160",
+    "location": {
+      "lat": 25.9366342,
+      "lng": -80.1262896
+    },
+    "phone": "+1-305-547-9601",
+    "website": "http://caraccident.the-company-lawyer.com/sunny-isles-beach-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5427867624",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5427867624,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Sunny Isles Beach",
+      "addr:housenumber": "17555",
+      "addr:postcode": "33160",
+      "addr:state": "FL",
+      "addr:street": "Atlantic Boulevard",
+      "addr:unit": "203",
+      "name": "Sunny Isles Beach Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-305-547-9601",
+      "website": "http://caraccident.the-company-lawyer.com/sunny-isles-beach-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5430473708",
+    "name": "West Park Car Accident Lawyer Group",
+    "address": "5801 W Hallandale Beach Blvd, West Park, FL, 33023",
+    "location": {
+      "lat": 25.9850554,
+      "lng": -80.2027984
+    },
+    "phone": "+1-954-210-5330",
+    "website": "http://caraccident.the-company-lawyer.com/west-park-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5430473708",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5430473708,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "West Park",
+      "addr:housenumber": "5801",
+      "addr:postcode": "33023",
+      "addr:state": "FL",
+      "addr:street": "W Hallandale Beach Blvd",
+      "addr:unit": "2",
+      "name": "West Park Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-954-210-5330",
+      "website": "http://caraccident.the-company-lawyer.com/west-park-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5432765875",
+    "name": "Miami Shores Car Accident Lawyer Group",
+    "address": "9600 Northeast 2nd Avenue, Miami Shores, FL, 33138",
+    "location": {
+      "lat": 25.8639339,
+      "lng": -80.1938632
+    },
+    "phone": "+1305- 515-5974",
+    "website": "http://caraccident.the-company-lawyer.com/miami-shores-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5432765875",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5432765875,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami Shores",
+      "addr:housenumber": "9600",
+      "addr:postcode": "33138",
+      "addr:state": "FL",
+      "addr:street": "Northeast 2nd Avenue",
+      "addr:unit": "9636",
+      "name": "Miami Shores Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1305- 515-5974",
+      "website": "http://caraccident.the-company-lawyer.com/miami-shores-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11187648185",
+    "name": "Schrier Law Group",
+    "address": "11098 Biscayne Boulevard, Miami, FL, 33161",
+    "location": {
+      "lat": 25.8782248,
+      "lng": -80.1682798
+    },
+    "phone": "+1 305-893-5500",
+    "website": "https://www.schrierlawgroup.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11187648185",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Motor Vehicle Accidents",
+        "Car Accidents",
+        "Truck Accidents",
+        "Motorcycle Accidents",
+        "Rideshare Accidents",
+        "Pedestrian Accidents",
+        "Bicycle Accidents",
+        "Work-Related Accidents",
+        "Construction Accidents",
+        "Slip and Fall",
+        "Premises Liability",
+        "Negligent Security",
+        "Product Liability",
+        "Medical Malpractice",
+        "Traumatic Brain Injury",
+        "Quadriplegic Accidents",
+        "Birth Injury",
+        "Boat Accidents",
+        "Cruise Ship Accidents"
+      ],
+      "languages": [
+        "English",
+        "Spanish",
+        "Haitian Creole"
+      ],
+      "bar_admissions": [
+        "Florida"
+      ],
+      "free_consultation": true,
+      "years_experience": 45,
+      "team_size": null,
+      "notable_cases": [
+        {
+          "type": "Car Accident",
+          "recovery": "$1,800,000"
+        },
+        {
+          "type": "Truck Accident",
+          "recovery": "$2,000,000"
+        },
+        {
+          "type": "Car Accident",
+          "recovery": "$3,200,000"
+        },
+        {
+          "type": "Slip and Fall Accident",
+          "recovery": "$1,300,000"
+        }
+      ],
+      "awards": [
+        "Avvo 10.0 Rating",
+        "5-Star Client Reviews",
+        "5-Star Yelp Reviews"
+      ],
+      "education": null
+    },
+    "profile_completeness": 79,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11187648185,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "11098",
+      "addr:postcode": "33161",
+      "addr:state": "FL",
+      "addr:street": "Biscayne Boulevard",
+      "addr:unit": "208",
+      "description": "Personal injury law firm",
+      "email": "info@schrierlawgroup.com",
+      "fax": "+1 800-768-9147",
+      "name": "Schrier Law Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 305-893-5500",
+      "start_date": "1986-1-1",
+      "website": "https://www.schrierlawgroup.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5380367922",
+    "name": "Davie Car Accident Lawyer Group",
+    "address": "8001 N.W. 36th Street, Davie, FL, 33328",
+    "location": {
+      "lat": 26.0768789,
+      "lng": -80.2538897
+    },
+    "phone": "+1-954-716-8436",
+    "website": "http://caraccident.the-company-lawyer.com/davie-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5380367922",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5380367922,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Davie",
+      "addr:housenumber": "8001",
+      "addr:postcode": "33328",
+      "addr:state": "FL",
+      "addr:street": "N.W. 36th Street",
+      "addr:unit": "12",
+      "name": "Davie Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-954-716-8436",
+      "website": "http://caraccident.the-company-lawyer.com/davie-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5425214536",
+    "name": "Dania Beach Car Accident Lawyer Group",
+    "address": "1815 Griffin Rd, Dania Beach, FL, 33004",
+    "location": {
+      "lat": 26.061304,
+      "lng": -80.1612395
+    },
+    "phone": "+1-954-289-6557",
+    "website": "http://caraccident.the-company-lawyer.com/dania-beach-fl",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5425214536",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Personal Injury"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5425214536,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Dania Beach",
+      "addr:housenumber": "1815",
+      "addr:postcode": "33004",
+      "addr:state": "FL",
+      "addr:street": "Griffin Rd",
+      "addr:unit": "405",
+      "name": "Dania Beach Car Accident Lawyer Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-954-289-6557",
+      "website": "http://caraccident.the-company-lawyer.com/dania-beach-fl"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11395527455",
+    "name": "Divorce Made Easy",
+    "address": "2719 Hollywood Blvd, Hollywood, FL, 33020",
+    "location": {
+      "lat": 26.0112372,
+      "lng": -80.1619141
+    },
+    "phone": "+1 954-372-1220",
+    "website": "https://divorcemadeeasy.net",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11395527455",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Divorce mediation",
+        "Parental responsibility",
+        "Equitable distribution",
+        "Alimony",
+        "Child support"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 70,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11395527455,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Hollywood",
+      "addr:country": "US",
+      "addr:postcode": "33020",
+      "addr:state": "FL",
+      "addr:street": "2719 Hollywood Blvd",
+      "name": "Divorce Made Easy",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "payment:american_express": "yes",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:discover_card": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "phone": "+1 954-372-1220",
+      "website": "https://divorcemadeeasy.net"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11975058581",
+    "name": "Grimaldi Law Firm",
+    "address": "4000 Hollywood Blvd, Hollywood, FL, 33021",
+    "location": {
+      "lat": 26.0105698,
+      "lng": -80.1836644
+    },
+    "phone": "+1-954-491-8707",
+    "website": "https://realestatelawfl.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11975058581",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:30",
+      "Tuesday": "09:00-17:30",
+      "Wednesday": "09:00-17:30",
+      "Thursday": "09:00-17:30",
+      "Friday": "09:00-17:30",
+      "Saturday": "off",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Estate Planning",
+        "Real Estate Law",
+        "Business Law",
+        "Probate Law"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Florida Bar"
+      ],
+      "free_consultation": true,
+      "years_experience": 16,
+      "team_size": 11,
+      "notable_cases": null,
+      "awards": null,
+      "education": [
+        "Nova Southeastern University Law School"
+      ]
+    },
+    "profile_completeness": 76,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11975058581,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Hollywood",
+      "addr:housenumber": "4000",
+      "addr:postcode": "33021",
+      "addr:state": "FL",
+      "addr:street": "Hollywood Blvd",
+      "addr:unit": "Suite 740-N",
+      "description": "Grimaldi Law Firm is a full-service real estate and title firm taking our clients from contract negotiations to keys! We can assist you in both commercial and residential negotiations. We serve clients in  English, Spanish, Italian, French, & Portuguese.",
+      "email": "clientintake@grimaldi-law.com",
+      "name": "Grimaldi Law Firm",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:30; Sa-Su off",
+      "phone": "+1-954-491-8707",
+      "website": "https://realestatelawfl.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12406406931",
+    "name": "Jared Spingarn, PA | Hallandale Beach Car Accident Injury Lawyers",
+    "address": "800 Southeast 4th Avenue, Hallandale Beach, FL, 33009",
+    "location": {
+      "lat": 25.9768553,
+      "lng": -80.1445495
+    },
+    "phone": "+1-954-633-8261",
+    "website": "https://hirejared.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12406406931",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accidents"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 68,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12406406931,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Hallandale Beach",
+      "addr:housenumber": "800",
+      "addr:postcode": "33009",
+      "addr:state": "FL",
+      "addr:street": "Southeast 4th Avenue",
+      "addr:unit": "149",
+      "email": "jared.spingarn@hirejared.com",
+      "name": "Jared Spingarn, PA | Hallandale Beach Car Accident Injury Lawyers",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-954-633-8261",
+      "start_date": "2006-04-05",
+      "website": "https://hirejared.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4541141354",
+    "name": "The Siddiqi Law Firm, PA",
+    "address": "12039 SW 132nd Ct #28-3, Miami, FL, 33186",
+    "location": {
+      "lat": 25.6557923,
+      "lng": -80.4076981
+    },
+    "phone": "+1-305-676-5700",
+    "website": "https://www.legalmia.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4541141354",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4541141354,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "12039",
+      "addr:postcode": "33186",
+      "addr:state": "FL",
+      "addr:street": "SW 132nd Ct #28-3",
+      "name": "The Siddiqi Law Firm, PA",
+      "office": "lawyer",
+      "phone": "+1-305-676-5700",
+      "website": "https://www.legalmia.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4690339855",
+    "name": "Municipal Claims Management Services: Henry Rodriguez",
+    "address": "9730 E Hibiscus St, Palmetto Bay, FL, 33157",
+    "location": {
+      "lat": 25.6031315,
+      "lng": -80.3491427
+    },
+    "phone": "+1-305-969-2288",
+    "website": "https://municipalclaims.us/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4690339855",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Property Damage Claims",
+        "Municipal Claims"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4690339855,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Palmetto Bay",
+      "addr:housenumber": "9730",
+      "addr:postcode": "33157",
+      "addr:state": "FL",
+      "addr:street": "E Hibiscus St",
+      "fax": "+1-866-212-0379",
+      "name": "Municipal Claims Management Services: Henry Rodriguez",
+      "office": "lawyer",
+      "phone": "+1-305-969-2288",
+      "suite": "C",
+      "website": "https://municipalclaims.us/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5601577375",
+    "name": "Lipcon & Lipcon, P.A",
+    "address": "9100 South Dadeland Boulevard, Miami, FL, 33156",
+    "location": {
+      "lat": 25.6852306,
+      "lng": -80.3137639
+    },
+    "phone": "+1 305-670-6144",
+    "website": "https://www.lipconlawfirm.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5601577375",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Personal Injury",
+        "Car Accidents",
+        "Trial Law"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5601577375,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "9100",
+      "addr:postcode": "33156",
+      "addr:state": "FL",
+      "addr:street": "South Dadeland Boulevard",
+      "addr:unit": "#400",
+      "description": "Personal Injury Attorney serving the Greater Miami-Dade area.",
+      "email": "contact@lipconlawfirm.com",
+      "name": "Lipcon & Lipcon, P.A",
+      "office": "lawyer",
+      "phone": "+1 305-670-6144",
+      "website": "https://www.lipconlawfirm.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9812160673",
+    "name": "Vasquez de Lara Law Group",
+    "address": "7700 North Kendall Drive, Miami, FL, 33156",
+    "location": {
+      "lat": 25.6872373,
+      "lng": -80.3201325
+    },
+    "phone": "+1-305-596-9951",
+    "website": "https://www.familylawprotection.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9812160673",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Divorce",
+        "High Net-Worth Divorce",
+        "Child Custody",
+        "Alimony",
+        "Property Division",
+        "Child Support",
+        "Paternity",
+        "Prenup/Postnup",
+        "Post-Judgment Modification",
+        "Child Visitation",
+        "Divorce Mediation",
+        "Family Law"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Florida"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": 9,
+      "notable_cases": null,
+      "awards": [
+        "Top-Rated"
+      ],
+      "education": null
+    },
+    "profile_completeness": 72,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9812160673,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "7700",
+      "addr:postcode": "33156",
+      "addr:state": "FL",
+      "addr:street": "North Kendall Drive",
+      "addr:unit": "Suite 607",
+      "name": "Vasquez de Lara Law Group",
+      "office": "lawyer",
+      "phone": "+1-305-596-9951",
+      "website": "https://www.familylawprotection.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11077850234",
+    "name": "Law Office of Orlando Rodriguez",
+    "address": "9700 South Dixie Highway, Miami, FL, 33156",
+    "location": {
+      "lat": 25.6806255,
+      "lng": -80.3167817
+    },
+    "phone": "+1-786-208-3290",
+    "website": "https://orlandorodriguezpa.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11077850234",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "DUI",
+        "Drug Related Offenses",
+        "Domestic Violence",
+        "Fraud",
+        "Robbery, Theft & Burglary",
+        "Cybercrimes",
+        "Violent Crimes"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": null,
+      "free_consultation": true,
+      "years_experience": 15,
+      "team_size": null,
+      "notable_cases": [
+        "Charges dropped against teacher accused of inappropriate relationship with minor"
+      ],
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 70,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11077850234,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "9700",
+      "addr:postcode": "33156",
+      "addr:state": "FL",
+      "addr:street": "South Dixie Highway",
+      "addr:unit": "Suite 600",
+      "check_date": "2023-07-31",
+      "currency:XBT": "yes",
+      "name": "Law Office of Orlando Rodriguez",
+      "office": "lawyer",
+      "payment:lightning": "yes",
+      "payment:lightning_contactless": "no",
+      "payment:onchain": "yes",
+      "phone": "+1-786-208-3290",
+      "website": "https://orlandorodriguezpa.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3688732470",
+    "name": "Law Office of Ferdie and Lones Chartered",
+    "address": "717 Ponce de Leon Boulevard, Coral Gables, FL",
+    "location": {
+      "lat": 25.7654654,
+      "lng": -80.2579119
+    },
+    "phone": "+1-305-445-3557",
+    "website": "https://ferdieandlones.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3688732470",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Real property",
+        "Probate & trust law",
+        "General civil litigation",
+        "Family law"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": false,
+      "years_experience": 17,
+      "team_size": 2,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 67,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3688732470,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Coral Gables",
+      "addr:housenumber": "717",
+      "addr:state": "FL",
+      "addr:street": "Ponce de Leon Boulevard",
+      "name": "Law Office of Ferdie and Lones Chartered",
+      "office": "lawyer",
+      "opening_hours": "09:00-17:00",
+      "phone": "+1-305-445-3557",
+      "website": "https://ferdieandlones.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4558022242",
+    "name": "The Law Firm of Alexandre Ballerini",
+    "address": "927 Lincoln Road #200, Miami Beach, FL, 33139",
+    "location": {
+      "lat": 25.7908744,
+      "lng": -80.138311
+    },
+    "phone": "+1-305-507-9699",
+    "website": "https://alexballerinilaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4558022242",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Contract Law",
+        "Business Organizations",
+        "Private Companies Mergers & Acquisitions",
+        "Real Estate",
+        "Condo Law",
+        "Estate Planning & Asset Protection",
+        "Business & Civil Litigation",
+        "Alternative Dispute Resolution",
+        "Landlord Tenant"
+      ],
+      "languages": [
+        "Italian",
+        "French",
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Florida",
+        "New York",
+        "District of Columbia"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": [
+        "Over $1 billion in real estate closings"
+      ],
+      "awards": [
+        "Super Lawyers Rising Star 2021-2022",
+        "Elite Lawyer 2022",
+        "Florida Top Lawyers 2022"
+      ],
+      "education": null
+    },
+    "profile_completeness": 73,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4558022242,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami Beach",
+      "addr:housenumber": "927",
+      "addr:postcode": "33139",
+      "addr:state": "FL",
+      "addr:street": "Lincoln Road #200",
+      "name": "The Law Firm of Alexandre Ballerini",
+      "office": "lawyer",
+      "phone": "+1-305-507-9699",
+      "website": "https://alexballerinilaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5724537972",
+    "name": "lowercase, a law firm",
+    "address": "3250 Northeast 1st Avenue, Miami, FL, 33137",
+    "location": {
+      "lat": 25.7754676,
+      "lng": -80.1918986
+    },
+    "phone": "+1-833-569-3335",
+    "website": "https://lowercaselaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5724537972",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5724537972,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "3250",
+      "addr:postcode": "33137",
+      "addr:state": "FL",
+      "addr:street": "Northeast 1st Avenue",
+      "addr:unit": "305",
+      "email": "info@lowercaselaw.com",
+      "name": "lowercase, a law firm",
+      "office": "lawyer",
+      "phone": "+1-833-569-3335",
+      "website": "https://lowercaselaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6055472867",
+    "name": "MacDonald Law, PLLC",
+    "address": "420 Southwest 7th Street, Miami, FL, 33130",
+    "location": {
+      "lat": 25.7668943,
+      "lng": -80.2012408
+    },
+    "phone": "+1 786-500-9675",
+    "website": "https://macdonaldemploymentlaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6055472867",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Employment Law"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 63,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6055472867,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "420",
+      "addr:postcode": "33130",
+      "addr:state": "FL",
+      "addr:street": "Southwest 7th Street",
+      "addr:unit": "1118",
+      "lawyer": "employment",
+      "name": "MacDonald Law, PLLC",
+      "office": "lawyer",
+      "phone": "+1 786-500-9675",
+      "website": "https://macdonaldemploymentlaw.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6076599712",
+    "name": "Brownstone Law",
+    "address": "2520 Southwest 22nd Street, Miami, FL, 33145",
+    "location": {
+      "lat": 25.7501153,
+      "lng": -80.2367757
+    },
+    "phone": "+1 786 753-5721",
+    "website": "https://brownstonelaw.com/appellate-lawyer/florida-appeals/appellate-attorneys-in-miami-florida/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6076599712",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Appellate Law",
+        "Florida Appeals"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 63,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6076599712,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "2520",
+      "addr:postcode": "33145",
+      "addr:state": "FL",
+      "addr:street": "Southwest 22nd Street",
+      "contact:email": "robert@brownstonelaw.com",
+      "contact:facebook": "brownstonelawmiamifl",
+      "contact:linkedin": "https://linkedin.com/company/brownstone-law-firm",
+      "contact:phone": "+1 786 753-5721",
+      "contact:pinterest": "brownstonelawmiamifllaw",
+      "contact:twitter": "brownstone_law",
+      "contact:website": "https://brownstonelaw.com/appellate-lawyer/florida-appeals/appellate-attorneys-in-miami-florida/",
+      "contact:youtube": "@brownstonelawmiamifl",
+      "description": "Brownstone Law proudly serves Miami as dedicated Miami appeal lawyers, offering comprehensive appellate representation that challenges and overturns unjust decisions through innovative legal strategies. Our skilled team of Miami criminal appeal lawyers an",
+      "name": "Brownstone Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9294849841",
+    "name": "ESQ.title | Real Estate Law",
+    "address": "121 Alhambra Plaza, Coral Gables, FL, 33134",
+    "location": {
+      "lat": 25.7525428,
+      "lng": -80.2571198
+    },
+    "phone": "+1-305-501-2836",
+    "website": "https://www.esqtitle.law",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9294849841",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Real Estate Law",
+        "Commercial Real Estate",
+        "Real Estate Litigation",
+        "Commercial Litigation",
+        "Business Law",
+        "Real Estate Closings",
+        "Title Insurance",
+        "Commercial Lease Negotiations",
+        "Contract Disputes",
+        "Premises Liability",
+        "Construction Defect Disputes",
+        "Eminent Domain Proceedings"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Florida Bar"
+      ],
+      "free_consultation": true,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": [
+        "Listed in Best Lawyers",
+        "Rated by Super Lawyers",
+        "Best Law Firms - US News 2017",
+        "Florida Trend's Florida Legal Elite 2020"
+      ],
+      "education": null
+    },
+    "profile_completeness": 71,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9294849841,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Coral Gables",
+      "addr:housenumber": "121",
+      "addr:postcode": "33134",
+      "addr:state": "FL",
+      "addr:street": "Alhambra Plaza",
+      "addr:unit": "#1500",
+      "name": "ESQ.title | Real Estate Law",
+      "office": "lawyer",
+      "phone": "+1-305-501-2836",
+      "website": "https://www.esqtitle.law"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11148611303",
+    "name": "David Howard Goldberg, P.L.",
+    "address": "1 Southeast 3rd Avenue, Miami, FL, 33131",
+    "location": {
+      "lat": 25.7738523,
+      "lng": -80.1883277
+    },
+    "phone": "+1-305-760-8888",
+    "website": "https://dhgpl-law.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11148611303",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Estate Planning",
+        "Incapacity Planning",
+        "Probate Administration",
+        "Probate Litigation",
+        "Trust Administration",
+        "Guardianship Administration",
+        "Elder Abuse"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Florida"
+      ],
+      "free_consultation": true,
+      "years_experience": 37,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 70,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11148611303,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "1",
+      "addr:postcode": "33131",
+      "addr:state": "FL",
+      "addr:street": "Southeast 3rd Avenue",
+      "addr:unit": "1940",
+      "email": "david@dhgpl-law.com",
+      "name": "David Howard Goldberg, P.L.",
+      "office": "lawyer",
+      "phone": "+1-305-760-8888",
+      "website": "https://dhgpl-law.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_435530978",
+    "name": "Gerson & Schwartz P.A",
+    "address": "1980 Coral Way, Miami, FL, 33145",
+    "location": {
+      "lat": 25.7504511,
+      "lng": -80.2268293
+    },
+    "phone": "+1-305-371-6000; +1-866-749-4250",
+    "website": "https://www.injuryattorneyfla.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/435530978",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Car Accidents",
+        "Truck Accidents",
+        "Motorcycle Accidents",
+        "Cruise Ship Accidents",
+        "Premises Liability",
+        "Wrongful Death",
+        "Slip and Fall Accidents",
+        "Catastrophic Injuries",
+        "Crime Victims",
+        "Medical Malpractice",
+        "Negligent Security",
+        "Child Injuries"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": [
+        "Florida State Courts",
+        "Florida Federal Courts"
+      ],
+      "free_consultation": true,
+      "years_experience": 50,
+      "team_size": 6,
+      "notable_cases": [
+        {
+          "amount": "$60,000,000",
+          "type": "Sexual Abuse Victim"
+        },
+        {
+          "amount": "$37,500,000",
+          "type": "Product Liability"
+        },
+        {
+          "amount": "$12,500,000",
+          "type": "Wrongful Death"
+        },
+        {
+          "amount": "$10,500,000",
+          "type": "Crime Victim"
+        }
+      ],
+      "awards": [
+        "Best Lawyers",
+        "Million Dollar Advocates Forum",
+        "Super Lawyers",
+        "Martindale-Hubbell AV Rating",
+        "Legal Elite"
+      ],
+      "education": [
+        "University of Miami School of Law"
+      ]
+    },
+    "profile_completeness": 75,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 435530978,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "1980",
+      "addr:postcode": "33145",
+      "addr:state": "FL",
+      "addr:street": "Coral Way",
+      "building": "yes",
+      "contact:email": "info@gslawusa.com",
+      "contact:facebook": "GersonSchwartzPA",
+      "contact:fax": "+1 305-371-5749",
+      "contact:instagram": "gslawusa",
+      "contact:linkedin": "https://www.linkedin.com/company/gerson-and-schwartz-p-a",
+      "contact:twitter": "gslawusa",
+      "contact:youtube": "GersonLaw",
+      "height": "8.2",
+      "name": "Gerson & Schwartz P.A",
+      "office": "lawyer",
+      "opening_hours": "Office hours 9:00 AM-5:30 PM; Available 24/7",
+      "phone": "+1-305-371-6000; +1-866-749-4250",
+      "phone:US": "877-475-2905",
+      "ref:miabldg": "23926",
+      "start_date": "1970",
+      "website": "https://www.injuryattorneyfla.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_2952669176",
+    "name": "Dieppa Law Firm, P.A.",
+    "address": "2097 West 76th Street, Hialeah, 33016",
+    "location": {
+      "lat": 25.8912264,
+      "lng": -80.3502997
+    },
+    "phone": "+1-305-826-8266",
+    "website": "http://www.dieppalaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2952669176",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2952669176,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Hialeah",
+      "addr:housename": "Dieppa Law Firm",
+      "addr:housenumber": "2097",
+      "addr:postcode": "33016",
+      "addr:street": "West 76th Street",
+      "building": "office",
+      "name": "Dieppa Law Firm, P.A.",
+      "office": "lawyer",
+      "phone": "+1-305-826-8266",
+      "website": "http://www.dieppalaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12945030788",
+    "name": "Wolffers Cohen & Edderai LLP",
+    "address": "1132 Kane Concourse, Bay Harbor Islands, FL, 33154",
+    "location": {
+      "lat": 25.8864473,
+      "lng": -80.1320577
+    },
+    "phone": "+1 786-505-0431",
+    "website": "https://wolfferscohen.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12945030788",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Libel, Slander and Defamation",
+        "Trademarks and Other Intangibles",
+        "Corporate Taxation",
+        "International Taxation",
+        "Mergers & Acquisitions",
+        "Private Client",
+        "Real Estate Taxation",
+        "State & Local Taxation",
+        "Tax Controversy & Litigation",
+        "Trust & Estate Planning"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": false,
+      "years_experience": null,
+      "team_size": 7,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 66,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12945030788,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Bay Harbor Islands",
+      "addr:housenumber": "1132",
+      "addr:postcode": "33154",
+      "addr:state": "FL",
+      "addr:street": "Kane Concourse",
+      "addr:unit": "Suite 205",
+      "name": "Wolffers Cohen & Edderai LLP",
+      "office": "lawyer",
+      "phone": "+1 786-505-0431",
+      "website": "https://wolfferscohen.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5209965454",
+    "name": "Florida Ticket Firm",
+    "address": "2900 Griffin Road, Fort Lauderdale, FL, 33312",
+    "location": {
+      "lat": 26.062084,
+      "lng": -80.1801862
+    },
+    "phone": "+1-954-765-4000",
+    "website": "https://floridaticketfirm.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5209965454",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Traffic Tickets",
+        "Speeding Tickets",
+        "Careless Driving",
+        "Red Light Violations",
+        "Suspended License Reinstatement",
+        "Criminal Traffic Violations",
+        "Reckless Driving",
+        "DUI",
+        "Criminal Defense",
+        "Drug Possession",
+        "Personal Injury",
+        "Car Accidents",
+        "Motorcycle Accidents"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "bar_admissions": null,
+      "free_consultation": true,
+      "years_experience": 10,
+      "team_size": null,
+      "notable_cases": [
+        "99% case success rate fighting traffic tickets over 10 years"
+      ],
+      "awards": [
+        "Named one of top DUI firms in the area by Expertise.com"
+      ],
+      "education": null
+    },
+    "profile_completeness": 72,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5209965454,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Fort Lauderdale",
+      "addr:housenumber": "2900",
+      "addr:postcode": "33312",
+      "addr:state": "FL",
+      "addr:street": "Griffin Road",
+      "email": "info@floridaticketfirm.com",
+      "name": "Florida Ticket Firm",
+      "office": "lawyer",
+      "phone": "+1-954-765-4000",
+      "website": "https://floridaticketfirm.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_2543973344",
+    "name": "Barnard Law Offices, L.P.",
+    "address": "9655 South Dixie Highway, Suite 207, Pinecrest, 33157",
+    "location": {
+      "lat": 25.6805206,
+      "lng": -80.3154887
+    },
+    "phone": "+1-305-665-0000",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2543973344",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2543973344,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Pinecrest",
+      "addr:housename": "Barnard Law Offices, L.P.",
+      "addr:housenumber": "9655",
+      "addr:postcode": "33157",
+      "addr:street": "South Dixie Highway, Suite 207",
+      "name": "Barnard Law Offices, L.P.",
+      "office": "lawyer",
+      "phone": "+1-305-665-0000"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4154566696",
+    "name": "Kurzban,Kurzban,Weinger,Tetzeli and Pratt",
+    "address": "2650 Southwest 27th Avenue, Miami, FL, 33133",
+    "location": {
+      "lat": 25.7424003,
+      "lng": -80.2381818
+    },
+    "phone": "",
+    "website": "https://www.kkwtlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4154566696",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": true,
+    "enriched_data": {
+      "practice_areas": [
+        "Immigration Law"
+      ],
+      "languages": null,
+      "bar_admissions": null,
+      "free_consultation": null,
+      "years_experience": null,
+      "team_size": null,
+      "notable_cases": null,
+      "awards": null,
+      "education": null
+    },
+    "profile_completeness": 58,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4154566696,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:country": "US",
+      "addr:housenumber": "2650",
+      "addr:postcode": "33133",
+      "addr:state": "FL",
+      "addr:street": "Southwest 27th Avenue",
+      "name": "Kurzban,Kurzban,Weinger,Tetzeli and Pratt",
+      "office": "lawyer",
+      "website": "https://www.kkwtlaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12164470119",
+    "name": "Cole, Scott & Kissane, P.A.",
+    "address": "9150 South Dadeland Boulevard, Miami, FL, 33156",
+    "location": {
+      "lat": 25.6843441,
+      "lng": -80.3149189
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12164470119",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12164470119,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "9150",
+      "addr:postcode": "33156",
+      "addr:state": "FL",
+      "addr:street": "South Dadeland Boulevard",
+      "name": "Cole, Scott & Kissane, P.A.",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6107889081",
+    "name": "Guantanamo Consultants",
+    "address": "225 Northeast 82nd Street, Miami, FL, 33138",
+    "location": {
+      "lat": 25.8500278,
+      "lng": -80.1921215
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6107889081",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6107889081,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Miami",
+      "addr:housenumber": "225",
+      "addr:postcode": "33138",
+      "addr:state": "FL",
+      "addr:street": "Northeast 82nd Street",
+      "name": "Guantanamo Consultants",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6027892092",
+    "name": "Lord and Sons, Inc",
+    "address": "1024 Kane Concourse, Bay Harbor Islands, FL, 33154",
+    "location": {
+      "lat": 25.8866258,
+      "lng": -80.1299285
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6027892092",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6027892092,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Bay Harbor Islands",
+      "addr:housenumber": "1024",
+      "addr:postcode": "33154",
+      "addr:state": "FL",
+      "addr:street": "Kane Concourse",
+      "name": "Lord and Sons, Inc",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12945030787",
+    "name": "Law Office of Daniel Y. Gielchinsky",
+    "address": "1132 Kane Concourse, Bay Harbor Islands, FL, 33154",
+    "location": {
+      "lat": 25.8864552,
+      "lng": -80.1320577
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12945030787",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12945030787,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Bay Harbor Islands",
+      "addr:housenumber": "1132",
+      "addr:postcode": "33154",
+      "addr:state": "FL",
+      "addr:street": "Kane Concourse",
+      "addr:unit": "Suite 204",
+      "name": "Law Office of Daniel Y. Gielchinsky",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13121861577",
+    "name": "Schlacter Law",
+    "address": "1108 96th Street, Bay Harbor Islands, FL, 33154",
+    "location": {
+      "lat": 25.8862763,
+      "lng": -80.1316498
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13121861577",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13121861577,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Bay Harbor Islands",
+      "addr:housenumber": "1108",
+      "addr:postcode": "33154",
+      "addr:state": "FL",
+      "addr:street": "96th Street",
+      "addr:unit": "Suite 305",
+      "name": "Schlacter Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_435847575",
+    "name": "Duboff",
+    "address": "680 Northeast 127th Street, North Miami, 33161",
+    "location": {
+      "lat": 25.8919442,
+      "lng": -80.1847903
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/435847575",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 435847575,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "North Miami",
+      "addr:housenumber": "680",
+      "addr:postcode": "33161",
+      "addr:street": "Northeast 127th Street",
+      "building": "yes",
+      "height": "13.8",
+      "name": "Duboff",
+      "office": "lawyer",
+      "ref:miabldg": "68616"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_436107640",
+    "name": "Tony Pornprinya Law Office",
+    "address": "1555 Northeast 123rd Street, North Miami, FL, 33161",
+    "location": {
+      "lat": 25.8894668,
+      "lng": -80.1670431
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/436107640",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 436107640,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "North Miami",
+      "addr:housenumber": "1555",
+      "addr:postcode": "33161",
+      "addr:state": "FL",
+      "addr:street": "Northeast 123rd Street",
+      "building": "yes",
+      "height": "7.0",
+      "name": "Tony Pornprinya Law Office",
+      "office": "lawyer",
+      "ref:miabldg": "88635"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4944343521",
+    "name": "Mark Perlman",
+    "address": "33009",
+    "location": {
+      "lat": 25.9857405,
+      "lng": -80.1293403
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4944343521",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4944343521,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:postcode": "33009",
+      "name": "Mark Perlman",
+      "name:en": "Mark Perlman",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5818685818",
+    "name": "Adam Scher Law Group",
+    "address": "1720 Harrison Street, Hollywood, FL, 33020",
+    "location": {
+      "lat": 26.0104918,
+      "lng": -80.1418145
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5818685818",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5818685818,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Hollywood",
+      "addr:housenumber": "1720",
+      "addr:postcode": "33020",
+      "addr:state": "FL",
+      "addr:street": "Harrison Street",
+      "addr:unit": "PH-A",
+      "description": "Hollywood Florida's leading injury attorney.",
+      "name": "Adam Scher Law Group",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13112761896",
+    "name": "Zhou & Hong, P.A.",
+    "address": "Davie, FL, 33314",
+    "location": {
+      "lat": 26.0663315,
+      "lng": -80.2207823
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13112761896",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13112761896,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Davie",
+      "addr:postcode": "33314",
+      "addr:state": "FL",
+      "level": "2",
+      "name": "Zhou & Hong, P.A.",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5900103586",
+    "name": "Driving Licence",
+    "address": "",
+    "location": {
+      "lat": 25.6576741,
+      "lng": -80.430276
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5900103586",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5900103586,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Driving Licence",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  }
+]

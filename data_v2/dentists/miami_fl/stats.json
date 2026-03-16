@@ -1,0 +1,17 @@
+{
+  "vertical": "dentists",
+  "city": "Miami, FL",
+  "total_places": 77,
+  "sources": {
+    "osm": 77,
+    "public_records": 0
+  },
+  "with_website": 34,
+  "with_phone": 37,
+  "with_address": 62,
+  "with_license": 0,
+  "avg_completeness": 41.4,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

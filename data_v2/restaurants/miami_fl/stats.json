@@ -1,0 +1,17 @@
+{
+  "vertical": "restaurants",
+  "city": "Miami, FL",
+  "total_places": 2474,
+  "sources": {
+    "osm": 2474,
+    "public_records": 0
+  },
+  "with_website": 1301,
+  "with_phone": 1218,
+  "with_address": 1733,
+  "with_license": 0,
+  "avg_completeness": 41.9,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

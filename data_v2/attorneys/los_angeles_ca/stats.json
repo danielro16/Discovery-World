@@ -1,0 +1,17 @@
+{
+  "vertical": "attorneys",
+  "city": "Los Angeles, CA",
+  "total_places": 189,
+  "sources": {
+    "osm": 189,
+    "public_records": 0
+  },
+  "with_website": 131,
+  "with_phone": 133,
+  "with_address": 148,
+  "with_license": 0,
+  "avg_completeness": 48.4,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

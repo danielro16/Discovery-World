@@ -2,7 +2,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const ROOT = path.resolve(import.meta.dirname, '../../..');
-const DATA_DIR = path.join(ROOT, 'data');
+// Switch between 'data' (legacy/Google) and 'data_v2' (TOS-compliant)
+const DATA_DIR = path.join(ROOT, process.env.DATA_SOURCE === 'legacy' ? 'data' : 'data_v2');
 const VERTICALS_DIR = path.join(ROOT, 'verticals');
 
 // --- Types ---

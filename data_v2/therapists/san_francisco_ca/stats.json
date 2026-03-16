@@ -1,0 +1,17 @@
+{
+  "vertical": "therapists",
+  "city": "San Francisco, CA",
+  "total_places": 16,
+  "sources": {
+    "osm": 16,
+    "public_records": 0
+  },
+  "with_website": 10,
+  "with_phone": 7,
+  "with_address": 14,
+  "with_license": 0,
+  "avg_completeness": 43.1,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

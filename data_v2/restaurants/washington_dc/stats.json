@@ -1,0 +1,17 @@
+{
+  "vertical": "restaurants",
+  "city": "Washington, DC",
+  "total_places": 5727,
+  "sources": {
+    "osm": 5727,
+    "public_records": 0
+  },
+  "with_website": 3895,
+  "with_phone": 3745,
+  "with_address": 4814,
+  "with_license": 0,
+  "avg_completeness": 48.2,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

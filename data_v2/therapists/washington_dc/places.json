@@ -1,0 +1,1107 @@
+[
+  {
+    "id": "osm_way_615844541",
+    "name": "IAFF Center of Excellence",
+    "address": "13400 Edgemeade Road, Upper Marlboro, MD, 20772",
+    "location": {
+      "lat": 38.7191093,
+      "lng": -76.7746677
+    },
+    "phone": "+1-301-358-0192",
+    "website": "https://www.iaffrecoverycenter.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/615844541",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "rehabilitation",
+      "psychiatry"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 615844541,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Upper Marlboro",
+      "addr:housenumber": "13400",
+      "addr:postcode": "20772",
+      "addr:state": "MD",
+      "addr:street": "Edgemeade Road",
+      "building": "yes",
+      "description": "The IAFF Center of Excellence for Behavioral Health Treatment and Recovery delivers comprehensive addiction treatment services.",
+      "email": "info@advancedrecoverysystems.com",
+      "healthcare": "rehabilitation",
+      "healthcare:speciality": "psychiatry",
+      "height": "3.30407217752",
+      "image": "https://drive.google.com/file/d/1Ld3VNnypKEJu1zKdcSCb8vQWZIdN3OM2/view",
+      "name": "IAFF Center of Excellence",
+      "note": "https://www.instagram.com/therecoveryvillage/\nhttps://www.facebook.com/IAFFRecoveryCenter/\nhttps://www.youtube.com/channel/UCPaugfeJqhEsNGDpW1Tl-2A\nhttps://twitter.com/recoveryvillage",
+      "opening_hours": "24/7",
+      "operator": "Allison Walsh",
+      "phone": "+1-301-358-0192",
+      "roof:shape": "gabled",
+      "start_date": "2017-01-01",
+      "website": "https://www.iaffrecoverycenter.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13152286750",
+    "name": "Think Happy Live Healthy",
+    "address": "256 North Washington Street, Falls Church, VA, 22046",
+    "location": {
+      "lat": 38.8834059,
+      "lng": -77.1691416
+    },
+    "phone": "+1 703-942-9745",
+    "website": "https://www.thinkhappylivehealthy.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13152286750",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist"
+    ],
+    "hours": {
+      "Monday": "06:00-21:00",
+      "Tuesday": "06:00-21:00",
+      "Wednesday": "06:00-21:00",
+      "Thursday": "06:00-21:00",
+      "Friday": "06:00-21:00",
+      "Saturday": "06:00-21:00",
+      "Sunday": "06:00-21:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13152286750,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Falls Church",
+      "addr:housenumber": "256",
+      "addr:postcode": "22046",
+      "addr:state": "VA",
+      "addr:street": "North Washington Street",
+      "addr:unit": "2",
+      "email": "christine@thinkhappylivehealthy.com",
+      "healthcare": "psychotherapist",
+      "name": "Think Happy Live Healthy",
+      "opening_hours": "Mo-Su 06:00-21:00",
+      "payment:american_express": "yes",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:discover_card": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "phone": "+1 703-942-9745",
+      "start_date": "2018-01-01",
+      "website": "https://www.thinkhappylivehealthy.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_516393895",
+    "name": "Northern Virginia Mental Health Institute",
+    "address": "3302 Gallows Road, Falls Church, VA, 22042",
+    "location": {
+      "lat": 38.8578426,
+      "lng": -77.2322642
+    },
+    "phone": "+1 703-207-7100",
+    "website": "http://www.nvmhi.dbhds.virginia.gov/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/516393895",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "hospital",
+      "hospital",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 516393895,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Falls Church",
+      "addr:housenumber": "3302",
+      "addr:postcode": "22042",
+      "addr:state": "VA",
+      "addr:street": "Gallows Road",
+      "amenity": "hospital",
+      "emergency": "no",
+      "gnis:feature_id": "1491896",
+      "healthcare": "hospital",
+      "healthcare:speciality": "psychiatry",
+      "name": "Northern Virginia Mental Health Institute",
+      "phone": "+1 703-207-7100",
+      "website": "http://www.nvmhi.dbhds.virginia.gov/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13205574293",
+    "name": "Choices Adult Outpatient Services",
+    "address": "6565 Arlington Boulevard, Falls Church, VA, 22042",
+    "location": {
+      "lat": 38.8696408,
+      "lng": -77.1705203
+    },
+    "phone": "+1-703-720-5500",
+    "website": "https://www.hcavirginia.com/locations/choices-adult-outpatient-program-falls-church",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13205574293",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "clinic",
+      "clinic",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13205574293,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Falls Church",
+      "addr:housenumber": "6565",
+      "addr:postcode": "22042",
+      "addr:state": "VA",
+      "addr:street": "Arlington Boulevard",
+      "addr:unit": "101",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "psychiatry",
+      "name": "Choices Adult Outpatient Services",
+      "operator": "HCA Virginia",
+      "phone": "+1-703-720-5500",
+      "website": "https://www.hcavirginia.com/locations/choices-adult-outpatient-program-falls-church"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13207834855",
+    "name": "My Psychiatrist",
+    "address": "6565 Arlington Boulevard, Falls Church, VA, 22042",
+    "location": {
+      "lat": 38.8696822,
+      "lng": -77.1702829
+    },
+    "phone": "+1-703-596-4796",
+    "website": "https://mypsych.com/falls-church-location/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13207834855",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "doctors",
+      "doctor",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13207834855,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Falls Church",
+      "addr:housenumber": "6565",
+      "addr:postcode": "22042",
+      "addr:state": "VA",
+      "addr:street": "Arlington Boulevard",
+      "addr:unit": "405",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "psychiatry",
+      "name": "My Psychiatrist",
+      "phone": "+1-703-596-4796",
+      "website": "https://mypsych.com/falls-church-location/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_72596054",
+    "name": "Recovery Unplugged",
+    "address": "6299 Leesburg Pike, Falls Church, VA, 22044",
+    "location": {
+      "lat": 38.8697474,
+      "lng": -77.1545447
+    },
+    "phone": "+1-855-935-1841",
+    "website": "https://www.recoveryunplugged.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/72596054",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist",
+      "mental_health;drug_addiction;depression;ptsd;bipolar;anxiety"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 72596054,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Falls Church",
+      "addr:housenumber": "6299",
+      "addr:postcode": "22044",
+      "addr:state": "VA",
+      "addr:street": "Leesburg Pike",
+      "building": "yes",
+      "healthcare": "psychotherapist",
+      "healthcare:speciality": "mental_health;drug_addiction;depression;ptsd;bipolar;anxiety",
+      "name": "Recovery Unplugged",
+      "old_name": "Long & Foster Realtors",
+      "phone": "+1-855-935-1841",
+      "website": "https://www.recoveryunplugged.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_516241327",
+    "name": "Dominion Hospital",
+    "address": "2960 Sleepy Hollow Road, Falls Church, VA, 22044",
+    "location": {
+      "lat": 38.8702684,
+      "lng": -77.1584034
+    },
+    "phone": "+1 703-538-2872",
+    "website": "https://dominionhospital.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/516241327",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "hospital",
+      "hospital",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 516241327,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Falls Church",
+      "addr:housenumber": "2960",
+      "addr:postcode": "22044",
+      "addr:state": "VA",
+      "addr:street": "Sleepy Hollow Road",
+      "amenity": "hospital",
+      "emergency": "no",
+      "gnis:feature_id": "1491897",
+      "healthcare": "hospital",
+      "healthcare:speciality": "psychiatry",
+      "name": "Dominion Hospital",
+      "operator": "HCA Virginia Health System",
+      "phone": "+1 703-538-2872",
+      "website": "https://dominionhospital.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_807374349",
+    "name": "Capitol Hill Pregnancy Center",
+    "address": "713 Maryland Avenue Northeast, Washington, DC, 20002",
+    "location": {
+      "lat": 38.8950286,
+      "lng": -76.9952947
+    },
+    "phone": "+1 202-546-1018",
+    "website": "https://www.capitolhillpregnancycenter.org/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/807374349",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling",
+      "pregnancy;abortion;maternity"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 807374349,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Washington",
+      "addr:housenumber": "713",
+      "addr:postcode": "20002",
+      "addr:state": "DC",
+      "addr:street": "Maryland Avenue Northeast",
+      "dataset": "address",
+      "dcgis:lot": "0001",
+      "dcgis:square": "0893",
+      "healthcare": "counselling",
+      "healthcare:speciality": "pregnancy;abortion;maternity",
+      "name": "Capitol Hill Pregnancy Center",
+      "phone": "+1 202-546-1018",
+      "source": "dcgis",
+      "website": "https://www.capitolhillpregnancycenter.org/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3889586757",
+    "name": "Jenny Craig",
+    "address": "6825 Redmond Drive, McLean, VA, 22101",
+    "location": {
+      "lat": 38.9337663,
+      "lng": -77.1803003
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3889586757",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling",
+      "weight_loss"
+    ],
+    "hours": {
+      "Monday": "08:00-20:00",
+      "Tuesday": "08:00-20:00",
+      "Thursday": "08:00-20:00",
+      "Wednesday": "08:00-19:00",
+      "Friday": "08:00-13:00",
+      "Saturday": "07:00-14:00",
+      "Sunday": "08:00-13:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 45,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3889586757,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "McLean",
+      "addr:housenumber": "6825",
+      "addr:postcode": "22101",
+      "addr:state": "VA",
+      "addr:street": "Redmond Drive",
+      "brand": "Jenny Craig",
+      "brand:wikidata": "Q6179221",
+      "healthcare": "counselling",
+      "healthcare:counselling": "dietitian",
+      "healthcare:speciality": "weight_loss",
+      "name": "Jenny Craig",
+      "opening_hours": "Mo,Tu,Th 08:00-20:00; We 08:00-19:00; Fr 08:00-13:00; Sa 07:00-14:00; Su 08:00-13:00"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11907967613",
+    "name": "Vienna Counseling",
+    "address": "120 Beulah Road, Vienna, VA, 22180",
+    "location": {
+      "lat": 38.9076568,
+      "lng": -77.2592207
+    },
+    "phone": "",
+    "website": "https://www.viennacounseling.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11907967613",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11907967613,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Vienna",
+      "addr:housenumber": "120",
+      "addr:postcode": "22180",
+      "addr:state": "VA",
+      "addr:street": "Beulah Road",
+      "addr:unit": "201",
+      "healthcare": "counselling",
+      "name": "Vienna Counseling",
+      "website": "https://www.viennacounseling.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_775709485",
+    "name": "Garden City Center",
+    "address": "1322 H Street Northeast",
+    "location": {
+      "lat": 38.9004017,
+      "lng": -76.9873915
+    },
+    "phone": "",
+    "website": "https://gardencitycenter.org/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/775709485",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist",
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 775709485,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "1322",
+      "addr:street": "H Street Northeast",
+      "addr:unit": "B",
+      "healthcare": "psychotherapist",
+      "level": "1",
+      "name": "Garden City Center",
+      "office": "therapist",
+      "website": "https://gardencitycenter.org/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3063730206",
+    "name": "Creative Ways Therapy",
+    "address": "7412 Georgia Avenue Northwest, Washington, 20012",
+    "location": {
+      "lat": 38.9799424,
+      "lng": -77.0267032
+    },
+    "phone": "",
+    "website": "https://www.creativewaystherapy.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3063730206",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3063730206,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Washington",
+      "addr:housenumber": "7412",
+      "addr:postcode": "20012",
+      "addr:street": "Georgia Avenue Northwest",
+      "level": "1",
+      "name": "Creative Ways Therapy",
+      "office": "therapist",
+      "source": "site survey",
+      "website": "https://www.creativewaystherapy.com/",
+      "wheelchair": "no"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7561203391",
+    "name": "Evans, Reichenberg, Nematzadeh, Frerotte",
+    "address": "6400 Seven Corners Place, Falls Church, VA, 22044",
+    "location": {
+      "lat": 38.870577,
+      "lng": -77.1575695
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7561203391",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7561203391,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Falls Church",
+      "addr:housenumber": "6400",
+      "addr:postcode": "22044",
+      "addr:state": "VA",
+      "addr:street": "Seven Corners Place",
+      "addr:unit": "R",
+      "healthcare": "counselling",
+      "name": "Evans, Reichenberg, Nematzadeh, Frerotte"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_358959246",
+    "name": "Psychiatric Institute of Washington",
+    "address": "4228 Wisconsin Avenue Northwest, Washington, DC",
+    "location": {
+      "lat": 38.9439474,
+      "lng": -77.0779054
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/358959246",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "clinic",
+      "clinic",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 358959246,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Washington",
+      "addr:housenumber": "4228",
+      "addr:state": "DC",
+      "addr:street": "Wisconsin Avenue Northwest",
+      "amenity": "clinic",
+      "dataset": "buildings",
+      "dcgis:captureyear": "19990331",
+      "dcgis:gis_id": "125658",
+      "dcgis:lot": "0008",
+      "dcgis:square": "1786",
+      "ele": "113",
+      "gnis:feature_id": "531240",
+      "healthcare": "clinic",
+      "healthcare:speciality": "psychiatry",
+      "name": "Psychiatric Institute of Washington",
+      "source": "dcgis",
+      "wikidata": "Q7256225"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_2999965664",
+    "name": "Wellness Health Services",
+    "address": "4944 1/2 South Dakota Avenue Northeast, 20017",
+    "location": {
+      "lat": 38.9491679,
+      "lng": -76.9929236
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2999965664",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2999965664,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "4944 1/2",
+      "addr:postcode": "20017",
+      "addr:street": "South Dakota Avenue Northeast",
+      "healthcare": "counselling",
+      "name": "Wellness Health Services"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_2999965665",
+    "name": "The Ark",
+    "address": "4944 South Dakota Avenue Northeast, 20017",
+    "location": {
+      "lat": 38.9491563,
+      "lng": -76.9929035
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2999965665",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2999965665,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "4944",
+      "addr:postcode": "20017",
+      "addr:street": "South Dakota Avenue Northeast",
+      "healthcare": "counselling",
+      "name": "The Ark"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3665040983",
+    "name": "Emmaus House Counseling",
+    "address": "Bethesda, MD, 20816",
+    "location": {
+      "lat": 38.9658099,
+      "lng": -77.1056847
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3665040983",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3665040983,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Bethesda",
+      "addr:postcode": "20816",
+      "addr:state": "MD",
+      "name": "Emmaus House Counseling",
+      "office": "therapist"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_66796711",
+    "name": "Planned Parenthood Carol Whitehill Moses Center",
+    "address": "1225 4th Street Northeast",
+    "location": {
+      "lat": 38.9063159,
+      "lng": -77.0002565
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/66796711",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "clinic",
+      "counselling"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 66796711,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:housenumber": "1225",
+      "addr:street": "4th Street Northeast",
+      "amenity": "clinic",
+      "building": "yes",
+      "dataset": "buildings",
+      "dcgis:captureyear": "19990331",
+      "dcgis:lot": "0056",
+      "dcgis:square": "0804",
+      "healthcare": "counselling",
+      "healthcare:counselling": "antenatal;sexual",
+      "name": "Planned Parenthood Carol Whitehill Moses Center",
+      "operator": "Planned Parenthood",
+      "operator:type": "ngo",
+      "operator:wikidata": "Q2553262",
+      "short_name": "Planned Parenthood",
+      "source": "dcgis"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5781706341",
+    "name": "Family Therapy Center of Old Town",
+    "address": "",
+    "location": {
+      "lat": 38.8015293,
+      "lng": -77.0479128
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5781706341",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5781706341,
+    "osm_type": "node",
+    "osm_tags": {
+      "healthcare": "psychotherapist",
+      "name": "Family Therapy Center of Old Town"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_356606056",
+    "name": "Davis Career Center",
+    "address": "",
+    "location": {
+      "lat": 38.9060088,
+      "lng": -77.2141329
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/356606056",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 356606056,
+    "osm_type": "node",
+    "osm_tags": {
+      "ele": "134",
+      "gnis:feature_id": "2459494",
+      "healthcare": "counselling",
+      "name": "Davis Career Center"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12345219899",
+    "name": "Jenny Craig",
+    "address": "",
+    "location": {
+      "lat": 38.978418,
+      "lng": -77.0906588
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12345219899",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling",
+      "weight_loss"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12345219899,
+    "osm_type": "node",
+    "osm_tags": {
+      "brand": "Jenny Craig",
+      "brand:wikidata": "Q6179221",
+      "healthcare": "counselling",
+      "healthcare:counselling": "dietitian",
+      "healthcare:speciality": "weight_loss",
+      "name": "Jenny Craig"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12579731577",
+    "name": "American Institute of Child and Adolescent Psychiatry",
+    "address": "",
+    "location": {
+      "lat": 38.9379847,
+      "lng": -77.0738845
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12579731577",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "doctors",
+      "doctor",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12579731577,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "psychiatry",
+      "name": "American Institute of Child and Adolescent Psychiatry"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12800665885",
+    "name": "Washington Interventional Psychiatry",
+    "address": "",
+    "location": {
+      "lat": 38.9451569,
+      "lng": -77.0965641
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12800665885",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "doctors",
+      "doctor",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12800665885,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "psychiatry",
+      "name": "Washington Interventional Psychiatry"
+    },
+    "sources": [
+      "osm"
+    ]
+  }
+]

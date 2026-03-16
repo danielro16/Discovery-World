@@ -1,0 +1,17 @@
+{
+  "vertical": "gyms",
+  "city": "Houston, TX",
+  "total_places": 231,
+  "sources": {
+    "osm": 231,
+    "public_records": 0
+  },
+  "with_website": 57,
+  "with_phone": 49,
+  "with_address": 133,
+  "with_license": 0,
+  "avg_completeness": 31.9,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

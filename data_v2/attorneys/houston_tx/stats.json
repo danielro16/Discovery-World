@@ -1,0 +1,17 @@
+{
+  "vertical": "attorneys",
+  "city": "Houston, TX",
+  "total_places": 36,
+  "sources": {
+    "osm": 36,
+    "public_records": 0
+  },
+  "with_website": 26,
+  "with_phone": 25,
+  "with_address": 32,
+  "with_license": 0,
+  "avg_completeness": 51.4,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "vertical": "attorneys",
+  "city": "Dallas, TX",
+  "total_places": 76,
+  "sources": {
+    "osm": 76,
+    "public_records": 0
+  },
+  "with_website": 52,
+  "with_phone": 50,
+  "with_address": 60,
+  "with_license": 0,
+  "avg_completeness": 48.8,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

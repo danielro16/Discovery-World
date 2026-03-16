@@ -1,0 +1,1723 @@
+[
+  {
+    "id": "osm_node_12571149273",
+    "name": "Elite Criminal Defense - San Diego Criminal Defense Attorneys",
+    "address": "333 H Street, Chula Vista, CA, 91910",
+    "location": {
+      "lat": 32.6343425,
+      "lng": -117.0784656
+    },
+    "phone": "+1-619-642-2310",
+    "website": "https://elitecriminaldefense.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12571149273",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12571149273,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Chula Vista",
+      "addr:housenumber": "333",
+      "addr:postcode": "91910",
+      "addr:state": "CA",
+      "addr:street": "H Street",
+      "addr:unit": "Suite 5000",
+      "description": "Elite Criminal Defense in San Diego provides legal counsel and representation for individuals facing criminal charges, ranging from misdemeanors to complex felonies.",
+      "name": "Elite Criminal Defense - San Diego Criminal Defense Attorneys",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-619-642-2310",
+      "website": "https://elitecriminaldefense.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10870155308",
+    "name": "Kash Legal Group Chula Vista",
+    "address": "750 Otay Lakes Road, Chula Vista, CA, 91910",
+    "location": {
+      "lat": 32.6450126,
+      "lng": -117.001692
+    },
+    "phone": "+1-619-378-9288",
+    "website": "https://kashlegal.com/chula-vista/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10870155308",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10870155308,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Chula Vista",
+      "addr:housenumber": "750",
+      "addr:postcode": "91910",
+      "addr:state": "CA",
+      "addr:street": "Otay Lakes Road",
+      "contact:email": "contact@kashlegal.com",
+      "description": "At Kash Legal Group of Chula Vista, our team of personal injury lawyers are dedicated to providing compelling, solution-oriented legal advice and representation to injured victims throughout Southern California.",
+      "name": "Kash Legal Group Chula Vista",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:credit_cards": "yes",
+      "payment:invoice": "yes",
+      "phone": "+1-619-378-9288",
+      "website": "https://kashlegal.com/chula-vista/?utm_source=google&utm_medium=organic&utm_campaign=gmb"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5291501992",
+    "name": "San Diego Personal Injury Lawyer | Mova Law Group",
+    "address": "3262 Rosecrans Street, San Diego, 92110",
+    "location": {
+      "lat": 32.7475947,
+      "lng": -117.209253
+    },
+    "phone": "+1-858-333-4999",
+    "website": "https://www.movalegal.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5291501992",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5291501992,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "3262",
+      "addr:postcode": "92110",
+      "addr:street": "Rosecrans Street",
+      "description": "San Diego Personal Injury Lawyer | Mova Law Group, a law firm dedicated in helping clients across San Diego, California, with their personal injury and bodily injury cases.",
+      "email": "Chris@movalegal.com",
+      "fax": "+1 858-333-4055",
+      "name": "San Diego Personal Injury Lawyer | Mova Law Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-858-333-4999",
+      "start_date": "2015-11-1",
+      "website": "https://www.movalegal.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5412021441",
+    "name": "Richard W. Weinthal, Attorney at Law",
+    "address": "121 Broadway, San Diego, CA, 92101",
+    "location": {
+      "lat": 32.7154932,
+      "lng": -117.1633113
+    },
+    "phone": "+1-858-603-3403",
+    "website": "http://www.appellatespecialistsdca.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5412021441",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5412021441,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "121",
+      "addr:postcode": "92101",
+      "addr:state": "CA",
+      "addr:street": "Broadway",
+      "addr:unit": "655",
+      "name": "Richard W. Weinthal, Attorney at Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "phone": "+1-858-603-3403",
+      "website": "http://www.appellatespecialistsdca.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7643381261",
+    "name": "HKM Employment Attorneys LLP",
+    "address": "401 West A Street, San Diego, CA, 92101",
+    "location": {
+      "lat": 32.7183067,
+      "lng": -117.167037
+    },
+    "phone": "+1-619-717-6409",
+    "website": "https://hkm.com/sandiego",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7643381261",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-18:00",
+      "Tuesday": "08:00-18:00",
+      "Wednesday": "08:00-18:00",
+      "Thursday": "08:00-18:00",
+      "Friday": "08:00-18:00",
+      "Saturday": "08:00-16:00",
+      "Sunday": "08:00-16:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7643381261,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "401",
+      "addr:postcode": "92101",
+      "addr:state": "CA",
+      "addr:street": "West A Street",
+      "addr:unit": "200",
+      "level": "2",
+      "name": "HKM Employment Attorneys LLP",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 08:00-16:00",
+      "phone": "+1-619-717-6409",
+      "website": "https://hkm.com/sandiego"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9843309602",
+    "name": "The Law Office of Jane E Engelman",
+    "address": "3111 Camino Del Rio N, #400, San Diego, CA, 92108",
+    "location": {
+      "lat": 32.7747317,
+      "lng": -117.1273493
+    },
+    "phone": "+1-619-296-9799",
+    "website": "https://thelawofficeofjaneeengelman.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9843309602",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:30-16:30",
+      "Tuesday": "09:30-16:30",
+      "Wednesday": "09:30-16:30",
+      "Thursday": "09:30-16:30",
+      "Friday": "09:30-16:30"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9843309602,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:country": "US",
+      "addr:postcode": "92108",
+      "addr:state": "CA",
+      "addr:street": "3111 Camino Del Rio N, #400",
+      "name": "The Law Office of Jane E Engelman",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:30-16:30",
+      "phone": "+1-619-296-9799",
+      "website": "https://thelawofficeofjaneeengelman.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10733194698",
+    "name": "Wilshire Law Firm",
+    "address": "2535 Camino del Rio South, San Diego, CA, 92108",
+    "location": {
+      "lat": 32.7679204,
+      "lng": -117.1358044
+    },
+    "phone": "+1 619-722-3248",
+    "website": "https://wilshirelawfirm.com/locations/san-diego/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10733194698",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10733194698,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "2535",
+      "addr:postcode": "92108",
+      "addr:state": "CA",
+      "addr:street": "Camino del Rio South",
+      "addr:unit": "305",
+      "description": "Wilshire Law Firm is a nationally renowned and rated San Diego Personal Injury, Employment, and Class Action law firm founded in 2007.",
+      "email": "info@wilshirelawfirm.com",
+      "name": "Wilshire Law Firm",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 619-722-3248",
+      "website": "https://wilshirelawfirm.com/locations/san-diego/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10848030897",
+    "name": "San Diego Defense Pros",
+    "address": "3160 Camino del Rio South, San Diego, CA, 92108",
+    "location": {
+      "lat": 32.7733271,
+      "lng": -117.1258126
+    },
+    "phone": "+1 619 215 1575",
+    "website": "https://www.sandiegodefensepros.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10848030897",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-17:00",
+      "Tuesday": "08:30-17:00",
+      "Wednesday": "08:30-17:00",
+      "Thursday": "08:30-17:00",
+      "Friday": "08:30-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10848030897,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "3160",
+      "addr:postcode": "92108",
+      "addr:state": "CA",
+      "addr:street": "Camino del Rio South",
+      "name": "San Diego Defense Pros",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-17:00",
+      "phone": "+1 619 215 1575",
+      "website": "https://www.sandiegodefensepros.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10866837853",
+    "name": "Jassim Law",
+    "address": "16885 Via Del Campo Ct, Suite 324, San Diego, CA, 92127",
+    "location": {
+      "lat": 32.7164426,
+      "lng": -117.1671334
+    },
+    "phone": "+1-619-630-2680",
+    "website": "https://jassimlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10866837853",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10866837853,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "16885",
+      "addr:postcode": "92127",
+      "addr:state": "CA",
+      "addr:street": "Via Del Campo Ct, Suite 324",
+      "contact:email": "Info@jassimlaw.com",
+      "name": "Jassim Law",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:credit_cards": "yes",
+      "payment:invoice": "yes",
+      "phone": "+1-619-630-2680",
+      "website": "https://jassimlaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11332277863",
+    "name": "Bernal Law Felony & Criminal Defense Lawyer",
+    "address": "750 B St, San Diego, CA, 92101",
+    "location": {
+      "lat": 32.718076,
+      "lng": -117.1579629
+    },
+    "phone": "+1 619-736-9092",
+    "website": "https://bernal-law.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11332277863",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11332277863,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:postcode": "92101",
+      "addr:state": "CA",
+      "addr:street": "750 B St",
+      "addr:unit": "1710",
+      "description": "Bernal Law, APLC is headed by experienced San Diego criminal defense attorney Pedro Bernal, Esq..",
+      "email": "contact@bernal-law.com",
+      "name": "Bernal Law Felony & Criminal Defense Lawyer",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 619-736-9092",
+      "website": "https://bernal-law.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11416331743",
+    "name": "Leading Tax Group",
+    "address": "7676 Hazard Center Drive, San Diego, CA, 92108",
+    "location": {
+      "lat": 32.771202,
+      "lng": -117.1569422
+    },
+    "phone": "+1-619-760-2962",
+    "website": "https://www.leadingtaxgroup.com/san-diego-mission-valley/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11416331743",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11416331743,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "7676",
+      "addr:postcode": "92108",
+      "addr:state": "CA",
+      "addr:street": "Hazard Center Drive",
+      "addr:unit": "500",
+      "name": "Leading Tax Group",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-619-760-2962",
+      "website": "https://www.leadingtaxgroup.com/san-diego-mission-valley/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13301362867",
+    "name": "Point Loma Estate Planning Law, APC",
+    "address": "2305 Historic Decatur Road, San Diego, CA, 92106",
+    "location": {
+      "lat": 32.7343122,
+      "lng": -117.2164318
+    },
+    "phone": "+1-619-550-7437",
+    "website": "https://www.pleplaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13301362867",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13301362867,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "2305",
+      "addr:postcode": "92106",
+      "addr:state": "CA",
+      "addr:street": "Historic Decatur Road",
+      "addr:unit": "100",
+      "email": "info@pleplaw.com",
+      "facebook": "https://www.facebook.com/pointlomaestateplanning",
+      "name": "Point Loma Estate Planning Law, APC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-619-550-7437",
+      "website": "https://www.pleplaw.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13645243610",
+    "name": "Law Office of Gregory P. Olson",
+    "address": "501 West Broadway, San Diego, CA, 92101-8470",
+    "location": {
+      "lat": 32.7150821,
+      "lng": -117.167837
+    },
+    "phone": "+1-619-564-3650",
+    "website": "https://www.olsonesq.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13645243610",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13645243610,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "501",
+      "addr:postcode": "92101-8470",
+      "addr:state": "CA",
+      "addr:street": "West Broadway",
+      "addr:unit": "# 1370",
+      "contact:facebook": "RealEstateAttorneySanDiego",
+      "contact:instagram": "realestateattorneysandiego",
+      "contact:linkedin": "law-office-of-gregory-p-olson",
+      "contact:youtube": "RealEstateAttorneySD",
+      "name": "Law Office of Gregory P. Olson",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-619-564-3650",
+      "website": "https://www.olsonesq.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9831871269",
+    "name": "Law Offices of Richard G. Freed, Esq.",
+    "address": "8220 University Ave, #201, La Mesa, CA, 91942",
+    "location": {
+      "lat": 32.7731355,
+      "lng": -117.003319
+    },
+    "phone": "+1-619-667-9000",
+    "website": "https://freedfamilylawattorney.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9831871269",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9831871269,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "La Mesa",
+      "addr:country": "US",
+      "addr:housenumber": "8220",
+      "addr:postcode": "91942",
+      "addr:state": "CA",
+      "addr:street": "University Ave, #201",
+      "name": "Law Offices of Richard G. Freed, Esq.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "phone": "+1-619-667-9000",
+      "website": "https://freedfamilylawattorney.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_597070647",
+    "name": "Silver Law PLC",
+    "address": "1373 Grand Avenue, San Diego, CA, 92109",
+    "location": {
+      "lat": 32.79661,
+      "lng": -117.244126
+    },
+    "phone": "+1-619-505-3788",
+    "website": "https://www.taxcontroversy.com/san-diego-tax-attorneys/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/597070647",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "off",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 597070647,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "1373",
+      "addr:postcode": "92109",
+      "addr:state": "CA",
+      "addr:street": "Grand Avenue",
+      "description": "The San Diego-based tax law firm of Silver Law PLC is dedicated to providing excellent legal representation to individuals and businesses who are facing tax problems.",
+      "email": "lchapman@silverlawplc.com",
+      "image": "https://www.taxcontroversy.com/wp-content/uploads/2021/06/silver-law-logo.png.webp",
+      "name": "Silver Law PLC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00; Sa,Su off",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "phone": "+1-619-505-3788",
+      "website": "https://www.taxcontroversy.com/san-diego-tax-attorneys/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9208435900",
+    "name": "Stonebrook Law",
+    "address": "8910 University Center Lane, San Diego, CA, 92122",
+    "location": {
+      "lat": 32.870907,
+      "lng": -117.2268313
+    },
+    "phone": "+1-858-324-6699",
+    "website": "https://www.laborlawfirm.com/l/san-diego",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9208435900",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9208435900,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "8910",
+      "addr:postcode": "92122",
+      "addr:state": "CA",
+      "addr:street": "University Center Lane",
+      "addr:unit": "#400",
+      "name": "Stonebrook Law",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-858-324-6699",
+      "website": "https://www.laborlawfirm.com/l/san-diego"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9933572516",
+    "name": "The California Lemon Law Experts",
+    "address": "4411 Mercury Street, San Diego, CA, 92111",
+    "location": {
+      "lat": 32.8204813,
+      "lng": -117.148265
+    },
+    "phone": "+1 858-290-4722",
+    "website": "https://lemonlawexperts.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9933572516",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-19:00,  Sa 10:00-16:00",
+      "Tuesday": "08:00-19:00,  Sa 10:00-16:00",
+      "Wednesday": "08:00-19:00,  Sa 10:00-16:00",
+      "Thursday": "08:00-19:00,  Sa 10:00-16:00",
+      "Friday": "08:00-19:00,  Sa 10:00-16:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9933572516,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:country": "US",
+      "addr:housenumber": "4411",
+      "addr:postcode": "92111",
+      "addr:state": "CA",
+      "addr:street": "Mercury Street",
+      "addr:unit": "212",
+      "contact:email": "lemonlawexpertssandiego@lawyermarketingexperts.com",
+      "contact:facebook": "https://www.facebook.com/lemonlawexpert",
+      "contact:linkedin": "https://www.linkedin.com/company/consumerlawexperts/",
+      "description": "At The Lemon Law Experts, our lawyers have helped thousands of California Consumers recover millions in refunds and cash compensation for their defective vehicles.",
+      "email": "info@nolemon.com",
+      "fax": "+1-877-566-8828",
+      "name": "The California Lemon Law Experts",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-19:00, Sa 10:00-16:00",
+      "phone": "+1 858-290-4722",
+      "website": "https://lemonlawexperts.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13360868183",
+    "name": "The Law Office of Norell S. Manning",
+    "address": "9655 Granite Ridge Drive, San Diego, CA, 92123",
+    "location": {
+      "lat": 32.805851,
+      "lng": -117.1195501
+    },
+    "phone": "+1-858-230-8034",
+    "website": "https://norelllaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13360868183",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "09:00-18:00",
+      "Friday": "09:00-18:00",
+      "Saturday": "09:00-14:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13360868183,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "9655",
+      "addr:postcode": "92123",
+      "addr:state": "CA",
+      "addr:street": "Granite Ridge Drive",
+      "addr:unit": "200",
+      "email": "info@norelllaw.com",
+      "name": "The Law Office of Norell S. Manning",
+      "office": "lawyer",
+      "opening_hours": "Mo-We 09:00-18:00; Fr 09:00-18:00; Sa 09:00-14:00",
+      "phone": "+1-858-230-8034",
+      "website": "https://norelllaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10977488996",
+    "name": "San Diego Personal Injury Lawyer Mova Law Group",
+    "address": "1283 East Main Street, El Cajon, CA, 92021",
+    "location": {
+      "lat": 32.7945699,
+      "lng": -116.9370465
+    },
+    "phone": "+1-858-333-4999; +1-619-349-1589",
+    "website": "https://www.movalegal.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10977488996",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10977488996,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "El Cajon",
+      "addr:housenumber": "1283",
+      "addr:postcode": "92021",
+      "addr:state": "CA",
+      "addr:street": "East Main Street",
+      "addr:unit": "211",
+      "contact:email": "chris@movalegal.com",
+      "contact:fax": "+1-858-333-4055",
+      "contact:phone": "+1-858-333-4999; +1-619-349-1589",
+      "email": "chris@movalegal.com",
+      "language:en": "yes",
+      "language:es": "yes",
+      "name": "San Diego Personal Injury Lawyer Mova Law Group",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "start_date": "2019",
+      "website": "https://www.movalegal.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10848030899",
+    "name": "Superior Law Center",
+    "address": "3160 Camino del Rio South, San Diego, CA, 92108",
+    "location": {
+      "lat": 32.7710099,
+      "lng": -117.1320666
+    },
+    "phone": "+1 619 743 9130",
+    "website": "https://superiorlawcenter.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10848030899",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10848030899,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "3160",
+      "addr:postcode": "92108",
+      "addr:state": "CA",
+      "addr:street": "Camino del Rio South",
+      "addr:unit": "300",
+      "name": "Superior Law Center",
+      "office": "lawyer",
+      "phone": "+1 619 743 9130",
+      "website": "https://superiorlawcenter.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10848030900",
+    "name": "Feldman Feldman & Associates PC",
+    "address": "2221 Camino del Rio South, San Diego, CA, 92108",
+    "location": {
+      "lat": 32.7667817,
+      "lng": -117.1412881
+    },
+    "phone": "+1 619 373 9350",
+    "website": "https://immigrateme.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10848030900",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10848030900,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "2221",
+      "addr:postcode": "92108",
+      "addr:state": "CA",
+      "addr:street": "Camino del Rio South",
+      "addr:unit": "201",
+      "email": "help@immigrateme.com",
+      "name": "Feldman Feldman & Associates PC",
+      "office": "lawyer",
+      "phone": "+1 619 373 9350",
+      "website": "https://immigrateme.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12773126859",
+    "name": "Silver Law LLP",
+    "address": "7676 Hazard Center Drive, San Diego, CA, 92108",
+    "location": {
+      "lat": 32.7714075,
+      "lng": -117.1569902
+    },
+    "phone": "+1-619-387-3790",
+    "website": "https://www.taxcontroversy.com/san-diego-tax-attorneys/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12773126859",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12773126859,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "7676",
+      "addr:postcode": "92108",
+      "addr:state": "CA",
+      "addr:street": "Hazard Center Drive",
+      "addr:unit": "Suite 1525",
+      "description": "The San Diego-based tax law firm of Silver Law LLP is dedicated to providing excellent legal representation to individuals and businesses who are facing tax problems.",
+      "email": "lchapman@silverlawplc.com",
+      "facebook": "https://www.facebook.com/SilverLawCA/",
+      "image": "https://www.taxcontroversy.com/wp-content/uploads/2023/11/logo-silver-law-plc.png",
+      "name": "Silver Law LLP",
+      "office": "lawyer",
+      "opening_hours": "Monday - Friday: 9:00AM to 5:00PM Saturday - Sunday: Closed",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "phone": "+1-619-387-3790",
+      "twitter": "https://twitter.com/silverlawaz",
+      "website": "https://www.taxcontroversy.com/san-diego-tax-attorneys/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_596927661",
+    "name": "Kingston and Kingston",
+    "address": "",
+    "location": {
+      "lat": 32.62599,
+      "lng": -117.031685
+    },
+    "phone": "+1-619-421-1133",
+    "website": "https://www.kingstonandkingston.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/596927661",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 596927661,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Kingston and Kingston",
+      "office": "lawyer",
+      "phone": "+1-619-421-1133",
+      "source": "SanGIS Addresses Public Domain (http://www.sangis.org/)",
+      "website": "https://www.kingstonandkingston.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3804220857",
+    "name": "Kindley | Hamparyan attorneys at law",
+    "address": "275 West Market Street",
+    "location": {
+      "lat": 32.711309,
+      "lng": -117.16546
+    },
+    "phone": "",
+    "website": "https://www.kindleylawyers.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3804220857",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3804220857,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "275",
+      "addr:street": "West Market Street",
+      "name": "Kindley | Hamparyan attorneys at law",
+      "office": "lawyer",
+      "website": "https://www.kindleylawyers.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9716294387",
+    "name": "Disability Help Center",
+    "address": "1833 4th Avenue, San Diego, CA, 92101",
+    "location": {
+      "lat": 32.7245663,
+      "lng": -117.1609494
+    },
+    "phone": "+1-619-282-1761",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9716294387",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9716294387,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "1833",
+      "addr:postcode": "92101",
+      "addr:state": "CA",
+      "addr:street": "4th Avenue",
+      "name": "Disability Help Center",
+      "office": "lawyer",
+      "phone": "+1-619-282-1761"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9716294388",
+    "name": "Jorgensen Law",
+    "address": "1831 4th Avenue, San Diego, CA, 92101",
+    "location": {
+      "lat": 32.7245283,
+      "lng": -117.160857
+    },
+    "phone": "+1-888-855-2948",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9716294388",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9716294388,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "1831",
+      "addr:postcode": "92101",
+      "addr:state": "CA",
+      "addr:street": "4th Avenue",
+      "name": "Jorgensen Law",
+      "office": "lawyer",
+      "phone": "+1-888-855-2948"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_875999317",
+    "name": "Law Office of Bryan R. Snyder, APC",
+    "address": "1916 Third Avenue, San Diego, CA, 92101",
+    "location": {
+      "lat": 32.7253265,
+      "lng": -117.1623255
+    },
+    "phone": "+1-619-398-8379",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/875999317",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 875999317,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:housenumber": "1916",
+      "addr:postcode": "92101",
+      "addr:state": "CA",
+      "addr:street": "Third Avenue",
+      "building": "yes",
+      "name": "Law Office of Bryan R. Snyder, APC",
+      "office": "lawyer",
+      "phone": "+1-619-398-8379",
+      "source": "microsoft/BuildingFootprints"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_1045086121",
+    "name": "Canacintra",
+    "address": "12310 Boulevard Agua Caliente, Tijuana, 22480",
+    "location": {
+      "lat": 32.5093258,
+      "lng": -116.9901071
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/1045086121",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1045086121,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Tijuana",
+      "addr:housenumber": "12310",
+      "addr:postcode": "22480",
+      "addr:street": "Boulevard Agua Caliente",
+      "building": "commercial",
+      "building:levels": "2",
+      "fid": "15092",
+      "height": "7.0",
+      "name": "Canacintra",
+      "office": "lawyer",
+      "source": "Ayuntamiento de Tijuana"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10822803493",
+    "name": "Nancy A. Spector, Attorney at Law; Adam L. Sherry, Attorney at Law",
+    "address": "San Diego, CA",
+    "location": {
+      "lat": 32.77301,
+      "lng": -117.1591553
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10822803493",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10822803493,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Diego",
+      "addr:country": "US",
+      "addr:state": "CA",
+      "addr:unit": "215",
+      "level": "1",
+      "name": "Nancy A. Spector, Attorney at Law; Adam L. Sherry, Attorney at Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11804163932",
+    "name": "Pasternack Injury Law Group",
+    "address": "",
+    "location": {
+      "lat": 32.7183516,
+      "lng": -117.1677792
+    },
+    "phone": "+1-619-230-1007",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11804163932",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11804163932,
+    "osm_type": "node",
+    "osm_tags": {
+      "address": "1230 Columbia St Ste 540 San Diego California",
+      "description": "San Diego Personal Injury Lawyer — Law Offices of Barry Pasternack",
+      "name": "Pasternack Injury Law Group",
+      "office": "lawyer",
+      "phone": "+1-619-230-1007"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13100382373",
+    "name": "Olympus Law Corporation",
+    "address": "",
+    "location": {
+      "lat": 32.7161265,
+      "lng": -117.1422349
+    },
+    "phone": "",
+    "website": "https://olympuslawcorp.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13100382373",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13100382373,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Olympus Law Corporation",
+      "office": "lawyer",
+      "website": "https://olympuslawcorp.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6582970433",
+    "name": "Bankruptcy Law Real Estate Law",
+    "address": "",
+    "location": {
+      "lat": 32.7458333,
+      "lng": -117.2470284
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6582970433",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6582970433,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Bankruptcy Law Real Estate Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_2440703152",
+    "name": "Logan Fairfax Law",
+    "address": "",
+    "location": {
+      "lat": 32.7141993,
+      "lng": -117.159954
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2440703152",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2440703152,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Logan Fairfax Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_1479390336",
+    "name": "Miller Business and  Legal Center",
+    "address": "",
+    "location": {
+      "lat": 32.7492637,
+      "lng": -117.1934509
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/1479390336",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1479390336,
+    "osm_type": "way",
+    "osm_tags": {
+      "building": "yes",
+      "name": "Miller Business and  Legal Center",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  }
+]

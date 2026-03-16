@@ -1,0 +1,1624 @@
+[
+  {
+    "id": "osm_node_7398208725",
+    "name": "Law Office of Ben Carrasco, PLLC",
+    "address": "108 Wild Basin Road South, Austin, TX, 78746",
+    "location": {
+      "lat": 30.3068274,
+      "lng": -97.8267724
+    },
+    "phone": "+1-512-320-9126",
+    "website": "https://www.bencarrascolaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7398208725",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7398208725,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "108",
+      "addr:postcode": "78746",
+      "addr:state": "TX",
+      "addr:street": "Wild Basin Road South",
+      "addr:unit": "250",
+      "name": "Law Office of Ben Carrasco, PLLC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-512-320-9126",
+      "website": "https://www.bencarrascolaw.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_8953052395",
+    "name": "FVF Law",
+    "address": "3101 Bee Caves Road, Austin, TX, 78746",
+    "location": {
+      "lat": 30.2711954,
+      "lng": -97.7975323
+    },
+    "phone": "+1 512-982-9328",
+    "website": "https://www.fvflawfirm.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8953052395",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8953052395,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "3101",
+      "addr:postcode": "78746",
+      "addr:state": "TX",
+      "addr:street": "Bee Caves Road",
+      "addr:unit": "301",
+      "email": "contact@fvlawfirm.com",
+      "name": "FVF Law",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 512-982-9328",
+      "website": "https://www.fvflawfirm.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10232584846",
+    "name": "Burk Law Firm, P.C.",
+    "address": "248 Addie Roy Road, Austin, TX, 78746",
+    "location": {
+      "lat": 30.3102552,
+      "lng": -97.8443926
+    },
+    "phone": "+1 512-306-9828",
+    "website": "https://burklaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10232584846",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10232584846,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "248",
+      "addr:postcode": "78746",
+      "addr:state": "TX",
+      "addr:street": "Addie Roy Road",
+      "name": "Burk Law Firm, P.C.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "payment:american_express": "yes",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:discover_card": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "phone": "+1 512-306-9828",
+      "website": "https://burklaw.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10803783720",
+    "name": "Berkeley Law & Technology Group",
+    "address": "7710 Rialto Boulevard, Austin, TX, 78735",
+    "location": {
+      "lat": 30.2544327,
+      "lng": -97.8763045
+    },
+    "phone": "+1-512-920-1899",
+    "website": "https://bltg-ip.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10803783720",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-17:30",
+      "Tuesday": "08:30-17:30",
+      "Wednesday": "08:30-17:30",
+      "Thursday": "08:30-17:30",
+      "Friday": "08:30-17:30"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10803783720,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "7710",
+      "addr:postcode": "78735",
+      "addr:state": "TX",
+      "addr:street": "Rialto Boulevard",
+      "addr:unit": "100",
+      "description": "BLTG is an intellectual property firm specializing in patent search, application drafting, and prosecution services in Austin and Beaverton.",
+      "name": "Berkeley Law & Technology Group",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-17:30",
+      "phone": "+1-512-920-1899",
+      "website": "https://bltg-ip.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12500925141",
+    "name": "Sutliff & Stout Injury & Accident Law Firm - Austin",
+    "address": "9433 Bee Caves Road, Austin, TX, 78733",
+    "location": {
+      "lat": 30.3158044,
+      "lng": -97.8734474
+    },
+    "phone": "+1 512-842-6646",
+    "website": "https://www.sutliffstout.com/austin-personal-injury-lawyer/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12500925141",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12500925141,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "9433",
+      "addr:postcode": "78733",
+      "addr:state": "TX",
+      "addr:street": "Bee Caves Road",
+      "addr:unit": "Building III Suite 200",
+      "description": "Sutliff & Stout Injury & Accident Law Firm - Austin is your legal advocate in Austin, focusing on personal injury and car accident cases.",
+      "name": "Sutliff & Stout Injury & Accident Law Firm - Austin",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 512-842-6646",
+      "start_date": "2008-04-01",
+      "website": "https://www.sutliffstout.com/austin-personal-injury-lawyer/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12778850188",
+    "name": "The Cagle Law Firm",
+    "address": "9433 Bee Cave Rd., Austin, TX, 78733",
+    "location": {
+      "lat": 30.3157781,
+      "lng": -97.8734091
+    },
+    "phone": "+1 512-371-6101",
+    "website": "https://www.caglefirm.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12778850188",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12778850188,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "9433",
+      "addr:postcode": "78733",
+      "addr:state": "TX",
+      "addr:street": "Bee Cave Rd.",
+      "addr:unit": "1-140",
+      "email": "info@caglefirm.com",
+      "fax": "+1 512-537-0002",
+      "name": "The Cagle Law Firm",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 512-371-6101",
+      "website": "https://www.caglefirm.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_2523601549",
+    "name": "Robert W. Berry, Attorney at Law",
+    "address": "3301 Northland Drive, Austin, 78731",
+    "location": {
+      "lat": 30.3359169,
+      "lng": -97.7570514
+    },
+    "phone": "+1-512-472-6266",
+    "website": "www.robertberrylaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2523601549",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2523601549,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "3301",
+      "addr:postcode": "78731",
+      "addr:street": "Northland Drive",
+      "name": "Robert W. Berry, Attorney at Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1-512-472-6266",
+      "website": "www.robertberrylaw.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5081384112",
+    "name": "The James R. Fletcher Law Firm",
+    "address": "7703 North Lamar Boulevard, Austin, TX, 78752",
+    "location": {
+      "lat": 30.3444708,
+      "lng": -97.7127786
+    },
+    "phone": "+1-512-598-4858",
+    "website": "https://jamesfletcherlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5081384112",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "12:00-23:45",
+      "Tuesday": "12:00-23:45",
+      "Wednesday": "12:00-23:45",
+      "Thursday": "12:00-23:45",
+      "Friday": "12:00-23:45",
+      "Saturday": "12:00-23:45",
+      "Sunday": "12:00-23:45"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5081384112,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "7703",
+      "addr:postcode": "78752",
+      "addr:state": "TX",
+      "addr:street": "North Lamar Boulevard",
+      "addr:unit": "410",
+      "name": "The James R. Fletcher Law Firm",
+      "office": "lawyer",
+      "opening_hours": "Mo-Su 12:00-23:45",
+      "phone": "+1-512-598-4858",
+      "website": "https://jamesfletcherlaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5152568945",
+    "name": "John McDuff, Attorney at Law",
+    "address": "111 Congress Avenue, Austin, TX, 78701",
+    "location": {
+      "lat": 30.2635919,
+      "lng": -97.7435276
+    },
+    "phone": "+1-512-457-1177",
+    "website": "https://www.johnmcduff.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5152568945",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5152568945,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "111",
+      "addr:postcode": "78701",
+      "addr:state": "TX",
+      "addr:street": "Congress Avenue",
+      "addr:unit": "400",
+      "name": "John McDuff, Attorney at Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-512-457-1177",
+      "website": "https://www.johnmcduff.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_8301802429",
+    "name": "DJC Law",
+    "address": "1012 West Anderson Lane, Austin, TX, 78757",
+    "location": {
+      "lat": 30.3491816,
+      "lng": -97.7155247
+    },
+    "phone": "+1 737 2605279",
+    "website": "https://teamjustice.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8301802429",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8301802429,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "1012",
+      "addr:postcode": "78757",
+      "addr:state": "TX",
+      "addr:street": "West Anderson Lane",
+      "contact:facebook": "getyourjustice",
+      "contact:instagram": "getyourjustice",
+      "contact:linkedin": "getyourjustice",
+      "contact:tiktok": "getyourjustice",
+      "contact:twitter": "GetYourJustice",
+      "contact:youtube": "GetYourJustice",
+      "email": "info@teamjustice.com",
+      "name": "DJC Law",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 737 2605279",
+      "start_date": "2010-01",
+      "website": "https://teamjustice.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9380916033",
+    "name": "McMinn Law Firm",
+    "address": "502 West 14th Street, Austin, TX, 78701",
+    "location": {
+      "lat": 30.2776206,
+      "lng": -97.7448058
+    },
+    "phone": "+1-512-474-0222",
+    "website": "https://www.mcminnlaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9380916033",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "09:00-18:00",
+      "Thursday": "09:00-18:00",
+      "Friday": "09:00-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9380916033,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:country": "US",
+      "addr:housenumber": "502",
+      "addr:postcode": "78701",
+      "addr:state": "TX",
+      "addr:street": "West 14th Street",
+      "name": "McMinn Law Firm",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-18:00",
+      "operator": "Jason McMinn",
+      "phone": "+1-512-474-0222",
+      "website": "https://www.mcminnlaw.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9549472570",
+    "name": "The Law Office of Kevin Bennett",
+    "address": "1411 West Avenue, Austin, TX, 78701",
+    "location": {
+      "lat": 30.278762,
+      "lng": -97.747128
+    },
+    "phone": "+1-512-476-4626",
+    "website": "https://www.kevinbennettlaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9549472570",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9549472570,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "1411",
+      "addr:postcode": "78701",
+      "addr:state": "TX",
+      "addr:street": "West Avenue",
+      "addr:unit": "100",
+      "contact:facebook": "https://www.facebook.com/TheLawOfficeOfKevinBennett",
+      "contact:linkedin": "https://www.linkedin.com/in/kevin-bennett-b3a6478",
+      "contact:phone": "+1-512-476-4626",
+      "contact:twitter": "@kevinbennettlaw",
+      "contact:website": "https://www.kevinbennettlaw.com",
+      "contact:youtube": "https://www.youtube.com/channel/UCcGBLASGgOaH8afYSn2UoVA",
+      "name": "The Law Office of Kevin Bennett",
+      "note": "missing translation payments=Traveler's Check",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "payment:american_express": "yes",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:discover_card": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "start_date": "2007"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10578615951",
+    "name": "Steven C. Lee & Associates",
+    "address": "603 West 17th Street, Austin, TX, 78701",
+    "location": {
+      "lat": 30.2802614,
+      "lng": -97.7449359
+    },
+    "phone": "+1-512-236-1300",
+    "website": "https://www.legallee.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10578615951",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "09:00-18:00",
+      "Thursday": "09:00-18:00",
+      "Friday": "09:00-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10578615951,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "603",
+      "addr:postcode": "78701",
+      "addr:state": "TX",
+      "addr:street": "West 17th Street",
+      "name": "Steven C. Lee & Associates",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-18:00",
+      "phone": "+1-512-236-1300",
+      "website": "https://www.legallee.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10704240149",
+    "name": "Robbins Estate Law",
+    "address": "3800 North Lamar Boulevard, Austin, TX, 78756",
+    "location": {
+      "lat": 30.3056532,
+      "lng": -97.7430892
+    },
+    "phone": "+1-512-851-1248",
+    "website": "https://www.robbinsestatelaw.com/austin-office-location/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10704240149",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10704240149,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "3800",
+      "addr:postcode": "78756",
+      "addr:state": "TX",
+      "addr:street": "North Lamar Boulevard",
+      "addr:unit": "200",
+      "contact:facebook": "https://www.facebook.com/kylerobbinslaw/",
+      "description": "Probate & Estate Planning isn’t about money, it’s about families. We provide families with predictable, quality advice to achieve their goals.",
+      "lawyer:speciality:family": "yes",
+      "name": "Robbins Estate Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1-512-851-1248",
+      "website": "https://www.robbinsestatelaw.com/austin-office-location/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11013540393",
+    "name": "Michel, Gray & Rogers L.L.P",
+    "address": "824 West 10th Street, Austin, TX, 78701",
+    "location": {
+      "lat": 30.2748747,
+      "lng": -97.7511035
+    },
+    "phone": "+1-512-477-0200",
+    "website": "https://www.michelgray.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11013540393",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "09:00-18:00",
+      "Thursday": "09:00-18:00",
+      "Friday": "09:00-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11013540393,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "824",
+      "addr:postcode": "78701",
+      "addr:state": "TX",
+      "addr:street": "West 10th Street",
+      "contact:phone": "+1-512-477-0200",
+      "name": "Michel, Gray & Rogers L.L.P",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-18:00",
+      "website": "https://www.michelgray.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11886925289",
+    "name": "Wiley Associates of Austin",
+    "address": "1011 San Jacinto Boulevard, Austin, 78701",
+    "location": {
+      "lat": 30.2717646,
+      "lng": -97.7385619
+    },
+    "phone": "+1 512-271-5527",
+    "website": "https://www.wileylawyers.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11886925289",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "off",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11886925289,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "1011",
+      "addr:postcode": "78701",
+      "addr:street": "San Jacinto Boulevard",
+      "addr:unit": "401",
+      "check_date:opening_hours": "2024-05-07",
+      "description": "Employment law firm representing employees in disputes with their current or former employers.",
+      "name": "Wiley Associates of Austin",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00; Sa off; Su off; PH off",
+      "phone": "+1 512-271-5527",
+      "website": "https://www.wileylawyers.com/",
+      "wheelchair": "yes"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12828938836",
+    "name": "Keates Law Firm",
+    "address": "901 South Mopac Expressway, Austin, TX, 78746",
+    "location": {
+      "lat": 30.2644531,
+      "lng": -97.781965
+    },
+    "phone": "+1 512 761 5297",
+    "website": "https://keateslawfirm.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12828938836",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12828938836,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "901",
+      "addr:postcode": "78746",
+      "addr:state": "TX",
+      "addr:street": "South Mopac Expressway",
+      "addr:unit": "300",
+      "email": "robert@keateslaw.com",
+      "name": "Keates Law Firm",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1 512 761 5297",
+      "website": "https://keateslawfirm.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13508953900",
+    "name": "Austin Probate Attorneys | Kreig LLC",
+    "address": "1005 Congress Avenue, Austin, TX, 78701",
+    "location": {
+      "lat": 30.3410306,
+      "lng": -97.7045143
+    },
+    "phone": "+1-512-273-7444",
+    "website": "https://austin-probate.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13508953900",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13508953900,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "1005",
+      "addr:postcode": "78701",
+      "addr:state": "TX",
+      "addr:street": "Congress Avenue",
+      "addr:unit": "Ste 925",
+      "name": "Austin Probate Attorneys | Kreig LLC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-512-273-7444",
+      "website": "https://austin-probate.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5152341799",
+    "name": "Allison & Ward Attorneys at Law",
+    "address": "7718 Wood Hollow Drive, Austin, TX, 78731",
+    "location": {
+      "lat": 30.3614577,
+      "lng": -97.7478941
+    },
+    "phone": "+1-512-474-8155",
+    "website": "https://www.austininjurylawyers.pro/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5152341799",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5152341799,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "7718",
+      "addr:postcode": "78731",
+      "addr:state": "TX",
+      "addr:street": "Wood Hollow Drive",
+      "addr:unit": "220",
+      "fax": "+1-512-474-9703",
+      "name": "Allison & Ward Attorneys at Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1-512-474-8155",
+      "website": "https://www.austininjurylawyers.pro/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6604057519",
+    "name": "Hiller Law - Austin",
+    "address": "3200 Steck Ave",
+    "location": {
+      "lat": 30.3661183,
+      "lng": -97.7373239
+    },
+    "phone": "+1-512-360-9100",
+    "website": "https://hillerlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6604057519",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6604057519,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "3200",
+      "addr:street": "Steck Ave",
+      "fax": "+1-512-360-9400",
+      "name": "Hiller Law - Austin",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-512-360-9100",
+      "website": "https://hillerlaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11363378656",
+    "name": "Byrd Davis Alden & Henrichson, LLP",
+    "address": "8911 North Capital of Texas Highway, Austin, TX, 78759",
+    "location": {
+      "lat": 30.3872222,
+      "lng": -97.7595559
+    },
+    "phone": "+1-512-454-3751",
+    "website": "https://byrddavis.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11363378656",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-17:30,  Fr 08:30-17:00",
+      "Tuesday": "08:30-17:30,  Fr 08:30-17:00",
+      "Wednesday": "08:30-17:30,  Fr 08:30-17:00",
+      "Thursday": "08:30-17:30,  Fr 08:30-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11363378656,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "8911",
+      "addr:postcode": "78759",
+      "addr:state": "TX",
+      "addr:street": "North Capital of Texas Highway",
+      "addr:unit": "3150",
+      "email": "contact@byrddavis.com",
+      "name": "Byrd Davis Alden & Henrichson, LLP",
+      "office": "lawyer",
+      "opening_hours": "Mo-Th 08:30-17:30, Fr 08:30-17:00",
+      "phone": "+1-512-454-3751",
+      "website": "https://byrddavis.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11741670489",
+    "name": "Kneupper & Covey PC",
+    "address": "8911 North Capital of Texas Highway, Austin, TX, 78759",
+    "location": {
+      "lat": 30.3873562,
+      "lng": -97.7594637
+    },
+    "phone": "+1 657-845-3100",
+    "website": "https://kneuppercovey.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11741670489",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-18:00",
+      "Tuesday": "08:30-18:00",
+      "Wednesday": "08:30-18:00",
+      "Thursday": "08:30-18:00",
+      "Friday": "08:30-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11741670489,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "8911",
+      "addr:postcode": "78759",
+      "addr:state": "TX",
+      "addr:street": "North Capital of Texas Highway",
+      "addr:unit": "4200 , 1173",
+      "description": "Kneupper & Covey PC is a Georgia Professional Corporation with offices in Georgia, Texas and California. We are consumer protection attorneys advocating for customers who are misled by false and inaccurate claims by sellers.",
+      "email": "contact@kneuppercovey.com",
+      "name": "Kneupper & Covey PC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-18:00",
+      "phone": "+1 657-845-3100",
+      "website": "https://kneuppercovey.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_8301802494",
+    "name": "Del Toro Law Firm",
+    "address": "911 West Anderson Lane, Austin, TX, 78757",
+    "location": {
+      "lat": 30.3473251,
+      "lng": -97.7149023
+    },
+    "phone": "+1-512-524-1414",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8301802494",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-17:00",
+      "Tuesday": "08:30-17:00",
+      "Wednesday": "08:30-17:00",
+      "Thursday": "08:30-17:00",
+      "Friday": "08:30-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 55,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8301802494,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "911",
+      "addr:postcode": "78757",
+      "addr:state": "TX",
+      "addr:street": "West Anderson Lane",
+      "addr:unit": "207",
+      "email": "hector@deltorolaw.com",
+      "name": "Del Toro Law Firm",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-17:00",
+      "phone": "+1-512-524-1414"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_384104922",
+    "name": "The Kelly Legal Group, PLLC",
+    "address": "4934 West US Highway 290, Sunset Valley, TX, 78735",
+    "location": {
+      "lat": 30.2341506,
+      "lng": -97.8157451
+    },
+    "phone": "+15125050053",
+    "website": "https://www.kellylegalgroup.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/384104922",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 384104922,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Sunset Valley",
+      "addr:housenumber": "4934",
+      "addr:postcode": "78735",
+      "addr:state": "TX",
+      "addr:street": "West US Highway 290",
+      "building": "yes",
+      "height": "5.5",
+      "name": "The Kelly Legal Group, PLLC",
+      "office": "lawyer",
+      "phone": "+15125050053",
+      "website": "https://www.kellylegalgroup.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_2471351797",
+    "name": "Law Office of Frank Bryan - Criminal Defense",
+    "address": "610 Brazos Street, Austin, 78701",
+    "location": {
+      "lat": 30.2683874,
+      "lng": -97.741408
+    },
+    "phone": "+1-512-322-9977",
+    "website": "http://frankbryanlaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2471351797",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2471351797,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housename": "610 Brazos St #660, Austin, TX 78701",
+      "addr:housenumber": "610",
+      "addr:postcode": "78701",
+      "addr:street": "Brazos Street",
+      "name": "Law Office of Frank Bryan - Criminal Defense",
+      "office": "lawyer",
+      "phone": "+1-512-322-9977",
+      "website": "http://frankbryanlaw.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4586944808",
+    "name": "Dana Weis",
+    "address": "505 West 12th Street, TX, 78701",
+    "location": {
+      "lat": 30.2749676,
+      "lng": -97.7459917
+    },
+    "phone": "+1-512-326-9199",
+    "website": "http://www.danaweis.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4586944808",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4586944808,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "505",
+      "addr:postcode": "78701",
+      "addr:state": "TX",
+      "addr:street": "West 12th Street",
+      "addr:unit": "204",
+      "fax": "+1-512-476-1992",
+      "name": "Dana Weis",
+      "office": "lawyer",
+      "phone": "+1-512-326-9199",
+      "website": "http://www.danaweis.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11808981999",
+    "name": "Kruger|Carson PLLC",
+    "address": "1717 West 6th Street, Austin, TX, 78703",
+    "location": {
+      "lat": 30.2757948,
+      "lng": -97.7648947
+    },
+    "phone": "",
+    "website": "https://krugercarson.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11808981999",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11808981999,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "1717",
+      "addr:postcode": "78703",
+      "addr:state": "TX",
+      "addr:street": "West 6th Street",
+      "addr:unit": "112",
+      "lawyer": "commercial",
+      "level": "0",
+      "name": "Kruger|Carson PLLC",
+      "office": "lawyer",
+      "official_name": "Kruger Carson PLLC",
+      "website": "https://krugercarson.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9410468012",
+    "name": "Lincoln-Goldfinch Law",
+    "address": "",
+    "location": {
+      "lat": 30.2970353,
+      "lng": -97.7198215
+    },
+    "phone": "+1-855-502-0555",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9410468012",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9410468012,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:full": "1005 E 40th St Austin, TX 78751",
+      "name": "Lincoln-Goldfinch Law",
+      "office": "lawyer",
+      "phone": "+1-855-502-0555",
+      "start_date": "2015"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_382130581",
+    "name": "Taylor Law",
+    "address": "1709 East Martin Luther King Jr Boulevard",
+    "location": {
+      "lat": 30.2792555,
+      "lng": -97.722407
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/382130581",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 382130581,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:housenumber": "1709",
+      "addr:street": "East Martin Luther King Jr Boulevard",
+      "building": "yes",
+      "height": "7.8",
+      "name": "Taylor Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_384019284",
+    "name": "CHA Law",
+    "address": "4103 Menchaca Road, Austin, TX, 78704",
+    "location": {
+      "lat": 30.2316075,
+      "lng": -97.786856
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/384019284",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 384019284,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Austin",
+      "addr:housenumber": "4103",
+      "addr:postcode": "78704",
+      "addr:state": "TX",
+      "addr:street": "Menchaca Road",
+      "building": "yes",
+      "height": "6.0",
+      "name": "CHA Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_384421478",
+    "name": "Volunteer Legal Services",
+    "address": "8001 Centre Park Drive",
+    "location": {
+      "lat": 30.3327605,
+      "lng": -97.67812
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/384421478",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 384421478,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:housenumber": "8001",
+      "addr:street": "Centre Park Drive",
+      "building": "yes",
+      "height": "9.0",
+      "name": "Volunteer Legal Services",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  }
+]

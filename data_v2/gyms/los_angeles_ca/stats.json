@@ -1,0 +1,17 @@
+{
+  "vertical": "gyms",
+  "city": "Los Angeles, CA",
+  "total_places": 694,
+  "sources": {
+    "osm": 694,
+    "public_records": 0
+  },
+  "with_website": 175,
+  "with_phone": 159,
+  "with_address": 287,
+  "with_license": 0,
+  "avg_completeness": 30.4,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

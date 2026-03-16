@@ -1,0 +1,17 @@
+{
+  "vertical": "restaurants",
+  "city": "Austin, TX",
+  "total_places": 970,
+  "sources": {
+    "osm": 970,
+    "public_records": 0
+  },
+  "with_website": 522,
+  "with_phone": 507,
+  "with_address": 696,
+  "with_license": 0,
+  "avg_completeness": 43.5,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

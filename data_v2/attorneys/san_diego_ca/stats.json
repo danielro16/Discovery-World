@@ -1,0 +1,17 @@
+{
+  "vertical": "attorneys",
+  "city": "San Diego, CA",
+  "total_places": 34,
+  "sources": {
+    "osm": 34,
+    "public_records": 0
+  },
+  "with_website": 25,
+  "with_phone": 27,
+  "with_address": 28,
+  "with_license": 0,
+  "avg_completeness": 51.9,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "vertical": "attorneys",
+  "city": "Washington, DC",
+  "total_places": 50,
+  "sources": {
+    "osm": 50,
+    "public_records": 0
+  },
+  "with_website": 30,
+  "with_phone": 30,
+  "with_address": 41,
+  "with_license": 0,
+  "avg_completeness": 45.3,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

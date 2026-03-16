@@ -1,0 +1,17 @@
+{
+  "vertical": "attorneys",
+  "city": "New York, NY",
+  "total_places": 458,
+  "sources": {
+    "osm": 458,
+    "public_records": 0
+  },
+  "with_website": 165,
+  "with_phone": 250,
+  "with_address": 268,
+  "with_license": 0,
+  "avg_completeness": 37.5,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

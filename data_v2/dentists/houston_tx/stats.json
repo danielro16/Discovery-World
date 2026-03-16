@@ -1,0 +1,17 @@
+{
+  "vertical": "dentists",
+  "city": "Houston, TX",
+  "total_places": 227,
+  "sources": {
+    "osm": 227,
+    "public_records": 0
+  },
+  "with_website": 51,
+  "with_phone": 49,
+  "with_address": 135,
+  "with_license": 0,
+  "avg_completeness": 34.0,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

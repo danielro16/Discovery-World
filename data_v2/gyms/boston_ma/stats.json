@@ -1,0 +1,17 @@
+{
+  "vertical": "gyms",
+  "city": "Boston, MA",
+  "total_places": 420,
+  "sources": {
+    "osm": 420,
+    "public_records": 0
+  },
+  "with_website": 190,
+  "with_phone": 141,
+  "with_address": 275,
+  "with_license": 0,
+  "avg_completeness": 36.8,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

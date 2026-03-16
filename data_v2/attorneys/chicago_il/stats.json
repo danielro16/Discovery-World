@@ -1,0 +1,17 @@
+{
+  "vertical": "attorneys",
+  "city": "Chicago, IL",
+  "total_places": 114,
+  "sources": {
+    "osm": 114,
+    "public_records": 0
+  },
+  "with_website": 65,
+  "with_phone": 65,
+  "with_address": 83,
+  "with_license": 0,
+  "avg_completeness": 44.3,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

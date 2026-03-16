@@ -1,0 +1,17 @@
+{
+  "vertical": "dentists",
+  "city": "Chicago, IL",
+  "total_places": 231,
+  "sources": {
+    "osm": 231,
+    "public_records": 0
+  },
+  "with_website": 75,
+  "with_phone": 69,
+  "with_address": 161,
+  "with_license": 0,
+  "avg_completeness": 35.7,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

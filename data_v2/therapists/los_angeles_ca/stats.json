@@ -1,0 +1,17 @@
+{
+  "vertical": "therapists",
+  "city": "Los Angeles, CA",
+  "total_places": 58,
+  "sources": {
+    "osm": 58,
+    "public_records": 0
+  },
+  "with_website": 35,
+  "with_phone": 32,
+  "with_address": 36,
+  "with_license": 0,
+  "avg_completeness": 40.3,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

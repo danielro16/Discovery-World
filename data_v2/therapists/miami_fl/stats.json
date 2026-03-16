@@ -1,0 +1,17 @@
+{
+  "vertical": "therapists",
+  "city": "Miami, FL",
+  "total_places": 15,
+  "sources": {
+    "osm": 15,
+    "public_records": 0
+  },
+  "with_website": 10,
+  "with_phone": 10,
+  "with_address": 13,
+  "with_license": 0,
+  "avg_completeness": 48.0,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

@@ -1,0 +1,2569 @@
+[
+  {
+    "id": "osm_node_5239302405",
+    "name": "Ballen Medical & Wellness",
+    "address": "6081 South Quebec Street, Centennial, CO, 80111",
+    "location": {
+      "lat": 39.606317,
+      "lng": -104.904485
+    },
+    "phone": "+1-720-738-8531",
+    "website": "https://ballenmedical.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5239302405",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist",
+      "psychiatry;child_psychiatry"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5239302405,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Centennial",
+      "addr:housenumber": "6081",
+      "addr:postcode": "80111",
+      "addr:state": "CO",
+      "addr:street": "South Quebec Street",
+      "addr:unit": "Ste 100",
+      "healthcare": "psychotherapist",
+      "healthcare:speciality": "psychiatry;child_psychiatry",
+      "name": "Ballen Medical & Wellness",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "payment:american_express": "yes",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:discover_card": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "phone": "+1-720-738-8531",
+      "website": "https://ballenmedical.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_8905011256",
+    "name": "Planned Parenthood",
+    "address": "1284 South Abilene Street, Aurora, CO, 80012",
+    "location": {
+      "lat": 39.6930829,
+      "lng": -104.827803
+    },
+    "phone": "+1-303-671-7526",
+    "website": "https://www.plannedparenthood.org/health-center/colorado/aurora/80012/aurora-2489-90210",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8905011256",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "clinic",
+      "counselling"
+    ],
+    "hours": {
+      "Monday": "09:00-19:00",
+      "Tuesday": "09:00-19:00",
+      "Friday": "09:00-19:00",
+      "Wednesday": "09:00-18:00",
+      "Thursday": "08:00-18:00",
+      "Saturday": "09:00-15:00",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8905011256,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Aurora",
+      "addr:housenumber": "1284",
+      "addr:postcode": "80012",
+      "addr:state": "CO",
+      "addr:street": "South Abilene Street",
+      "amenity": "clinic",
+      "brand": "Planned Parenthood",
+      "brand:wikidata": "Q2553262",
+      "healthcare": "counselling",
+      "healthcare:counselling": "antenatal;sexual",
+      "name": "Planned Parenthood",
+      "opening_hours": "Mo,Tu,Fr 09:00-19:00; We 09:00-18:00; Th 08:00-18:00; Sa 09:00-15:00; Su off",
+      "operator": "Planned Parenthood",
+      "operator:wikidata": "Q2553262",
+      "operator:wikipedia": "en:Planned Parenthood",
+      "phone": "+1-303-671-7526",
+      "website": "https://www.plannedparenthood.org/health-center/colorado/aurora/80012/aurora-2489-90210"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11215653534",
+    "name": "Action Behavior Centers - ABA Therapy for Autism",
+    "address": "18737 East Hamilton Drive, Aurora, CO, 80013",
+    "location": {
+      "lat": 39.6547831,
+      "lng": -104.7695663
+    },
+    "phone": "+1 303-381-4010",
+    "website": "https://www.actionbehavior.com/locations/colorado/denver/aba-therapy-aurora-south-co/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11215653534",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist",
+      "mental_health_clinic"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11215653534,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Aurora",
+      "addr:housenumber": "18737",
+      "addr:postcode": "80013",
+      "addr:state": "CO",
+      "addr:street": "East Hamilton Drive",
+      "description": "Our Aurora ABA Therapy area centers provide autism therapy services for early learners, school-age children, and teens to achieve success on the spectrum.",
+      "healthcare": "psychotherapist",
+      "healthcare:speciality": "mental_health_clinic",
+      "name": "Action Behavior Centers - ABA Therapy for Autism",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1 303-381-4010",
+      "website": "https://www.actionbehavior.com/locations/colorado/denver/aba-therapy-aurora-south-co/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13264979870",
+    "name": "Action Behavior Centers - ABA Therapy for Autism",
+    "address": "16830 Northgate Drive, Parker, CO, 80134",
+    "location": {
+      "lat": 39.5393034,
+      "lng": -104.7950468
+    },
+    "phone": "+1-720-824-5444",
+    "website": "https://www.actionbehavior.com/location/colorado/parker-stonegate",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13264979870",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13264979870,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Parker",
+      "addr:housenumber": "16830",
+      "addr:postcode": "80134",
+      "addr:state": "CO",
+      "addr:street": "Northgate Drive",
+      "addr:unit": "Suite 150",
+      "contact:facebook": "https://www.facebook.com/ActionBehaviorCenters/",
+      "contact:instagram": "https://www.instagram.com/actionbehaviorcenters/",
+      "contact:linkedin": "https://www.linkedin.com/company/action-behavior-centers",
+      "contact:twitter": "https://x.com/actionbehavior",
+      "contact:youtube": "https://www.youtube.com/@actionbehaviorcenters",
+      "healthcare": "psychotherapist",
+      "language:en": "yes",
+      "name": "Action Behavior Centers - ABA Therapy for Autism",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1-720-824-5444",
+      "website": "https://www.actionbehavior.com/location/colorado/parker-stonegate"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12252878593",
+    "name": "Conscious Dying Collective",
+    "address": "915 Homestake Drive, Golden, CO, 80401",
+    "location": {
+      "lat": 39.7421705,
+      "lng": -105.2138286
+    },
+    "phone": "+1-303-440-8018",
+    "website": "https://consciousdyingcollective.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12252878593",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling",
+      "doula_training"
+    ],
+    "hours": {
+      "Monday": "08:00  - 16:00",
+      "Tuesday": "08:00  - 16:00",
+      "Wednesday": "08:00  - 16:00",
+      "Thursday": "08:00  - 16:00",
+      "Friday": "08:00  - 16:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12252878593,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Golden",
+      "addr:housenumber": "915",
+      "addr:postcode": "80401",
+      "addr:state": "CO",
+      "addr:street": "Homestake Drive",
+      "description": "Conscious Dying Collective offers compassionate guidance, education, and support for individuals and families navigating end-of-life experiences.",
+      "email": "info@consciousdyingcollective.com",
+      "healthcare": "counselling",
+      "healthcare:speciality": "doula_training",
+      "name": "Conscious Dying Collective",
+      "opening_hours": "Mo-Fr 08:00  - 16:00",
+      "operator": "Elizabeth Padilla",
+      "phone": "+1-303-440-8018",
+      "website": "https://consciousdyingcollective.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13100523980",
+    "name": "Mind, Body, Soulmates Individual and Couples Counseling",
+    "address": "4251 Kipling Street, Wheat Ridge, CO, 80033",
+    "location": {
+      "lat": 39.7760689,
+      "lng": -105.1104314
+    },
+    "phone": "+1-970-371-9404",
+    "website": "https://www.mindbodysoulmates.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13100523980",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist"
+    ],
+    "hours": {
+      "Monday": "07:00-19:00",
+      "Tuesday": "07:00-19:00",
+      "Wednesday": "07:00-19:00",
+      "Thursday": "07:00-19:00",
+      "Friday": "07:00-19:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13100523980,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Wheat Ridge",
+      "addr:housenumber": "4251",
+      "addr:postcode": "80033",
+      "addr:state": "CO",
+      "addr:street": "Kipling Street",
+      "addr:unit": "#560",
+      "contact:facebook": "https://www.facebook.com/MindBodySoulmates/",
+      "contact:instagram": "https://instagram.com/mindbodysoulmates",
+      "email": "isable7@mindbodysoulmates.com",
+      "healthcare": "psychotherapist",
+      "language:en": "yes",
+      "name": "Mind, Body, Soulmates Individual and Couples Counseling",
+      "opening_hours": "Mo-Fr 07:00-19:00",
+      "payment:american_express": "yes",
+      "payment:cash": "yes",
+      "payment:discover_card": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "phone": "+1-970-371-9404",
+      "start_date": "2021-08-01",
+      "website": "https://www.mindbodysoulmates.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_360642272",
+    "name": "Consultants for Children Inc.",
+    "address": "265 South Harlan Street, Lakewood, CO, 80226",
+    "location": {
+      "lat": 39.7119423,
+      "lng": -105.0630135
+    },
+    "phone": "+1-720-272-1289",
+    "website": "https://www.cfcico.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/360642272",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 360642272,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Lakewood",
+      "addr:housenumber": "265",
+      "addr:postcode": "80226",
+      "addr:state": "CO",
+      "addr:street": "South Harlan Street",
+      "building": "commercial",
+      "healthcare": "psychotherapist",
+      "name": "Consultants for Children Inc.",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1-720-272-1289",
+      "source": "Bing;esri/USA_NAD_Addresses",
+      "website": "https://www.cfcico.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3433324080",
+    "name": "Planned Parenthood (Denver Central)",
+    "address": "921 East 14th Avenue, Denver, CO, 80218",
+    "location": {
+      "lat": 39.7386405,
+      "lng": -104.975779
+    },
+    "phone": "+1-303-832-5069",
+    "website": "https://www.plannedparenthood.org/health-center/colorado/denver/80218/denver-central-2484-90210",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3433324080",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "clinic",
+      "counselling"
+    ],
+    "hours": {
+      "Monday": "08:00-18:00",
+      "Wednesday": "08:00-18:00",
+      "Friday": "08:00-18:00",
+      "Tuesday": "09:00-19:00",
+      "Thursday": "10:00-19:00",
+      "Saturday": "09:00-15:00",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3433324080,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "921",
+      "addr:postcode": "80218",
+      "addr:state": "CO",
+      "addr:street": "East 14th Avenue",
+      "amenity": "clinic",
+      "branch": "Denver Central Health Center",
+      "healthcare": "counselling",
+      "healthcare:counselling": "antenatal;sexual",
+      "name": "Planned Parenthood (Denver Central)",
+      "opening_hours": "Mo,We,Fr 08:00-18:00; Tu 09:00-19:00; Th 10:00-19:00; Sa 09:00-15:00; Su,PH off",
+      "operator": "Planned Parenthood",
+      "operator:type": "ngo",
+      "operator:wikidata": "Q2553262",
+      "operator:wikipedia": "en:Planned Parenthood",
+      "phone": "+1-303-832-5069",
+      "website": "https://www.plannedparenthood.org/health-center/colorado/denver/80218/denver-central-2484-90210"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7185907076",
+    "name": "Colorado In-Home Counseling",
+    "address": "2000 South Colorado Boulevard, Denver, CO, 80222",
+    "location": {
+      "lat": 39.6803521,
+      "lng": -104.9397057
+    },
+    "phone": "+1-303-578-3549",
+    "website": "https://coloradocounselinginhome.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7185907076",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00",
+      "Saturday": "off",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7185907076,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "2000",
+      "addr:postcode": "80222",
+      "addr:state": "CO",
+      "addr:street": "South Colorado Boulevard",
+      "addr:unit": "2000",
+      "contact:facebook": "https://www.facebook.com/COinhomecounseling/",
+      "email": "gabriellejvillani@gmail.com",
+      "healthcare": "counselling",
+      "name": "Colorado In-Home Counseling",
+      "opening_hours": "Mo-Fr 08:00-17:00; Sa-Su off",
+      "phone": "+1-303-578-3549",
+      "website": "https://coloradocounselinginhome.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11166540030",
+    "name": "Collective Counseling Solutions",
+    "address": "121 South Madison Street, Denver, CO, 80209",
+    "location": {
+      "lat": 39.7141703,
+      "lng": -104.9465663
+    },
+    "phone": "+1-844-222-0550",
+    "website": "https://collectivecounselingsolutions.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11166540030",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "mental_health_service",
+      "therapist",
+      "counselor"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "09:00-17:00",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11166540030,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "121",
+      "addr:postcode": "80209",
+      "addr:state": "CO",
+      "addr:street": "South Madison Street",
+      "addr:unit": "C",
+      "description": "Collective Counseling Solutions is a nationwide alliance of dedicated clinicians in private practice, united by their commitment to accepting insurance benefits for mental health treatment.",
+      "email": "info@collectivecounselingsolutions.com",
+      "healthcare": "mental_health_service",
+      "healthcare:speciality": "counselor",
+      "name": "Collective Counseling Solutions",
+      "office": "therapist",
+      "opening_hours": "Mo-Sa 09:00-17:00; Su off",
+      "phone": "+1-844-222-0550",
+      "website": "https://collectivecounselingsolutions.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13283131755",
+    "name": "Action Behavior Centers - ABA Therapy for Autism",
+    "address": "8959 East 40th Avenue, Denver, CO, 80207",
+    "location": {
+      "lat": 39.7754309,
+      "lng": -104.8840937
+    },
+    "phone": "+1-303-268-1216",
+    "website": "https://www.actionbehavior.com/location/colorado/denver-central-park",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13283131755",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13283131755,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "8959",
+      "addr:postcode": "80207",
+      "addr:state": "CO",
+      "addr:street": "East 40th Avenue",
+      "addr:unit": "Suite 1A & 290",
+      "contact:facebook": "https://www.facebook.com/ActionBehaviorCenters/",
+      "contact:instagram": "https://www.instagram.com/actionbehaviorcenters/",
+      "contact:linkedin": "https://www.linkedin.com/company/action-behavior-centers",
+      "contact:twitter": "https://x.com/actionbehavior",
+      "contact:youtube": "https://www.youtube.com/@actionbehaviorcenters",
+      "healthcare": "psychotherapist",
+      "language:en": "yes",
+      "name": "Action Behavior Centers - ABA Therapy for Autism",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1-303-268-1216",
+      "website": "https://www.actionbehavior.com/location/colorado/denver-central-park"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11304361110",
+    "name": "Family Care Center - Parker",
+    "address": "10120 Twenty Mile Road, Parker, CO, 80134",
+    "location": {
+      "lat": 39.531767,
+      "lng": -104.7764192
+    },
+    "phone": "+1 303-228-8871",
+    "website": "https://fccwellbeing.com/clinic-locations/denver/parker-clinic/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11304361110",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "doctors",
+      "doctor",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11304361110,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Parker",
+      "addr:housenumber": "10120",
+      "addr:postcode": "80134",
+      "addr:state": "CO",
+      "addr:street": "Twenty Mile Road",
+      "addr:unit": "100",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "psychiatry",
+      "name": "Family Care Center - Parker",
+      "phone": "+1 303-228-8871",
+      "website": "https://fccwellbeing.com/clinic-locations/denver/parker-clinic/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_241726367",
+    "name": "Highlands Behavioral Health",
+    "address": "8565 South Poplar Way, Littleton, CO, 80130",
+    "location": {
+      "lat": 39.5628045,
+      "lng": -104.9077047
+    },
+    "phone": "+1 720 348 2800",
+    "website": "http://www.highlandsbhs.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/241726367",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 241726367,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Littleton",
+      "addr:housenumber": "8565",
+      "addr:postcode": "80130",
+      "addr:state": "CO",
+      "addr:street": "South Poplar Way",
+      "beds": "86",
+      "building": "hospital",
+      "contact:phone": "+1 720 348 2800",
+      "contact:website": "http://www.highlandsbhs.com/",
+      "emergency": "no",
+      "gnis:feature_id": "2085570",
+      "healthcare:speciality": "psychiatry",
+      "name": "Highlands Behavioral Health",
+      "old_name": "Columbine Hospital",
+      "source": "Bing"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_363490723",
+    "name": "HealthONE Behavioral Health and Wellness Outpatient Services at Saddle Rock",
+    "address": "22500 East Dry Creek Road, Aurora, CO, 80016",
+    "location": {
+      "lat": 39.5796362,
+      "lng": -104.7261063
+    },
+    "phone": "+1 720-376-6400",
+    "website": "https://healthonecares.com/locations/healthone-behavioral-health-wellness-outpatient-services-saddle-rock/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/363490723",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "clinic",
+      "clinic",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 363490723,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Aurora",
+      "addr:housenumber": "22500",
+      "addr:postcode": "80016",
+      "addr:state": "CO",
+      "addr:street": "East Dry Creek Road",
+      "amenity": "clinic",
+      "building": "commercial",
+      "emergency": "yes",
+      "healthcare": "clinic",
+      "healthcare:speciality": "psychiatry",
+      "name": "HealthONE Behavioral Health and Wellness Outpatient Services at Saddle Rock",
+      "operator": "HealthOne",
+      "phone": "+1 720-376-6400",
+      "website": "https://healthonecares.com/locations/healthone-behavioral-health-wellness-outpatient-services-saddle-rock/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_788716024",
+    "name": "Denver Springs",
+    "address": "8835 American Way, Englewood, CO, 80112",
+    "location": {
+      "lat": 39.5565522,
+      "lng": -104.8276312
+    },
+    "phone": "+1 720 744 3813",
+    "website": "https://denversprings.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/788716024",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "hospital",
+      "hospital",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 788716024,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Englewood",
+      "addr:housenumber": "8835",
+      "addr:postcode": "80112",
+      "addr:state": "CO",
+      "addr:street": "American Way",
+      "amenity": "hospital",
+      "beds": "96",
+      "emergency": "no",
+      "healthcare": "hospital",
+      "healthcare:speciality": "psychiatry",
+      "name": "Denver Springs",
+      "phone": "+1 720 744 3813",
+      "website": "https://denversprings.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_802731580",
+    "name": "Highlands Behavioral Health",
+    "address": "8565 South Poplar Way, Littleton, CO, 80130",
+    "location": {
+      "lat": 39.562802,
+      "lng": -104.9079678
+    },
+    "phone": "+1 720 348 2800",
+    "website": "http://www.highlandsbhs.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/802731580",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "hospital",
+      "hospital",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 802731580,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Littleton",
+      "addr:housenumber": "8565",
+      "addr:postcode": "80130",
+      "addr:state": "CO",
+      "addr:street": "South Poplar Way",
+      "amenity": "hospital",
+      "beds": "86",
+      "contact:phone": "+1 720 348 2800",
+      "contact:website": "http://www.highlandsbhs.com/",
+      "emergency": "no",
+      "gnis:feature_id": "2085570",
+      "healthcare": "hospital",
+      "healthcare:speciality": "psychiatry",
+      "name": "Highlands Behavioral Health",
+      "old_name": "Columbine Hospital"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11803433419",
+    "name": "Connecting Hearts Psychology",
+    "address": "1805 South Bellaire Street, Denver, CO, 80222",
+    "location": {
+      "lat": 39.6838287,
+      "lng": -104.9376649
+    },
+    "phone": "+1 720 772 9607",
+    "website": "https://connectingheartspsychology.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11803433419",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11803433419,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1805",
+      "addr:postcode": "80222",
+      "addr:state": "CO",
+      "addr:street": "South Bellaire Street",
+      "email": "drhanley@connectingheartspsychology.com",
+      "healthcare": "psychotherapist",
+      "name": "Connecting Hearts Psychology",
+      "operator": "Dr Atsuko Hanley",
+      "phone": "+1 720 772 9607",
+      "website": "https://connectingheartspsychology.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_209720162",
+    "name": "Mount Saint Vincent",
+    "address": "4159 Lowell Boulevard, Denver, CO, 80211",
+    "location": {
+      "lat": 39.7743731,
+      "lng": -105.0361197
+    },
+    "phone": "+1 303 458 7220",
+    "website": "https://www.msvhome.org/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/209720162",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "social_facility",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 209720162,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "4159",
+      "addr:postcode": "80211",
+      "addr:state": "CO",
+      "addr:street": "Lowell Boulevard",
+      "amenity": "social_facility",
+      "emergency": "no",
+      "healthcare:speciality": "psychiatry",
+      "name": "Mount Saint Vincent",
+      "phone": "+1 303 458 7220",
+      "social_facility": "healthcare",
+      "social_facility:for": "mental_health",
+      "website": "https://www.msvhome.org/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_1315644241",
+    "name": "Phoenix Center at Auraria",
+    "address": "900 Auraria Parkway, Denver, CO, 80204",
+    "location": {
+      "lat": 39.7455689,
+      "lng": -105.0062489
+    },
+    "phone": "+1-303-315-7250",
+    "website": "https://www.thepca.org/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/1315644241",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "therapist",
+      "community;psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1315644241,
+    "osm_type": "way",
+    "osm_tags": {
+      "access": "permissive",
+      "addr:city": "Denver",
+      "addr:country": "US",
+      "addr:housenumber": "900",
+      "addr:postcode": "80204",
+      "addr:state": "CO",
+      "addr:street": "Auraria Parkway",
+      "addr:unit": "227",
+      "healthcare:speciality": "community;psychiatry",
+      "indoor": "area",
+      "level": "1",
+      "name": "Phoenix Center at Auraria",
+      "office": "therapist",
+      "phone": "+1-303-315-7250",
+      "ref": "227",
+      "room": "office",
+      "website": "https://www.thepca.org/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_1255923708",
+    "name": "Judi's House",
+    "address": "10125 E 25th Ave, Aurora, CO, 80010",
+    "location": {
+      "lat": 39.7533394,
+      "lng": -104.8700778
+    },
+    "phone": "+1 720-941-0331",
+    "website": "https://judishouse.org/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/1255923708",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "yes",
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1255923708,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Aurora",
+      "addr:housenumber": "10125",
+      "addr:postcode": "80010",
+      "addr:state": "CO",
+      "addr:street": "E 25th Ave",
+      "alt_name": "JAG Institute",
+      "building": "yes",
+      "building:levels": "2",
+      "healthcare": "yes",
+      "name": "Judi's House",
+      "office": "therapist",
+      "phone": "+1 720-941-0331",
+      "website": "https://judishouse.org/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_54777778",
+    "name": "Devereux Cleo Wallace",
+    "address": "8405 Church Ranch Boulevard, Westminster, CO, 80021",
+    "location": {
+      "lat": 39.8825595,
+      "lng": -105.0913355
+    },
+    "phone": "+1 303 466 7391",
+    "website": "http://www.devereux.org/site/PageServer?pagename=co_contact",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/54777778",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "hospital",
+      "hospital",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 54777778,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Westminster",
+      "addr:housenumber": "8405",
+      "addr:postcode": "80021",
+      "addr:state": "CO",
+      "addr:street": "Church Ranch Boulevard",
+      "amenity": "hospital",
+      "contact:phone": "+1 303 466 7391",
+      "contact:website": "http://www.devereux.org/site/PageServer?pagename=co_contact",
+      "emergency": "no",
+      "healthcare": "hospital",
+      "healthcare:speciality": "psychiatry",
+      "name": "Devereux Cleo Wallace"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3306967406",
+    "name": "Rutledge Psychiatry",
+    "address": "8340 South Sangre de Cristo Road, Littleton, CO, 80127",
+    "location": {
+      "lat": 39.5686517,
+      "lng": -105.112855
+    },
+    "phone": "",
+    "website": "http://www.rutledgemd.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3306967406",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "doctors",
+      "doctor",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3306967406,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Littleton",
+      "addr:housenumber": "8340",
+      "addr:postcode": "80127",
+      "addr:state": "CO",
+      "addr:street": "South Sangre de Cristo Road",
+      "amenity": "doctors",
+      "check_date": "2023-01-03",
+      "contact:website": "http://www.rutledgemd.com/",
+      "currency:XBT": "yes",
+      "healthcare": "doctor",
+      "healthcare:speciality": "psychiatry",
+      "name": "Rutledge Psychiatry"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_2394459491",
+    "name": "CK Counseling, LLC",
+    "address": "",
+    "location": {
+      "lat": 39.6140214,
+      "lng": -104.8973913
+    },
+    "phone": "",
+    "website": "https://www.playtherapy4kids.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2394459491",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2394459491,
+    "osm_type": "node",
+    "osm_tags": {
+      "healthcare": "psychotherapist",
+      "name": "CK Counseling, LLC",
+      "services": "Child and Adult Counseling",
+      "type": "Office",
+      "website": "https://www.playtherapy4kids.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5931381127",
+    "name": "South East Counciling & Coaching",
+    "address": "20250 East Smoky Hill Road, Centennial, CO, 80015",
+    "location": {
+      "lat": 39.6097051,
+      "lng": -104.7511008
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5931381127",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5931381127,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Centennial",
+      "addr:housenumber": "20250",
+      "addr:postcode": "80015",
+      "addr:state": "CO",
+      "addr:street": "East Smoky Hill Road",
+      "healthcare": "psychotherapist",
+      "name": "South East Counciling & Coaching"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10918224409",
+    "name": "Rocky Mountain Spine & Sport Physical Therapy Centennial",
+    "address": "6202 South Parker Road, Centennial, CO, 80016",
+    "location": {
+      "lat": 39.6041541,
+      "lng": -104.8063096
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10918224409",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "physiotherapist",
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10918224409,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Centennial",
+      "addr:housenumber": "6202",
+      "addr:postcode": "80016",
+      "addr:state": "CO",
+      "addr:street": "South Parker Road",
+      "addr:unit": "500",
+      "healthcare": "physiotherapist",
+      "name": "Rocky Mountain Spine & Sport Physical Therapy Centennial",
+      "office": "therapist"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11379549223",
+    "name": "Talking With Teri",
+    "address": "6586 South Kenton Street, Centennial, CO, 80014",
+    "location": {
+      "lat": 39.5968304,
+      "lng": -104.8599542
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11379549223",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11379549223,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Centennial",
+      "addr:housenumber": "6586",
+      "addr:postcode": "80014",
+      "addr:state": "CO",
+      "addr:street": "South Kenton Street",
+      "addr:unit": "101",
+      "healthcare": "counselling",
+      "name": "Talking With Teri"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11379614167",
+    "name": "NAPA Center Denver",
+    "address": "11211 East Arapahoe Road, Centennial, CO, 80111",
+    "location": {
+      "lat": 39.5956942,
+      "lng": -104.8580927
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11379614167",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "yes",
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11379614167,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Centennial",
+      "addr:housenumber": "11211",
+      "addr:postcode": "80111",
+      "addr:state": "CO",
+      "addr:street": "East Arapahoe Road",
+      "addr:unit": "118",
+      "healthcare": "yes",
+      "name": "NAPA Center Denver",
+      "office": "therapist"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11401156061",
+    "name": "Trumpet Behavioral Health",
+    "address": "12650 East Briarwood Avenue, Centennial, CO, 80112",
+    "location": {
+      "lat": 39.5920014,
+      "lng": -104.8428197
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11401156061",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "doctors",
+      "doctor",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11401156061,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Centennial",
+      "addr:housenumber": "12650",
+      "addr:postcode": "80112",
+      "addr:state": "CO",
+      "addr:street": "East Briarwood Avenue",
+      "addr:unit": "207",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "psychiatry",
+      "name": "Trumpet Behavioral Health"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12314355124",
+    "name": "Family Life Counseling",
+    "address": "6240 South Main Street, Aurora, CO, 80016",
+    "location": {
+      "lat": 39.6034516,
+      "lng": -104.7085687
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12314355124",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12314355124,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Aurora",
+      "addr:housenumber": "6240",
+      "addr:postcode": "80016",
+      "addr:state": "CO",
+      "addr:street": "South Main Street",
+      "addr:unit": "265",
+      "healthcare": "counselling",
+      "name": "Family Life Counseling"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12354969542",
+    "name": "AllHealth Network",
+    "address": "9235 Crown Crest Boulevard, Parker, CO, 80138",
+    "location": {
+      "lat": 39.5497039,
+      "lng": -104.7720212
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12354969542",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12354969542,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Parker",
+      "addr:housenumber": "9235",
+      "addr:postcode": "80138",
+      "addr:state": "CO",
+      "addr:street": "Crown Crest Boulevard",
+      "addr:unit": "250",
+      "name": "AllHealth Network",
+      "office": "therapist"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12395892911",
+    "name": "ABA Therapy at Action Behavior Centers",
+    "address": "19284 Cottonwood Drive, Parker, CO, 80138",
+    "location": {
+      "lat": 39.5544755,
+      "lng": -104.7708897
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12395892911",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12395892911,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Parker",
+      "addr:housenumber": "19284",
+      "addr:postcode": "80138",
+      "addr:state": "CO",
+      "addr:street": "Cottonwood Drive",
+      "addr:unit": "101",
+      "name": "ABA Therapy at Action Behavior Centers",
+      "office": "therapist"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12395892912",
+    "name": "FYZICAL North Parker",
+    "address": "19284 Cottonwood Drive, Parker, CO, 80138",
+    "location": {
+      "lat": 39.5545847,
+      "lng": -104.7709298
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12395892912",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12395892912,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Parker",
+      "addr:housenumber": "19284",
+      "addr:postcode": "80138",
+      "addr:state": "CO",
+      "addr:street": "Cottonwood Drive",
+      "addr:unit": "203",
+      "name": "FYZICAL North Parker",
+      "office": "therapist"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9061216655",
+    "name": "HopeBridge",
+    "address": "6555 West Colfax Avenue, Lakewood, CO, 80214-1803",
+    "location": {
+      "lat": 39.7418119,
+      "lng": -105.0673999
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9061216655",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist",
+      "autism"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9061216655,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Lakewood",
+      "addr:housenumber": "6555",
+      "addr:postcode": "80214-1803",
+      "addr:state": "CO",
+      "addr:street": "West Colfax Avenue",
+      "healthcare": "psychotherapist",
+      "healthcare:speciality": "autism",
+      "name": "HopeBridge"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11435675369",
+    "name": "Family Solutions Counseling",
+    "address": "2801 Youngfield Street",
+    "location": {
+      "lat": 39.7566494,
+      "lng": -105.1430345
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11435675369",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11435675369,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "2801",
+      "addr:street": "Youngfield Street",
+      "addr:unit": "231",
+      "level": "1",
+      "name": "Family Solutions Counseling",
+      "office": "therapist"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11435675377",
+    "name": "Ardern Psychology",
+    "address": "2801 Youngfield Street",
+    "location": {
+      "lat": 39.7566968,
+      "lng": -105.142984
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11435675377",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "doctors",
+      "doctor",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11435675377,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "2801",
+      "addr:street": "Youngfield Street",
+      "addr:unit": "151",
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "healthcare:speciality": "psychiatry",
+      "level": "0",
+      "name": "Ardern Psychology"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11435675379",
+    "name": "Precision Hand Therapy",
+    "address": "2801 Youngfield Street",
+    "location": {
+      "lat": 39.7565498,
+      "lng": -105.1432527
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11435675379",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11435675379,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "2801",
+      "addr:street": "Youngfield Street",
+      "addr:unit": "371",
+      "level": "2",
+      "name": "Precision Hand Therapy",
+      "office": "therapist"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3386970695",
+    "name": "Psychotherapy & Care Management On the Go",
+    "address": "1638 Pennsylvania Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7424195,
+      "lng": -104.9807663
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3386970695",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3386970695,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1638",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Pennsylvania Street",
+      "name": "Psychotherapy & Care Management On the Go",
+      "office": "therapist"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3458949038",
+    "name": "Denver Therapeutic Institute",
+    "address": "671 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7269179,
+      "lng": -104.9839052
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3458949038",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3458949038,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "671",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "name": "Denver Therapeutic Institute",
+      "office": "therapist"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3458950245",
+    "name": "David Burnett, Clinical Social Work/Therapist",
+    "address": "675 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7270118,
+      "lng": -104.9839052
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3458950245",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3458950245,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "675",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "name": "David Burnett, Clinical Social Work/Therapist",
+      "office": "therapist"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3458951217",
+    "name": "Boscoe-Huffman Wellness Center",
+    "address": "673 Grant Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7269674,
+      "lng": -104.9839046
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3458951217",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3458951217,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "673",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "name": "Boscoe-Huffman Wellness Center",
+      "office": "therapist"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3464694438",
+    "name": "Christopher Loeffler, Clinical Therapist",
+    "address": "612 Washington Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7260151,
+      "lng": -104.9783406
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3464694438",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3464694438,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "612",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Washington Street",
+      "addr:unit": "105",
+      "name": "Christopher Loeffler, Clinical Therapist",
+      "office": "therapist"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3464694783",
+    "name": "Burrows Lynne Psychotherapist",
+    "address": "612 Washington Street, Denver, CO, 80203",
+    "location": {
+      "lat": 39.7260801,
+      "lng": -104.9783412
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3464694783",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3464694783,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "612",
+      "addr:postcode": "80203",
+      "addr:state": "CO",
+      "addr:street": "Washington Street",
+      "addr:unit": "107",
+      "name": "Burrows Lynne Psychotherapist",
+      "office": "therapist"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3899505174",
+    "name": "Flourish Family Counseling",
+    "address": "2539 Eliot Street, Denver, CO, 80211",
+    "location": {
+      "lat": 39.7543905,
+      "lng": -105.0238414
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3899505174",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3899505174,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "2539",
+      "addr:postcode": "80211",
+      "addr:state": "CO",
+      "addr:street": "Eliot Street",
+      "healthcare": "psychotherapist",
+      "name": "Flourish Family Counseling"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5362992297",
+    "name": "LoHi Physical Therapy & Hand Therapy",
+    "address": "1525 Raleigh Street, Denver, CO, 80204",
+    "location": {
+      "lat": 39.7413468,
+      "lng": -105.0419393
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5362992297",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5362992297,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "1525",
+      "addr:postcode": "80204",
+      "addr:state": "CO",
+      "addr:street": "Raleigh Street",
+      "name": "LoHi Physical Therapy & Hand Therapy",
+      "office": "therapist"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13474398201",
+    "name": "Counseling for Hope",
+    "address": "1115 South Josephine Street, 80210",
+    "location": {
+      "lat": 39.6959996,
+      "lng": -104.9584021
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13474398201",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13474398201,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "1115",
+      "addr:postcode": "80210",
+      "addr:street": "South Josephine Street",
+      "healthcare": "psychotherapist",
+      "name": "Counseling for Hope"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_205677879",
+    "name": "Planned Parenthood Park Hill Health Center",
+    "address": "7155 East 38th Avenue, Denver, CO, 80207",
+    "location": {
+      "lat": 39.7697702,
+      "lng": -104.9049257
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/205677879",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "clinic",
+      "counselling"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 205677879,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "7155",
+      "addr:postcode": "80207",
+      "addr:state": "CO",
+      "addr:street": "East 38th Avenue",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "counselling",
+      "healthcare:counselling": "antenatal;sexual",
+      "name": "Planned Parenthood Park Hill Health Center",
+      "operator": "Planned Parenthood",
+      "operator:type": "ngo",
+      "operator:wikidata": "Q2553262",
+      "source": "Bing"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4227642261",
+    "name": "Aurora Center for Treatment",
+    "address": "1591 Chambers Road",
+    "location": {
+      "lat": 39.7417946,
+      "lng": -104.8104319
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4227642261",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "psychotherapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4227642261,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "1591",
+      "addr:street": "Chambers Road",
+      "addr:unit": "E",
+      "healthcare": "psychotherapist",
+      "name": "Aurora Center for Treatment"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_230175794",
+    "name": "Centennial Peaks Hospital",
+    "address": "2255 South 88th Street, Louisville, CO, 80027",
+    "location": {
+      "lat": 39.9520487,
+      "lng": -105.1483597
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/230175794",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "hospital",
+      "hospital",
+      "psychiatry"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 230175794,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Louisville",
+      "addr:housenumber": "2255",
+      "addr:postcode": "80027",
+      "addr:state": "CO",
+      "addr:street": "South 88th Street",
+      "amenity": "hospital",
+      "building": "hospital",
+      "ele": "1672",
+      "emergency": "no",
+      "healthcare": "hospital",
+      "healthcare:speciality": "psychiatry",
+      "name": "Centennial Peaks Hospital"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9404146642",
+    "name": "SlimGenics",
+    "address": "",
+    "location": {
+      "lat": 39.7120123,
+      "lng": -105.0757172
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9404146642",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling",
+      "weight_loss"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9404146642,
+    "osm_type": "node",
+    "osm_tags": {
+      "healthcare": "counselling",
+      "healthcare:counselling": "dietitian",
+      "healthcare:speciality": "weight_loss",
+      "name": "SlimGenics"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_1611235102",
+    "name": "WW Studio",
+    "address": "",
+    "location": {
+      "lat": 39.9555715,
+      "lng": -105.1680495
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/1611235102",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling",
+      "weight_loss"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1611235102,
+    "osm_type": "node",
+    "osm_tags": {
+      "alt_name": "Weight Watchers",
+      "brand": "WW Studio",
+      "brand:wikidata": "Q1929466",
+      "healthcare": "counselling",
+      "healthcare:counselling": "dietitian",
+      "healthcare:speciality": "weight_loss",
+      "name": "WW Studio"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12245203033",
+    "name": "WW Studio",
+    "address": "",
+    "location": {
+      "lat": 39.83559,
+      "lng": -105.0832089
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12245203033",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "counselling",
+      "weight_loss"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12245203033,
+    "osm_type": "node",
+    "osm_tags": {
+      "alt_name": "Weight Watchers",
+      "brand": "WW Studio",
+      "brand:wikidata": "Q1929466",
+      "healthcare": "counselling",
+      "healthcare:counselling": "dietitian",
+      "healthcare:speciality": "weight_loss",
+      "name": "WW Studio"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12245203043",
+    "name": "Planned Parenthood",
+    "address": "",
+    "location": {
+      "lat": 39.8371898,
+      "lng": -105.0839933
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12245203043",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "clinic",
+      "counselling"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12245203043,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "clinic",
+      "healthcare": "counselling",
+      "healthcare:counselling": "antenatal;sexual",
+      "name": "Planned Parenthood",
+      "operator": "Planned Parenthood",
+      "operator:type": "ngo",
+      "operator:wikidata": "Q2553262"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12962068580",
+    "name": "H.E.A.R.T Counseling Center",
+    "address": "",
+    "location": {
+      "lat": 39.8830327,
+      "lng": -104.9784397
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12962068580",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "therapist"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12962068580,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "H.E.A.R.T Counseling Center",
+      "office": "therapist"
+    },
+    "sources": [
+      "osm"
+    ]
+  }
+]

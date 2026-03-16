@@ -1,0 +1,17 @@
+{
+  "vertical": "dentists",
+  "city": "Austin, TX",
+  "total_places": 62,
+  "sources": {
+    "osm": 62,
+    "public_records": 0
+  },
+  "with_website": 37,
+  "with_phone": 34,
+  "with_address": 43,
+  "with_license": 0,
+  "avg_completeness": 45.2,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "vertical": "therapists",
+  "city": "Seattle, WA",
+  "total_places": 54,
+  "sources": {
+    "osm": 54,
+    "public_records": 0
+  },
+  "with_website": 29,
+  "with_phone": 26,
+  "with_address": 42,
+  "with_license": 0,
+  "avg_completeness": 42.1,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

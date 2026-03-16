@@ -1,0 +1,17 @@
+{
+  "vertical": "restaurants",
+  "city": "Boston, MA",
+  "total_places": 4285,
+  "sources": {
+    "osm": 4285,
+    "public_records": 0
+  },
+  "with_website": 2464,
+  "with_phone": 2216,
+  "with_address": 3168,
+  "with_license": 0,
+  "avg_completeness": 44.6,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

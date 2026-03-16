@@ -1,0 +1,17 @@
+{
+  "vertical": "gyms",
+  "city": "Dallas, TX",
+  "total_places": 339,
+  "sources": {
+    "osm": 339,
+    "public_records": 0
+  },
+  "with_website": 107,
+  "with_phone": 84,
+  "with_address": 196,
+  "with_license": 0,
+  "avg_completeness": 34.2,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

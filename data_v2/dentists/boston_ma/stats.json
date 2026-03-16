@@ -1,0 +1,17 @@
+{
+  "vertical": "dentists",
+  "city": "Boston, MA",
+  "total_places": 216,
+  "sources": {
+    "osm": 216,
+    "public_records": 0
+  },
+  "with_website": 83,
+  "with_phone": 87,
+  "with_address": 160,
+  "with_license": 0,
+  "avg_completeness": 38.7,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

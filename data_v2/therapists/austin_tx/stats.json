@@ -1,0 +1,17 @@
+{
+  "vertical": "therapists",
+  "city": "Austin, TX",
+  "total_places": 9,
+  "sources": {
+    "osm": 9,
+    "public_records": 0
+  },
+  "with_website": 6,
+  "with_phone": 6,
+  "with_address": 6,
+  "with_license": 0,
+  "avg_completeness": 46.7,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "vertical": "therapists",
+  "city": "Washington, DC",
+  "total_places": 23,
+  "sources": {
+    "osm": 23,
+    "public_records": 0
+  },
+  "with_website": 11,
+  "with_phone": 8,
+  "with_address": 18,
+  "with_license": 0,
+  "avg_completeness": 38.0,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

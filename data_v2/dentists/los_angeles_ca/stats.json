@@ -1,0 +1,17 @@
+{
+  "vertical": "dentists",
+  "city": "Los Angeles, CA",
+  "total_places": 428,
+  "sources": {
+    "osm": 428,
+    "public_records": 0
+  },
+  "with_website": 108,
+  "with_phone": 115,
+  "with_address": 260,
+  "with_license": 0,
+  "avg_completeness": 33.9,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

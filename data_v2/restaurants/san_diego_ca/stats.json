@@ -1,0 +1,17 @@
+{
+  "vertical": "restaurants",
+  "city": "San Diego, CA",
+  "total_places": 3106,
+  "sources": {
+    "osm": 3106,
+    "public_records": 0
+  },
+  "with_website": 1496,
+  "with_phone": 1442,
+  "with_address": 2023,
+  "with_license": 0,
+  "avg_completeness": 40.4,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

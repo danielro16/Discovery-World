@@ -1,0 +1,1801 @@
+[
+  {
+    "id": "osm_node_6261532352",
+    "name": "Roberts Markland LLP",
+    "address": "2555 North MacGregor Way, Houston, TX, 77004",
+    "location": {
+      "lat": 29.7147188,
+      "lng": -95.3736224
+    },
+    "phone": "+1-713-630-0900",
+    "website": "https://www.robertsmarkland.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6261532352",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-18:00",
+      "Tuesday": "08:30-18:00",
+      "Wednesday": "08:30-18:00",
+      "Thursday": "08:30-18:00",
+      "Friday": "08:30-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6261532352,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "2555",
+      "addr:postcode": "77004",
+      "addr:state": "TX",
+      "addr:street": "North MacGregor Way",
+      "name": "Roberts Markland LLP",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-18:00",
+      "phone": "+1-713-630-0900",
+      "website": "https://www.robertsmarkland.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9433328601",
+    "name": "C.E. Schmidt & Associates, PLLC",
+    "address": "16000 Memorial Drive, Houston, TX, 77079",
+    "location": {
+      "lat": 29.7759719,
+      "lng": -95.6428242
+    },
+    "phone": "+1-281-550-6650",
+    "website": "https://westhoustonattorney.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9433328601",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-17:00",
+      "Tuesday": "08:30-17:00",
+      "Wednesday": "08:30-17:00",
+      "Thursday": "08:30-17:00",
+      "Friday": "08:30-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9433328601,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:country": "US",
+      "addr:housenumber": "16000",
+      "addr:postcode": "77079",
+      "addr:state": "TX",
+      "addr:street": "Memorial Drive",
+      "addr:unit": "230",
+      "name": "C.E. Schmidt & Associates, PLLC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-17:00",
+      "phone": "+1-281-550-6650",
+      "website": "https://westhoustonattorney.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11381294125",
+    "name": "Law Office of Shane McClelland",
+    "address": "21733 Provincial Boulevard, Katy, TX, 77450",
+    "location": {
+      "lat": 29.7787579,
+      "lng": -95.7481308
+    },
+    "phone": "+1-713-987-7107",
+    "website": "https://www.hmtrial.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11381294125",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11381294125,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Katy",
+      "addr:housenumber": "21733",
+      "addr:postcode": "77450",
+      "addr:state": "TX",
+      "addr:street": "Provincial Boulevard",
+      "addr:unit": "910",
+      "email": "contact@hmtrial.com",
+      "name": "Law Office of Shane McClelland",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:credit_cards": "yes",
+      "phone": "+1-713-987-7107",
+      "website": "https://www.hmtrial.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11510394286",
+    "name": "Serafini Smith Law Firm",
+    "address": "21408 Provincial Boulevard, Katy, TX, 77450",
+    "location": {
+      "lat": 29.7762851,
+      "lng": -95.741291
+    },
+    "phone": "+1 936-323-3336",
+    "website": "https://www.serafinismithlawfirm.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11510394286",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11510394286,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Katy",
+      "addr:housenumber": "21408",
+      "addr:postcode": "77450",
+      "addr:state": "TX",
+      "addr:street": "Provincial Boulevard",
+      "email": "serafinismithlawfirm@gmail.com",
+      "name": "Serafini Smith Law Firm",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1 936-323-3336",
+      "website": "https://www.serafinismithlawfirm.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13439763051",
+    "name": "The Atlas Law Firm - Car Accident and Personal Injury Attorneys",
+    "address": "11767 Katy Freeway, Houston, TX, 77079",
+    "location": {
+      "lat": 29.7837242,
+      "lng": -95.5929588
+    },
+    "phone": "+1-832-979-4178",
+    "website": "https://www.atlasfirm.law/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13439763051",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13439763051,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "11767",
+      "addr:postcode": "77079",
+      "addr:state": "TX",
+      "addr:street": "Katy Freeway",
+      "addr:unit": "1100",
+      "name": "The Atlas Law Firm - Car Accident and Personal Injury Attorneys",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-832-979-4178",
+      "website": "https://www.atlasfirm.law/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5117238052",
+    "name": "Terry Bryant Accident & Injury Law",
+    "address": "8584 Katy Freeway, Houston, TX, 77024",
+    "location": {
+      "lat": 29.7870113,
+      "lng": -95.4978146
+    },
+    "phone": "+1-713-973-8888",
+    "website": "https://www.terrybryant.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5117238052",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "09:00-18:00",
+      "Thursday": "09:00-18:00",
+      "Friday": "09:00-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5117238052,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "8584",
+      "addr:postcode": "77024",
+      "addr:state": "TX",
+      "addr:street": "Katy Freeway",
+      "addr:unit": "100",
+      "name": "Terry Bryant Accident & Injury Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-18:00",
+      "phone": "+1-713-973-8888",
+      "website": "https://www.terrybryant.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5293574632",
+    "name": "RD Davis Law",
+    "address": "9801 Westheimer Road, Houston, TX, 77042",
+    "location": {
+      "lat": 29.7364916,
+      "lng": -95.541717
+    },
+    "phone": "+1-832-800-1959",
+    "website": "https://houstonattorneyhelp.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5293574632",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5293574632,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "9801",
+      "addr:postcode": "77042",
+      "addr:state": "TX",
+      "addr:street": "Westheimer Road",
+      "addr:unit": "Ste 302",
+      "name": "RD Davis Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "payment:american_express": "yes",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "phone": "+1-832-800-1959",
+      "website": "https://houstonattorneyhelp.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7069564842",
+    "name": "The Ferrell Law Firm, P.C.",
+    "address": "5005 Riverway Drive, Houston, TX, 77056",
+    "location": {
+      "lat": 29.7611549,
+      "lng": -95.4640664
+    },
+    "phone": "+1-713-800-0220",
+    "website": "https://ferrell-lawfirm.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7069564842",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-17:30",
+      "Tuesday": "08:30-17:30",
+      "Wednesday": "08:30-17:30",
+      "Thursday": "08:30-17:30",
+      "Friday": "08:30-17:30",
+      "Saturday": "08:30-17:30",
+      "Sunday": "08:30-17:30"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7069564842,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "5005",
+      "addr:postcode": "77056",
+      "addr:state": "TX",
+      "addr:street": "Riverway Drive",
+      "addr:unit": "450",
+      "email": "sferrell@ferrell-lawfirm.com",
+      "name": "The Ferrell Law Firm, P.C.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Su 08:30-17:30",
+      "phone": "+1-713-800-0220",
+      "website": "https://ferrell-lawfirm.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7733587367",
+    "name": "Gardner Employment Law",
+    "address": "2100 West Loop South, Houston, TX, 77027",
+    "location": {
+      "lat": 29.7457371,
+      "lng": -95.4578847
+    },
+    "phone": "+1-832-834-3210",
+    "website": "https://gardneremploymentlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7733587367",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "off",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7733587367,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "2100",
+      "addr:postcode": "77027",
+      "addr:state": "TX",
+      "addr:street": "West Loop South",
+      "addr:unit": "1125",
+      "email": "Barbara@GardnerEmploymentLaw.com",
+      "fax": "+1-832-998-8118",
+      "name": "Gardner Employment Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00; Sa-Su off",
+      "phone": "+1-832-834-3210",
+      "website": "https://gardneremploymentlaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7896661199",
+    "name": "Johnson Garcia LLP",
+    "address": "7324 Southwest Freeway, Houston, TX, 77074",
+    "location": {
+      "lat": 29.701776,
+      "lng": -95.5181582
+    },
+    "phone": "+1-832-844-6700",
+    "website": "https://www.johnsongarcialaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7896661199",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7896661199,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "7324",
+      "addr:postcode": "77074",
+      "addr:state": "TX",
+      "addr:street": "Southwest Freeway",
+      "addr:unit": "545",
+      "contact:email": "info@johnsongarcialaw.com",
+      "contact:facebook": "http://www.facebook.com/johnsongarcialaw/",
+      "contact:phone": "+1-832-844-6700",
+      "contact:twitter": "http://twitter.com/JGinjurylawyers",
+      "contact:website": "https://www.johnsongarcialaw.com/",
+      "name": "Johnson Garcia LLP",
+      "office": "lawyer",
+      "opening_hours": "24/7"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9340219635",
+    "name": "Armstrong Lee & Baker LLP",
+    "address": "2800 North Loop West, Houston, TX, 77092",
+    "location": {
+      "lat": 29.8053163,
+      "lng": -95.4480908
+    },
+    "phone": "+1-832-709-1124",
+    "website": "https://albtriallawyers.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9340219635",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-18:00",
+      "Tuesday": "08:30-18:00",
+      "Wednesday": "08:30-18:00",
+      "Thursday": "08:30-18:00",
+      "Friday": "08:30-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9340219635,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:country": "US",
+      "addr:housenumber": "2800",
+      "addr:postcode": "77092",
+      "addr:state": "TX",
+      "addr:street": "North Loop West",
+      "addr:unit": "900",
+      "description": "Personal injury lawyers.",
+      "name": "Armstrong Lee & Baker LLP",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-18:00",
+      "operator": "Scott Armstrong",
+      "phone": "+1-832-709-1124",
+      "website": "https://albtriallawyers.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9596652799",
+    "name": "Katherine Boyd Law",
+    "address": "950 Echo Lane, Houston, TX, 77024",
+    "location": {
+      "lat": 29.7818866,
+      "lng": -95.5206445
+    },
+    "phone": "+1-832-586-6573",
+    "website": "https://katherineboydlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9596652799",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00",
+      "Saturday": "off",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9596652799,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "950",
+      "addr:postcode": "77024",
+      "addr:state": "TX",
+      "addr:street": "Echo Lane",
+      "addr:unit": "200",
+      "email": "kboyd@steedbarkerlaw.com",
+      "name": "Katherine Boyd Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00; Sa-Su off",
+      "phone": "+1-832-586-6573",
+      "website": "https://katherineboydlaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9963293854",
+    "name": "Heard Merman Accident & Injury Trial Lawyers",
+    "address": "4900 Fournace Place, Bellaire, TX, 77401",
+    "location": {
+      "lat": 29.7169403,
+      "lng": -95.4645831
+    },
+    "phone": "+1 713-665-1100",
+    "website": "https://www.heardmerman.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9963293854",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "09:00-18:00",
+      "Thursday": "09:00-18:00",
+      "Friday": "09:00-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9963293854,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Bellaire",
+      "addr:country": "US",
+      "addr:housenumber": "4900",
+      "addr:postcode": "77401",
+      "addr:state": "TX",
+      "addr:street": "Fournace Place",
+      "addr:unit": "240",
+      "name": "Heard Merman Accident & Injury Trial Lawyers",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-18:00",
+      "operator": "Derek Merman",
+      "phone": "+1 713-665-1100",
+      "website": "https://www.heardmerman.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10296204552",
+    "name": "Kay Polk, Attorney at Law",
+    "address": "1502 Augusta Drive, Houston, TX, 77057",
+    "location": {
+      "lat": 29.7524658,
+      "lng": -95.4832384
+    },
+    "phone": "+1 713-392-3456",
+    "website": "https://kaypolklaw.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10296204552",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-18:00",
+      "Tuesday": "08:00-18:00",
+      "Wednesday": "08:00-18:00",
+      "Thursday": "08:00-18:00",
+      "Friday": "08:00-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10296204552,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "1502",
+      "addr:postcode": "77057",
+      "addr:state": "TX",
+      "addr:street": "Augusta Drive",
+      "addr:unit": "390",
+      "name": "Kay Polk, Attorney at Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-18:00",
+      "phone": "+1 713-392-3456",
+      "website": "https://kaypolklaw.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11104122692",
+    "name": "Walker Texas Lawyer",
+    "address": "3100 Timmons Lane, Houston, TX, 77027",
+    "location": {
+      "lat": 29.7367629,
+      "lng": -95.4370438
+    },
+    "phone": "+1 713-903-2481",
+    "website": "https://walkertexaslawyer.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11104122692",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11104122692,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "3100",
+      "addr:postcode": "77027",
+      "addr:state": "TX",
+      "addr:street": "Timmons Lane",
+      "addr:unit": "401",
+      "country": "US",
+      "name": "Walker Texas Lawyer",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 713-903-2481",
+      "website": "https://walkertexaslawyer.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12501121541",
+    "name": "Sutliff & Stout",
+    "address": "550 Post Oak Boulevard, Houston, TX, 77027",
+    "location": {
+      "lat": 29.7544345,
+      "lng": -95.453454
+    },
+    "phone": "+1-713-364-1050",
+    "website": "https://www.sutliffstout.com/houston-car-accident-lawyer/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12501121541",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12501121541,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "550",
+      "addr:postcode": "77027",
+      "addr:state": "TX",
+      "addr:street": "Post Oak Boulevard",
+      "addr:unit": "#530",
+      "contact:facebook": "SutliffStout",
+      "contact:instagram": "sutliffandstout",
+      "contact:linkedin": "sutliff-&-stout-pllc",
+      "contact:pinterest": "sutliffstouttx",
+      "contact:twitter": "sutliffstout",
+      "contact:youtube": "UCFB4f2p6YWgnX0V6znr9c7w",
+      "mobile": "+1-713-987-7111",
+      "name": "Sutliff & Stout",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-713-364-1050",
+      "website": "https://www.sutliffstout.com/houston-car-accident-lawyer/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12665355202",
+    "name": "The Law Offices of Luis Garcia PLLC",
+    "address": "13364 Woodforest Boulevard, 77015",
+    "location": {
+      "lat": 29.7915348,
+      "lng": -95.187624
+    },
+    "phone": "+1-832-212-8302",
+    "website": "https://luisgarcialaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12665355202",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12665355202,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "13364",
+      "addr:postcode": "77015",
+      "addr:street": "Woodforest Boulevard",
+      "name": "The Law Offices of Luis Garcia PLLC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1-832-212-8302",
+      "website": "https://luisgarcialaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5850939868",
+    "name": "Geoffrey Guill, Attorney At Law",
+    "address": "4721 Garth Road, Baytown, TX, 77521",
+    "location": {
+      "lat": 29.776495,
+      "lng": -94.9784774
+    },
+    "phone": "+1-281-422-4995",
+    "website": "http://www.guill-law.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5850939868",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "09:00-18:00",
+      "Thursday": "09:00-18:00",
+      "Friday": "09:00-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5850939868,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Baytown",
+      "addr:housenumber": "4721",
+      "addr:postcode": "77521",
+      "addr:state": "TX",
+      "addr:street": "Garth Road",
+      "addr:unit": "Suite B-200",
+      "fax": "+1-281-420-7445",
+      "name": "Geoffrey Guill, Attorney At Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-18:00",
+      "phone": "+1-281-422-4995",
+      "website": "http://www.guill-law.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5468334887",
+    "name": "Baumgartner Law Firm",
+    "address": "6711 Cypress Creek Parkway, Houston, TX, 77069",
+    "location": {
+      "lat": 29.9704664,
+      "lng": -95.5291593
+    },
+    "phone": "+1 281 587 1111",
+    "website": "https://baumgartnerlawyers.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5468334887",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5468334887,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "6711",
+      "addr:postcode": "77069",
+      "addr:state": "TX",
+      "addr:street": "Cypress Creek Parkway",
+      "facebook": "https://www.facebook.com/BaumgartnerLawFirm",
+      "name": "Baumgartner Law Firm",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1 281 587 1111",
+      "twitter": "https://twitter.com/texastriallaw",
+      "website": "https://baumgartnerlawyers.com"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5941989446",
+    "name": "Roger T Yokubaitis PLLC",
+    "address": "8303 Ivan Reid Dr, Houston, TX, 77040",
+    "location": {
+      "lat": 29.893093,
+      "lng": -95.5290115
+    },
+    "phone": "+1-713-227-9000",
+    "website": "https://www.rogerylaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5941989446",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "10:00-21:00",
+      "Tuesday": "10:00-21:00",
+      "Wednesday": "10:00-21:00",
+      "Thursday": "10:00-21:00",
+      "Friday": "10:00-21:00",
+      "Saturday": "10:00-21:00",
+      "Sunday": "13:00-21:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5941989446,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "8303",
+      "addr:postcode": "77040",
+      "addr:state": "TX",
+      "addr:street": "Ivan Reid Dr",
+      "fax": "+1-832-201-6763",
+      "name": "Roger T Yokubaitis PLLC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Sa 10:00-21:00; Su 13:00-21:00",
+      "phone": "+1-713-227-9000",
+      "website": "https://www.rogerylaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_13016341807",
+    "name": "Scott M. Brown & Associates",
+    "address": "6302 Broadway St, Pearland, TX, 77581",
+    "location": {
+      "lat": 29.5588828,
+      "lng": -95.3166266
+    },
+    "phone": "+18325369547",
+    "website": "https://sbrownlawyer.com/pearland/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13016341807",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13016341807,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Pearland",
+      "addr:housenumber": "6302",
+      "addr:postcode": "77581",
+      "addr:state": "TX",
+      "addr:street": "Broadway St",
+      "addr:unit": "#250",
+      "name": "Scott M. Brown & Associates",
+      "office": "lawyer",
+      "phone": "+18325369547",
+      "website": "https://sbrownlawyer.com/pearland/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3691751845",
+    "name": "Simmons and Fletcher, P.C., Injury & Accident Lawyers",
+    "address": "9821 Katy Freeway, Houston, TX, 77024",
+    "location": {
+      "lat": 29.7835009,
+      "lng": -95.5373767
+    },
+    "phone": "+1-713-932-0777",
+    "website": "https://www.simmonsandfletcher.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3691751845",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3691751845,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "9821",
+      "addr:postcode": "77024",
+      "addr:state": "TX",
+      "addr:street": "Katy Freeway",
+      "addr:unit": "925",
+      "description": "Personal injury lawyers and car accident attorneys",
+      "email": "info@simmonsandfletcher.com",
+      "level": "9",
+      "name": "Simmons and Fletcher, P.C., Injury & Accident Lawyers",
+      "office": "lawyer",
+      "phone": "+1-713-932-0777",
+      "source": "local knowledge;https://www.simmonsandfletcher.com/",
+      "start_date": "1979",
+      "website": "https://www.simmonsandfletcher.com/",
+      "wheelchair": "yes"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4529583733",
+    "name": "Joel A. Gordon & Associates",
+    "address": "6666 Harwin Drive, Houston, TX, 77036",
+    "location": {
+      "lat": 29.7202043,
+      "lng": -95.4992932
+    },
+    "phone": "+1-281-943-5555",
+    "website": "https://joelagordon.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4529583733",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4529583733,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "6666",
+      "addr:postcode": "77036",
+      "addr:state": "TX",
+      "addr:street": "Harwin Drive",
+      "addr:unit": "220",
+      "fax": "+1-281-822-2938",
+      "name": "Joel A. Gordon & Associates",
+      "office": "lawyer",
+      "phone": "+1-281-943-5555",
+      "website": "https://joelagordon.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6413914341",
+    "name": "The Weaver Law Firm",
+    "address": "1800 Bering Drive, Houston, TX, 77057",
+    "location": {
+      "lat": 29.7483053,
+      "lng": -95.4802113
+    },
+    "phone": "+1-713-572-4900",
+    "website": "https://www.weaverlawyers.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6413914341",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6413914341,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "1800",
+      "addr:postcode": "77057",
+      "addr:state": "TX",
+      "addr:street": "Bering Drive",
+      "addr:unit": "1050",
+      "name": "The Weaver Law Firm",
+      "office": "lawyer",
+      "phone": "+1-713-572-4900",
+      "website": "https://www.weaverlawyers.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9454322412",
+    "name": "Ghuneim Law Firm",
+    "address": "3115 Preston Road, Pasadena, TX",
+    "location": {
+      "lat": 29.6649667,
+      "lng": -95.1717362
+    },
+    "phone": "+1 281 487 8929",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9454322412",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9454322412,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Pasadena",
+      "addr:housenumber": "3115",
+      "addr:state": "TX",
+      "addr:street": "Preston Road",
+      "name": "Ghuneim Law Firm",
+      "office": "lawyer",
+      "phone": "+1 281 487 8929"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7576055919",
+    "name": "The Cromeens Law Firm",
+    "address": "8431 Katy Freeway, Houston, TX, 77024",
+    "location": {
+      "lat": 29.7833245,
+      "lng": -95.4910268
+    },
+    "phone": "",
+    "website": "https://thecromeenslawfirm.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7576055919",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7576055919,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "8431",
+      "addr:postcode": "77024",
+      "addr:state": "TX",
+      "addr:street": "Katy Freeway",
+      "name": "The Cromeens Law Firm",
+      "office": "lawyer",
+      "website": "https://thecromeenslawfirm.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7064255366",
+    "name": "Arguelo Law Firm",
+    "address": "101d East Little York Road, Houston, TX",
+    "location": {
+      "lat": 29.870449,
+      "lng": -95.3985478
+    },
+    "phone": "",
+    "website": "https://defyoppression.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7064255366",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7064255366,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "101d",
+      "addr:state": "TX",
+      "addr:street": "East Little York Road",
+      "name": "Arguelo Law Firm",
+      "name:es": "Abogados Arguelo",
+      "office": "lawyer",
+      "website": "https://defyoppression.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12023733184",
+    "name": "Norman & Associates",
+    "address": "6069 West Broadway Street",
+    "location": {
+      "lat": 29.5603561,
+      "lng": -95.3136381
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12023733184",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12023733184,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "6069",
+      "addr:street": "West Broadway Street",
+      "check_date": "2024-06-30",
+      "name": "Norman & Associates",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5670095296",
+    "name": "Citizen Law Firm PLLC",
+    "address": "2616 South Loop West, Houston, TX, 77054",
+    "location": {
+      "lat": 29.6784755,
+      "lng": -95.4199532
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5670095296",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5670095296,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "2616",
+      "addr:postcode": "77054",
+      "addr:state": "TX",
+      "addr:street": "South Loop West",
+      "addr:unit": "625",
+      "name": "Citizen Law Firm PLLC",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6110311383",
+    "name": "Weisblatt Law Firm LLC",
+    "address": "1800 Saint James Place, Houston, TX",
+    "location": {
+      "lat": 29.7474532,
+      "lng": -95.4735913
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6110311383",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6110311383,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "1800",
+      "addr:state": "TX",
+      "addr:street": "Saint James Place",
+      "addr:unit": "105",
+      "name": "Weisblatt Law Firm LLC",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_441484619",
+    "name": "Arnold & Itkin LLP",
+    "address": "6009 Memorial Drive, Houston, TX",
+    "location": {
+      "lat": 29.7610498,
+      "lng": -95.422966
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/441484619",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 441484619,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "6009",
+      "addr:state": "TX",
+      "addr:street": "Memorial Drive",
+      "building": "yes",
+      "check_date": "2022-12-30",
+      "name": "Arnold & Itkin LLP",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_760115522",
+    "name": "The Law Offices of Hilda Sibrian",
+    "address": "846 North Loop, Houston, TX",
+    "location": {
+      "lat": 29.8133467,
+      "lng": -95.3881151
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/760115522",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 760115522,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Houston",
+      "addr:housenumber": "846",
+      "addr:state": "TX",
+      "addr:street": "North Loop",
+      "building": "yes",
+      "check_date": "2025-04-02",
+      "description": "Personal injury practice",
+      "name": "The Law Offices of Hilda Sibrian",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4882440638",
+    "name": "Notary and Tax office",
+    "address": "",
+    "location": {
+      "lat": 29.5952282,
+      "lng": -95.4668471
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4882440638",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4882440638,
+    "osm_type": "node",
+    "osm_tags": {
+      "lawyer": "notary",
+      "name": "Notary and Tax office",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_6284712511",
+    "name": "Gogo U.K. Owor",
+    "address": "",
+    "location": {
+      "lat": 29.7120355,
+      "lng": -95.4933645
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6284712511",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6284712511,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Gogo U.K. Owor",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12540894197",
+    "name": "Law Office of Solis & Yan",
+    "address": "",
+    "location": {
+      "lat": 29.7053777,
+      "lng": -95.5445174
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12540894197",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12540894197,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Law Office of Solis & Yan",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_1231183101",
+    "name": "Padilla & Rodriguez",
+    "address": "",
+    "location": {
+      "lat": 29.7314456,
+      "lng": -95.4907703
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/1231183101",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1231183101,
+    "osm_type": "way",
+    "osm_tags": {
+      "building": "yes",
+      "name": "Padilla & Rodriguez",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  }
+]

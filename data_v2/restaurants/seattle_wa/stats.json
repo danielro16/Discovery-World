@@ -1,0 +1,17 @@
+{
+  "vertical": "restaurants",
+  "city": "Seattle, WA",
+  "total_places": 2984,
+  "sources": {
+    "osm": 2984,
+    "public_records": 0
+  },
+  "with_website": 1490,
+  "with_phone": 1246,
+  "with_address": 2301,
+  "with_license": 0,
+  "avg_completeness": 43.3,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

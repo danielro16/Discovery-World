@@ -1,0 +1,17 @@
+{
+  "vertical": "gyms",
+  "city": "Denver, CO",
+  "total_places": 514,
+  "sources": {
+    "osm": 514,
+    "public_records": 0
+  },
+  "with_website": 169,
+  "with_phone": 155,
+  "with_address": 367,
+  "with_license": 0,
+  "avg_completeness": 35.5,
+  "attribution": [
+    "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
+  ]
+}

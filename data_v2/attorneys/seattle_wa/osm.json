@@ -1,0 +1,5015 @@
+[
+  {
+    "id": "osm_node_2380705071",
+    "name": "Dobson & Davidson, Attorneys at Law",
+    "address": "229 Williams Avenue South, Renton, WA, 98057",
+    "location": {
+      "lat": 47.4801222,
+      "lng": -122.2068245
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2380705071",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2380705071,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Renton",
+      "addr:housenumber": "229",
+      "addr:postcode": "98057",
+      "addr:state": "WA",
+      "addr:street": "Williams Avenue South",
+      "name": "Dobson & Davidson, Attorneys at Law",
+      "office": "lawyer",
+      "source": "King County GIS"
+    }
+  },
+  {
+    "id": "osm_node_2966905913",
+    "name": "Phillips Law Firm",
+    "address": "900 Southwest 16th Street, Renton, WA, 98057",
+    "location": {
+      "lat": 47.4665236,
+      "lng": -122.2301253
+    },
+    "phone": "+1-425-970-6700",
+    "website": "https://www.justiceforyou.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2966905913",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2966905913,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Renton",
+      "addr:housenumber": "900",
+      "addr:postcode": "98057",
+      "addr:state": "WA",
+      "addr:street": "Southwest 16th Street",
+      "name": "Phillips Law Firm",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-425-970-6700",
+      "website": "https://www.justiceforyou.com/"
+    }
+  },
+  {
+    "id": "osm_node_4228495789",
+    "name": "Gary Olson, Attorney at Law",
+    "address": "",
+    "location": {
+      "lat": 47.444501,
+      "lng": -122.2179309
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4228495789",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4228495789,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Gary Olson, Attorney at Law",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_4238459293",
+    "name": "David P. Tracey",
+    "address": "108 Wells Avenue South, Renton, WA, 98057",
+    "location": {
+      "lat": 47.4823289,
+      "lng": -122.2051367
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4238459293",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4238459293,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Renton",
+      "addr:housenumber": "108",
+      "addr:postcode": "98057",
+      "addr:state": "WA",
+      "addr:street": "Wells Avenue South",
+      "name": "David P. Tracey",
+      "office": "lawyer",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "osm_node_4238751681",
+    "name": "Endres Law Firm",
+    "address": "304 Main Avenue South, Renton, WA, 98057",
+    "location": {
+      "lat": 47.4793702,
+      "lng": -122.2038728
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4238751681",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4238751681,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Renton",
+      "addr:housenumber": "304",
+      "addr:postcode": "98057",
+      "addr:state": "WA",
+      "addr:street": "Main Avenue South",
+      "name": "Endres Law Firm",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_4263613589",
+    "name": "Buttar & Cantor LLP, Immigration Lawyers",
+    "address": "",
+    "location": {
+      "lat": 47.453926,
+      "lng": -122.2428219
+    },
+    "phone": "+1-425-251-3134",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4263613589",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Tuesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Saturday": "09:00-17:00",
+      "Wednesday": "10:00-18:30",
+      "Friday": "07:30-16:00",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4263613589,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Buttar & Cantor LLP, Immigration Lawyers",
+      "office": "lawyer",
+      "opening_hours": "Tu,Th,Sa 09:00-17:00; We 10:00-18:30; Fr 07:30-16:00; Su off",
+      "phone": "+1-425-251-3134"
+    }
+  },
+  {
+    "id": "osm_node_4265482590",
+    "name": "Kenyon Disend, PLLC",
+    "address": "",
+    "location": {
+      "lat": 47.5298874,
+      "lng": -122.0367943
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4265482590",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4265482590,
+    "osm_type": "node",
+    "osm_tags": {
+      "check_date": "2024-02-17",
+      "name": "Kenyon Disend, PLLC",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_4265492190",
+    "name": "Moss Adams LLP",
+    "address": "",
+    "location": {
+      "lat": 47.5336253,
+      "lng": -122.0369809
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4265492190",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4265492190,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Moss Adams LLP",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_4556361892",
+    "name": "Edward K. Le pllc Attorney at Law",
+    "address": "",
+    "location": {
+      "lat": 47.4838338,
+      "lng": -122.2024971
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4556361892",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4556361892,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Edward K. Le pllc Attorney at Law",
+      "name:en": "Edward K. Le pllc Attorney at Law",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_4778231869",
+    "name": "Accident Attorneys",
+    "address": "17637 108th Avenue Southeast, Renton, WA, 98055",
+    "location": {
+      "lat": 47.4443663,
+      "lng": -122.1974575
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4778231869",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4778231869,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Renton",
+      "addr:housenumber": "17637",
+      "addr:postcode": "98055",
+      "addr:state": "WA",
+      "addr:street": "108th Avenue Southeast",
+      "brand": "Jackson Hewitt",
+      "brand:wikidata": "Q6117132",
+      "check_date": "2025-12-12",
+      "name": "Accident Attorneys",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_4984263947",
+    "name": "Arjomand Law Group",
+    "address": "",
+    "location": {
+      "lat": 47.526999,
+      "lng": -122.0369361
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4984263947",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4984263947,
+    "osm_type": "node",
+    "osm_tags": {
+      "check_date": "2023-07-09",
+      "name": "Arjomand Law Group",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_5594721821",
+    "name": "Swanson & Gardner, Attorneys at Law",
+    "address": "",
+    "location": {
+      "lat": 47.4391426,
+      "lng": -122.212472
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5594721821",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5594721821,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Swanson & Gardner, Attorneys at Law",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_7756425318",
+    "name": "Tamblyn Law",
+    "address": "15 South Grady Way, Renton, WA, 98057",
+    "location": {
+      "lat": 47.4693336,
+      "lng": -122.215461
+    },
+    "phone": "+1-206-312-3779",
+    "website": "https://tamblynlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7756425318",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7756425318,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Renton",
+      "addr:housenumber": "15",
+      "addr:postcode": "98057",
+      "addr:state": "WA",
+      "addr:street": "South Grady Way",
+      "addr:unit": "115",
+      "email": "saratamblyn@tamblynlaw.com",
+      "name": "Tamblyn Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1-206-312-3779",
+      "website": "https://tamblynlaw.com/"
+    }
+  },
+  {
+    "id": "osm_node_9490504717",
+    "name": "Tran Law Group",
+    "address": "",
+    "location": {
+      "lat": 47.4850382,
+      "lng": -122.1968855
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9490504717",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9490504717,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Tran Law Group",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_9663766442",
+    "name": "Carl Colbert Law",
+    "address": "",
+    "location": {
+      "lat": 47.446823,
+      "lng": -122.1545589
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9663766442",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9663766442,
+    "osm_type": "node",
+    "osm_tags": {
+      "check_date": "2024-10-15",
+      "name": "Carl Colbert Law",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_11036450875",
+    "name": "Injury Law Group",
+    "address": "",
+    "location": {
+      "lat": 47.5340693,
+      "lng": -122.044387
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11036450875",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11036450875,
+    "osm_type": "node",
+    "osm_tags": {
+      "check_date": "2023-07-09",
+      "name": "Injury Law Group",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_11356341069",
+    "name": "Malik Law Firm",
+    "address": "",
+    "location": {
+      "lat": 47.5204944,
+      "lng": -122.2087108
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11356341069",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11356341069,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Malik Law Firm",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_12255435094",
+    "name": "Wilson & Wilson Attorneys at Law",
+    "address": "",
+    "location": {
+      "lat": 47.4673662,
+      "lng": -122.207345
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12255435094",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12255435094,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Wilson & Wilson Attorneys at Law",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_13272996825",
+    "name": "James R Short Attorney At Law",
+    "address": "",
+    "location": {
+      "lat": 47.4701964,
+      "lng": -122.2315861
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13272996825",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13272996825,
+    "osm_type": "node",
+    "osm_tags": {
+      "check_date": "2025-10-31",
+      "name": "James R Short Attorney At Law",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_13272996881",
+    "name": "Jamie Barron Immigration Law Group",
+    "address": "",
+    "location": {
+      "lat": 47.4707966,
+      "lng": -122.2313975
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13272996881",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13272996881,
+    "osm_type": "node",
+    "osm_tags": {
+      "check_date": "2025-10-31",
+      "name": "Jamie Barron Immigration Law Group",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_13295427557",
+    "name": "Law Office Of Cleodis Ford",
+    "address": "",
+    "location": {
+      "lat": 47.4910886,
+      "lng": -122.2394145
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13295427557",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13295427557,
+    "osm_type": "node",
+    "osm_tags": {
+      "check_date": "2025-11-10",
+      "name": "Law Office Of Cleodis Ford",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_13317601927",
+    "name": "Law Offices Of Paul Houser Jr.",
+    "address": "",
+    "location": {
+      "lat": 47.5063629,
+      "lng": -122.15606
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13317601927",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13317601927,
+    "osm_type": "node",
+    "osm_tags": {
+      "check_date": "2025-11-19",
+      "name": "Law Offices Of Paul Houser Jr.",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_way_652197293",
+    "name": "Highlands Immigration Law Firm",
+    "address": "3005 Northeast Sunset Boulevard, Renton, WA, 98056",
+    "location": {
+      "lat": 47.5023189,
+      "lng": -122.1775536
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/652197293",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 652197293,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Renton",
+      "addr:housenumber": "3005",
+      "addr:postcode": "98056",
+      "addr:state": "WA",
+      "addr:street": "Northeast Sunset Boulevard",
+      "building": "yes",
+      "name": "Highlands Immigration Law Firm",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_way_654954884",
+    "name": "Steven D. Weier",
+    "address": "331 Andover Park East, Tukwila, WA, 98188",
+    "location": {
+      "lat": 47.4554761,
+      "lng": -122.2505646
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/654954884",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 654954884,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Tukwila",
+      "addr:housenumber": "331",
+      "addr:postcode": "98188",
+      "addr:state": "WA",
+      "addr:street": "Andover Park East",
+      "building": "yes",
+      "name": "Steven D. Weier",
+      "name:en": "Steven D. Weier",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_13398861907",
+    "name": "John S. Tracy Law",
+    "address": "2011 East 11th Street, Bremerton, WA, 98310",
+    "location": {
+      "lat": 47.5701666,
+      "lng": -122.6161876
+    },
+    "phone": "+1-360-479-6644",
+    "website": "https://www.johntracylaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13398861907",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13398861907,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Bremerton",
+      "addr:housenumber": "2011",
+      "addr:postcode": "98310",
+      "addr:state": "WA",
+      "addr:street": "East 11th Street",
+      "email": "johntracy@johntracylaw.com",
+      "name": "John S. Tracy Law",
+      "office": "lawyer",
+      "phone": "+1-360-479-6644",
+      "website": "https://www.johntracylaw.com/"
+    }
+  },
+  {
+    "id": "osm_node_13398985123",
+    "name": "SGB Law",
+    "address": "423 Pacific Avenue, Bremerton, WA, 98337",
+    "location": {
+      "lat": 47.5663605,
+      "lng": -122.6271022
+    },
+    "phone": "+1-206-622-8000",
+    "website": "https://sgb-law.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13398985123",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13398985123,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Bremerton",
+      "addr:housenumber": "423",
+      "addr:postcode": "98337",
+      "addr:state": "WA",
+      "addr:street": "Pacific Avenue",
+      "addr:unit": "103",
+      "level": "0",
+      "name": "SGB Law",
+      "office": "lawyer",
+      "phone": "+1-206-622-8000",
+      "website": "https://sgb-law.com/"
+    }
+  },
+  {
+    "id": "osm_node_13419308409",
+    "name": "Telegin Law",
+    "address": "216 6th Street, Bremerton, WA, 98310",
+    "location": {
+      "lat": 47.5675395,
+      "lng": -122.6247103
+    },
+    "phone": "+1-206-453-2884",
+    "website": "https://teleginlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13419308409",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13419308409,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Bremerton",
+      "addr:housenumber": "216",
+      "addr:postcode": "98310",
+      "addr:state": "WA",
+      "addr:street": "6th Street",
+      "email": "info@teleginlaw.com",
+      "name": "Telegin Law",
+      "office": "lawyer",
+      "phone": "+1-206-453-2884",
+      "website": "https://teleginlaw.com/"
+    }
+  },
+  {
+    "id": "osm_node_13423645447",
+    "name": "The Law Office of Timothy J. Wilson",
+    "address": "409 Pacific Avenue, Bremerton, WA, 98337",
+    "location": {
+      "lat": 47.5659757,
+      "lng": -122.6271177
+    },
+    "phone": "+1-360-616-0675",
+    "website": "https://www.timwilsonlaw-bankruptcy.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13423645447",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13423645447,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Bremerton",
+      "addr:housenumber": "409",
+      "addr:postcode": "98337",
+      "addr:state": "WA",
+      "addr:street": "Pacific Avenue",
+      "addr:unit": "304",
+      "name": "The Law Office of Timothy J. Wilson",
+      "office": "lawyer",
+      "phone": "+1-360-616-0675",
+      "website": "https://www.timwilsonlaw-bankruptcy.com/"
+    }
+  },
+  {
+    "id": "osm_way_388842032",
+    "name": "Marler Clark",
+    "address": "",
+    "location": {
+      "lat": 47.6244457,
+      "lng": -122.5135784
+    },
+    "phone": "",
+    "website": "https://www.marlerblog.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/388842032",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 388842032,
+    "osm_type": "way",
+    "osm_tags": {
+      "building": "office",
+      "name": "Marler Clark",
+      "office": "lawyer",
+      "old_name": "Windermere Real Estate",
+      "website": "https://www.marlerblog.com/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": "osm_way_561568628",
+    "name": "Friedman Rubin Trial Lawyers",
+    "address": "1126 Highland Avenue, Bremerton, WA, 98337",
+    "location": {
+      "lat": 47.5724618,
+      "lng": -122.625165
+    },
+    "phone": "+1360-782-4300",
+    "website": "https://friedmanrubin.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/561568628",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 561568628,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Bremerton",
+      "addr:housenumber": "1126",
+      "addr:postcode": "98337",
+      "addr:state": "WA",
+      "addr:street": "Highland Avenue",
+      "building": "house",
+      "name": "Friedman Rubin Trial Lawyers",
+      "office": "lawyer",
+      "phone": "+1360-782-4300",
+      "website": "https://friedmanrubin.com/"
+    }
+  },
+  {
+    "id": "osm_node_2047481667",
+    "name": "Parker Law Firm",
+    "address": "2110 North Pacific Street",
+    "location": {
+      "lat": 47.6486627,
+      "lng": -122.3329258
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2047481667",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2047481667,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "2110",
+      "addr:street": "North Pacific Street",
+      "name": "Parker Law Firm",
+      "office": "lawyer",
+      "source": "data.seattle.gov"
+    }
+  },
+  {
+    "id": "osm_node_2136831036",
+    "name": "Dan N. Fiorito III",
+    "address": "844 Northwest 48th Street, Seattle, 98107",
+    "location": {
+      "lat": 47.6637742,
+      "lng": -122.3682094
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2136831036",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2136831036,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "844",
+      "addr:postcode": "98107",
+      "addr:street": "Northwest 48th Street",
+      "name": "Dan N. Fiorito III",
+      "office": "lawyer",
+      "source": "King County GIS"
+    }
+  },
+  {
+    "id": "osm_node_2159323020",
+    "name": "Law Offices of Ralph A. Leaf",
+    "address": "309 East Pike Street, Seattle, 98122",
+    "location": {
+      "lat": 47.6139336,
+      "lng": -122.3270742
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2159323020",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2159323020,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "309",
+      "addr:postcode": "98122",
+      "addr:street": "East Pike Street",
+      "name": "Law Offices of Ralph A. Leaf",
+      "office": "lawyer",
+      "source": "King County GIS"
+    }
+  },
+  {
+    "id": "osm_node_2223782076",
+    "name": "Burk Legal",
+    "address": "1718 East Olive Way, Seattle, 98102",
+    "location": {
+      "lat": 47.6200267,
+      "lng": -122.3227112
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2223782076",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2223782076,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "1718",
+      "addr:postcode": "98102",
+      "addr:street": "East Olive Way",
+      "addr:suite": "Suite A",
+      "addr:unit": "A",
+      "name": "Burk Legal",
+      "office": "lawyer",
+      "source": "survey"
+    }
+  },
+  {
+    "id": "osm_node_2327723247",
+    "name": "ABC Legal Services",
+    "address": "2115 5th Avenue, Seattle, WA, 98121",
+    "location": {
+      "lat": 47.6146948,
+      "lng": -122.3412026
+    },
+    "phone": "+1-800-736-7295",
+    "website": "https://www.abclegal.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2327723247",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2327723247,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "2115",
+      "addr:postcode": "98121",
+      "addr:state": "WA",
+      "addr:street": "5th Avenue",
+      "name": "ABC Legal Services",
+      "office": "lawyer",
+      "phone": "+1-800-736-7295",
+      "source": "King County GIS;data.seattle.gov",
+      "website": "https://www.abclegal.com/"
+    }
+  },
+  {
+    "id": "osm_node_2328649915",
+    "name": "Gustad Law Group",
+    "address": "7815 Greenwood Avenue North, Seattle, 98103",
+    "location": {
+      "lat": 47.6861044,
+      "lng": -122.3555618
+    },
+    "phone": "+1-206-533-2222",
+    "website": "https://www.gustadlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2328649915",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2328649915,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "7815",
+      "addr:postcode": "98103",
+      "addr:street": "Greenwood Avenue North",
+      "name": "Gustad Law Group",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-17:00",
+      "phone": "+1-206-533-2222",
+      "source": "King County GIS;data.seattle.gov",
+      "website": "https://www.gustadlaw.com/"
+    }
+  },
+  {
+    "id": "osm_node_2351695700",
+    "name": "Russell Law Offices",
+    "address": "76 South Main Street, Seattle, WA, 98104",
+    "location": {
+      "lat": 47.6001696,
+      "lng": -122.3353262
+    },
+    "phone": "+1-206-621-2102",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2351695700",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2351695700,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "76",
+      "addr:postcode": "98104",
+      "addr:state": "WA",
+      "addr:street": "South Main Street",
+      "name": "Russell Law Offices",
+      "office": "lawyer",
+      "phone": "+1-206-621-2102",
+      "source": "Pioneer Square Association;King County GIS;data.seattle.gov"
+    }
+  },
+  {
+    "id": "osm_node_2351711784",
+    "name": "Northwest Legal Support",
+    "address": "102 Prefontaine Place South, Seattle, WA, 98104",
+    "location": {
+      "lat": 47.6015377,
+      "lng": -122.329543
+    },
+    "phone": "+1-206-223-9426",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2351711784",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2351711784,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "102",
+      "addr:postcode": "98104",
+      "addr:state": "WA",
+      "addr:street": "Prefontaine Place South",
+      "name": "Northwest Legal Support",
+      "office": "lawyer",
+      "phone": "+1-206-223-9426",
+      "source": "Pioneer Square Association;King County GIS;data.seattle.gov"
+    }
+  },
+  {
+    "id": "osm_node_2351724016",
+    "name": "Callahan Law",
+    "address": "81 South Main Street, Seattle, WA, 98104",
+    "location": {
+      "lat": 47.599935,
+      "lng": -122.33504
+    },
+    "phone": "+1-877-384-2679",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2351724016",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2351724016,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "81",
+      "addr:postcode": "98104",
+      "addr:state": "WA",
+      "addr:street": "South Main Street",
+      "name": "Callahan Law",
+      "office": "lawyer",
+      "phone": "+1-877-384-2679",
+      "source": "Pioneer Square Association;King County GIS;data.seattle.gov"
+    }
+  },
+  {
+    "id": "osm_node_2351730634",
+    "name": "Jeffrey Carey P.S.",
+    "address": "524 1st Avenue South, Seattle, WA, 98104",
+    "location": {
+      "lat": 47.5977476,
+      "lng": -122.333939
+    },
+    "phone": "+1-206-467-6947",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2351730634",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2351730634,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "524",
+      "addr:postcode": "98104",
+      "addr:state": "WA",
+      "addr:street": "1st Avenue South",
+      "name": "Jeffrey Carey P.S.",
+      "office": "lawyer",
+      "phone": "+1-206-467-6947",
+      "source": "Pioneer Square Association;King County GIS;data.seattle.gov"
+    }
+  },
+  {
+    "id": "osm_node_2365885506",
+    "name": "Associated Counsel for the Accused (ACS)",
+    "address": "323 Yesler Way, Seattle, WA, 98104",
+    "location": {
+      "lat": 47.6015941,
+      "lng": -122.3292389
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2365885506",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2365885506,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "323",
+      "addr:postcode": "98104",
+      "addr:state": "WA",
+      "addr:street": "Yesler Way",
+      "name": "Associated Counsel for the Accused (ACS)",
+      "office": "lawyer",
+      "source": "Pioneer Square Association"
+    }
+  },
+  {
+    "id": "osm_node_2374135885",
+    "name": "Ware Immigration",
+    "address": "807 Hiawatha Place South, Seattle, WA, 98144",
+    "location": {
+      "lat": 47.5955642,
+      "lng": -122.3102506
+    },
+    "phone": "+1-206-219-9520",
+    "website": "https://www.david-ware.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2374135885",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2374135885,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "807",
+      "addr:postcode": "98144",
+      "addr:state": "WA",
+      "addr:street": "Hiawatha Place South",
+      "check_date:opening_hours": "2022-11-20",
+      "name": "Ware Immigration",
+      "office": "lawyer",
+      "opening_hours:signed": "no",
+      "phone": "+1-206-219-9520",
+      "source": "King County GIS;data.seattle.gov",
+      "website": "https://www.david-ware.com/",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "id": "osm_node_2396741006",
+    "name": "James G. Barnecut",
+    "address": "4826 California Avenue Southwest, Seattle, 98116",
+    "location": {
+      "lat": 47.5585068,
+      "lng": -122.3866331
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2396741006",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2396741006,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "4826",
+      "addr:postcode": "98116",
+      "addr:street": "California Avenue Southwest",
+      "name": "James G. Barnecut",
+      "office": "lawyer",
+      "source": "King County GIS;data.seattle.gov"
+    }
+  },
+  {
+    "id": "osm_node_2397384145",
+    "name": "Washington Law Center",
+    "address": "4132 California Avenue Southwest, Seattle, WA, 98116",
+    "location": {
+      "lat": 47.565489,
+      "lng": -122.3865691
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2397384145",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2397384145,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "4132",
+      "addr:postcode": "98116",
+      "addr:state": "WA",
+      "addr:street": "California Avenue Southwest",
+      "name": "Washington Law Center",
+      "office": "lawyer",
+      "source": "King County GIS;data.seattle.gov"
+    }
+  },
+  {
+    "id": "osm_node_2400533336",
+    "name": "Citizenship & Law - Carol L. Edward",
+    "address": "500 Denny Way, Seattle, WA, 98109",
+    "location": {
+      "lat": 47.6187247,
+      "lng": -122.347327
+    },
+    "phone": "+1-206-956-9556",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2400533336",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-12:00, 13:00-17:00",
+      "Tuesday": "08:30-12:00, 13:00-17:00",
+      "Wednesday": "08:30-12:00, 13:00-17:00",
+      "Thursday": "08:30-12:00, 13:00-17:00",
+      "Friday": "08:30-12:00, 13:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2400533336,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "500",
+      "addr:postcode": "98109",
+      "addr:state": "WA",
+      "addr:street": "Denny Way",
+      "check_date": "2023-09-30",
+      "name": "Citizenship & Law - Carol L. Edward",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-12:00,13:00-17:00",
+      "phone": "+1-206-956-9556",
+      "source": "King County GIS;data.seattle.gov"
+    }
+  },
+  {
+    "id": "osm_node_2429578926",
+    "name": "Gairson Law",
+    "address": "4606 Martin Luther King Junior Way South, Seattle, WA, 98108",
+    "location": {
+      "lat": 47.5618547,
+      "lng": -122.2936467
+    },
+    "phone": "+1-206-357-4218",
+    "website": "https://gairson.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2429578926",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2429578926,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "4606",
+      "addr:postcode": "98108",
+      "addr:state": "WA",
+      "addr:street": "Martin Luther King Junior Way South",
+      "check_date": "2025-12-14",
+      "email": "jay@gairson.com",
+      "name": "Gairson Law",
+      "office": "lawyer",
+      "phone": "+1-206-357-4218",
+      "source": "King County GIS;data.seattle.gov",
+      "website": "https://gairson.com/"
+    }
+  },
+  {
+    "id": "osm_node_2434531634",
+    "name": "Tran Law Group",
+    "address": "787 Maynard Avenue South, Seattle, WA, 98104",
+    "location": {
+      "lat": 47.5961673,
+      "lng": -122.325299
+    },
+    "phone": "+1-206-625-4091",
+    "website": "https://www.tranlawgroup.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2434531634",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2434531634,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "787",
+      "addr:postcode": "98104",
+      "addr:state": "WA",
+      "addr:street": "Maynard Avenue South",
+      "name": "Tran Law Group",
+      "office": "lawyer",
+      "phone": "+1-206-625-4091",
+      "source": "King County GIS;data.seattle.gov",
+      "website": "https://www.tranlawgroup.com/"
+    }
+  },
+  {
+    "id": "osm_node_2462325621",
+    "name": "Miller Law Group",
+    "address": "2916 Northeast 55th Street, Seattle, 98105",
+    "location": {
+      "lat": 47.6686228,
+      "lng": -122.2954158
+    },
+    "phone": "+1-206-963-0760",
+    "website": "https://www.legalbymiller.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2462325621",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2462325621,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "2916",
+      "addr:postcode": "98105",
+      "addr:street": "Northeast 55th Street",
+      "check_date": "2024-12-21",
+      "name": "Miller Law Group",
+      "office": "lawyer",
+      "phone": "+1-206-963-0760",
+      "source": "King County GIS;data.seattle.gov",
+      "website": "https://www.legalbymiller.com/"
+    }
+  },
+  {
+    "id": "osm_node_2463140047",
+    "name": "The Law Office of Marcia Mellinger",
+    "address": "7801 Green Lake Drive North, Seattle, 98103",
+    "location": {
+      "lat": 47.6859095,
+      "lng": -122.3387619
+    },
+    "phone": "",
+    "website": "https://www.marciamellinger.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2463140047",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2463140047,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "7801",
+      "addr:postcode": "98103",
+      "addr:street": "Green Lake Drive North",
+      "name": "The Law Office of Marcia Mellinger",
+      "office": "lawyer",
+      "source": "King County GIS;data.seattle.gov",
+      "website": "https://www.marciamellinger.com/"
+    }
+  },
+  {
+    "id": "osm_node_2574582158",
+    "name": "The Grady B. Martin Law Office",
+    "address": "6103 Phinney Avenue North, Seattle, WA",
+    "location": {
+      "lat": 47.6732761,
+      "lng": -122.3546217
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2574582158",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2574582158,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:country": "US",
+      "addr:housenumber": "6103",
+      "addr:state": "WA",
+      "addr:street": "Phinney Avenue North",
+      "addr:unit": "A",
+      "check_date": "2023-12-02",
+      "name": "The Grady B. Martin Law Office",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_2816256347",
+    "name": "Phillips Law Firm",
+    "address": "1420 5th Avenue, Seattle, WA, 98101",
+    "location": {
+      "lat": 47.6104662,
+      "lng": -122.334616
+    },
+    "phone": "+1-425-984-2500",
+    "website": "https://www.justiceforyou.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2816256347",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2816256347,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "1420",
+      "addr:postcode": "98101",
+      "addr:state": "WA",
+      "addr:street": "5th Avenue",
+      "addr:unit": "2200",
+      "name": "Phillips Law Firm",
+      "office": "lawyer",
+      "phone": "+1-425-984-2500",
+      "website": "https://www.justiceforyou.com/"
+    }
+  },
+  {
+    "id": "osm_node_3034330890",
+    "name": "Bergman Draper Ladenburg Hart, PLLC",
+    "address": "614 1st Avenue, Seattle, WA, 98104",
+    "location": {
+      "lat": 47.6023351,
+      "lng": -122.333779
+    },
+    "phone": "+1-206-957-9510",
+    "website": "https://www.bergmanlegal.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3034330890",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3034330890,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "614",
+      "addr:postcode": "98104",
+      "addr:state": "WA",
+      "addr:street": "1st Avenue",
+      "check_date": "2025-02-09",
+      "level": "3",
+      "name": "Bergman Draper Ladenburg Hart, PLLC",
+      "office": "lawyer",
+      "phone": "+1-206-957-9510",
+      "website": "https://www.bergmanlegal.com/"
+    }
+  },
+  {
+    "id": "osm_node_3694521125",
+    "name": "Galanda Broadman Law",
+    "address": "",
+    "location": {
+      "lat": 47.6915084,
+      "lng": -122.2904811
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3694521125",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3694521125,
+    "osm_type": "node",
+    "osm_tags": {
+      "check_date:opening_hours": "2024-09-28",
+      "name": "Galanda Broadman Law",
+      "office": "lawyer",
+      "opening_hours:signed": "no"
+    }
+  },
+  {
+    "id": "osm_node_4438089570",
+    "name": "Soha & Lang Attorneys at Law",
+    "address": "",
+    "location": {
+      "lat": 47.6087649,
+      "lng": -122.3359152
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4438089570",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4438089570,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Soha & Lang Attorneys at Law",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_4478271594",
+    "name": "Law Offices of Tom S. Hyde",
+    "address": "600 1st Avenue, Seattle, WA, 98104",
+    "location": {
+      "lat": 47.6020633,
+      "lng": -122.333511
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4478271594",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4478271594,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "600",
+      "addr:postcode": "98104",
+      "addr:state": "WA",
+      "addr:street": "1st Avenue",
+      "addr:unit": "212",
+      "name": "Law Offices of Tom S. Hyde",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_4514613588",
+    "name": "Ivy Law Group",
+    "address": "5606 14th Avenue Northwest, Seattle, WA, 98107",
+    "location": {
+      "lat": 47.6697706,
+      "lng": -122.3733276
+    },
+    "phone": "+1-206-706-2909",
+    "website": "https://ivylawgroup.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4514613588",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4514613588,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "5606",
+      "addr:postcode": "98107",
+      "addr:state": "WA",
+      "addr:street": "14th Avenue Northwest",
+      "name": "Ivy Law Group",
+      "office": "lawyer",
+      "phone": "+1-206-706-2909",
+      "website": "https://ivylawgroup.com/"
+    }
+  },
+  {
+    "id": "osm_node_4661319052",
+    "name": "Budge & Heipt PLLC",
+    "address": "705 2nd Avenue, Seattle, WA, 98104",
+    "location": {
+      "lat": 47.6031363,
+      "lng": -122.333565
+    },
+    "phone": "+1-206-624-3060",
+    "website": "https://budgeandheipt.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4661319052",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4661319052,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "705",
+      "addr:postcode": "98104",
+      "addr:state": "WA",
+      "addr:street": "2nd Avenue",
+      "addr:suite": "910",
+      "contact:email": "contact@budgeandheipt.com",
+      "name": "Budge & Heipt PLLC",
+      "office": "lawyer",
+      "phone": "+1-206-624-3060",
+      "website": "https://budgeandheipt.com/"
+    }
+  },
+  {
+    "id": "osm_node_4661320056",
+    "name": "Dickson Law Group",
+    "address": "701 5th Avenue, Seattle, WA, 98104",
+    "location": {
+      "lat": 47.6046382,
+      "lng": -122.330887
+    },
+    "phone": "+1-206-621-1110",
+    "website": "https://www.dicksonlegal.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4661320056",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4661320056,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "701",
+      "addr:postcode": "98104",
+      "addr:state": "WA",
+      "addr:street": "5th Avenue",
+      "addr:suite": "4201",
+      "contact:email": "tdickson@dicksonlegal.com",
+      "name": "Dickson Law Group",
+      "office": "lawyer",
+      "phone": "+1-206-621-1110",
+      "website": "https://www.dicksonlegal.com/"
+    }
+  },
+  {
+    "id": "osm_node_4789471178",
+    "name": "Bradley Johnson Attorneys",
+    "address": "1325 4th Avenue, Seattle, WA, 98101",
+    "location": {
+      "lat": 47.6087564,
+      "lng": -122.3359232
+    },
+    "phone": "+1-206-223-1601",
+    "website": "https://www.bjattorneys.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4789471178",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-17:30",
+      "Tuesday": "08:30-17:30",
+      "Wednesday": "08:30-17:30",
+      "Thursday": "08:30-17:30",
+      "Friday": "08:30-17:30"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4789471178,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:country": "US",
+      "addr:housenumber": "1325",
+      "addr:postcode": "98101",
+      "addr:state": "WA",
+      "addr:street": "4th Avenue",
+      "addr:unit": "535",
+      "email": "info@bjattorneys.com",
+      "name": "Bradley Johnson Attorneys",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-17:30",
+      "owner": "Bradley Johnson",
+      "phone": "+1-206-223-1601",
+      "website": "https://www.bjattorneys.com/"
+    }
+  },
+  {
+    "id": "osm_node_5080216821",
+    "name": "Lish Whitson",
+    "address": "",
+    "location": {
+      "lat": 47.6424903,
+      "lng": -122.3289438
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5080216821",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5080216821,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Lish Whitson",
+      "name:en": "Lish Whitson",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_5080396729",
+    "name": "Lether and Associates",
+    "address": "",
+    "location": {
+      "lat": 47.6360319,
+      "lng": -122.3399679
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5080396729",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5080396729,
+    "osm_type": "node",
+    "osm_tags": {
+      "check_date": "2026-03-06",
+      "name": "Lether and Associates",
+      "name:en": "Lether and Associates",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_5672056751",
+    "name": "The Law Offices of Kevin Trombold, PLLC",
+    "address": "720 3rd Avenue, Seattle, WA, 98104",
+    "location": {
+      "lat": 47.6040908,
+      "lng": -122.3323562
+    },
+    "phone": "+1-206-382-9200",
+    "website": "https://www.tromboldlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5672056751",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5672056751,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "720",
+      "addr:postcode": "98104",
+      "addr:state": "WA",
+      "addr:street": "3rd Avenue",
+      "addr:unit": "2015",
+      "description": "The Law Offices of Kevin Trombold Is a Dui and Criminal Defense Law Firm With Experience in the Major Courts Though Out Washington State.",
+      "email": "kevin@tromboldlaw.com",
+      "name": "The Law Offices of Kevin Trombold, PLLC",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-206-382-9200",
+      "website": "https://www.tromboldlaw.com/"
+    }
+  },
+  {
+    "id": "osm_node_5695432157",
+    "name": "Northwest Law Group",
+    "address": "",
+    "location": {
+      "lat": 47.5384136,
+      "lng": -122.2827918
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5695432157",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5695432157,
+    "osm_type": "node",
+    "osm_tags": {
+      "level": "1",
+      "name": "Northwest Law Group",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_5719111262",
+    "name": "Khan Law Firm",
+    "address": "",
+    "location": {
+      "lat": 47.5390363,
+      "lng": -122.2831914
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5719111262",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5719111262,
+    "osm_type": "node",
+    "osm_tags": {
+      "level": "1",
+      "name": "Khan Law Firm",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_5885319269",
+    "name": "Dubin Law Group",
+    "address": "115 North 85th Street",
+    "location": {
+      "lat": 47.6903605,
+      "lng": -122.3573463
+    },
+    "phone": "+1-206-800-8000",
+    "website": "https://dubinlawgroup.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5885319269",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5885319269,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "115",
+      "addr:street": "North 85th Street",
+      "addr:unit": "202",
+      "check_date": "2023-12-12",
+      "level": "1",
+      "name": "Dubin Law Group",
+      "office": "lawyer",
+      "phone": "+1-206-800-8000",
+      "website": "https://dubinlawgroup.com"
+    }
+  },
+  {
+    "id": "osm_node_6313223305",
+    "name": "Law Offices of Bonnell Webb & Ginster",
+    "address": "",
+    "location": {
+      "lat": 47.6128826,
+      "lng": -122.199232
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6313223305",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6313223305,
+    "osm_type": "node",
+    "osm_tags": {
+      "check_date": "2024-07-25",
+      "name": "Law Offices of Bonnell Webb & Ginster",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_6422321585",
+    "name": "Davis Law Group, P.S.",
+    "address": "2101 4th Avenue, WA, 98121",
+    "location": {
+      "lat": 47.6140237,
+      "lng": -122.342302
+    },
+    "phone": "+1-206-727-4000",
+    "website": "https://www.injurytriallawyer.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6422321585",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6422321585,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "2101",
+      "addr:postcode": "98121",
+      "addr:state": "WA",
+      "addr:street": "4th Avenue",
+      "addr:unit": "1030",
+      "contact:facebook": "https://www.facebook.com/seattlepersonalinjurylawyer",
+      "contact:fax": "+1 206 727 4001",
+      "contact:linkedin": "https://www.linkedin.com/in/christophermdavis",
+      "contact:rss": "https://www.injurytriallawyer.com/feed-all.xml",
+      "contact:twitter": "https://twitter.com/DavisLawGroup",
+      "contact:youtube": "https://www.youtube.com/user/InjuryTrialLawyer",
+      "email": "info@injurytriallawyer.com",
+      "name": "Davis Law Group, P.S.",
+      "office": "lawyer",
+      "phone": "+1-206-727-4000",
+      "website": "https://www.injurytriallawyer.com",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "osm_node_6737258686",
+    "name": "Summit Law Group",
+    "address": "",
+    "location": {
+      "lat": 47.5995124,
+      "lng": -122.3279675
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6737258686",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6737258686,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Summit Law Group",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_6737269591",
+    "name": "Win Law",
+    "address": "",
+    "location": {
+      "lat": 47.5972723,
+      "lng": -122.3246338
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6737269591",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6737269591,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Win Law",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_6780355242",
+    "name": "Davis Law Group, P.S.",
+    "address": "",
+    "location": {
+      "lat": 47.6146989,
+      "lng": -122.3412904
+    },
+    "phone": "+1-206-727-4000",
+    "website": "https://www.injurytriallawyer.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6780355242",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6780355242,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Davis Law Group, P.S.",
+      "office": "lawyer",
+      "phone": "+1-206-727-4000",
+      "website": "https://www.injurytriallawyer.com"
+    }
+  },
+  {
+    "id": "osm_node_7742426239",
+    "name": "McGuire Law & Mediation",
+    "address": "",
+    "location": {
+      "lat": 47.6269509,
+      "lng": -122.306759
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7742426239",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7742426239,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "McGuire Law & Mediation",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_8112554310",
+    "name": "KW Attorneys",
+    "address": "323 Queen Anne Avenue North, Seattle, WA, 98109",
+    "location": {
+      "lat": 47.6217335,
+      "lng": -122.3568812
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8112554310",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8112554310,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "323",
+      "addr:postcode": "98109",
+      "addr:state": "WA",
+      "addr:street": "Queen Anne Avenue North",
+      "addr:unit": "102",
+      "name": "KW Attorneys",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_8490443010",
+    "name": "Lawgena",
+    "address": "1603 8th Avenue North, WA",
+    "location": {
+      "lat": 47.633168,
+      "lng": -122.3412592
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8490443010",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8490443010,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "1603",
+      "addr:state": "WA",
+      "addr:street": "8th Avenue North",
+      "check_date": "2026-03-06",
+      "name": "Lawgena",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_8723283003",
+    "name": "Emerald City Bike Lawyer",
+    "address": "",
+    "location": {
+      "lat": 47.6581174,
+      "lng": -122.3651921
+    },
+    "phone": "",
+    "website": "https://emeraldcitybikelawyer.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/8723283003",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 8723283003,
+    "osm_type": "node",
+    "osm_tags": {
+      "level": "0",
+      "name": "Emerald City Bike Lawyer",
+      "office": "lawyer",
+      "website": "https://emeraldcitybikelawyer.com/"
+    }
+  },
+  {
+    "id": "osm_node_9264210893",
+    "name": "Choquette Immigration Law Group",
+    "address": "121 Lakeside Avenue, Seattle, WA, 98122",
+    "location": {
+      "lat": 47.6022847,
+      "lng": -122.2852
+    },
+    "phone": "+1-206-895-3764",
+    "website": "https://www.choquettelaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9264210893",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "9:00-17:00",
+      "Tuesday": "9:00-17:00",
+      "Wednesday": "9:00-17:00",
+      "Thursday": "9:00-17:00",
+      "Friday": "9:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9264210893,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "121",
+      "addr:postcode": "98122",
+      "addr:state": "WA",
+      "addr:street": "Lakeside Avenue",
+      "addr:unit": "#106",
+      "check_date": "2026-02-25",
+      "contact:linkedin": "https://www.linkedin.com/in/paul-choquette-8217782/",
+      "facebook": "https://www.facebook.com/choquettelaw",
+      "name": "Choquette Immigration Law Group",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 9:00-17:00",
+      "phone": "+1-206-895-3764",
+      "twitter": "https://twitter.com/choquettelaw",
+      "website": "https://www.choquettelaw.com/",
+      "year": "1992"
+    }
+  },
+  {
+    "id": "osm_node_9923569918",
+    "name": "Walthew Law Firm",
+    "address": "",
+    "location": {
+      "lat": 47.6179496,
+      "lng": -122.3537935
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9923569918",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9923569918,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Walthew Law Firm",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_9923570020",
+    "name": "Immigration Lawyer",
+    "address": "",
+    "location": {
+      "lat": 47.6184473,
+      "lng": -122.3535173
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9923570020",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9923570020,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Immigration Lawyer",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_10088302230",
+    "name": "Puget Law Group",
+    "address": "",
+    "location": {
+      "lat": 47.5752922,
+      "lng": -122.3346549
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10088302230",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10088302230,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Puget Law Group",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_10099557017",
+    "name": "Morgan & Morgan",
+    "address": "506 2nd Avenue Cycletrack, Seattle, WA, 98104",
+    "location": {
+      "lat": 47.6020041,
+      "lng": -122.3318516
+    },
+    "phone": "+1-206-830-6160",
+    "website": "https://www.forthepeople.com/seattle/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10099557017",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10099557017,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "506",
+      "addr:postcode": "98104",
+      "addr:state": "WA",
+      "addr:street": "2nd Avenue Cycletrack",
+      "addr:unit": "Suite 1513",
+      "brand": "Morgan & Morgan",
+      "brand:wikidata": "Q111597979",
+      "name": "Morgan & Morgan",
+      "office": "lawyer",
+      "opening_hours": "24/7",
+      "phone": "+1-206-830-6160",
+      "website": "https://www.forthepeople.com/seattle/"
+    }
+  },
+  {
+    "id": "osm_node_10102470327",
+    "name": "The Law Office of Laura Hofman",
+    "address": "600 North 85th Street, Seattle, WA, 98103",
+    "location": {
+      "lat": 47.6907081,
+      "lng": -122.3509007
+    },
+    "phone": "",
+    "website": "https://hofmanimmigration.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10102470327",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10102470327,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "600",
+      "addr:postcode": "98103",
+      "addr:state": "WA",
+      "addr:street": "North 85th Street",
+      "check_date:opening_hours": "2025-10-27",
+      "name": "The Law Office of Laura Hofman",
+      "office": "lawyer",
+      "opening_hours:signed": "no",
+      "website": "https://hofmanimmigration.com/"
+    }
+  },
+  {
+    "id": "osm_node_10738843136",
+    "name": "Brett McCandlis Brown & Conner PLLC",
+    "address": "701 5th Avenue, Seattle, WA, 98104",
+    "location": {
+      "lat": 47.6046736,
+      "lng": -122.3308511
+    },
+    "phone": "+1-206-985-9600",
+    "website": "https://washingtoninjury.com/seattle-personal-injury-lawyer/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10738843136",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10738843136,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housename": "Columbia Tower",
+      "addr:housenumber": "701",
+      "addr:postcode": "98104",
+      "addr:state": "WA",
+      "addr:street": "5th Avenue",
+      "addr:unit": "42nd Floor",
+      "contact:facebook": "https://www.facebook.com/BrettMcCandlisBrownConner",
+      "contact:linkedin": "https://www.linkedin.com/company/brett-murphy---washington's-injury-lawyers",
+      "name": "Brett McCandlis Brown & Conner PLLC",
+      "office": "lawyer",
+      "opening_hours": "Mo- Fr 08:30 - 17:00",
+      "phone": "+1-206-985-9600",
+      "website": "https://washingtoninjury.com/seattle-personal-injury-lawyer/"
+    }
+  },
+  {
+    "id": "osm_node_11105562069",
+    "name": "Dellino Law Group",
+    "address": "",
+    "location": {
+      "lat": 47.6653169,
+      "lng": -122.2954436
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11105562069",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11105562069,
+    "osm_type": "node",
+    "osm_tags": {
+      "check_date": "2023-08-10",
+      "name": "Dellino Law Group",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_12053874307",
+    "name": "Daniel Smith Immigration And Family Law",
+    "address": "145 Northwest 85th Street",
+    "location": {
+      "lat": 47.6904024,
+      "lng": -122.3599173
+    },
+    "phone": "+1-206-438-8720",
+    "website": "https://www.danielsmithlawoffice.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12053874307",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "off",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12053874307,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "145",
+      "addr:street": "Northwest 85th Street",
+      "check_date": "2024-07-14",
+      "name": "Daniel Smith Immigration And Family Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00; Sa-Su,PH off",
+      "phone": "+1-206-438-8720",
+      "website": "https://www.danielsmithlawoffice.com/"
+    }
+  },
+  {
+    "id": "osm_node_12062374970",
+    "name": "Moseley Collins Law",
+    "address": "701 5th Avenue, Seattle, WA, 98104",
+    "location": {
+      "lat": 47.6046512,
+      "lng": -122.3308461
+    },
+    "phone": "+1-800-426-5546",
+    "website": "https://www.moseleycollins.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12062374970",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12062374970,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:country": "US",
+      "addr:housenumber": "701",
+      "addr:postcode": "98104",
+      "addr:state": "WA",
+      "addr:street": "5th Avenue",
+      "addr:unit": "4200",
+      "contact:phone": "+1-800-426-5546",
+      "contact:website": "https://www.moseleycollins.com/",
+      "name": "Moseley Collins Law",
+      "office": "lawyer",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "id": "osm_node_12312622263",
+    "name": "Winslow Law Group",
+    "address": "100 West Harrison Street, Seattle, WA, 98119",
+    "location": {
+      "lat": 47.6224628,
+      "lng": -122.3583483
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12312622263",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12312622263,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "100",
+      "addr:postcode": "98119",
+      "addr:state": "WA",
+      "addr:street": "West Harrison Street",
+      "addr:unit": "S-540",
+      "name": "Winslow Law Group",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_12312622264",
+    "name": "Corr Downs",
+    "address": "100 West Harrison Street, Seattle, WA, 98119",
+    "location": {
+      "lat": 47.6229947,
+      "lng": -122.3584169
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12312622264",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12312622264,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "100",
+      "addr:postcode": "98119",
+      "addr:state": "WA",
+      "addr:street": "West Harrison Street",
+      "addr:unit": "N-440",
+      "name": "Corr Downs",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_12466177701",
+    "name": "Oshan & Associates P.C",
+    "address": "123 Queen Anne Avenue North, Seattle, WA, 98109",
+    "location": {
+      "lat": 47.6190488,
+      "lng": -122.3570347
+    },
+    "phone": "+1-206-335-3880",
+    "website": "https://oshanandassociates.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12466177701",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "00:00 - 24:00",
+      "Tuesday": "00:00 - 24:00",
+      "Wednesday": "00:00 - 24:00",
+      "Thursday": "00:00 - 24:00",
+      "Friday": "00:00 - 24:00",
+      "Saturday": "00:00 - 24:00",
+      "Sunday": "00:00 - 24:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12466177701,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:country": "US",
+      "addr:housenumber": "123",
+      "addr:postcode": "98109",
+      "addr:state": "WA",
+      "addr:street": "Queen Anne Avenue North",
+      "contact:email": "Evan@oshanandassociates.com",
+      "contact:phone": "+1-206-335-3880",
+      "contact:website": "https://oshanandassociates.com/",
+      "name": "Oshan & Associates P.C",
+      "office": "lawyer",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "id": "osm_node_12605268310",
+    "name": "Law Office of Lisa S. Reed, PLLC",
+    "address": "1155 North 82nd Street, Seattle, 98103",
+    "location": {
+      "lat": 47.6882155,
+      "lng": -122.3421291
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12605268310",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12605268310,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "1155",
+      "addr:postcode": "98103",
+      "addr:street": "North 82nd Street",
+      "check_date": "2025-02-19",
+      "name": "Law Office of Lisa S. Reed, PLLC",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_12612911832",
+    "name": "Adler Giersch",
+    "address": "333 Taylor Avenue North, Seattle, WA, 98109",
+    "location": {
+      "lat": 47.6219447,
+      "lng": -122.3464827
+    },
+    "phone": "",
+    "website": "https://www.adlergiersch.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12612911832",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12612911832,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "333",
+      "addr:postcode": "98109",
+      "addr:state": "WA",
+      "addr:street": "Taylor Avenue North",
+      "name": "Adler Giersch",
+      "office": "lawyer",
+      "website": "https://www.adlergiersch.com"
+    }
+  },
+  {
+    "id": "osm_node_13130249387",
+    "name": "Abe Law Firm, LLC",
+    "address": "5611 University Way Northeast, Seattle, WA, 98115",
+    "location": {
+      "lat": 47.6698568,
+      "lng": -122.3132525
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13130249387",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13130249387,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "5611",
+      "addr:postcode": "98115",
+      "addr:state": "WA",
+      "addr:street": "University Way Northeast",
+      "addr:unit": "100B",
+      "check_date": "2025-09-08",
+      "name": "Abe Law Firm, LLC",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_13325225095",
+    "name": "Bread and Roses Law group",
+    "address": "",
+    "location": {
+      "lat": 47.6683699,
+      "lng": -122.3338255
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13325225095",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13325225095,
+    "osm_type": "node",
+    "osm_tags": {
+      "check_date": "2025-11-22",
+      "name": "Bread and Roses Law group",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_13325270554",
+    "name": "Steven Skelton Attorney at Law",
+    "address": "",
+    "location": {
+      "lat": 47.6682788,
+      "lng": -122.3338496
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13325270554",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13325270554,
+    "osm_type": "node",
+    "osm_tags": {
+      "check_date": "2025-11-22",
+      "name": "Steven Skelton Attorney at Law",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_13556661178",
+    "name": "Di Rie, Kandala, & Wescott",
+    "address": "1818 East Yesler Way",
+    "location": {
+      "lat": 47.6018122,
+      "lng": -122.308074
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13556661178",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13556661178,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "1818",
+      "addr:street": "East Yesler Way",
+      "check_date": "2026-02-13",
+      "level": "1",
+      "name": "Di Rie, Kandala, & Wescott",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_way_222581852",
+    "name": "Foster Law",
+    "address": "8204 Green Lake Drive North, Seattle, 98103",
+    "location": {
+      "lat": 47.6886131,
+      "lng": -122.3431822
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/222581852",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 222581852,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "8204",
+      "addr:postcode": "98103",
+      "addr:street": "Green Lake Drive North",
+      "building": "yes",
+      "check_date": "2025-02-19",
+      "name": "Foster Law",
+      "office": "lawyer",
+      "source": "King County GIS;data.seattle.gov"
+    }
+  },
+  {
+    "id": "osm_way_234934672",
+    "name": "Pacific West Injury Law",
+    "address": "3625 Woodland Park Avenue North, Seattle, 98103",
+    "location": {
+      "lat": 47.651377,
+      "lng": -122.3443101
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/234934672",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 234934672,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "3625",
+      "addr:postcode": "98103",
+      "addr:street": "Woodland Park Avenue North",
+      "building": "yes",
+      "building:levels": "2",
+      "name": "Pacific West Injury Law",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_way_1109215830",
+    "name": "Bradley Johnson Lawyers",
+    "address": "1333 Stewart Street, Seattle, WA, 98109",
+    "location": {
+      "lat": 47.6192123,
+      "lng": -122.3294669
+    },
+    "phone": "",
+    "website": "https://bjattorneys.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/1109215830",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1109215830,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "1333",
+      "addr:postcode": "98109",
+      "addr:state": "WA",
+      "addr:street": "Stewart Street",
+      "building": "yes",
+      "name": "Bradley Johnson Lawyers",
+      "office": "lawyer",
+      "source": "https://web6.seattle.gov/DPD/HistoricalSite/QueryResult.aspx?ID=1834956163",
+      "start_date": "1926",
+      "website": "https://bjattorneys.com/"
+    }
+  },
+  {
+    "id": "osm_node_1954052636",
+    "name": "Fitch and Ludwick Law Offices",
+    "address": "11005 Main Street, Bellevue, WA, 98004",
+    "location": {
+      "lat": 47.609863,
+      "lng": -122.193756
+    },
+    "phone": "+1-425-646-0555",
+    "website": "https://ludwicklawgroup.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/1954052636",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 1954052636,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Bellevue",
+      "addr:housenumber": "11005",
+      "addr:postcode": "98004",
+      "addr:state": "WA",
+      "addr:street": "Main Street",
+      "name": "Fitch and Ludwick Law Offices",
+      "office": "lawyer",
+      "phone": "+1-425-646-0555",
+      "website": "https://ludwicklawgroup.com/"
+    }
+  },
+  {
+    "id": "osm_node_5338174521",
+    "name": "Advantage Legal Group",
+    "address": "",
+    "location": {
+      "lat": 47.6170822,
+      "lng": -122.1779471
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5338174521",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5338174521,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Advantage Legal Group",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_5407631851",
+    "name": "Weintraub Law Office, PLLC",
+    "address": "14205 Southeast 36th Street, Bellevue, WA, 98006",
+    "location": {
+      "lat": 47.5784316,
+      "lng": -122.1493029
+    },
+    "phone": "+1-425-374-4045",
+    "website": "https://www.weintraub-law.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5407631851",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5407631851,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Bellevue",
+      "addr:housenumber": "14205",
+      "addr:postcode": "98006",
+      "addr:state": "WA",
+      "addr:street": "Southeast 36th Street",
+      "addr:unit": "100",
+      "name": "Weintraub Law Office, PLLC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-425-374-4045",
+      "website": "https://www.weintraub-law.com/"
+    }
+  },
+  {
+    "id": "osm_node_5577751041",
+    "name": "Juhasz Law Firm, PC",
+    "address": "10900 NE 4th Street, Bellevue, WA, 98004",
+    "location": {
+      "lat": 47.6158872,
+      "lng": -122.196826
+    },
+    "phone": "+1-425-943-7619",
+    "website": "https://www.patenthorizon.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5577751041",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "closed",
+      "Sunday": "closed"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5577751041,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Bellevue",
+      "addr:housenumber": "10900",
+      "addr:postcode": "98004",
+      "addr:state": "WA",
+      "addr:street": "NE 4th Street",
+      "addr:unit": "2300",
+      "description": "The Juhasz Law Firm provides patent and other intellectual property legal services to leading technology, software and clinical diagnostic companies.",
+      "name": "Juhasz Law Firm, PC",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00; Sa-Su closed",
+      "phone": "+1-425-943-7619",
+      "website": "https://www.patenthorizon.com/"
+    }
+  },
+  {
+    "id": "osm_node_7638784985",
+    "name": "Aero Law Group PC",
+    "address": "155 108th Avenue Northeast, 98004",
+    "location": {
+      "lat": 47.6118602,
+      "lng": -122.1968831
+    },
+    "phone": "+1-425-456-1800",
+    "website": "https://www.aerolawgroup.com",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7638784985",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7638784985,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "155",
+      "addr:postcode": "98004",
+      "addr:street": "108th Avenue Northeast",
+      "name": "Aero Law Group PC",
+      "office": "lawyer",
+      "phone": "+1-425-456-1800",
+      "website": "https://www.aerolawgroup.com"
+    }
+  },
+  {
+    "id": "osm_node_13606381678",
+    "name": "Pursuit Family Law",
+    "address": "9 Lake Bellevue Drive, Bellevue, WA, 98005",
+    "location": {
+      "lat": 47.6197262,
+      "lng": -122.1830418
+    },
+    "phone": "+1 425-216-6823",
+    "website": "https://www.pursuitfamilylaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13606381678",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13606381678,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Bellevue",
+      "addr:housenumber": "9",
+      "addr:postcode": "98005",
+      "addr:state": "WA",
+      "addr:street": "Lake Bellevue Drive",
+      "addr:unit": "218",
+      "contact:linkedin": "yatong-ju-esq-3a5473a7",
+      "name": "Pursuit Family Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1 425-216-6823",
+      "start_date": "2025-05-01",
+      "website": "https://www.pursuitfamilylaw.com/"
+    }
+  },
+  {
+    "id": "osm_way_193053332",
+    "name": "Amini Law Firm",
+    "address": "929 109th Avenue Northeast, WA",
+    "location": {
+      "lat": 47.6191115,
+      "lng": -122.1944896
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/193053332",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 193053332,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:housenumber": "929",
+      "addr:state": "WA",
+      "addr:street": "109th Avenue Northeast",
+      "building": "yes",
+      "name": "Amini Law Firm",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_way_210912351",
+    "name": "HKM Employment Attorneys LLP",
+    "address": "1380 112th Avenue Northeast, Bellevue, WA, 98004",
+    "location": {
+      "lat": 47.6229857,
+      "lng": -122.1898661
+    },
+    "phone": "+1-425-434-5391",
+    "website": "https://hkm.com/bellevue",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/210912351",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-17:30",
+      "Tuesday": "08:30-17:30",
+      "Wednesday": "08:30-17:30",
+      "Thursday": "08:30-17:30",
+      "Friday": "08:30-17:30"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 210912351,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Bellevue",
+      "addr:housenumber": "1380",
+      "addr:postcode": "98004",
+      "addr:state": "WA",
+      "addr:street": "112th Avenue Northeast",
+      "addr:unit": "101",
+      "building": "yes",
+      "contact:linkedin": "https://www.linkedin.com/company/hkm-employment-attorneys-llp?trk=mini-profile",
+      "contact:twitter": "https://twitter.com/hkmlaw",
+      "contact:website": "https://hkm.com/bellevue",
+      "name": "HKM Employment Attorneys LLP",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-17:30",
+      "phone": "+1-425-434-5391"
+    }
+  },
+  {
+    "id": "osm_way_425618321",
+    "name": "Tuttle & Associates",
+    "address": "8158 164th Avenue Northeast, Redmond, WA, 98052",
+    "location": {
+      "lat": 47.6758732,
+      "lng": -122.121297
+    },
+    "phone": "",
+    "website": "https://www.tuttleandassociates.com/redmond",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/425618321",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 425618321,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Redmond",
+      "addr:housenumber": "8158",
+      "addr:postcode": "98052",
+      "addr:state": "WA",
+      "addr:street": "164th Avenue Northeast",
+      "building": "retail",
+      "check_date:opening_hours": "2025-09-16",
+      "name": "Tuttle & Associates",
+      "office": "lawyer",
+      "opening_hours:signed": "no",
+      "website": "https://www.tuttleandassociates.com/redmond"
+    }
+  },
+  {
+    "id": "osm_node_2913766937",
+    "name": "Beebe, Roberts, & Bryan",
+    "address": "10801 Northeast State Highway 104, Kingston, 98346",
+    "location": {
+      "lat": 47.8022744,
+      "lng": -122.503613
+    },
+    "phone": "+1-360-297-4542",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2913766937",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2913766937,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Kingston",
+      "addr:country": "US",
+      "addr:housenumber": "10801",
+      "addr:postcode": "98346",
+      "addr:street": "Northeast State Highway 104",
+      "contact:phone": "+1-360-297-4542",
+      "entrance": "yes",
+      "name": "Beebe, Roberts, & Bryan",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_2922199663",
+    "name": "Olympic Law Group",
+    "address": "",
+    "location": {
+      "lat": 47.8024557,
+      "lng": -122.5022275
+    },
+    "phone": "+1-360-881-0737",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2922199663",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2922199663,
+    "osm_type": "node",
+    "osm_tags": {
+      "contact:phone": "+1-360-881-0737",
+      "name": "Olympic Law Group",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_9015734694",
+    "name": "Tolman & Grossman Lawyers",
+    "address": "18925 Front Street Northeast",
+    "location": {
+      "lat": 47.7346263,
+      "lng": -122.6464219
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9015734694",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9015734694,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "18925",
+      "addr:street": "Front Street Northeast",
+      "check_date": "2025-06-14",
+      "name": "Tolman & Grossman Lawyers",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_2462238573",
+    "name": "Condominium Law Group",
+    "address": "10310 Aurora Avenue North, Seattle, 98133",
+    "location": {
+      "lat": 47.7035119,
+      "lng": -122.3442187
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/2462238573",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 2462238573,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "10310",
+      "addr:postcode": "98133",
+      "addr:street": "Aurora Avenue North",
+      "name": "Condominium Law Group",
+      "office": "lawyer",
+      "source": "King County GIS;data.seattle.gov"
+    }
+  },
+  {
+    "id": "osm_node_3570761793",
+    "name": "Whelan Juliana N Attorney",
+    "address": "",
+    "location": {
+      "lat": 47.820728,
+      "lng": -122.3244778
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3570761793",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "attorney"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3570761793,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Whelan Juliana N Attorney",
+      "office": "attorney"
+    }
+  },
+  {
+    "id": "osm_node_6469127219",
+    "name": "Polaris Injury Law",
+    "address": "10120 Main Street",
+    "location": {
+      "lat": 47.7602849,
+      "lng": -122.204566
+    },
+    "phone": "+1-425-637-1300",
+    "website": "https://www.chamberofcommerce.com/united-states/washington/bothell/personal-injury-attorney/2017530253-polaris-injury-law",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/6469127219",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 6469127219,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "10120",
+      "addr:street": "Main Street",
+      "addr:unit": "201",
+      "level": "1",
+      "name": "Polaris Injury Law",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-425-637-1300",
+      "website": "https://www.chamberofcommerce.com/united-states/washington/bothell/personal-injury-attorney/2017530253-polaris-injury-law"
+    }
+  },
+  {
+    "id": "osm_node_7132291595",
+    "name": "Edmonds Law Center",
+    "address": "143 5th Avenue North, Edmonds, WA, 98020",
+    "location": {
+      "lat": 47.8115726,
+      "lng": -122.3769128
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7132291595",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7132291595,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Edmonds",
+      "addr:housenumber": "143",
+      "addr:postcode": "98020",
+      "addr:state": "WA",
+      "addr:street": "5th Avenue North",
+      "name": "Edmonds Law Center",
+      "office": "lawyer"
+    }
+  },
+  {
+    "id": "osm_node_7860398351",
+    "name": "Connick Law Offices",
+    "address": "",
+    "location": {
+      "lat": 47.7187733,
+      "lng": -122.2959857
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7860398351",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7860398351,
+    "osm_type": "node",
+    "osm_tags": {
+      "check_date:opening_hours": "2024-08-08",
+      "name": "Connick Law Offices",
+      "office": "lawyer",
+      "opening_hours:signed": "no"
+    }
+  },
+  {
+    "id": "osm_node_9843346076",
+    "name": "Roosevelt Law Center",
+    "address": "11300 Roosevelt Way Northeast, Seattle, 98125",
+    "location": {
+      "lat": 47.7109651,
+      "lng": -122.3175728
+    },
+    "phone": "+1-206-365-5500",
+    "website": "https://www.lawgate.net/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9843346076",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-17:00",
+      "Tuesday": "08:30-17:00",
+      "Wednesday": "08:30-17:00",
+      "Thursday": "08:30-17:00",
+      "Friday": "08:30-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9843346076,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "11300",
+      "addr:postcode": "98125",
+      "addr:street": "Roosevelt Way Northeast",
+      "addr:unit": "300",
+      "alt_name": "Lawgate",
+      "name": "Roosevelt Law Center",
+      "office": "lawyer",
+      "official_name": "The Law Offices of Michael W. Bugni & Associates, PLLC",
+      "opening_hours": "Mo-Fr 08:30-17:00",
+      "phone": "+1-206-365-5500",
+      "website": "https://www.lawgate.net/"
+    }
+  },
+  {
+    "id": "osm_node_13183870260",
+    "name": "Robert Wrixton Warren Attorney",
+    "address": "8311 212th Street Southwest, Edmonds, WA, 98026",
+    "location": {
+      "lat": 47.8071439,
+      "lng": -122.3455866
+    },
+    "phone": "",
+    "website": "https://www.wrixtonlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13183870260",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13183870260,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Edmonds",
+      "addr:housenumber": "8311",
+      "addr:postcode": "98026",
+      "addr:state": "WA",
+      "addr:street": "212th Street Southwest",
+      "name": "Robert Wrixton Warren Attorney",
+      "office": "lawyer",
+      "website": "https://www.wrixtonlaw.com/"
+    }
+  },
+  {
+    "id": "osm_node_13183954396",
+    "name": "Luke & Olsen Law and Escrow",
+    "address": "21920 76th Avenue West, Edmonds, WA, 98026",
+    "location": {
+      "lat": 47.799898,
+      "lng": -122.3359508
+    },
+    "phone": "+1-425-744-0411",
+    "website": "https://www.lukeolsenlaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13183954396",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13183954396,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Edmonds",
+      "addr:housenumber": "21920",
+      "addr:postcode": "98026",
+      "addr:state": "WA",
+      "addr:street": "76th Avenue West",
+      "addr:unit": "202",
+      "name": "Luke & Olsen Law and Escrow",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "phone": "+1-425-744-0411",
+      "website": "https://www.lukeolsenlaw.com/"
+    }
+  },
+  {
+    "id": "osm_node_13183974246",
+    "name": "Gaylord Claims",
+    "address": "8301 212th Street Southwest, Edmonds, WA, 98026",
+    "location": {
+      "lat": 47.8071596,
+      "lng": -122.3451555
+    },
+    "phone": "",
+    "website": "https://gaylordclaims.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13183974246",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13183974246,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Edmonds",
+      "addr:housenumber": "8301",
+      "addr:postcode": "98026",
+      "addr:state": "WA",
+      "addr:street": "212th Street Southwest",
+      "addr:unit": "A",
+      "name": "Gaylord Claims",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "website": "https://gaylordclaims.com/"
+    }
+  },
+  {
+    "id": "osm_node_13194418509",
+    "name": "Boland Law",
+    "address": "",
+    "location": {
+      "lat": 47.7173249,
+      "lng": -122.3131505
+    },
+    "phone": "+1-206-747-1730",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13194418509",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13194418509,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Boland Law",
+      "office": "lawyer",
+      "phone": "+1-206-747-1730"
+    }
+  },
+  {
+    "id": "osm_node_13194682701",
+    "name": "Emerald Law Group PLLC",
+    "address": "",
+    "location": {
+      "lat": 47.7173407,
+      "lng": -122.3131513
+    },
+    "phone": "+1-206-826-5160",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/13194682701",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 13194682701,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Emerald Law Group PLLC",
+      "office": "lawyer",
+      "phone": "+1-206-826-5160"
+    }
+  },
+  {
+    "id": "osm_way_242985703",
+    "name": "Attorney at Law",
+    "address": "402 5th Avenue South, Edmonds, WA, 98020",
+    "location": {
+      "lat": 47.807962,
+      "lng": -122.3778928
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/242985703",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 242985703,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Edmonds",
+      "addr:housenumber": "402",
+      "addr:postcode": "98020",
+      "addr:state": "WA",
+      "addr:street": "5th Avenue South",
+      "building": "yes",
+      "check_date:opening_hours": "2023-10-11",
+      "name": "Attorney at Law",
+      "office": "lawyer",
+      "opening_hours:signed": "no",
+      "source": "snohomish_county_gis"
+    }
+  },
+  {
+    "id": "osm_way_350946561",
+    "name": "Planning with Purpose LLC",
+    "address": "7627 196th Street Southwest, Edmonds, WA, 98026",
+    "location": {
+      "lat": 47.8217449,
+      "lng": -122.3370651
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/350946561",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 0,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 350946561,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Edmonds",
+      "addr:housenumber": "7627",
+      "addr:postcode": "98026",
+      "addr:state": "WA",
+      "addr:street": "196th Street Southwest",
+      "building": "yes",
+      "building:levels": "2",
+      "name": "Planning with Purpose LLC",
+      "office": "lawyer"
+    }
+  }
+]
