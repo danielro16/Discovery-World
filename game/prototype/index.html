@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Block Beach: Miami Beach</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div id="app">
+    <canvas id="viewport"></canvas>
+    <div class="vignette"></div>
+
+    <header class="topbar">
+      <div class="brand">
+        <span class="eyebrow">Voxel postcard</span>
+        <h1>Block Beach</h1>
+        <p>Miami Beach, rebuilt as a playable neon sandbox.</p>
+      </div>
+      <div class="stats">
+        <div class="stat-card">
+          <span class="label">District</span>
+          <strong id="district-label">South Beach</strong>
+        </div>
+        <div class="stat-card">
+          <span class="label">Postcards</span>
+          <strong><span id="postcard-count">0</span>/6</strong>
+        </div>
+        <div class="stat-card">
+          <span class="label">Mood</span>
+          <strong id="mood-label">Golden hour</strong>
+        </div>
+      </div>
+    </header>
+
+    <section class="hero-panel">
+      <div class="hero-copy">
+        <span class="eyebrow">Original concept</span>
+        <h2>Not a map overlay. A handcrafted Miami Beach.</h2>
+        <p>
+          Ocean Drive, Lummus Park, South Pointe Pier, Lincoln Road and Española Way
+          sit inside one compact voxel district so it reads instantly as Miami Beach.
+        </p>
+      </div>
+      <div class="controls-copy">
+        <span class="controls-title">Controls</span>
+        <p><kbd>WASD</kbd> move, drag to orbit, <kbd>Shift</kbd> sprint, <kbd>E</kbd> visit landmarks.</p>
+      </div>
+    </section>
+
+    <aside class="tour-card">
+      <div class="card-head">
+        <span class="eyebrow">Landmark route</span>
+        <h3>Miami checklist</h3>
+      </div>
+      <ul id="tour-list" class="tour-list"></ul>
+    </aside>
+
+    <aside class="map-card">
+      <div class="card-head">
+        <span class="eyebrow">Orientation</span>
+        <h3>South Beach loop</h3>
+      </div>
+      <canvas id="minimap" width="260" height="180"></canvas>
+      <p class="map-note">Atlantic Ocean to the east, Biscayne Bay to the west.</p>
+    </aside>
+
+    <div id="zone-pill" class="zone-pill">Ocean Drive strip</div>
+
+    <div id="prompt" class="prompt" hidden>
+      <span id="prompt-title">Visit landmark</span>
+      <span class="prompt-copy">Press <kbd>E</kbd> or tap the button.</span>
+    </div>
+
+    <button id="visit-button" class="visit-button" hidden>Visit landmark</button>
+
+    <section id="postcard" class="postcard hidden" aria-live="polite">
+      <div class="postcard-head">
+        <span class="eyebrow">Collected postcard</span>
+        <button id="close-postcard" class="icon-button" aria-label="Close postcard">✕</button>
+      </div>
+      <h3 id="postcard-title">Ocean Drive</h3>
+      <p id="postcard-description"></p>
+      <div class="postcard-meta">
+        <span id="postcard-district">Ocean Drive</span>
+        <span id="postcard-tag">Miami Beach</span>
+      </div>
+    </section>
+
+    <div id="toast" class="toast" aria-live="polite"></div>
+
+    <div id="intro" class="intro open">
+      <div class="intro-card">
+        <span class="eyebrow">Fresh direction</span>
+        <h2>Miami Beach as a voxel postcard</h2>
+        <p>
+          This version starts from zero: no map base, no old prototype logic.
+          It is a compact, authored slice of South Beach designed to feel specific,
+          not generic.
+        </p>
+        <ul class="intro-points">
+          <li>Ocean on the east, bay on the west.</li>
+          <li>Pastel art deco hotels and neon Ocean Drive frontage.</li>
+          <li>Recognizable stops: South Pointe, Lummus Park, Casa Casuarina, Lincoln Road, Española Way.</li>
+        </ul>
+        <button id="start-button" class="start-button">Enter Miami Beach</button>
+      </div>
+    </div>
+
+    <div class="mobile-controls">
+      <div class="pad-column">
+        <div class="pad-label">Move</div>
+        <div id="move-pad" class="pad move-pad">
+          <div id="move-stick" class="stick"></div>
+        </div>
+      </div>
+      <div class="pad-column">
+        <div class="pad-label">Look</div>
+        <div id="look-pad" class="pad look-pad">
+          <span>Drag</span>
+        </div>
+      </div>
+      <button id="mobile-visit" class="mobile-visit">Visit</button>
+    </div>
+  </div>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
