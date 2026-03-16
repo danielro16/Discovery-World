@@ -80,7 +80,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://afonsoandafonso.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3"
   },
   {
     "id": "osm_node_2556456873",
@@ -299,7 +300,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "rachel@kaylielaw.com",
+    "booking_url": "https://www.facebook.com/rachelkaylielaw/"
   },
   {
     "id": "osm_node_9700985771",
@@ -371,7 +374,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.injuryclaimnyclaw.com/contact-us/"
   },
   {
     "id": "osm_node_11142683879",
@@ -466,7 +470,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "glaw@gorodetsky-law.com"
   },
   {
     "id": "osm_node_12987985501",
@@ -619,7 +624,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "ajf@forzanolaw.com",
+    "booking_url": "https://www.forzanolawfirm.com/contact/"
   },
   {
     "id": "osm_way_249612633",
@@ -983,7 +990,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "jo@lawfirmsites.com"
   },
   {
     "id": "osm_node_5825032358",
@@ -1052,7 +1060,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://thesteinlawgroup.com/contact-us/"
   },
   {
     "id": "osm_node_6322560905",
@@ -1133,7 +1142,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LightmanImmigration/"
   },
   {
     "id": "osm_node_6347184545",
@@ -1340,7 +1350,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "gdanetti@danettilaw.com",
+    "booking_url": "https://www.danettilaw.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.6"
   },
   {
     "id": "osm_node_9682578220",
@@ -1749,7 +1761,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@silverlinecollective.com",
+    "booking_url": "https://silverlinecollective.com/contact/"
   },
   {
     "id": "osm_node_10604029346",
@@ -1895,7 +1909,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.njnylawyers.com/contact/"
   },
   {
     "id": "osm_node_10706451719",
@@ -1960,7 +1975,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.njnylawyers.com/contact/"
   },
   {
     "id": "osm_node_10732326234",
@@ -2190,7 +2206,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://zellerlegal.com/employment-law-contact-form/"
   },
   {
     "id": "osm_node_10907758144",
@@ -2261,7 +2278,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@williamstriallawyers.com"
   },
   {
     "id": "osm_node_11064992356",
@@ -2330,7 +2348,7 @@
       "addr:state": "NY",
       "addr:street": "Court Street",
       "addr:unit": "1806",
-      "description": "Jeffrey K. Kestenbaum is the firm\u2019s founder and a trial attorney representing clients in all types of personal injury matters.",
+      "description": "Jeffrey K. Kestenbaum is the firm’s founder and a trial attorney representing clients in all types of personal injury matters.",
       "name": "Jeffrey K. Kestenbaum",
       "office": "lawyer",
       "opening_hours": "Mo-Fr 08:00-17:00; Sa-Su off",
@@ -2339,7 +2357,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.brooklyn-accidentlaw.com/contact-us/"
   },
   {
     "id": "osm_node_11340800585",
@@ -2410,7 +2429,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "john@smith.com",
+    "booking_url": "https://www.leofraserlaw.com/wp-content/plugins/contact-form-7/includes/css/styles.css"
   },
   {
     "id": "osm_node_11381160102",
@@ -2533,7 +2554,7 @@
       ],
       "awards": [
         "Super Lawyers",
-        "Best Lawyers \u2013 Best Law Firms",
+        "Best Lawyers – Best Law Firms",
         "Overall Employment Law Firm of the Year"
       ],
       "education": null
@@ -2559,7 +2580,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://hkm.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_11690243239",
@@ -2643,7 +2665,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://jonnaspilbor.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.7"
   },
   {
     "id": "osm_node_11927700831",
@@ -2690,8 +2713,8 @@
       "years_experience": 30,
       "team_size": 6,
       "notable_cases": [
-        "Commercial Contract Litigation \u2013 $1,600,000 Jury Trial Verdict",
-        "Real Estate Litigation \u2013 Vacating Lis Pendens with Attorney's Fees"
+        "Commercial Contract Litigation – $1,600,000 Jury Trial Verdict",
+        "Real Estate Litigation – Vacating Lis Pendens with Attorney's Fees"
       ],
       "awards": [
         "Martindale-Hubbell AV Preeminent Rating"
@@ -2722,7 +2745,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@woodslaw.com"
   },
   {
     "id": "osm_node_12049892750",
@@ -2798,7 +2822,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://brooklyn-injury-attorneys.com/contact-us/"
   },
   {
     "id": "osm_node_12050009362",
@@ -2873,7 +2898,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://nyc-injury-attorneys.com/contact/"
   },
   {
     "id": "osm_node_12412579864",
@@ -2975,7 +3001,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.newyorkcriminallawyer.com/contact-us/"
   },
   {
     "id": "osm_node_12480002393",
@@ -3049,7 +3076,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "email@work.com",
+    "booking_url": "https://www.yourlawyer.com/about/melanie-h-muhlstock/"
   },
   {
     "id": "osm_node_12641782071",
@@ -3117,7 +3146,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "robert@brownstonelaw.com",
+    "booking_url": "https://www.facebook.com/brownstonepa"
   },
   {
     "id": "osm_node_12679936180",
@@ -3193,7 +3224,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "theresa@lawdandrea.com",
+    "booking_url": "https://www.lawdandrea.com/contact/"
   },
   {
     "id": "osm_node_12684331061",
@@ -3350,7 +3383,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@khashmatilaw.com",
+    "booking_url": "https://khashmatilaw.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_13240118778",
@@ -3417,7 +3452,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://gilmerlegal.com/contact/"
   },
   {
     "id": "osm_node_13301729240",
@@ -3495,7 +3531,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "support@instantperdiemattorneys.com",
+    "booking_url": "https://instantperdiemattorneyservice.com/contact-us/"
   },
   {
     "id": "osm_node_13473719026",
@@ -3580,7 +3618,7 @@
   },
   {
     "id": "osm_node_13526562570",
-    "name": "Arc\u00e9 Law Group - Sexual Harassment, Discrimination, & Employment Lawyers",
+    "name": "Arcé Law Group - Sexual Harassment, Discrimination, & Employment Lawyers",
     "address": "45 Broadway, New York, NY, 10006",
     "location": {
       "lat": 40.7067117,
@@ -3676,7 +3714,7 @@
       "addr:unit": "#2810",
       "facebook": "https://www.facebook.com/ArceLawGroup",
       "instagram": "https://www.instagram.com/arcelawgroup/",
-      "name": "Arc\u00e9 Law Group - Sexual Harassment, Discrimination, & Employment Lawyers",
+      "name": "Arcé Law Group - Sexual Harassment, Discrimination, & Employment Lawyers",
       "office": "lawyer",
       "opening_hours": "24/7",
       "phone": "+1-866-589-2644",
@@ -3756,7 +3794,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "office@legit.com",
+    "booking_url": "https://renfroeshapiro.com/contact-us/"
   },
   {
     "id": "osm_node_4582220370",
@@ -4067,7 +4107,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.lawfirmdavidoff.com/contact-us/"
   },
   {
     "id": "osm_node_10825169315",
@@ -4133,7 +4174,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "office@shalomlaw.com",
+    "booking_url": "https://connect.facebook.net"
   },
   {
     "id": "osm_node_12049956962",
@@ -4208,7 +4251,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://boland-injury-law.com/contact/"
   },
   {
     "id": "osm_node_12478458106",
@@ -4278,7 +4322,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "email@work.com",
+    "booking_url": "https://www.yourlawyer.com/about/melanie-h-muhlstock/"
   },
   {
     "id": "osm_node_12795813522",
@@ -4356,7 +4402,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@faridahmedlaw.com",
+    "booking_url": "https://faridahmedlaw.com/contact/"
   },
   {
     "id": "osm_node_13535816876",
@@ -4495,7 +4543,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "gps@scalalaw.com",
+    "booking_url": "https://scalalaw.com/contact-us/"
   },
   {
     "id": "osm_node_12886140099",
@@ -4580,7 +4630,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://corradinoandpartners.com/contact/"
   },
   {
     "id": "osm_node_2807234371",
@@ -4649,7 +4700,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.injuryclaimnyclaw.com/contact-us/"
   },
   {
     "id": "osm_node_7668537805",
@@ -4753,7 +4805,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://oreskylaw.com/contact-us/"
   },
   {
     "id": "osm_node_12009094673",
@@ -4900,7 +4953,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://thesteinlawgroup.com/contact-us/"
   },
   {
     "id": "osm_node_12041081134",
@@ -4973,7 +5027,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://thesteinlawgroup.com/contact-us/"
   },
   {
     "id": "osm_node_12920015514",
@@ -5143,7 +5198,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://fkfirm.com/contact-us/"
   },
   {
     "id": "osm_node_12049824292",
@@ -5221,7 +5277,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://bronx-injury-lawyers.com/contact-us/"
   },
   {
     "id": "osm_way_1388502098",
@@ -5301,7 +5358,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.sattlaw.com/contact-us/"
   },
   {
     "id": "osm_node_6641859396",
@@ -5419,7 +5477,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://parkslopelawyer.com/contact/"
   },
   {
     "id": "osm_node_5612344376",
@@ -5527,7 +5586,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://cpllawfirm.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_2870860297",
@@ -5741,7 +5801,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "admin@robertbrownlaw.com",
+    "booking_url": "https://robertbrownlaw.com/contact-us/"
   },
   {
     "id": "osm_node_2552623868",
@@ -5795,7 +5857,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "dkt@legalassociatesnyc.com",
+    "booking_url": "https://www.legalassociatesnyc.com/contact-us"
   },
   {
     "id": "osm_node_2552794414",
@@ -5875,7 +5939,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.pslegalny.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2"
   },
   {
     "id": "osm_node_2553192585",
@@ -5933,7 +5998,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@masoudlawfirm.com",
+    "booking_url": "https://masoudlawfirm.com/contact/"
   },
   {
     "id": "osm_node_5429435543",
@@ -5992,7 +6059,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://866attylaw.com/contact-us/"
   },
   {
     "id": "osm_node_7072426854",
@@ -6058,7 +6126,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "patrickjohnson@pwjohnsonlawfirm.com"
   },
   {
     "id": "osm_node_9132534664",
@@ -6117,7 +6186,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@gursoylaw.com",
+    "booking_url": "https://gursoylaw.com/schedule-callback/"
   },
   {
     "id": "osm_node_9165710313",
@@ -6197,7 +6268,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "staff@inklawgroup.com",
+    "booking_url": "https://www.facebook.com/people/Nikhman-Nikhman-Associates-PLLC/100037538714002/"
   },
   {
     "id": "osm_node_9799087107",
@@ -6256,7 +6329,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "frafee@rafeelaw.com"
   },
   {
     "id": "osm_node_10596333005",
@@ -6318,7 +6392,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "http://www.divorcelawyerny.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7"
   },
   {
     "id": "osm_node_11608651878",
@@ -6428,7 +6503,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://connect.facebook.net"
   },
   {
     "id": "osm_node_4129678293",
@@ -6499,7 +6575,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "millene@apsanlaw.com"
   },
   {
     "id": "osm_node_13071181212",
@@ -6554,7 +6631,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mcalabro@michaelvcalabrolaw.com"
   },
   {
     "id": "osm_node_2380045819",
@@ -6629,7 +6707,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://nmllplaw.com/contact/"
   },
   {
     "id": "osm_node_2550059696",
@@ -6704,7 +6783,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "eahmed@elwaleedandassociates.com",
+    "booking_url": "https://www.facebook.com/LawOfficeOfElwaleedAhmedPllc"
   },
   {
     "id": "osm_node_2885548500",
@@ -6793,7 +6874,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@mclaughlinstern.com",
+    "booking_url": "https://www.mclaughlinstern.com/contact/"
   },
   {
     "id": "osm_node_4402057799",
@@ -6863,7 +6946,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/TheLawOfficesofJustinCBrasch/"
   },
   {
     "id": "osm_node_4543442337",
@@ -7066,7 +7150,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@lawcila.com",
+    "booking_url": "https://www.lawcila.com/contact"
   },
   {
     "id": "osm_node_5561000664",
@@ -7157,7 +7243,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.levoritzlaw.com/contact-us/"
   },
   {
     "id": "osm_node_5778856805",
@@ -7312,7 +7399,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/Mark-Chalfin-Personal-Injury-Lawyer-1679283529046375/"
   },
   {
     "id": "osm_node_6332834384",
@@ -7554,7 +7642,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "nyevictionlawyer@aol.com",
+    "booking_url": "https://nyevictionlawyer.com/contact/"
   },
   {
     "id": "osm_node_7132080960",
@@ -7632,7 +7722,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@moricilaw.com"
   },
   {
     "id": "osm_node_8638404695",
@@ -7687,7 +7778,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "sccontactus@sullcrom.com"
   },
   {
     "id": "osm_node_8972558698",
@@ -7765,7 +7857,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.howardgreenberglaw.com/wp-content/plugins/contact-form-7-image-captcha/css/cf7ic-style.css?ver=3.3.7"
   },
   {
     "id": "osm_node_9286047470",
@@ -7830,7 +7923,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@normanwonglaw.com"
   },
   {
     "id": "osm_node_9895127454",
@@ -7886,7 +7980,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://gilmerlegal.com/contact/"
   },
   {
     "id": "osm_node_11791505933",
@@ -7950,7 +8045,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://thesteinlawgroup.com/contact-us/"
   },
   {
     "id": "osm_node_11809664754",
@@ -8024,7 +8120,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://fkfirm.com/contact-us/"
   },
   {
     "id": "osm_node_13018662304",
@@ -8141,7 +8238,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@hamtinilaw.com",
+    "booking_url": "https://www.hamtinilaw.com/contact"
   },
   {
     "id": "osm_node_2870858111",
@@ -8344,7 +8443,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://vallonelaw.com/wp-content/plugins/contact-form-7/includes/css/styles.css"
   },
   {
     "id": "osm_node_5346072194",
@@ -8403,7 +8503,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://vallonelaw.com/wp-content/plugins/contact-form-7/includes/css/styles.css"
   },
   {
     "id": "osm_node_5377882636",
@@ -8459,7 +8560,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "alejandro@pixlgraphx.com",
+    "booking_url": "https://arciaandassociates.com/contactenos/"
   },
   {
     "id": "osm_node_5377891816",
@@ -8511,7 +8614,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/Ana-Maria-Bazan-Law-Firm-PC-145856555578726/"
   },
   {
     "id": "osm_node_5648107185",
@@ -8570,7 +8674,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "office@legit.com",
+    "booking_url": "https://renfroeshapiro.com/contact-us/"
   },
   {
     "id": "osm_node_6132132014",
@@ -8626,7 +8732,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "example@mysite.com",
+    "booking_url": "https://static.parastorage.com/services/form-app/1.2427.0/client-viewer/form-app-contacts-phone.chunk.min.css"
   },
   {
     "id": "osm_node_7106075194",
@@ -8753,7 +8861,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@maimonepc.com"
   },
   {
     "id": "osm_node_11829552628",
@@ -8882,7 +8991,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "legalexpertusa@aol.com",
+    "booking_url": "https://legalnetworkusa.com/contact-us"
   },
   {
     "id": "osm_way_247643113",
@@ -8979,7 +9090,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@sullivangalleshaw.com"
   },
   {
     "id": "osm_way_248287618",
@@ -9074,7 +9186,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://shaevitzandshaevitz.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_9826015776",
@@ -9130,7 +9243,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "john@company.com"
   },
   {
     "id": "osm_node_4459050496",
@@ -9437,7 +9551,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@leverecker.com"
   },
   {
     "id": "osm_node_5806748375",
@@ -9783,7 +9898,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.gillandchamas.com/contact/"
   },
   {
     "id": "osm_node_2552509943",
@@ -9921,7 +10037,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://sharnovlaw.com/contact/"
   },
   {
     "id": "osm_node_5941129550",
@@ -9972,7 +10089,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@gylawny.com"
   },
   {
     "id": "osm_node_6983496818",
@@ -10085,7 +10203,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "roger@rossasmar.com"
   },
   {
     "id": "osm_node_10202439494",
@@ -10215,7 +10334,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "malbert@msainjurylaw.com",
+    "booking_url": "https://www.msainjurylaw.com/contact-us/"
   },
   {
     "id": "osm_node_10771836080",
@@ -10352,7 +10473,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@latinotype.com"
   },
   {
     "id": "osm_node_10797403543",
@@ -10456,7 +10578,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mrothstein@dldklaw.com",
+    "booking_url": "https://dldklaw.com/contact-us/"
   },
   {
     "id": "osm_node_10822527405",
@@ -10587,7 +10711,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "sharova@sharovalaw.com",
+    "booking_url": "https://sharovalaw.com/contact-us/"
   },
   {
     "id": "osm_node_11008684059",
@@ -10663,7 +10789,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://nytriallawyer.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8"
   },
   {
     "id": "osm_node_11480683221",
@@ -10735,7 +10862,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@onalgallant.com",
+    "booking_url": "https://onalgallant.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=1773246669"
   },
   {
     "id": "osm_node_11776251818",
@@ -11271,7 +11400,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "ken@kjmontgomerylaw.com"
   },
   {
     "id": "osm_node_2568260645",
@@ -11321,7 +11451,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LevyNau"
   },
   {
     "id": "osm_node_2569497878",
@@ -11386,7 +11517,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://the-forefront.com/contact"
   },
   {
     "id": "osm_node_2838022243",
@@ -11802,7 +11934,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contactus@notolaw.net"
   },
   {
     "id": "osm_node_6381342379",
@@ -11856,7 +11989,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "poonrinn@poonrinn.com"
   },
   {
     "id": "osm_node_6403171915",
@@ -12187,7 +12321,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@dusenberrylaw.com",
+    "booking_url": "https://www.dusenberrylaw.com/contact-us"
   },
   {
     "id": "osm_node_7132140600",
@@ -12253,7 +12389,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "jamie@rodriguezesq.com"
   },
   {
     "id": "osm_node_7253478734",
@@ -12403,7 +12540,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.injuryclaimnyclaw.com/contact-us/"
   },
   {
     "id": "osm_node_9133494536",
@@ -12496,7 +12634,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.marcusattorneys.com/contact/"
   },
   {
     "id": "osm_node_9977939247",
@@ -13530,7 +13669,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://levilawny.com/contact/"
   },
   {
     "id": "osm_node_11821144092",
@@ -13771,7 +13911,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "ahmad@aburaslaw.com",
+    "booking_url": "https://aburaslaw.com/contact-us/"
   },
   {
     "id": "osm_node_13512491798",
@@ -16587,7 +16729,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "office@scolnicklaw.com"
   },
   {
     "id": "osm_node_11259327932",
@@ -18767,7 +18910,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "jboone@boonelawny.com",
+    "booking_url": "https://boonelawny.com/contact/"
   },
   {
     "id": "osm_node_6680114633",

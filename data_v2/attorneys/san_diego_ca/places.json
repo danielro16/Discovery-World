@@ -154,7 +154,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@kashlegal.com",
+    "booking_url": "https://kashlegal.com/contact-us/"
   },
   {
     "id": "osm_node_5291501992",
@@ -223,7 +225,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "chris@movalegal.com",
+    "booking_url": "https://www.movalegal.com/contact-us/"
   },
   {
     "id": "osm_node_5412021441",
@@ -368,7 +372,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://hkm.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_9843309602",
@@ -658,7 +663,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@jassimlaw.com",
+    "booking_url": "https://jassimlaw.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_11332277863",
@@ -727,7 +734,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@bernal-law.com",
+    "booking_url": "https://bernal-law.com/contact/"
   },
   {
     "id": "osm_node_11416331743",
@@ -796,7 +805,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@leadingtaxgroup.com",
+    "booking_url": "https://www.leadingtaxgroup.com/contact-us/"
   },
   {
     "id": "osm_node_13301362867",
@@ -868,7 +879,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/sharer/sharer.php?u=https://pleplaw.com/"
   },
   {
     "id": "osm_node_13645243610",
@@ -940,7 +952,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "greg@olsonesq.com",
+    "booking_url": "https://www.olsonesq.com/contact/"
   },
   {
     "id": "osm_node_9831871269",
@@ -1174,7 +1188,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@stonebrooklaw.com",
+    "booking_url": "https://www.laborlawfirm.com/contact/"
   },
   {
     "id": "osm_node_9933572516",
@@ -1260,7 +1276,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://lemonlawexperts.com/ebook-request/"
   },
   {
     "id": "osm_node_13360868183",
@@ -1332,7 +1349,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@norelllaw.com"
   },
   {
     "id": "osm_node_10977488996",
@@ -1405,7 +1423,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "chris@movalegal.com",
+    "booking_url": "https://www.movalegal.com/contact-us/"
   },
   {
     "id": "osm_node_10848030899",
@@ -1482,7 +1502,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://superiorlawcenter.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.2"
   },
   {
     "id": "osm_node_10848030900",
@@ -1551,7 +1572,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "help@immigrateme.com",
+    "booking_url": "https://immigrateme.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_12773126859",
@@ -1694,7 +1717,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@kingstonandkingston.com",
+    "booking_url": "https://www.kingstonandkingston.com/contact-us/"
   },
   {
     "id": "osm_node_3804220857",
@@ -1777,7 +1802,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@kindleylawyers.com",
+    "booking_url": "https://www.kindleylawyers.com/contact/"
   },
   {
     "id": "osm_node_9716294387",
@@ -2035,7 +2062,7 @@
     "osm_type": "node",
     "osm_tags": {
       "address": "1230 Columbia St Ste 540 San Diego California",
-      "description": "San Diego Personal Injury Lawyer \u2014 Law Offices of Barry Pasternack",
+      "description": "San Diego Personal Injury Lawyer — Law Offices of Barry Pasternack",
       "name": "Pasternack Injury Law Group",
       "office": "lawyer",
       "phone": "+1-619-230-1007"

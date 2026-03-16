@@ -97,7 +97,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.cedarhilldentist.com/appointment-request"
   },
   {
     "id": "osm_node_13474135422",
@@ -261,7 +262,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.bonnieviewdentaldallas.com/contact-us/"
   },
   {
     "id": "osm_node_9141156781",
@@ -436,7 +438,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.allheartdentalcare.com/contact-us/"
   },
   {
     "id": "osm_way_591164069",
@@ -592,7 +595,7 @@
       "healthcare:speciality": "dentistry",
       "name": "Dulce Dental",
       "opening_hours": "Tu-Fr 10:00-18:00, Sa 10:00-18:00",
-      "operator": "Dr. Rodr\u00edguez",
+      "operator": "Dr. Rodríguez",
       "phone": "+1-214-337-0153",
       "start_date": "2002",
       "website": "https://www.dulcedentalofdallas.com/",
@@ -600,7 +603,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.dulcedentalofdallas.com/contact-us/"
   },
   {
     "id": "osm_node_13444326186",
@@ -682,7 +686,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/cosmeticdentistsgrandprairie.com"
   },
   {
     "id": "osm_way_318033626",
@@ -951,7 +956,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.fitzdentaldallas.com/contact-us/"
   },
   {
     "id": "osm_node_9394061554",
@@ -1021,7 +1027,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.topsmileortho.com/book-online"
   },
   {
     "id": "osm_node_9438884265",
@@ -1327,7 +1334,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@vanderbrookdds.com"
   },
   {
     "id": "osm_node_11846164574",
@@ -1498,7 +1506,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/BeverlyHillsPerio"
   },
   {
     "id": "osm_node_12040594100",
@@ -1652,7 +1661,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@parkcitiesdentalgroup.com",
+    "booking_url": "https://parkcitiesdentalgroup.com/contact-parking/"
   },
   {
     "id": "osm_node_6588008507",
@@ -1750,7 +1761,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@sunnyvalekidsdentist.com",
+    "booking_url": "https://www.facebook.com/profile.php?id=61576615041850"
   },
   {
     "id": "osm_node_7492297940",
@@ -1859,7 +1872,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.frescadentaldallas.com/contact-us/"
   },
   {
     "id": "osm_node_8044601977",
@@ -1959,7 +1973,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/GLOWDentalDallas/"
   },
   {
     "id": "osm_node_11782093669",
@@ -2062,7 +2077,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.riodentalgroup.com/wp-content/cache/w3-cache/css/763/wp-content/plugins/contact-form-7/includes/css/styles.css"
   },
   {
     "id": "osm_way_467534845",
@@ -2156,7 +2172,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://dentaldepotdfw.com/request-appointment/"
   },
   {
     "id": "osm_node_7555466848",
@@ -2264,7 +2281,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.myhermosadental.com/contact-us/"
   },
   {
     "id": "osm_node_8305052848",
@@ -2366,7 +2384,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/meredithdavisdds/"
   },
   {
     "id": "osm_node_9427813630",
@@ -2441,7 +2460,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@millsorthodontics.com",
+    "booking_url": "https://www.millsorthodontics.com/contact/"
   },
   {
     "id": "osm_node_11527111787",
@@ -2547,7 +2568,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.allheartdentalcare.com/contact-us/"
   },
   {
     "id": "osm_node_11662673226",
@@ -2647,7 +2669,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "care@lynndentalcare.com",
+    "booking_url": "https://lynndentalcare.com/wp-content/plugins/contact-form-7/includes/css/styles.css"
   },
   {
     "id": "osm_node_11784582599",
@@ -2744,7 +2768,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@idealdentallakehighlands.com",
+    "booking_url": "https://www.facebook.com/myidealdental/"
   },
   {
     "id": "osm_node_13157005450",
@@ -2832,7 +2858,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@topnotchdentistryofdallas.com",
+    "booking_url": "https://topnotchdentistryofdallas.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_13203279004",
@@ -2936,7 +2964,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://drprewitt.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_way_1479954013",
@@ -3103,7 +3132,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@oaktreedentaltx.com"
   },
   {
     "id": "osm_node_7721738908",
@@ -3185,7 +3215,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@beyondbracestx.com",
+    "booking_url": "https://beyondbracestx.com/contact-beyond-braces-sachse/"
   },
   {
     "id": "osm_node_7891677032",
@@ -3432,7 +3464,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@mpbraces.com",
+    "booking_url": "https://mpbraces.com/contact/"
   },
   {
     "id": "osm_node_9849048101",
@@ -3521,7 +3555,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://dentistofplanotexas.com/contact-us/"
   },
   {
     "id": "osm_node_10236563341",
@@ -3610,7 +3645,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.zocdoc.com/syndication/v1/iframehost?practice_id=59504&amp;target_url=http%3A%2F%2Fwww.zocdoc.com%2Fpractice%2Fparsell-family-dental-59504%3FreferrerType%3Dwidget&amp;widgetType=embed&amp;referrerType=Widget&amp;bsid=cdcb6599d5b04bc5b69626e79a357ee4_2001212017&amp;tracking_id=5d8a390b-06d7-4992-90e4-8c2a6753b177&amp;page_Id=a2b9c9b0e38d41d18f4829e8a993ebb3&amp;isResponsive=true&amp;isMobile=true&amp;clicked_sticky_btn=true&amp;clicked_alert_box=false"
   },
   {
     "id": "osm_node_11822776866",
@@ -13975,7 +14011,7 @@
       "check_date": "2025-10-03",
       "healthcare": "dentist",
       "name": "Dentist",
-      "note": "legitimately signed \u201cdentist\u201d"
+      "note": "legitimately signed “dentist”"
     },
     "sources": [
       "osm"

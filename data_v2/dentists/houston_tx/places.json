@@ -87,7 +87,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "infosugarland@flossdental.com",
+    "booking_url": "https://flossdentalsugarland.com/contact/"
   },
   {
     "id": "osm_node_12710610338",
@@ -194,7 +196,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/SweetpeaSmilesSugarland/"
   },
   {
     "id": "osm_node_12710705622",
@@ -259,7 +262,7 @@
         "Invisalign",
         "Teeth Whitening",
         "Dental Bonding",
-        "K\u00f6R\u00ae Teeth Whitening"
+        "KöR® Teeth Whitening"
       ],
       "languages": [
         "English",
@@ -421,7 +424,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.dassanidentistry.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.5"
   },
   {
     "id": "osm_node_11971889011",
@@ -527,7 +531,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hello@marconidentalaesthetics.com",
+    "booking_url": "https://booking.marconidentalaesthetics.com/"
   },
   {
     "id": "osm_node_4492655617",
@@ -608,7 +614,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@brightbraces.com",
+    "booking_url": "https://www.brightbraces.com/booking-calendar"
   },
   {
     "id": "osm_node_6602223611",
@@ -762,7 +770,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "office@pediatricdentistofkaty.com",
+    "booking_url": "https://book2.getweave.com/d6ee5c6c-d0c0-429b-8d03-56e44f35fd17/request-appointment"
   },
   {
     "id": "osm_node_7700084089",
@@ -867,7 +877,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "webreporting@gargle.com",
+    "booking_url": "https://www.cincoranchdentist.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-forms/src/../dist/contact-form/css/jetpack-forms-layout.css?ver=15.6"
   },
   {
     "id": "osm_node_7980284973",
@@ -966,7 +978,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.katyperio.com/appointment"
   },
   {
     "id": "osm_node_9938653085",
@@ -1136,7 +1149,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.smileavenuefamilydentistry.com/katy-tx/contact-us/"
   },
   {
     "id": "osm_node_12230075986",
@@ -1316,7 +1330,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.yelp.com/biz/smile-image-dentists-houston"
   },
   {
     "id": "osm_way_834041982",
@@ -1406,7 +1421,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.houstonortho.com/book-a-free-consultation/"
   },
   {
     "id": "osm_node_3014517259",
@@ -1490,7 +1506,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/ColemanDentalTX"
   },
   {
     "id": "osm_node_5152219925",
@@ -1587,7 +1604,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "team@adorthodontics.com",
+    "booking_url": "https://www.facebook.com/AdOrthodontics"
   },
   {
     "id": "osm_node_9646908744",
@@ -1870,7 +1889,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "consult@premieresurgicalarts.com",
+    "booking_url": "https://premieresurgicalarts.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_9616240222",
@@ -1976,7 +1997,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://offsiteschedule.zocdoc.com"
   },
   {
     "id": "osm_node_10740698933",
@@ -2056,7 +2078,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@astra-orthodontics.com",
+    "booking_url": "https://facebook.com"
   },
   {
     "id": "osm_node_10068818644",
@@ -2124,7 +2148,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.pristinedentalhouston.com/make-an--appointment-"
   },
   {
     "id": "osm_node_12544722392",
@@ -2208,7 +2233,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/pages/Todd-Hughes-Orthodontics/197133493650320"
   },
   {
     "id": "osm_way_977069702",
@@ -2735,7 +2761,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@mycurasmiles.com",
+    "booking_url": "https://www.facebook.com/CuraSmilesDental"
   },
   {
     "id": "osm_node_9258365439",
@@ -2983,7 +3011,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://meyerlandfamilydentistry.com/contact-us/"
   },
   {
     "id": "osm_node_12410033640",
@@ -3078,7 +3107,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@kidsandteensdentalplace.com",
+    "booking_url": "https://www.facebook.com/KidsandTeensDentalPlace"
   },
   {
     "id": "osm_node_4564585229",
@@ -3220,7 +3251,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@charmdentalcare.com",
+    "booking_url": "https://www.facebook.com/charmdentalcare/"
   },
   {
     "id": "osm_node_2574658583",
@@ -3344,7 +3377,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "implants@newsmilesbellaire.com",
+    "booking_url": "https://www.newsmilestexas.com/contact-us/"
   },
   {
     "id": "osm_node_13411421665",
@@ -3566,7 +3601,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.dental-designers.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4"
   },
   {
     "id": "osm_node_12779001701",

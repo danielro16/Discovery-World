@@ -79,7 +79,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.eldridgedentalgroup.com/contact-us"
   },
   {
     "id": "osm_node_9682990366",
@@ -293,7 +294,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@sfdchicago.com",
+    "booking_url": "https://sonrisafamilydental.com/contact/"
   },
   {
     "id": "osm_node_13310725639",
@@ -601,7 +604,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@sfdchicago.com",
+    "booking_url": "https://sonrisafamilydental.com/contact/"
   },
   {
     "id": "osm_node_12976494674",
@@ -703,7 +708,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@sfdchicago.com",
+    "booking_url": "https://sonrisafamilydental.com/contact/"
   },
   {
     "id": "osm_node_12977416457",
@@ -807,7 +814,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@sfdchicago.com",
+    "booking_url": "https://sonrisafamilydental.com/contact/"
   },
   {
     "id": "osm_node_12979606868",
@@ -909,7 +918,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@sfdchicago.com",
+    "booking_url": "https://sonrisafamilydental.com/contact/"
   },
   {
     "id": "osm_node_12979935971",
@@ -1011,7 +1022,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@sfdchicago.com",
+    "booking_url": "https://sonrisafamilydental.com/contact/"
   },
   {
     "id": "osm_node_13301760946",
@@ -1129,7 +1142,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "archer@forever-dental.com",
+    "booking_url": "https://dentistschicago.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1"
   },
   {
     "id": "osm_node_13310525132",
@@ -1248,7 +1263,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "archer@forever-dental.com",
+    "booking_url": "https://dentistschicago.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1"
   },
   {
     "id": "osm_node_8519054762",
@@ -1345,7 +1362,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@chicagodentalboutique.com",
+    "booking_url": "https://www.chicagodentalboutique.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_10003251929",
@@ -1423,7 +1442,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@mydente.com"
   },
   {
     "id": "osm_node_10066953493",
@@ -1517,7 +1537,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/modernsmileschicago/"
   },
   {
     "id": "osm_node_10093673594",
@@ -1680,7 +1701,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://elitedental.org/wp-content/plugins/contact-form-7/includes/css/styles.css"
   },
   {
     "id": "osm_node_11648922610",
@@ -1837,7 +1859,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@sfdchicago.com",
+    "booking_url": "https://sonrisafamilydental.com/contact/"
   },
   {
     "id": "osm_node_13317573866",
@@ -1946,7 +1970,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "archer@forever-dental.com",
+    "booking_url": "https://dentistschicago.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1"
   },
   {
     "id": "osm_way_210537939",
@@ -2027,7 +2053,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@ndiscovered.com"
   },
   {
     "id": "osm_node_3012769743",
@@ -2304,7 +2331,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@dentalwellness.com"
   },
   {
     "id": "osm_node_9974522032",
@@ -2519,7 +2547,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://flexbook.me/emergchi"
   },
   {
     "id": "osm_node_13378853238",

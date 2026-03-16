@@ -94,7 +94,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.drabarrera.com/our-services/emergency-dentist-appointments/"
   },
   {
     "id": "osm_node_10748411716",
@@ -188,7 +189,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mehr@sparklefamilydentist.com",
+    "booking_url": "https://dentistryoftorrance.com/book-an-appointment/"
   },
   {
     "id": "osm_node_12866041252",
@@ -265,7 +268,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://advancedtorrancedental.com/contact-us/"
   },
   {
     "id": "osm_node_10976014723",
@@ -650,7 +654,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.yelp.com/biz/j-p-prosthodontics-fullerton"
   },
   {
     "id": "osm_node_12293384676",
@@ -839,7 +844,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://kathyzahedidds.com/schedule-appointment"
   },
   {
     "id": "osm_node_3380949816",
@@ -1046,7 +1052,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@thirtytwodentistry.com"
   },
   {
     "id": "osm_node_5246350529",
@@ -1141,7 +1148,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://vipdentalspas.com/contact-us-west-hollywood-ca/"
   },
   {
     "id": "osm_node_8018344204",
@@ -1241,7 +1249,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "office@mybeverlyhillsdentist.com",
+    "booking_url": "https://www.facebook.com/BeverlyHillsAestheticDentistry/"
   },
   {
     "id": "osm_node_9106120968",
@@ -1335,7 +1345,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@visiondental.com"
   },
   {
     "id": "osm_node_10618510910",
@@ -1498,7 +1509,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "email@address.com"
   },
   {
     "id": "osm_node_11882925662",
@@ -1845,7 +1857,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@shinekidsdental.com"
   },
   {
     "id": "osm_node_13468731334",
@@ -1935,7 +1948,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@drkiyan.dental"
   },
   {
     "id": "osm_node_10690445705",
@@ -1998,7 +2012,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@losfelizdentalcenter.com"
   },
   {
     "id": "osm_node_10772960804",
@@ -2150,7 +2165,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "customerservice@abritersmile.com",
+    "booking_url": "https://abritersmile.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4"
   },
   {
     "id": "osm_node_12912967352",
@@ -2303,7 +2320,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/SmilesWestBell"
   },
   {
     "id": "osm_node_12919968707",
@@ -2388,7 +2406,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@sanmarinopediatricdentistry.com"
   },
   {
     "id": "osm_node_13260319595",

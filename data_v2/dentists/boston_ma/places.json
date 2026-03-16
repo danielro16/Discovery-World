@@ -205,7 +205,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/SouthShoreDentistryMA/"
   },
   {
     "id": "osm_node_6950503347",
@@ -575,7 +576,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "luxsomerville@luxdental.com"
   },
   {
     "id": "osm_node_6101451789",
@@ -662,7 +664,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@cambridgepediatricdental.com",
+    "booking_url": "https://www.cambridgepediatricdental.com/contact-us/"
   },
   {
     "id": "osm_node_6121992848",
@@ -740,7 +744,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/bracesplaces"
   },
   {
     "id": "osm_node_7863230284",
@@ -838,7 +843,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "angelika.paul@kiwimotif.com",
+    "booking_url": "https://www.facebook.com/Diba-Dastjerdi-DMD-PC-dba-Carr-Associates--477908889060673/"
   },
   {
     "id": "osm_node_7887981178",
@@ -920,7 +927,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@harmonyboston.com"
   },
   {
     "id": "osm_node_9951889411",
@@ -1009,7 +1017,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@giodentalsl.com",
+    "booking_url": "https://www.giodentalsl.com/contact-us/"
   },
   {
     "id": "osm_node_11071388027",
@@ -1097,7 +1107,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "careteam@puredentaljp.com"
   },
   {
     "id": "osm_node_13361888104",
@@ -1187,7 +1198,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@cambridgesmiles.com",
+    "booking_url": "https://www.cambridgesmiles.com/contact"
   },
   {
     "id": "osm_way_29637105",
@@ -1506,7 +1519,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "admin@woburnfamilydental.com"
   },
   {
     "id": "osm_node_10110406891",
@@ -1594,7 +1608,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hello@novadentaloffice.com"
   },
   {
     "id": "osm_node_10138392700",
@@ -1829,7 +1844,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "team@woburndentistryma.com",
+    "booking_url": "https://www.facebook.com/woburndentistry"
   },
   {
     "id": "osm_way_935154172",
@@ -1978,7 +1995,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.exquisitedentistry.com/wp-content/plugins/contact-form-7/includes/css/styles.css"
   },
   {
     "id": "osm_node_5862887173",
@@ -2133,7 +2151,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "frontdesk@readingdentalma.com",
+    "booking_url": "https://www.facebook.com/readingdental"
   },
   {
     "id": "osm_node_7150898199",
@@ -2227,7 +2247,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.yoursalemdentist.com/contact-us/"
   },
   {
     "id": "osm_node_9486172923",

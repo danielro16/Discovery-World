@@ -65,7 +65,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://frogalelaw.com/contact/"
   },
   {
     "id": "osm_node_10864195907",
@@ -138,7 +139,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@hughesleighton.com",
+    "booking_url": "https://hughesleighton.com/contact-us/"
   },
   {
     "id": "osm_node_11274564887",
@@ -213,7 +216,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@sansoxygen.com"
   },
   {
     "id": "osm_node_5861040650",
@@ -349,7 +353,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@chasenboscolo.com",
+    "booking_url": "https://www.chasenboscolo.com/contact/"
   },
   {
     "id": "osm_node_9773256559",
@@ -422,7 +428,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@jeffdowney.com"
   },
   {
     "id": "osm_node_10098579482",
@@ -489,7 +496,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/MMForthePeople"
   },
   {
     "id": "osm_node_5906043378",
@@ -631,7 +639,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@anthracitelaw.com",
+    "booking_url": "https://www.anthracitelaw.com/contact"
   },
   {
     "id": "osm_node_7132479943",
@@ -704,7 +714,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.guzmansalvadolaw.com/contact-us/"
   },
   {
     "id": "osm_node_10635718001",
@@ -771,7 +782,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@pdavislawoffice.com"
   },
   {
     "id": "osm_node_10680079150",
@@ -851,7 +863,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "kishore@maryland-lawoffice.com",
+    "booking_url": "https://maryland-lawoffice.com/contact-us/"
   },
   {
     "id": "osm_node_12167664099",
@@ -929,7 +943,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://hechtassociates.com/complex-and-high-asset-property/stocks-bonds-and-investments/"
   },
   {
     "id": "osm_node_4202150519",
@@ -1009,7 +1024,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://dubofflawgroup.com/contact/"
   },
   {
     "id": "osm_node_6665110134",
@@ -1163,7 +1179,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "lloyd@malechlaw.com",
+    "booking_url": "https://www.facebook.com/malechlaw/"
   },
   {
     "id": "osm_node_6046031795",
@@ -1286,7 +1304,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://justlawintl.com/contact-us/"
   },
   {
     "id": "osm_node_2604941910",
@@ -1365,7 +1384,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@spigglelaw.com",
+    "booking_url": "https://spigglelaw.com/book-tom-spiggle/"
   },
   {
     "id": "osm_node_10741712666",
@@ -1541,7 +1562,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.vbrownleelaw.com/contact/"
   },
   {
     "id": "osm_node_4620397894",
@@ -1611,7 +1633,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@cargopress.com",
+    "booking_url": "https://thepoolelawfirm.com/contact-us/"
   },
   {
     "id": "osm_node_8069415789",
@@ -1668,7 +1692,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@mydomain.com"
   },
   {
     "id": "osm_way_1220392175",
@@ -1719,7 +1744,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "irina@iv-law.com"
   },
   {
     "id": "osm_node_3687271140",
@@ -1835,7 +1861,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "brenemanlaw@aol.com"
   },
   {
     "id": "osm_node_11608677272",
@@ -1895,7 +1922,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://brownlawpllc.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_11907412676",
@@ -2065,7 +2093,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@digneyyork.com",
+    "booking_url": "https://digneyyork.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_6138121561",

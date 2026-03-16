@@ -86,7 +86,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.onioncreekdental.com/request-appointment"
   },
   {
     "id": "osm_node_8497622037",
@@ -237,7 +238,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/MorganDental/"
   },
   {
     "id": "osm_node_12983037633",
@@ -325,7 +327,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://advancedfamilydentist.com/contact-us/"
   },
   {
     "id": "osm_node_12983037645",
@@ -466,7 +469,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "front@secure.texastoothfairies.com",
+    "booking_url": "https://www.texastoothfairies.com/contact"
   },
   {
     "id": "osm_node_2533220906",
@@ -551,7 +556,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@kcdentalaustin.com",
+    "booking_url": "https://www.kcdentalaustin.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_2663954886",
@@ -771,7 +778,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@valenciasmilesdentalcare.com",
+    "booking_url": "https://www.valenciasmilesdentalcare.com/indexnew/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.7"
   },
   {
     "id": "osm_node_8317007841",
@@ -1073,7 +1082,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://book.getweave.com"
   },
   {
     "id": "osm_node_8526378217",
@@ -1242,7 +1252,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@waldendentaltx.com",
+    "booking_url": "https://www.waldendentaltx.com/contact-us/"
   },
   {
     "id": "osm_node_8534492025",
@@ -1317,7 +1329,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://risingstarsdental.com/contact-us/"
   },
   {
     "id": "osm_node_8534622944",
@@ -1398,7 +1411,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/lakelineranchdental/"
   },
   {
     "id": "osm_node_8602998906",
@@ -1486,7 +1500,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@unitedgroupny.com"
   },
   {
     "id": "osm_node_8608063459",
@@ -1556,7 +1571,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.littleexplorersdentistry.com/directions/contact"
   },
   {
     "id": "osm_node_8770517731",
@@ -1636,7 +1652,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://northaustindentist.com/contact/"
   },
   {
     "id": "osm_node_11083906192",
@@ -1725,7 +1742,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "gtown@riverydental.com",
+    "booking_url": "https://riverydental.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_11259988542",
@@ -1815,7 +1834,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "u003einfo@toothwise.dental"
   },
   {
     "id": "osm_node_12207544633",
@@ -2011,7 +2031,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.rosedental.com/contact-us/"
   },
   {
     "id": "osm_node_12599195153",
@@ -2089,7 +2110,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LSPDandBraces/"
   },
   {
     "id": "osm_node_10265147209",
@@ -2153,7 +2175,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@groovymolar.com",
+    "booking_url": "https://groovymolar.com/contact-us/"
   },
   {
     "id": "osm_way_383015428",
@@ -2239,7 +2263,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@optimaimplants.com",
+    "booking_url": "https://optimaimplants.com/wp-content/themes/plastic/config-templatebuilder/avia-shortcodes/contact/contact.css"
   },
   {
     "id": "osm_node_3157298458",
@@ -2327,7 +2353,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.castledental.com/appointment/?officeId="
   },
   {
     "id": "osm_node_11244862217",
