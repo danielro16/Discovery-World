@@ -55,7 +55,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.deanfreedlandermd.com/contact"
   },
   {
     "id": "osm_node_3927989514",
@@ -207,7 +208,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "connect@laurabai.com"
   },
   {
     "id": "osm_node_4349254095",
@@ -259,7 +261,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@ramsinc.org",
+    "booking_url": "https://ramsinc.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_10110556090",
@@ -391,7 +395,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "amandakelly@comcast.net"
   },
   {
     "id": "osm_node_10786046089",
@@ -461,7 +466,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "therapy@judyehessphd.com"
   },
   {
     "id": "osm_node_4349255894",
@@ -503,7 +509,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@ramsinc.org",
+    "booking_url": "https://ramsinc.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_4349256200",
@@ -546,7 +554,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@ramsinc.org",
+    "booking_url": "https://ramsinc.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_11191734211",
@@ -672,7 +682,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@ramsinc.org"
   },
   {
     "id": "osm_node_12639528582",

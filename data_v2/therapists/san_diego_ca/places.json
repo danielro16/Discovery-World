@@ -146,7 +146,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "j.zatyko@jacksonhousesd.com",
+    "booking_url": "https://www.facebook.com/JacksonHouseSD/"
   },
   {
     "id": "osm_way_31818963",
@@ -296,7 +298,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "sarah@selfembodytherapy.com",
+    "booking_url": "https://www.facebook.com/selfembodytherapy"
   },
   {
     "id": "osm_node_3311192180",
@@ -506,7 +510,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@caltms.com",
+    "booking_url": "https://caltms.com/contact-us/"
   },
   {
     "id": "osm_node_358808854",
@@ -558,7 +564,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "ncrespo@cbhi.net",
+    "booking_url": "https://www.crestwoodbehavioralhealth.com/contact"
   },
   {
     "id": "osm_way_570117775",
@@ -754,7 +762,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.sdmts.com/schedules-real-time/trip-planner"
   },
   {
     "id": "osm_way_570282161",
@@ -839,7 +848,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://apibhs.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_10017006658",

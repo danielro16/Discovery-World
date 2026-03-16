@@ -85,7 +85,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "medicalrecords@advancedrecoverysystems.com"
   },
   {
     "id": "osm_node_13152286750",
@@ -148,7 +149,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@thinkhappylivehealthy.com",
+    "booking_url": "https://www.thinkhappylivehealthy.com/requestappointment"
   },
   {
     "id": "osm_way_516393895",
@@ -345,7 +348,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://mypsych.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_way_72596054",
@@ -394,7 +398,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.recoveryunplugged.com/wp-content/uploads/2025/06/P22-Mackinac-Book.woff"
   },
   {
     "id": "osm_way_516241327",
@@ -699,7 +704,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hello@gardencitycenter.org"
   },
   {
     "id": "osm_node_3063730206",
@@ -745,7 +751,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@creativewaystherapy.com",
+    "booking_url": "https://www.creativewaystherapy.com/contact"
   },
   {
     "id": "osm_node_7561203391",
