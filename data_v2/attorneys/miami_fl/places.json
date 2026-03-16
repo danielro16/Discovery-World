@@ -313,7 +313,7 @@
         "EB2 Visas",
         "EB3 Visas",
         "Family Based Immigration",
-        "Fianc\u00e9e Visas",
+        "Fiancée Visas",
         "Marriage Visas",
         "Citizenship",
         "Naturalization",
@@ -366,7 +366,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "carlrothrock@ymail.com"
   },
   {
     "id": "osm_node_10572571436",
@@ -657,7 +658,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@panterlaw.com"
   },
   {
     "id": "osm_node_5432635094",
@@ -795,7 +797,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://footmanlaw.com/contact-us/"
   },
   {
     "id": "osm_node_5380380130",
@@ -1200,7 +1203,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "alcoba@alcobalaw.com",
+    "booking_url": "https://miamipatents.com/contact/"
   },
   {
     "id": "osm_node_6015128340",
@@ -1365,7 +1370,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "jonahwolfson@wolfsonlawfirm.com"
   },
   {
     "id": "osm_node_10073004136",
@@ -1447,7 +1453,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "david@miami-criminal-lawyer.net",
+    "booking_url": "https://www.facebook.com/miami.criminal.defense.lawyer"
   },
   {
     "id": "osm_node_11201558514",
@@ -1533,7 +1541,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/AAYourAttorneys"
   },
   {
     "id": "osm_node_11675953552",
@@ -1604,7 +1613,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.galbutwalters.com/contact/"
   },
   {
     "id": "osm_node_12420605543",
@@ -1626,11 +1636,11 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "9:00\u201317:30,  Sa-Su Close",
-      "Tuesday": "9:00\u201317:30,  Sa-Su Close",
-      "Wednesday": "9:00\u201317:30,  Sa-Su Close",
-      "Thursday": "9:00\u201317:30,  Sa-Su Close",
-      "Friday": "9:00\u201317:30,  Sa-Su Close"
+      "Monday": "9:00–17:30,  Sa-Su Close",
+      "Tuesday": "9:00–17:30,  Sa-Su Close",
+      "Wednesday": "9:00–17:30,  Sa-Su Close",
+      "Thursday": "9:00–17:30,  Sa-Su Close",
+      "Friday": "9:00–17:30,  Sa-Su Close"
     },
     "reviews": [],
     "photos": [],
@@ -1669,13 +1679,15 @@
       "lawyer": "immigration",
       "name": "De Maio Immigration Law, PLLC",
       "office": "lawyer",
-      "opening_hours": "Mo-Fr 9:00\u201317:30, Sa-Su Close",
+      "opening_hours": "Mo-Fr 9:00–17:30, Sa-Su Close",
       "phone": "+1 786-232-9120",
       "website": "https://www.demaio-law.com/"
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@demaio-law.com",
+    "booking_url": "https://static.parastorage.com/services/form-app/1.2429.0/client-viewer/form-app-contacts-phone.chunk.min.css"
   },
   {
     "id": "osm_node_12462761385",
@@ -1734,7 +1746,7 @@
       "addr:state": "FL",
       "addr:street": "Brickell Avenue",
       "addr:unit": "3800",
-      "description": "At The Ferraro Law Firm, P.A., obtaining results for our clients is what we do best. We know how to fight a case and win, and we\u2019ve been doing exactly that for the past 30 years.",
+      "description": "At The Ferraro Law Firm, P.A., obtaining results for our clients is what we do best. We know how to fight a case and win, and we’ve been doing exactly that for the past 30 years.",
       "name": "The Ferraro Law Firm, P.A.",
       "office": "lawyer",
       "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-16:30",
@@ -1808,7 +1820,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@legaledgeservices.com",
+    "booking_url": "https://legaledgeservices.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_12556640394",
@@ -1890,7 +1904,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@muscalaw.com",
+    "booking_url": "https://www.facebook.com/MuscaLaw"
   },
   {
     "id": "osm_node_12891778115",
@@ -1967,7 +1983,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "service@fleiteslaw.com",
+    "booking_url": "https://fleiteslaw.com/contact-us/"
   },
   {
     "id": "osm_node_13228797429",
@@ -2055,7 +2073,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@silvasilva.com",
+    "booking_url": "https://www.silvasilva.com/contact-us/"
   },
   {
     "id": "osm_node_5256457642",
@@ -2416,11 +2436,11 @@
       "lawyer"
     ],
     "hours": {
-      "Monday": "08:00\u201317:00",
-      "Tuesday": "08:00\u201317:00",
-      "Wednesday": "08:00\u201317:00",
-      "Thursday": "08:00\u201317:00",
-      "Friday": "08:00\u201317:00",
+      "Monday": "08:00–17:00",
+      "Tuesday": "08:00–17:00",
+      "Wednesday": "08:00–17:00",
+      "Thursday": "08:00–17:00",
+      "Friday": "08:00–17:00",
       "Saturday": "Su off"
     },
     "reviews": [],
@@ -2458,13 +2478,15 @@
       "email": "dmartinez@themartinezfirm.com",
       "name": "The Martinez Law Firm, P.A.",
       "office": "lawyer",
-      "opening_hours": "Mo-Fr 08:00\u201317:00; Sa, Su off",
+      "opening_hours": "Mo-Fr 08:00–17:00; Sa, Su off",
       "phone": "+1-786-536-5221",
       "website": "https://themartinezfirm.com/"
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "dmartinez@themartinezlawfirm.com",
+    "booking_url": "https://themartinezfirm.com/contacts/"
   },
   {
     "id": "osm_node_12841495172",
@@ -2530,7 +2552,7 @@
       "addr:state": "FL",
       "addr:street": "West 68th Street",
       "addr:unit": "104",
-      "description": "The Diaz Law Firm is your trusted legal advocate in Florida, specializing in solar panel scams, solar power fraud, and employment law. If you\u2019ve been a victim of deceptive solar companies like Titan Solar in Miami, or need help with a solar panel lawsuit.",
+      "description": "The Diaz Law Firm is your trusted legal advocate in Florida, specializing in solar panel scams, solar power fraud, and employment law. If you’ve been a victim of deceptive solar companies like Titan Solar in Miami, or need help with a solar panel lawsuit.",
       "email": "jose@thediazlawfirm.com",
       "fax": "+1-786-431-1357",
       "name": "The Diaz Law Firm, P.A.",
@@ -2541,7 +2563,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "jose@thediazlawfirm.com",
+    "booking_url": "https://thediazlawfirm.com/contact/"
   },
   {
     "id": "osm_node_13347278511",
@@ -2625,7 +2649,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://abogadomario.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_13379223932",
@@ -2705,7 +2730,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.familylawprotection.com/schedule-a-free-case-evaluation/"
   },
   {
     "id": "osm_way_435569239",
@@ -3300,7 +3326,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "paul@schrierlawgroup.com",
+    "booking_url": "https://www.schrierlawgroup.com/contact-us/"
   },
   {
     "id": "osm_node_5380367922",
@@ -3510,7 +3538,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@divorcemadeeasy.net",
+    "booking_url": "https://divorcemadeeasy.net/contact-us/"
   },
   {
     "id": "osm_node_11975058581",
@@ -3589,7 +3619,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "clientintake@grimaldi-law.com",
+    "booking_url": "https://realestatelawfl.com/contact-grimaldi-law-firm/"
   },
   {
     "id": "osm_node_12406406931",
@@ -3776,7 +3808,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "henry.rodriguez@municipalclaims.us",
+    "booking_url": "https://municipalclaims.us/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_5601577375",
@@ -3838,7 +3872,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@lipconlawfirm.com",
+    "booking_url": "https://www.lipconlawfirm.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_9812160673",
@@ -3914,7 +3950,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.familylawprotection.com/schedule-a-free-case-evaluation/"
   },
   {
     "id": "osm_node_11077850234",
@@ -3988,7 +4025,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "orlando@orlandorodriguezpa.com",
+    "booking_url": "https://orlandorodriguezpa.com/contact/"
   },
   {
     "id": "osm_node_3688732470",
@@ -4048,7 +4087,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://ferdieandlones.com/contact/"
   },
   {
     "id": "osm_node_4558022242",
@@ -4309,7 +4349,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "robert@brownstonelaw.com",
+    "booking_url": "https://www.facebook.com/brownstonepa"
   },
   {
     "id": "osm_node_9294849841",
@@ -4458,7 +4500,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "david@dhgpl-law.com",
+    "booking_url": "https://dhgpl-law.com/contact/"
   },
   {
     "id": "osm_way_435530978",
@@ -4570,7 +4614,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@gslawusa.com"
   },
   {
     "id": "osm_node_2952669176",
@@ -4693,7 +4738,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://wolfferscohen.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1"
   },
   {
     "id": "osm_node_5209965454",
