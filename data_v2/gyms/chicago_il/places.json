@@ -85,7 +85,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com"
   },
   {
     "id": "osm_node_7716162420",
@@ -173,7 +174,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com"
   },
   {
     "id": "osm_way_1272947822",
@@ -262,7 +264,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com"
   },
   {
     "id": "osm_node_9603466466",
@@ -346,7 +349,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hinsdale@f45training.com",
+    "booking_url": "https://f45training.com/studio/hinsdale#schedule"
   },
   {
     "id": "osm_node_11388536640",
@@ -507,7 +512,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "burrridge@ltfinc.onmicrosoft.com"
   },
   {
     "id": "osm_way_1090880063",
@@ -655,7 +661,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://tpsfit.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_5425340104",
@@ -803,7 +810,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com"
   },
   {
     "id": "osm_node_9850361534",
@@ -891,7 +899,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@firstascentclimbing.com",
+    "booking_url": "https://faclimbing.com/chicago/contact/"
   },
   {
     "id": "osm_node_10772390184",
@@ -1157,7 +1167,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com"
   },
   {
     "id": "osm_node_12025192715",
@@ -1244,7 +1255,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "me@mail.com"
   },
   {
     "id": "osm_node_13287832746",
@@ -1316,7 +1328,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "northshore@thehotroom.com",
+    "booking_url": "https://www.facebook.com/thehotroomnorthshore/"
   },
   {
     "id": "osm_way_183772109",
@@ -1420,7 +1434,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "oldorchard@ltfinc.onmicrosoft.com"
   },
   {
     "id": "osm_way_687856768",
@@ -1510,7 +1525,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com",
+    "booking_url": "https://www.facebook.com/anytimefitnessSKOKIE/"
   },
   {
     "id": "osm_node_11601380377",
@@ -1921,7 +1938,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hydepark@yogasix.com",
+    "booking_url": "https://www.yogasix.com/hubfs/hub_generated/module_assets/1/12106427860/1741866125229/module_location-scheduler-v2.min.css"
   },
   {
     "id": "osm_node_9077831828",
@@ -2067,7 +2086,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_node_13141708571",
@@ -2209,7 +2229,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "studiomanager0685@orangetheoryfitness.com"
   },
   {
     "id": "osm_node_4854965579",
@@ -3305,7 +3326,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_way_282577564",
@@ -3735,7 +3757,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_way_186751944",
@@ -4590,7 +4613,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_node_9429347860",
@@ -5577,7 +5601,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_node_12688499955",

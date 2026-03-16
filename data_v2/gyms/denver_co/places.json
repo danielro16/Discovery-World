@@ -515,7 +515,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "studiomanager0074@orangetheoryfitness.com"
   },
   {
     "id": "osm_node_6186810318",
@@ -649,7 +650,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "johndoe@mail.com",
+    "booking_url": "https://www.facebook.com/profile.php?id=100078686157232"
   },
   {
     "id": "osm_node_12599830286",
@@ -813,7 +816,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "parkeraurora@ltfinc.onmicrosoft.com"
   },
   {
     "id": "osm_way_229122489",
@@ -901,7 +905,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "recreation@parkeronline.org",
+    "booking_url": "https://parkerco.perfectmind.com/39917/Clients/BookMe4?widgetId=28b0bc18-38a4-4ef7-9413-636d9830dc4f"
   },
   {
     "id": "osm_way_365733807",
@@ -1101,7 +1107,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "golden@stretchlab.com",
+    "booking_url": "https://www.stretchlab.com/hubfs/hub_generated/module_assets/1/19360277140/1772748995299/module_location-scheduler-v2.min.css"
   },
   {
     "id": "osm_node_12042064034",
@@ -1191,7 +1199,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "belmar@f45training.com",
+    "booking_url": "https://f45training.com/studio/belmar#schedule"
   },
   {
     "id": "osm_node_12566369395",
@@ -1380,7 +1390,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "kasie@hotworx.net",
+    "booking_url": "https://facebook.com/HOTWORXArvadaRalstonSquare"
   },
   {
     "id": "osm_way_362326383",
@@ -1480,7 +1492,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://facebook.com/movementgymsgolden"
   },
   {
     "id": "osm_way_948332817",
@@ -1934,7 +1947,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://facebook.com/movementgymsrino"
   },
   {
     "id": "osm_node_9784527418",
@@ -2017,7 +2031,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "climb@denverboulderingclub.com"
   },
   {
     "id": "osm_node_10826228690",
@@ -2095,7 +2110,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "boulevardone@yogasix.com",
+    "booking_url": "https://www.yogasix.com/hubfs/hub_generated/module_assets/1/12106427860/1741866125229/module_location-scheduler-v2.min.css"
   },
   {
     "id": "osm_node_12533655781",
@@ -5716,7 +5733,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "arvadaridge@f45training.com",
+    "booking_url": "https://f45training.com/studio/arvadaridge#schedule"
   },
   {
     "id": "osm_node_7021223984",
@@ -6485,7 +6504,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "studiomanager0040@orangetheoryfitness.com"
   },
   {
     "id": "osm_node_9359397516",
@@ -7651,7 +7671,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/OrangetheoryFitness/"
   },
   {
     "id": "osm_way_503848826",
@@ -10717,7 +10738,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "flatirons1@ltfinc.onmicrosoft.com"
   },
   {
     "id": "osm_way_432686697",
