@@ -70,7 +70,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "team@latofonts.com"
   },
   {
     "id": "osm_node_8058684766",
@@ -206,7 +207,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@cacaustin.org",
+    "booking_url": "https://cacaustin.org/contact/"
   },
   {
     "id": "osm_node_11197561787",
@@ -364,7 +367,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.patientnotebook.com/AustinOaks"
   },
   {
     "id": "osm_way_566748037",

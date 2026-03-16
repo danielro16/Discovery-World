@@ -50,7 +50,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "care@sameemcare.com"
   },
   {
     "id": "osm_way_496108843",
@@ -179,7 +180,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "emily773@sbcglobal.net"
   },
   {
     "id": "osm_node_11414839063",
@@ -230,7 +232,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@bostoneveningtherapy.com",
+    "booking_url": "https://bostoneveningtherapy.com/careers/part-time-therapist-remote-or-brookline-office-flexible-schedule/"
   },
   {
     "id": "osm_node_11552882576",
@@ -300,7 +304,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://bostoncenterforcouples.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.1"
   },
   {
     "id": "osm_node_12165942444",
@@ -361,7 +366,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@cambridgepsych.org",
+    "booking_url": "https://cambridgepsych.org/contact/"
   },
   {
     "id": "osm_way_495950127",
@@ -567,7 +574,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "ihr@healthrecovery.org",
+    "booking_url": "http://www.healthrecovery.org/contact"
   },
   {
     "id": "osm_node_7714644986",
@@ -648,7 +657,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "xxx@xxxx.com"
   },
   {
     "id": "osm_node_7731913265",
@@ -800,7 +810,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@endeavorpsychology.com",
+    "booking_url": "https://bostonpsychologycenter.com/contact-us/"
   },
   {
     "id": "osm_node_8670218378",
@@ -868,7 +880,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@riversidecc.org"
   },
   {
     "id": "osm_node_13382525862",
@@ -932,7 +945,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@kendallpsych.com"
   },
   {
     "id": "osm_node_2973497385",
@@ -1112,7 +1126,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com"
   },
   {
     "id": "osm_node_12925089611",
@@ -1169,7 +1184,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hello@vergetherapy.com",
+    "booking_url": "https://vergetherapy.com/contact/"
   },
   {
     "id": "osm_way_29627009",
@@ -1244,7 +1261,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "admissions@northsuffolk.org",
+    "booking_url": "https://northsuffolk.org/contact/"
   },
   {
     "id": "osm_node_4987446608",

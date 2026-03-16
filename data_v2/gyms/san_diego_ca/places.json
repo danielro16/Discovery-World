@@ -95,7 +95,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_node_12626015219",
@@ -411,7 +412,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_way_31803322",
@@ -495,7 +497,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "candice@thecompoundliftingclub.com"
   },
   {
     "id": "osm_way_31803931",
@@ -575,7 +578,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.yogabox.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4"
   },
   {
     "id": "osm_node_9978796240",
@@ -652,7 +656,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cpo@24hourfit.com"
   },
   {
     "id": "osm_node_10013720542",
@@ -1461,7 +1466,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "visionplanet@msn.com",
+    "booking_url": "https://www.facebook.com/TGChulaVista/"
   },
   {
     "id": "osm_node_9530907107",
@@ -1603,7 +1610,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com"
   },
   {
     "id": "osm_node_13204005901",
@@ -1836,7 +1844,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@joinbuildgym.com",
+    "booking_url": "https://connect.facebook.net"
   },
   {
     "id": "osm_node_12626015220",
@@ -1937,7 +1947,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "plunge@fitathletic.com",
+    "booking_url": "https://plungesandiego.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4"
   },
   {
     "id": "osm_node_596067116",
@@ -2550,7 +2562,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com"
   },
   {
     "id": "osm_node_9364521654",
@@ -2906,7 +2919,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cpo@24hourfit.com"
   },
   {
     "id": "osm_node_2597907064",
@@ -4597,7 +4611,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_way_288089781",

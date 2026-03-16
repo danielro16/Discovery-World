@@ -146,7 +146,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "polkstreetmanager@crunch.com",
+    "booking_url": "https://www.facebook.com/CrunchPolkSt/"
   },
   {
     "id": "osm_node_3881440385",
@@ -221,7 +223,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@fitnesssf.com"
   },
   {
     "id": "osm_node_4004802465",
@@ -319,7 +322,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@benchmarkclimbing.com"
   },
   {
     "id": "osm_node_5735236443",
@@ -463,7 +467,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.barrys.com/book-now"
   },
   {
     "id": "osm_node_10917024236",
@@ -541,7 +546,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "soma@clubpilates.com",
+    "booking_url": "https://www.clubpilates.com/hubfs/hub_generated/module_assets/1/17207331599/1744236747636/module_location-scheduler-v2.min.css"
   },
   {
     "id": "osm_node_11558519647",
@@ -704,7 +711,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "heather@smackhappy.com"
   },
   {
     "id": "osm_way_193054131",
@@ -800,7 +808,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "memberservices@ymcasf.org",
+    "booking_url": "https://www.ymcasf.org/health-wellness/#schedules"
   },
   {
     "id": "osm_node_687186706",
@@ -1091,7 +1101,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com"
   },
   {
     "id": "osm_node_12332008477",
@@ -1190,7 +1201,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "manager@crunchalameda.com",
+    "booking_url": "https://www.facebook.com/crunchalameda"
   },
   {
     "id": "osm_node_13102834859",
@@ -1350,7 +1363,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "heather@smackhappy.com"
   },
   {
     "id": "osm_way_157158278",
@@ -1450,7 +1464,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "heather@smackhappy.com"
   },
   {
     "id": "osm_node_6778998197",
@@ -1541,7 +1556,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com"
   },
   {
     "id": "osm_node_13159066526",
@@ -1698,7 +1714,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "ymember@ymcaeastbay.org"
   },
   {
     "id": "osm_way_109504819",
@@ -2124,7 +2141,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "heather@smackhappy.com"
   },
   {
     "id": "osm_node_4098815839",
@@ -2393,7 +2411,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://facebook.com/movementgymssanfrancisco"
   },
   {
     "id": "osm_way_286276068",
@@ -2488,7 +2507,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "memberservices@ymcasf.org",
+    "booking_url": "https://www.ymcasf.org/health-wellness/#schedules"
   },
   {
     "id": "osm_way_39759872",
@@ -2739,7 +2760,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@benchmarkclimbing.com"
   },
   {
     "id": "osm_node_11847450389",
@@ -2827,7 +2849,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com"
   },
   {
     "id": "osm_node_13624406618",
@@ -3389,7 +3412,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.barrys.com/book-now"
   },
   {
     "id": "osm_node_6591743880",
@@ -3542,7 +3566,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cpo@24hourfit.com"
   },
   {
     "id": "osm_node_8660742534",
@@ -4237,7 +4262,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "heather@smackhappy.com"
   },
   {
     "id": "osm_node_12064273204",
@@ -6165,7 +6191,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "memberservices@ymcasf.org",
+    "booking_url": "https://www.ymcasf.org/health-wellness/#schedules"
   },
   {
     "id": "osm_node_6815206679",
@@ -8491,7 +8519,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cpo@24hourfit.com"
   },
   {
     "id": "osm_node_8904492288",
@@ -8671,7 +8700,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "ymember@ymcaeastbay.org"
   },
   {
     "id": "osm_node_12787062986",
@@ -13071,7 +13101,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "heather@smackhappy.com"
   },
   {
     "id": "osm_node_9601893152",

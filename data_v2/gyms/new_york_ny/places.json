@@ -72,7 +72,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/PureGymUS/"
   },
   {
     "id": "osm_node_2552820596",
@@ -158,7 +159,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/PureGymUS/"
   },
   {
     "id": "osm_node_2562125760",
@@ -246,7 +248,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@harborfitness.com"
   },
   {
     "id": "osm_node_5425339293",
@@ -343,7 +346,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "media@retrofitness.com"
   },
   {
     "id": "osm_node_5425339294",
@@ -441,7 +445,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "brooklynnychurchave@retrofitness.net",
+    "booking_url": "https://retrofitness.com/schedule-a-tour/"
   },
   {
     "id": "osm_node_5425340085",
@@ -538,7 +544,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "media@retrofitness.com"
   },
   {
     "id": "osm_node_13354528251",
@@ -993,7 +1000,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "media@retrofitness.com",
+    "booking_url": "https://retrofitness.com/schedule-a-tour/"
   },
   {
     "id": "osm_node_5425339300",
@@ -1078,7 +1087,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "team@sculptfitnessnj.com",
+    "booking_url": "https://sculptfitnessnj.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4"
   },
   {
     "id": "osm_node_5425339302",
@@ -1175,7 +1186,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "jerseycitynj@retrofitness.net",
+    "booking_url": "https://retrofitness.com/schedule-a-tour/"
   },
   {
     "id": "osm_node_5425340063",
@@ -1272,7 +1285,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "media@retrofitness.com",
+    "booking_url": "https://retrofitness.com/schedule-a-tour/"
   },
   {
     "id": "osm_node_5425340076",
@@ -1367,7 +1382,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "northarlingtonnj@retrofitness.net",
+    "booking_url": "https://retrofitness.com/schedule-a-tour/"
   },
   {
     "id": "osm_node_8205009342",
@@ -1459,7 +1476,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://method.portal.approach.app/login?returnTo=%2Fprofile%2Fcontact"
   },
   {
     "id": "osm_node_12195195768",
@@ -1535,7 +1553,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/PureGymUS/"
   },
   {
     "id": "osm_node_13069514157",
@@ -1621,7 +1640,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com"
   },
   {
     "id": "osm_node_13110630601",
@@ -1993,7 +2013,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/PureGymUS/"
   },
   {
     "id": "osm_node_2844942223",
@@ -2147,7 +2168,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "queensnyregopark@retrofitness.net",
+    "booking_url": "https://retrofitness.com/schedule-a-tour/"
   },
   {
     "id": "osm_node_5364866511",
@@ -2240,7 +2263,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.ridgewoodymca.org/about-us/contact/"
   },
   {
     "id": "osm_node_5411194373",
@@ -2393,7 +2417,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "foresthillsny@retrofitness.net",
+    "booking_url": "https://retrofitness.com/schedule-a-tour/"
   },
   {
     "id": "osm_node_5425339297",
@@ -2490,7 +2516,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "glendaleny@retrofitness.net",
+    "booking_url": "https://retrofitness.com/schedule-a-tour/"
   },
   {
     "id": "osm_node_5425339303",
@@ -2587,7 +2615,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "astoriany@retrofitness.net",
+    "booking_url": "https://retrofitness.com/schedule-a-tour/"
   },
   {
     "id": "osm_node_5452636858",
@@ -2669,7 +2699,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/PureGymUS/"
   },
   {
     "id": "osm_node_5543423628",
@@ -3003,7 +3034,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/PureGymUS/"
   },
   {
     "id": "osm_node_5736995840",
@@ -3187,7 +3219,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/PureGymUS/"
   },
   {
     "id": "osm_node_6139358670",
@@ -4066,7 +4099,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "bedstuy@ymcanyc.org"
   },
   {
     "id": "osm_way_566458039",
@@ -4148,7 +4182,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/PureGymUS/"
   },
   {
     "id": "osm_way_663795041",
@@ -4308,7 +4343,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "bellevillenj@retrofitness.net",
+    "booking_url": "https://retrofitness.com/schedule-a-tour/"
   },
   {
     "id": "osm_node_5425340027",
@@ -4403,7 +4440,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "fairfieldnj@retrofitness.net",
+    "booking_url": "https://retrofitness.com/schedule-a-tour/"
   },
   {
     "id": "osm_node_5425340047",
@@ -4498,7 +4537,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "wallingtonnj@retrofitness.net",
+    "booking_url": "https://retrofitness.com/schedule-a-tour/"
   },
   {
     "id": "osm_node_9823670018",
@@ -5521,7 +5562,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "bronxny3rdave@retrofitness.net",
+    "booking_url": "https://retrofitness.com/schedule-a-tour/"
   },
   {
     "id": "osm_node_5425339313",
@@ -5618,7 +5661,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hackensacknj@retrofitness.net",
+    "booking_url": "https://retrofitness.com/schedule-a-tour/"
   },
   {
     "id": "osm_node_5425340040",
@@ -5713,7 +5758,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "media@retrofitness.com"
   },
   {
     "id": "osm_node_5425340082",
@@ -5810,7 +5856,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "media@retrofitness.com"
   },
   {
     "id": "osm_node_5510060621",
@@ -6501,7 +6548,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com"
   },
   {
     "id": "osm_node_11236722423",
@@ -6795,7 +6843,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/PureGymUS/"
   },
   {
     "id": "osm_node_6662829571",
@@ -7307,7 +7356,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/PureGymUS/"
   },
   {
     "id": "osm_node_7040472636",
@@ -8189,7 +8239,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "svarney@ymcanyc.org"
   },
   {
     "id": "osm_node_5747160849",
@@ -8361,7 +8412,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@harborfitness.com"
   },
   {
     "id": "osm_node_7072577644",
@@ -8744,7 +8796,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mjhangir@ymcanyc.org"
   },
   {
     "id": "osm_way_1251796966",
@@ -9391,7 +9444,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/PureGymUS/"
   },
   {
     "id": "osm_node_7154448518",
@@ -10229,7 +10283,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com",
+    "booking_url": "https://www.anytimefitness.com/schedule-an-appointment-online?location_id=4558"
   },
   {
     "id": "osm_node_12384465274",
@@ -14806,7 +14862,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/PureGymUS/"
   },
   {
     "id": "osm_node_8551036569",
@@ -16177,7 +16234,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "castlehill_contact@ymcanyc.org"
   },
   {
     "id": "osm_way_613566915",

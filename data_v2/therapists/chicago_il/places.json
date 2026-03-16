@@ -232,7 +232,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@loft8corners.org",
+    "booking_url": "http://Facebook.com/loft8corners"
   },
   {
     "id": "osm_node_7329301957",
@@ -308,7 +310,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "inquiries@relationshipreality312.com",
+    "booking_url": "https://www.relationshipreality312.com/contact/"
   },
   {
     "id": "osm_node_10570922694",
@@ -364,7 +368,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "intake@cfctherapy.com",
+    "booking_url": "https://cfctherapy.com/contact/"
   },
   {
     "id": "osm_node_11227936499",
@@ -445,7 +451,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "ajohnson@claritychi.com"
   },
   {
     "id": "osm_node_11892966042",
@@ -497,7 +504,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@medrina.com",
+    "booking_url": "https://medrina.com/contact"
   },
   {
     "id": "osm_node_12704095111",
@@ -710,7 +719,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "xxx@xxxx.com",
+    "booking_url": "https://connect.facebook.net"
   },
   {
     "id": "osm_way_743752078",
@@ -822,7 +833,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@fyzicalchicago.com",
+    "booking_url": "https://fyzicalchicago.com/appointments-patient-forms/"
   },
   {
     "id": "osm_node_11246060094",
@@ -950,7 +963,7 @@
       "addr:state": "IL",
       "addr:street": "North Lincoln Avenue",
       "building": "office",
-      "description": "Our vision is a world where behavioral challenges never place a limit on a child\u2019s ambitions, and where parents can access ABA therapy with ease and peace of mind.",
+      "description": "Our vision is a world where behavioral challenges never place a limit on a child’s ambitions, and where parents can access ABA therapy with ease and peace of mind.",
       "healthcare": "psychotherapist",
       "healthcare:speciality": "child_psychiatry",
       "name": "Ambitions ABA",
@@ -961,7 +974,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@ambitionsaba.com"
   },
   {
     "id": "osm_node_12588800999",
@@ -1032,7 +1046,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@envisionunlimited.org"
   },
   {
     "id": "osm_way_551055084",
@@ -1109,7 +1124,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://riveredgehospital.com/contact-us/"
   },
   {
     "id": "osm_node_2998023306",
@@ -1174,7 +1190,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@theblossommethod.net",
+    "booking_url": "http://www.facebook.com/theblossommethod"
   },
   {
     "id": "osm_node_6285554047",
@@ -1338,7 +1356,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "connect@journeypsychology.org"
   },
   {
     "id": "osm_node_10874634231",
@@ -1417,7 +1436,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/ChicagoBehavioralHospital"
   },
   {
     "id": "osm_node_2969788364",
@@ -1598,7 +1618,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@oakleypsychologicalassociates.com"
   },
   {
     "id": "osm_node_12560744501",
@@ -1672,7 +1693,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hello@inpoweredtherapy.com"
   },
   {
     "id": "osm_node_12605428045",
@@ -1741,7 +1763,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "connect@transcendchicago.com"
   },
   {
     "id": "osm_way_231185703",
@@ -1968,7 +1991,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "saccintake@sistaafya.com",
+    "booking_url": "https://communitycare.sistaafya.com/contact-3"
   },
   {
     "id": "osm_node_11735116358",
@@ -2025,7 +2050,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/calmmindcc"
   },
   {
     "id": "osm_way_384156599",
@@ -2105,7 +2131,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.patientnotebook.com/hartgrove"
   },
   {
     "id": "osm_way_512938964",
@@ -2339,7 +2366,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@compasshealthcenter.net",
+    "booking_url": "https://compasshealthcenter.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_13160147401",
@@ -2409,7 +2438,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hello@cultivatecounselinggroup.com"
   },
   {
     "id": "osm_node_13207138401",
@@ -2529,7 +2559,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "support@illinoisbhg.com",
+    "booking_url": "https://m.facebook.com/IllinoisBHG/"
   },
   {
     "id": "osm_node_10179492932",
@@ -2653,7 +2685,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "support@illinoisbhg.com",
+    "booking_url": "https://m.facebook.com/IllinoisBHG/"
   },
   {
     "id": "osm_node_11987933975",

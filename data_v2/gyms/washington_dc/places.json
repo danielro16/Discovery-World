@@ -88,7 +88,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com"
   },
   {
     "id": "osm_node_5910435788",
@@ -171,7 +172,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@sportrock.com",
+    "booking_url": "https://www.sportrock.com/contact-us"
   },
   {
     "id": "osm_node_8663549753",
@@ -463,7 +466,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com"
   },
   {
     "id": "osm_node_11981292901",
@@ -666,7 +670,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/BurnBootCamp"
   },
   {
     "id": "osm_way_317856245",
@@ -765,7 +770,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "fairfax@ltfinc.onmicrosoft.com"
   },
   {
     "id": "osm_way_606784751",
@@ -864,7 +870,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "websiteinquiries@goldsgym.com",
+    "booking_url": "https://www.goldsgym.com/dcgroup/wp-content/mu-plugins/gg-blocks/build/blocks/gym-classes-schedule-block/style-index.css?ver=1.0.1"
   },
   {
     "id": "osm_node_3366911495",
@@ -966,7 +974,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_node_5741267921",
@@ -1903,7 +1912,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "websiteinquiries@goldsgym.com",
+    "booking_url": "https://www.goldsgym.com/dcgroup/wp-content/mu-plugins/gg-blocks/build/blocks/gym-classes-schedule-block/style-index.css?ver=1.0.1"
   },
   {
     "id": "osm_way_208649159",
@@ -2063,7 +2074,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "atpc@ymcadc.org",
+    "booking_url": "https://www.ymcadc.org/about-us/contact-us/"
   },
   {
     "id": "osm_node_5425340084",
@@ -2160,7 +2173,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "media@retrofitness.com"
   },
   {
     "id": "osm_node_10717981384",
@@ -2257,7 +2271,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "websiteinquiries@goldsgym.com",
+    "booking_url": "https://www.goldsgym.com/gutierez/wp-content/mu-plugins/gg-blocks/build/blocks/gym-classes-schedule-block/style-index.css?ver=1.0.1"
   },
   {
     "id": "osm_node_1230207589",
@@ -2526,7 +2542,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "rockville1@ltfinc.onmicrosoft.com"
   },
   {
     "id": "osm_way_1273938106",
@@ -4059,7 +4076,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com"
   },
   {
     "id": "osm_node_13373165956",
@@ -4338,7 +4356,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_way_1120846277",
@@ -4966,7 +4985,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com",
+    "booking_url": "https://www.anytimefitness.com/schedule-an-appointment-online?location_id=463&amp;utm_source=google&amp;utm_medium=organic-businesslisting&amp;utm_campaign=gbp-listing&amp;utm_content=463"
   },
   {
     "id": "osm_node_3795564027",
@@ -6932,7 +6953,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_node_10249775101",
@@ -9706,7 +9728,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "websiteinquiries@goldsgym.com"
   },
   {
     "id": "osm_node_6541142596",
@@ -10025,7 +10048,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "bchevychase@ymcadc.org",
+    "booking_url": "https://www.ymcadc.org/locations/ymca-bethesda-chevy-chase/schedules"
   },
   {
     "id": "osm_way_339424818",
@@ -11713,7 +11738,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_node_4679411749",
@@ -14781,7 +14807,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "gaithersburg@ltfinc.onmicrosoft.com"
   },
   {
     "id": "osm_way_974832652",
@@ -14913,7 +14940,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "bchevychase@ymcadc.org",
+    "booking_url": "https://www.ymcadc.org/locations/ymca-bethesda-chevy-chase/schedules"
   },
   {
     "id": "osm_way_1194294975",

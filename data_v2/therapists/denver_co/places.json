@@ -84,7 +84,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "office@ballenmedical.com"
   },
   {
     "id": "osm_node_8905011256",
@@ -317,7 +318,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@consciousdyingcollective.com",
+    "booking_url": "https://www.facebook.com/profile.php?id=100093110775117"
   },
   {
     "id": "osm_node_13100523980",
@@ -408,7 +411,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "isable7@mindbodysoulmates.com"
   },
   {
     "id": "osm_way_360642272",
@@ -462,7 +466,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@cfcico.com",
+    "booking_url": "https://www.cfcico.com/parent-handbook"
   },
   {
     "id": "osm_node_3433324080",
@@ -656,7 +662,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@collectivecounselingsolutions.com",
+    "booking_url": "https://collectivecounselingsolutions.com/contact/"
   },
   {
     "id": "osm_node_13283131755",
@@ -796,7 +804,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@fccsprings.com",
+    "booking_url": "https://fccwellbeing.com/info/appointment/"
   },
   {
     "id": "osm_way_241726367",
@@ -869,7 +879,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.patientnotebook.com/CO326"
   },
   {
     "id": "osm_way_363490723",
@@ -921,7 +932,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/HCAHealthONE"
   },
   {
     "id": "osm_way_788716024",
@@ -999,7 +1011,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "4100denverspringsinfo@lifepointhealth.net",
+    "booking_url": "https://www.facebook.com/denversprings"
   },
   {
     "id": "osm_way_802731580",
@@ -1074,7 +1088,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.patientnotebook.com/CO326"
   },
   {
     "id": "osm_node_11803433419",
@@ -1146,7 +1161,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "drhanley@connectingheartspsychology.com",
+    "booking_url": "https://connectingheartspsychology.com/appointment-request/"
   },
   {
     "id": "osm_way_209720162",
@@ -1300,7 +1317,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://judishouse.org/contact-us/"
   },
   {
     "id": "osm_way_54777778",
@@ -1350,7 +1368,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.devereux.org/site/SPageServer?amp;pagename=co_contact"
   },
   {
     "id": "osm_node_3306967406",
@@ -1464,7 +1483,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "christa@playtherapy4kids.com",
+    "booking_url": "https://ckcounsel.mytherabook.com/account/signup"
   },
   {
     "id": "osm_node_5931381127",
