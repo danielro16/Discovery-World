@@ -1,0 +1,184 @@
+{
+  "vertical": "dentists",
+  "vertical_display": "Dentists",
+  "city": "miami_fl",
+  "city_display": "Miami Fl",
+  "generated": "2026-03-16",
+  "total_businesses": 476,
+  "questions": [
+    {
+      "question": "Which dentists in Miami Fl accept Aetna?",
+      "answer": "Dentists in Miami Fl that accept Aetna include: One Dental Studio, Apple Dental Group, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 3 total found."
+    },
+    {
+      "question": "Which dentists in Miami Fl accept Ameritas?",
+      "answer": "Dentists in Miami Fl that accept Ameritas include: One Dental Studio, Apple Dental Group, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 3 total found."
+    },
+    {
+      "question": "Which dentists in Miami Fl accept Assurant?",
+      "answer": "Dentists in Miami Fl that accept Assurant include: One Dental Studio, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 2 total found."
+    },
+    {
+      "question": "Which dentists in Miami Fl accept Cigna?",
+      "answer": "Dentists in Miami Fl that accept Cigna include: One Dental Studio, Apple Dental Group, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 3 total found."
+    },
+    {
+      "question": "Which dentists in Miami Fl accept Delta Dental?",
+      "answer": "Dentists in Miami Fl that accept Delta Dental include: One Dental Studio, Apple Dental Group, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 3 total found."
+    },
+    {
+      "question": "Which dentists in Miami Fl accept GEHA?",
+      "answer": "Dentists in Miami Fl that accept GEHA include: One Dental Studio, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 2 total found."
+    },
+    {
+      "question": "Which dentists in Miami Fl accept Guardian?",
+      "answer": "Dentists in Miami Fl that accept Guardian include: One Dental Studio, Apple Dental Group, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 3 total found."
+    },
+    {
+      "question": "Which dentists in Miami Fl accept Humana?",
+      "answer": "Dentists in Miami Fl that accept Humana include: One Dental Studio, Apple Dental Group, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 3 total found."
+    },
+    {
+      "question": "Which dentists in Miami Fl accept MetLife?",
+      "answer": "Dentists in Miami Fl that accept MetLife include: One Dental Studio, Apple Dental Group, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 3 total found."
+    },
+    {
+      "question": "Which dentists in Miami Fl accept Principal?",
+      "answer": "Dentists in Miami Fl that accept Principal include: One Dental Studio, Apple Dental Group, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 3 total found."
+    },
+    {
+      "question": "Which dentists in Miami Fl are open on weekends?",
+      "answer": "Dentists in Miami Fl with weekend hours include: Feel Good Dentistry (Sat: off), Moderna Dental of Galloway (Sat: 09:00-13:00), South Gables Dental (Sat: off), Super Smiles Orthodontics (Sat: off), Radiant Expressions Dental (Sat: 09:00-18:00), Sunset Family & Cosmetic Dentistry (Sat: 08:00-14:00), Aspen Dental (Sun: 08:00-14:00), Smile Perfect Dental Studio (Sat: 09:00-19:00). 8 total with weekend availability."
+    },
+    {
+      "question": "Which dentists in Miami Fl speak Spanish?",
+      "answer": "Spanish-speaking dentists in Miami Fl include: Moderna Dental of Galloway, Vizcaya Dental Arts, CAD/CAM Dental CENTER Miami, One Dental Studio, Aspen Dental, Aspen Dental, Advanced Endodontic Group. 7 total found."
+    },
+    {
+      "question": "Which dentists in Miami Fl offer free consultations?",
+      "answer": "Dentists in Miami Fl offering free consultations include: Forma Dental, Super Smiles Orthodontics, Vizcaya Dental Arts, Aspen Dental, Aspen Dental, Apple Dental Group."
+    },
+    {
+      "question": "Which dentists in Miami Fl offer payment plans?",
+      "answer": "Dentists in Miami Fl that offer payment plans include: Forma Dental, Super Smiles Orthodontics, CAD/CAM Dental CENTER Miami, Aesthetic Dentistry, One Dental Studio, Smile Design Dental of Hallandale Beach, Aspen Dental, Aspen Dental and 4 more."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which dentists in Miami Fl accept Aetna?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Miami Fl that accept Aetna include: One Dental Studio, Apple Dental Group, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 3 total found."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which dentists in Miami Fl accept Ameritas?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Miami Fl that accept Ameritas include: One Dental Studio, Apple Dental Group, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 3 total found."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which dentists in Miami Fl accept Assurant?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Miami Fl that accept Assurant include: One Dental Studio, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 2 total found."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which dentists in Miami Fl accept Cigna?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Miami Fl that accept Cigna include: One Dental Studio, Apple Dental Group, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 3 total found."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which dentists in Miami Fl accept Delta Dental?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Miami Fl that accept Delta Dental include: One Dental Studio, Apple Dental Group, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 3 total found."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which dentists in Miami Fl accept GEHA?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Miami Fl that accept GEHA include: One Dental Studio, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 2 total found."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which dentists in Miami Fl accept Guardian?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Miami Fl that accept Guardian include: One Dental Studio, Apple Dental Group, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 3 total found."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which dentists in Miami Fl accept Humana?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Miami Fl that accept Humana include: One Dental Studio, Apple Dental Group, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 3 total found."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which dentists in Miami Fl accept MetLife?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Miami Fl that accept MetLife include: One Dental Studio, Apple Dental Group, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 3 total found."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which dentists in Miami Fl accept Principal?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Miami Fl that accept Principal include: One Dental Studio, Apple Dental Group, Flossy Smiles Dental Implants & Esthetics: Dr. Gio. 3 total found."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which dentists in Miami Fl are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Miami Fl with weekend hours include: Feel Good Dentistry (Sat: off), Moderna Dental of Galloway (Sat: 09:00-13:00), South Gables Dental (Sat: off), Super Smiles Orthodontics (Sat: off), Radiant Expressions Dental (Sat: 09:00-18:00), Sunset Family & Cosmetic Dentistry (Sat: 08:00-14:00), Aspen Dental (Sun: 08:00-14:00), Smile Perfect Dental Studio (Sat: 09:00-19:00). 8 total with weekend availability."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which dentists in Miami Fl speak Spanish?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Spanish-speaking dentists in Miami Fl include: Moderna Dental of Galloway, Vizcaya Dental Arts, CAD/CAM Dental CENTER Miami, One Dental Studio, Aspen Dental, Aspen Dental, Advanced Endodontic Group. 7 total found."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which dentists in Miami Fl offer free consultations?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Miami Fl offering free consultations include: Forma Dental, Super Smiles Orthodontics, Vizcaya Dental Arts, Aspen Dental, Aspen Dental, Apple Dental Group."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which dentists in Miami Fl offer payment plans?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Miami Fl that offer payment plans include: Forma Dental, Super Smiles Orthodontics, CAD/CAM Dental CENTER Miami, Aesthetic Dentistry, One Dental Studio, Smile Design Dental of Hallandale Beach, Aspen Dental, Aspen Dental and 4 more."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "vertical": "dentists",
+  "vertical_display": "Dentists",
+  "city": "chicago_il",
+  "city_display": "Chicago Il",
+  "generated": "2026-03-16",
+  "total_businesses": 805,
+  "questions": [
+    {
+      "question": "Which dentists in Chicago Il are open on weekends?",
+      "answer": "Dentists in Chicago Il with weekend hours include: Eldridge & Eldridge Dental Group (Sat: 06:00-13:30), Ivanhoe Dental Group (Sat: 08:00-14:00), Sonrisa Family Dental (Sat: 08:00-13:00), Sonrisa Family Dental (Sat: 08:00-13:00), Sonrisa Family Dental (Sat: 08:00-13:00), Sonrisa Family Dental (Sat: 08:00-15:00), Sonrisa Family Dental (Sat: 08:00-13:00), Sonrisa Family Dental (Sat: 08:00-15:00) and 12 more. 20 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which dentists in Chicago Il are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Chicago Il with weekend hours include: Eldridge & Eldridge Dental Group (Sat: 06:00-13:30), Ivanhoe Dental Group (Sat: 08:00-14:00), Sonrisa Family Dental (Sat: 08:00-13:00), Sonrisa Family Dental (Sat: 08:00-13:00), Sonrisa Family Dental (Sat: 08:00-13:00), Sonrisa Family Dental (Sat: 08:00-15:00), Sonrisa Family Dental (Sat: 08:00-13:00), Sonrisa Family Dental (Sat: 08:00-15:00) and 12 more. 20 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

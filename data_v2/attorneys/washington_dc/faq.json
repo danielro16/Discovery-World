@@ -1,0 +1,28 @@
+{
+  "vertical": "attorneys",
+  "vertical_display": "Attorneys & Law Firms",
+  "city": "washington_dc",
+  "city_display": "Washington Dc",
+  "generated": "2026-03-16",
+  "total_businesses": 50,
+  "questions": [
+    {
+      "question": "Which attorneys & law firms in Washington Dc are open on weekends?",
+      "answer": "Attorneys & Law Firms in Washington Dc with weekend hours include: Law Office of Michael J. Sgarlat (Sat: 7:00-17:00), Morgan & Morgan (Sat: 00:00 - 24:00), The Law Offices of Sandra Guzman-Salvado (Sat: off), P. A. Davis Law Office, LLC (Maryland) (Sat: 00:00 - 24:00), Shah & Kishore (Sat: 00:00 - 24:00), Malech Law (Sat: 00:00 - 24:00). 6 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which attorneys & law firms in Washington Dc are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Attorneys & Law Firms in Washington Dc with weekend hours include: Law Office of Michael J. Sgarlat (Sat: 7:00-17:00), Morgan & Morgan (Sat: 00:00 - 24:00), The Law Offices of Sandra Guzman-Salvado (Sat: off), P. A. Davis Law Office, LLC (Maryland) (Sat: 00:00 - 24:00), Shah & Kishore (Sat: 00:00 - 24:00), Malech Law (Sat: 00:00 - 24:00). 6 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "vertical": "dentists",
+  "vertical_display": "Dentists",
+  "city": "los_angeles_ca",
+  "city_display": "Los Angeles Ca",
+  "generated": "2026-03-16",
+  "total_businesses": 1059,
+  "questions": [
+    {
+      "question": "Which dentists in Los Angeles Ca are open on weekends?",
+      "answer": "Dentists in Los Angeles Ca with weekend hours include: West Coast Dental of South Gate (Sat: 08:00-16:00), Vision Dental (Sat: 08:00-16:00), Relate Dental Care - Culver City (Sat: 08:00-12:00), Bedford Dental Group Cosmetic Dentistry (Sat: 08:00-15:00), Shine Pediatric Dentistry (Sat: 08:00-15:00), Rosemarie Quimson-Cruz, DMD, INC. - Los Angeles (Sat: 08:00-15:00), Choice Dental (Sat: 09:30-17:30), PhD Orthodontics (Sat: 08:00-13:00) and 24 more. 32 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which dentists in Los Angeles Ca are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Los Angeles Ca with weekend hours include: West Coast Dental of South Gate (Sat: 08:00-16:00), Vision Dental (Sat: 08:00-16:00), Relate Dental Care - Culver City (Sat: 08:00-12:00), Bedford Dental Group Cosmetic Dentistry (Sat: 08:00-15:00), Shine Pediatric Dentistry (Sat: 08:00-15:00), Rosemarie Quimson-Cruz, DMD, INC. - Los Angeles (Sat: 08:00-15:00), Choice Dental (Sat: 09:30-17:30), PhD Orthodontics (Sat: 08:00-13:00) and 24 more. 32 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "vertical": "gyms",
+  "vertical_display": "Gyms & Fitness",
+  "city": "san_diego_ca",
+  "city_display": "San Diego Ca",
+  "generated": "2026-03-16",
+  "total_businesses": 253,
+  "questions": [
+    {
+      "question": "Which gyms & fitness in San Diego Ca are open on weekends?",
+      "answer": "Gyms & Fitness in San Diego Ca with weekend hours include: LA Fitness (Sat: 08:00-20:00), Fit Athletic Club & Gym (Sat: Su 07:00-19:00), Mesa Rim Climbing & Fitness Center \u2022 Mission Valley (Sat: 08:00-21:00), Invictus Fitness (Sat: 07:00-11:30), Spark Cycle (Sat: Su 07:30-12:00), LA Fitness (Sat: 08:00-20:00), The Compound Lifting Club (Sat: 06:00-21:00), Yoga Box (Sat: 06:00-21:30) and 17 more. 25 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which gyms & fitness in San Diego Ca are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Gyms & Fitness in San Diego Ca with weekend hours include: LA Fitness (Sat: 08:00-20:00), Fit Athletic Club & Gym (Sat: Su 07:00-19:00), Mesa Rim Climbing & Fitness Center \u2022 Mission Valley (Sat: 08:00-21:00), Invictus Fitness (Sat: 07:00-11:30), Spark Cycle (Sat: Su 07:30-12:00), LA Fitness (Sat: 08:00-20:00), The Compound Lifting Club (Sat: 06:00-21:00), Yoga Box (Sat: 06:00-21:30) and 17 more. 25 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

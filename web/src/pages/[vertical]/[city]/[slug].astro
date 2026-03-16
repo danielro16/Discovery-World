@@ -136,7 +136,9 @@ if (languages.length) allTags.push({ label: 'Languages', items: languages });
 
 <Base
   title={`${place.name} - ${vertical.display_name_singular} in ${cityName}`}
-  description={`${place.name} in ${cityName}. Rating: ${place.rating || 'N/A'}/5 from ${place.review_count} reviews. Contact, hours, services, and more.`}
+  description={place.rating != null
+    ? `${place.name} in ${cityName}. Rated ${place.rating}/5 from ${place.review_count.toLocaleString()} reviews. Contact, hours, services, and more.`
+    : `${place.name} in ${cityName}. Contact info, hours, services, and more.`}
   schemaJson={schemaJson}
   ogType="business.business"
 >
@@ -314,7 +316,7 @@ if (languages.length) allTags.push({ label: 'Languages', items: languages });
     </div>
 
     <!-- Map -->
-    {place.location?.lat && place.location?.lng && (
+    {place.location?.lat && place.location?.lng && import.meta.env.PUBLIC_GOOGLE_MAPS_KEY && (
       <div class="rounded-2xl overflow-hidden border border-gray-100 mb-8">
         <iframe
           width="100%"

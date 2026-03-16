@@ -1,0 +1,28 @@
+{
+  "vertical": "attorneys",
+  "vertical_display": "Attorneys & Law Firms",
+  "city": "seattle_wa",
+  "city_display": "Seattle Wa",
+  "generated": "2026-03-16",
+  "total_businesses": 121,
+  "questions": [
+    {
+      "question": "Which attorneys & law firms in Seattle Wa are open on weekends?",
+      "answer": "Attorneys & Law Firms in Seattle Wa with weekend hours include: The Law Offices of Kevin Trombold, PLLC (Sat: 00:00 - 24:00), Morgan & Morgan (Sat: 00:00 - 24:00), Daniel Smith Immigration And Family Law (Sat: off), Moseley Collins Law (Sat: 00:00 - 24:00), Oshan & Associates P.C (Sat: 00:00 - 24:00), Buttar & Cantor LLP, Immigration Lawyers (Sat: 09:00-17:00). 6 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which attorneys & law firms in Seattle Wa are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Attorneys & Law Firms in Seattle Wa with weekend hours include: The Law Offices of Kevin Trombold, PLLC (Sat: 00:00 - 24:00), Morgan & Morgan (Sat: 00:00 - 24:00), Daniel Smith Immigration And Family Law (Sat: off), Moseley Collins Law (Sat: 00:00 - 24:00), Oshan & Associates P.C (Sat: 00:00 - 24:00), Buttar & Cantor LLP, Immigration Lawyers (Sat: 09:00-17:00). 6 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

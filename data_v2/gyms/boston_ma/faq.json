@@ -1,0 +1,28 @@
+{
+  "vertical": "gyms",
+  "vertical_display": "Gyms & Fitness",
+  "city": "boston_ma",
+  "city_display": "Boston Ma",
+  "generated": "2026-03-16",
+  "total_businesses": 420,
+  "questions": [
+    {
+      "question": "Which gyms & fitness in Boston Ma are open on weekends?",
+      "answer": "Gyms & Fitness in Boston Ma with weekend hours include: Topgolf (Sat: 09:00-25:00), Work Out World (Sat: 06:00-17:00), Anytime Fitness (Sat: 00:00 - 24:00), Planet Fitness (Sat: 07:00-19:00), Healthworks Community Fitness (Sat: 08:00-13:00), Thomas M. Menino YMCA (Sat: 07:00-17:00), Cohasset Fitness Club (Sat: 04:00-23:00), Pure Barre (Sat: 08:00-11:00) and 55 more. 63 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which gyms & fitness in Boston Ma are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Gyms & Fitness in Boston Ma with weekend hours include: Topgolf (Sat: 09:00-25:00), Work Out World (Sat: 06:00-17:00), Anytime Fitness (Sat: 00:00 - 24:00), Planet Fitness (Sat: 07:00-19:00), Healthworks Community Fitness (Sat: 08:00-13:00), Thomas M. Menino YMCA (Sat: 07:00-17:00), Cohasset Fitness Club (Sat: 04:00-23:00), Pure Barre (Sat: 08:00-11:00) and 55 more. 63 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

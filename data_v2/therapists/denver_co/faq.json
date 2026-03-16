@@ -1,0 +1,28 @@
+{
+  "vertical": "therapists",
+  "vertical_display": "Therapists & Mental Health",
+  "city": "denver_co",
+  "city_display": "Denver Co",
+  "generated": "2026-03-16",
+  "total_businesses": 53,
+  "questions": [
+    {
+      "question": "Which therapists & mental health in Denver Co are open on weekends?",
+      "answer": "Therapists & Mental Health in Denver Co with weekend hours include: Planned Parenthood (Sat: 09:00-15:00), Planned Parenthood (Denver Central) (Sat: 09:00-15:00), Colorado In-Home Counseling (Sat: off), Collective Counseling Solutions (Sat: 09:00-17:00). 4 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which therapists & mental health in Denver Co are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Therapists & Mental Health in Denver Co with weekend hours include: Planned Parenthood (Sat: 09:00-15:00), Planned Parenthood (Denver Central) (Sat: 09:00-15:00), Colorado In-Home Counseling (Sat: off), Collective Counseling Solutions (Sat: 09:00-17:00). 4 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

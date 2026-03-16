@@ -1,0 +1,28 @@
+{
+  "vertical": "attorneys",
+  "vertical_display": "Attorneys & Law Firms",
+  "city": "chicago_il",
+  "city_display": "Chicago Il",
+  "generated": "2026-03-16",
+  "total_businesses": 114,
+  "questions": [
+    {
+      "question": "Which attorneys & law firms in Chicago Il are open on weekends?",
+      "answer": "Attorneys & Law Firms in Chicago Il with weekend hours include: Michael D. Ettinger & Associates (Sat: 09:00-13:00), Shakfeh Law LLC (Sat: off), Cesario & Walker (Sat: Su off), Michael J. Petro (Sat: 00:00 - 24:00), Uche P.C. (Sat: 00:00 - 24:00), Rosenfeld Injury Lawyers LLC (Sat: 00:00 - 24:00), Goldman & Associates (Sat: 00:00 - 24:00), Lamber Goodnow Injury Lawyers Chicago (Sat: 00:00 - 24:00) and 12 more. 20 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which attorneys & law firms in Chicago Il are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Attorneys & Law Firms in Chicago Il with weekend hours include: Michael D. Ettinger & Associates (Sat: 09:00-13:00), Shakfeh Law LLC (Sat: off), Cesario & Walker (Sat: Su off), Michael J. Petro (Sat: 00:00 - 24:00), Uche P.C. (Sat: 00:00 - 24:00), Rosenfeld Injury Lawyers LLC (Sat: 00:00 - 24:00), Goldman & Associates (Sat: 00:00 - 24:00), Lamber Goodnow Injury Lawyers Chicago (Sat: 00:00 - 24:00) and 12 more. 20 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

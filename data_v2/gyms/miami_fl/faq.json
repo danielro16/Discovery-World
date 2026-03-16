@@ -1,0 +1,28 @@
+{
+  "vertical": "gyms",
+  "vertical_display": "Gyms & Fitness",
+  "city": "miami_fl",
+  "city_display": "Miami Fl",
+  "generated": "2026-03-16",
+  "total_businesses": 168,
+  "questions": [
+    {
+      "question": "Which gyms & fitness in Miami Fl are open on weekends?",
+      "answer": "Gyms & Fitness in Miami Fl with weekend hours include: Stretch Zone (Sat: 08:00-18:00), American Karate Institute Miami (Sat: 09:00-14:00), Orangetheory Fitness (Sat: 06:30-13:00), Crunch Fitness (Sat: 07:00-19:00), LA Fitness (Sat: Su 08:00-19:00), YouFit (Sat: 08:00-18:00), 24 Hour Fitness (Sat: 05:00-21:00), LA Fitness (Sat: 08:00-19:00) and 21 more. 29 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which gyms & fitness in Miami Fl are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Gyms & Fitness in Miami Fl with weekend hours include: Stretch Zone (Sat: 08:00-18:00), American Karate Institute Miami (Sat: 09:00-14:00), Orangetheory Fitness (Sat: 06:30-13:00), Crunch Fitness (Sat: 07:00-19:00), LA Fitness (Sat: Su 08:00-19:00), YouFit (Sat: 08:00-18:00), 24 Hour Fitness (Sat: 05:00-21:00), LA Fitness (Sat: 08:00-19:00) and 21 more. 29 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

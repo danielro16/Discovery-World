@@ -1,0 +1,28 @@
+{
+  "vertical": "therapists",
+  "vertical_display": "Therapists & Mental Health",
+  "city": "new_york_ny",
+  "city_display": "New York Ny",
+  "generated": "2026-03-16",
+  "total_businesses": 930,
+  "questions": [
+    {
+      "question": "Which therapists & mental health in New York Ny are open on weekends?",
+      "answer": "Therapists & Mental Health in New York Ny with weekend hours include: Gracie Square Hospital (Sat: 00:00 - 24:00), Cantley Counseling (Sat: 08:00-18:00), The Relationship Suite (Sat: 09:00-18:00), Cross River Therapy (Sat: 08:00-18:00), Karen S Axelrod Ph.D. (Sat: off), Balanced Mind Psychotherapy NYC - EMDR & Schema Therapy (Sat: 08:00-20:30), Downtown Somatic Therapy (Sat: 08:00-21:00), Balanced Mind Psychotherapy NYC - EMDR & Schema Therapy (Sat: 08:00-20:30) and 6 more. 14 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which therapists & mental health in New York Ny are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Therapists & Mental Health in New York Ny with weekend hours include: Gracie Square Hospital (Sat: 00:00 - 24:00), Cantley Counseling (Sat: 08:00-18:00), The Relationship Suite (Sat: 09:00-18:00), Cross River Therapy (Sat: 08:00-18:00), Karen S Axelrod Ph.D. (Sat: off), Balanced Mind Psychotherapy NYC - EMDR & Schema Therapy (Sat: 08:00-20:30), Downtown Somatic Therapy (Sat: 08:00-21:00), Balanced Mind Psychotherapy NYC - EMDR & Schema Therapy (Sat: 08:00-20:30) and 6 more. 14 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

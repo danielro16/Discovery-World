@@ -1,0 +1,28 @@
+{
+  "vertical": "restaurants",
+  "vertical_display": "Restaurants",
+  "city": "san_francisco_ca",
+  "city_display": "San Francisco Ca",
+  "generated": "2026-03-16",
+  "total_businesses": 1584,
+  "questions": [
+    {
+      "question": "Which restaurants in San Francisco Ca are open on weekends?",
+      "answer": "Restaurants in San Francisco Ca with weekend hours include: Nomad Cafe (Sat: 07:00-17:00), Hawking Bird (Sat: 11:30-22:00), Burma Superstar (Sat: 11:30-22:00), Bakesale Betty's (Sat: 11:00-14:00), Pizzaiolo (Sat: 16:00-21:00), True Burger (Sat: 11:00-21:00), Mua Lounge (Sat: 16:30-02:00), Shaan Indian Cuisine (Sat: 17:00-21:00) and 361 more. 369 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which restaurants in San Francisco Ca are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Restaurants in San Francisco Ca with weekend hours include: Nomad Cafe (Sat: 07:00-17:00), Hawking Bird (Sat: 11:30-22:00), Burma Superstar (Sat: 11:30-22:00), Bakesale Betty's (Sat: 11:00-14:00), Pizzaiolo (Sat: 16:00-21:00), True Burger (Sat: 11:00-21:00), Mua Lounge (Sat: 16:30-02:00), Shaan Indian Cuisine (Sat: 17:00-21:00) and 361 more. 369 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

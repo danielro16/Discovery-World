@@ -11,10 +11,11 @@ Produces 7 types of files that make the site discoverable and citable by AI:
   7. IndexNow        — Key file + ping function for instant Bing indexing
 
 Usage:
-    python pipeline/llm_optimize.py                     # generate all
-    python pipeline/llm_optimize.py --only robots       # generate one type
-    python pipeline/llm_optimize.py --ping              # ping IndexNow after
-    python pipeline/llm_optimize.py --output-dir dist/  # custom output
+    python pipeline/llm_optimize.py                        # generate all (uses data/)
+    python pipeline/llm_optimize.py --data-dir data_v2     # use data_v2/
+    python pipeline/llm_optimize.py --only robots          # generate one type
+    python pipeline/llm_optimize.py --ping                 # ping IndexNow after
+    python pipeline/llm_optimize.py --output-dir dist/     # custom output
 """
 
 import argparse
@@ -30,12 +31,15 @@ from xml.etree.ElementTree import Element, SubElement, tostring
 from xml.dom.minidom import parseString
 
 sys.path.insert(0, str(Path(__file__).parent))
-from config import DATA_DIR, SITE_DOMAIN, SITE_NAME, load_vertical, list_verticals, slugify
+from config import DATA_DIR as DEFAULT_DATA_DIR, SITE_DOMAIN, SITE_NAME, load_vertical, list_verticals, slugify
 from rich.console import Console
 
 console = Console()
 
 PROJECT_ROOT = Path(__file__).parent.parent
+
+# DATA_DIR may be overridden at runtime via --data-dir argument
+DATA_DIR = DEFAULT_DATA_DIR
 
 
 # ── Helpers ──────────────────────────────────────────────────────────────────
@@ -846,6 +850,10 @@ def main():
     )
     parser.add_argument("--output-dir", type=Path, help="Output directory (default: web/public)")
     parser.add_argument(
+        "--data-dir", type=Path,
+        help="Data directory to read from (default: data/). Accepts absolute path or relative to project root."
+    )
+    parser.add_argument(
         "--only",
         choices=list(GENERATORS.keys()),
         help="Generate only one file type",
@@ -853,6 +861,16 @@ def main():
     parser.add_argument("--ping", action="store_true", help="Ping IndexNow after generating")
 
     args = parser.parse_args()
+
+    # Override global DATA_DIR if --data-dir is specified
+    if args.data_dir:
+        global DATA_DIR
+        data_dir_path = args.data_dir
+        if not data_dir_path.is_absolute():
+            data_dir_path = PROJECT_ROOT / data_dir_path
+        DATA_DIR = data_dir_path
+        console.print(f"[dim]Using data directory: {DATA_DIR}[/dim]")
+
     run_all(args.output_dir, args.only)
 
     if args.ping:

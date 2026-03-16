@@ -1,0 +1,28 @@
+{
+  "vertical": "attorneys",
+  "vertical_display": "Attorneys & Law Firms",
+  "city": "denver_co",
+  "city_display": "Denver Co",
+  "generated": "2026-03-16",
+  "total_businesses": 129,
+  "questions": [
+    {
+      "question": "Which attorneys & law firms in Denver Co are open on weekends?",
+      "answer": "Attorneys & Law Firms in Denver Co with weekend hours include: Thomas R Lefly, Attorney at Law (Sat: 00:00 - 24:00), McDivitt Law Firm (Sat: 00:00 - 24:00), The Hermele Law Firm LLC (Sat: off), Law Offices of M. Colin Bresee (Sat: 00:00 - 24:00), Flesch Law Denver Injury Accident Lawyers (Sat: 00:00 - 24:00), M. Colin Bresee Attorney at Law (Sat: 00:00 - 24:00), Law Office of Matthew A. Martin, P.C. (Sat: 00:00 - 24:00), The Wilhite Law Firm (Sat: 00:00 - 24:00) and 9 more. 17 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which attorneys & law firms in Denver Co are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Attorneys & Law Firms in Denver Co with weekend hours include: Thomas R Lefly, Attorney at Law (Sat: 00:00 - 24:00), McDivitt Law Firm (Sat: 00:00 - 24:00), The Hermele Law Firm LLC (Sat: off), Law Offices of M. Colin Bresee (Sat: 00:00 - 24:00), Flesch Law Denver Injury Accident Lawyers (Sat: 00:00 - 24:00), M. Colin Bresee Attorney at Law (Sat: 00:00 - 24:00), Law Office of Matthew A. Martin, P.C. (Sat: 00:00 - 24:00), The Wilhite Law Firm (Sat: 00:00 - 24:00) and 9 more. 17 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

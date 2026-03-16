@@ -1,0 +1,28 @@
+{
+  "vertical": "therapists",
+  "vertical_display": "Therapists & Mental Health",
+  "city": "austin_tx",
+  "city_display": "Austin Tx",
+  "generated": "2026-03-16",
+  "total_businesses": 805,
+  "questions": [
+    {
+      "question": "Which therapists & mental health in Austin Tx are open on weekends?",
+      "answer": "Therapists & Mental Health in Austin Tx with weekend hours include: Capital Area Counseling (Sat: 07:00-21:00). 1 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which therapists & mental health in Austin Tx are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Therapists & Mental Health in Austin Tx with weekend hours include: Capital Area Counseling (Sat: 07:00-21:00). 1 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

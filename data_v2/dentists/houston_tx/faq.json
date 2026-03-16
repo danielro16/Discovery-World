@@ -1,0 +1,28 @@
+{
+  "vertical": "dentists",
+  "vertical_display": "Dentists",
+  "city": "houston_tx",
+  "city_display": "Houston Tx",
+  "generated": "2026-03-16",
+  "total_businesses": 953,
+  "questions": [
+    {
+      "question": "Which dentists in Houston Tx are open on weekends?",
+      "answer": "Dentists in Houston Tx with weekend hours include: Floss Dental (Sat: off), Sweetpea Smiles (Sat: open \"By appointment only\"), Eco Dental (Sat: 09:00-15:00), Marconi Dental Aesthetics - Pasadena, TX (Sat: 09:00-16:00), Smile Avenue Family Dentistry of Katy (Sat: 07:00-16:00), Smile Image Dentists (Sat: 09:00-14:00), Coleman Dental (Sat: off), Dental Bright (Sat: 09:00-15:00) and 14 more. 22 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which dentists in Houston Tx are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Houston Tx with weekend hours include: Floss Dental (Sat: off), Sweetpea Smiles (Sat: open \"By appointment only\"), Eco Dental (Sat: 09:00-15:00), Marconi Dental Aesthetics - Pasadena, TX (Sat: 09:00-16:00), Smile Avenue Family Dentistry of Katy (Sat: 07:00-16:00), Smile Image Dentists (Sat: 09:00-14:00), Coleman Dental (Sat: off), Dental Bright (Sat: 09:00-15:00) and 14 more. 22 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

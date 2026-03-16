@@ -1,0 +1,28 @@
+{
+  "vertical": "restaurants",
+  "vertical_display": "Restaurants",
+  "city": "seattle_wa",
+  "city_display": "Seattle Wa",
+  "generated": "2026-03-16",
+  "total_businesses": 2984,
+  "questions": [
+    {
+      "question": "Which restaurants in Seattle Wa are open on weekends?",
+      "answer": "Restaurants in Seattle Wa with weekend hours include: Starbucks (Sat: 06:00-21:00), Starbucks (Sat: 05:30-20:00), MOD Pizza (Sat: 10:30-23:00), Subway (Sat: 09:00-21:00), Sai Gon Pho & Banh Mi (Sat: 09:30-20:00), Subway (Sat: 08:00-20:00), Pho Asia (Sat: 10:00-24:00), Naan-N-Curry (Sat: 12:00-21:00) and 1217 more. 1225 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which restaurants in Seattle Wa are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Restaurants in Seattle Wa with weekend hours include: Starbucks (Sat: 06:00-21:00), Starbucks (Sat: 05:30-20:00), MOD Pizza (Sat: 10:30-23:00), Subway (Sat: 09:00-21:00), Sai Gon Pho & Banh Mi (Sat: 09:30-20:00), Subway (Sat: 08:00-20:00), Pho Asia (Sat: 10:00-24:00), Naan-N-Curry (Sat: 12:00-21:00) and 1217 more. 1225 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

@@ -158,9 +158,14 @@ export function getAllPlaces(): { vertical: string; city: string; places: Place[
 }
 
 export function formatCityName(citySlug: string): string {
-  return citySlug
-    .replace(/_/g, ' ')
-    .replace(/\b\w/g, c => c.toUpperCase());
+  // city slug format: "new_york_ny" → "New York, NY"
+  // Last segment after underscore is the 2-letter state abbreviation
+  const parts = citySlug.split('_');
+  const state = parts.pop()!.toUpperCase();
+  const city = parts
+    .map(w => w.charAt(0).toUpperCase() + w.slice(1))
+    .join(' ');
+  return `${city}, ${state}`;
 }
 
 export function formatCitySlug(citySlug: string): string {

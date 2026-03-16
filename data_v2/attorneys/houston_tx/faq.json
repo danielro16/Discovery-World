@@ -1,0 +1,28 @@
+{
+  "vertical": "attorneys",
+  "vertical_display": "Attorneys & Law Firms",
+  "city": "houston_tx",
+  "city_display": "Houston Tx",
+  "generated": "2026-03-16",
+  "total_businesses": 36,
+  "questions": [
+    {
+      "question": "Which attorneys & law firms in Houston Tx are open on weekends?",
+      "answer": "Attorneys & Law Firms in Houston Tx with weekend hours include: The Atlas Law Firm - Car Accident and Personal Injury Attorneys (Sat: 00:00 - 24:00), The Ferrell Law Firm, P.C. (Sat: 08:30-17:30), Gardner Employment Law (Sat: off), Johnson Garcia LLP (Sat: 00:00 - 24:00), Katherine Boyd Law (Sat: off), Walker Texas Lawyer (Sat: 00:00 - 24:00), Sutliff & Stout (Sat: 00:00 - 24:00), Baumgartner Law Firm (Sat: 00:00 - 24:00) and 1 more. 9 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which attorneys & law firms in Houston Tx are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Attorneys & Law Firms in Houston Tx with weekend hours include: The Atlas Law Firm - Car Accident and Personal Injury Attorneys (Sat: 00:00 - 24:00), The Ferrell Law Firm, P.C. (Sat: 08:30-17:30), Gardner Employment Law (Sat: off), Johnson Garcia LLP (Sat: 00:00 - 24:00), Katherine Boyd Law (Sat: off), Walker Texas Lawyer (Sat: 00:00 - 24:00), Sutliff & Stout (Sat: 00:00 - 24:00), Baumgartner Law Firm (Sat: 00:00 - 24:00) and 1 more. 9 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

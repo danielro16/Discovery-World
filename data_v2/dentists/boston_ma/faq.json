@@ -1,0 +1,28 @@
+{
+  "vertical": "dentists",
+  "vertical_display": "Dentists",
+  "city": "boston_ma",
+  "city_display": "Boston Ma",
+  "generated": "2026-03-16",
+  "total_businesses": 1018,
+  "questions": [
+    {
+      "question": "Which dentists in Boston Ma are open on weekends?",
+      "answer": "Dentists in Boston Ma with weekend hours include: Chestnut Dental (Sat: 08:00-13:30), Dr. Dental (Sat: 09:00-15:00), Prospect Dental (Sat: 09:00-17:00), LUX Dental Care (Sat: 10:00-18:00), Carr & Associates (Sat: 08:00-14:00), Harmony (Sat: 08:00-16:00), Gio Dental at Station Landing (Sat: 09:00-14:00), Winchester Family Dental (Sat: 09:00-14:00) and 8 more. 16 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which dentists in Boston Ma are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Boston Ma with weekend hours include: Chestnut Dental (Sat: 08:00-13:30), Dr. Dental (Sat: 09:00-15:00), Prospect Dental (Sat: 09:00-17:00), LUX Dental Care (Sat: 10:00-18:00), Carr & Associates (Sat: 08:00-14:00), Harmony (Sat: 08:00-16:00), Gio Dental at Station Landing (Sat: 09:00-14:00), Winchester Family Dental (Sat: 09:00-14:00) and 8 more. 16 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

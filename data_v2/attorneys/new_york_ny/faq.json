@@ -1,0 +1,64 @@
+{
+  "vertical": "attorneys",
+  "vertical_display": "Attorneys & Law Firms",
+  "city": "new_york_ny",
+  "city_display": "New York Ny",
+  "generated": "2026-03-16",
+  "total_businesses": 458,
+  "questions": [
+    {
+      "question": "Which attorneys & law firms in New York Ny are open on weekends?",
+      "answer": "Attorneys & Law Firms in New York Ny with weekend hours include: Afonso & Afonso, LLC., Attorneys at Law (Sat: 00:00 - 24:00), Held, Held & Held (Sat: \"by appointment\"), Polizzotto & Polizzotto (Sat: off), David Resnick & Associates, P.C. (Sat: 00:00 - 24:00), Gorodetsky Law Group (Sat: 09:00-21:00), Brooklyn Injury Attorney (Sat: 00:00 - 24:00), Forzano Law Firm (Sat: off), Top Notch Accident Attorneys (Sat: 00:00 - 24:00) and 38 more. 46 total with weekend availability."
+    },
+    {
+      "question": "Which attorneys & law firms in New York Ny speak Russian?",
+      "answer": "Russian-speaking attorneys & law firms in New York Ny include: The Law Offices Of Rachel L Kaylie, PC, Gorodetsky Law Group, Lightman Law Firm, Khashmati Law, P.C.. 4 total found."
+    },
+    {
+      "question": "Which attorneys & law firms in New York Ny speak Spanish?",
+      "answer": "Spanish-speaking attorneys & law firms in New York Ny include: Afonso & Afonso, LLC., Attorneys at Law, The Law Offices Of Rachel L Kaylie, PC, Lightman Law Firm, Jeffrey K. Kestenbaum, Greco Neyland, PC, Khashmati Law, P.C.. 6 total found."
+    },
+    {
+      "question": "Which attorneys & law firms in New York Ny offer free consultations?",
+      "answer": "Attorneys & Law Firms in New York Ny offering free consultations include: Afonso & Afonso, LLC., Attorneys at Law, Held, Held & Held, The Law Offices Of Rachel L Kaylie, PC, David Resnick & Associates, P.C., Gorodetsky Law Group, Forzano Law Firm, Angus U. Ejiofor, LLC, The Stein Law Group and 18 more."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which attorneys & law firms in New York Ny are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Attorneys & Law Firms in New York Ny with weekend hours include: Afonso & Afonso, LLC., Attorneys at Law (Sat: 00:00 - 24:00), Held, Held & Held (Sat: \"by appointment\"), Polizzotto & Polizzotto (Sat: off), David Resnick & Associates, P.C. (Sat: 00:00 - 24:00), Gorodetsky Law Group (Sat: 09:00-21:00), Brooklyn Injury Attorney (Sat: 00:00 - 24:00), Forzano Law Firm (Sat: off), Top Notch Accident Attorneys (Sat: 00:00 - 24:00) and 38 more. 46 total with weekend availability."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which attorneys & law firms in New York Ny speak Russian?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Russian-speaking attorneys & law firms in New York Ny include: The Law Offices Of Rachel L Kaylie, PC, Gorodetsky Law Group, Lightman Law Firm, Khashmati Law, P.C.. 4 total found."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which attorneys & law firms in New York Ny speak Spanish?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Spanish-speaking attorneys & law firms in New York Ny include: Afonso & Afonso, LLC., Attorneys at Law, The Law Offices Of Rachel L Kaylie, PC, Lightman Law Firm, Jeffrey K. Kestenbaum, Greco Neyland, PC, Khashmati Law, P.C.. 6 total found."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which attorneys & law firms in New York Ny offer free consultations?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Attorneys & Law Firms in New York Ny offering free consultations include: Afonso & Afonso, LLC., Attorneys at Law, Held, Held & Held, The Law Offices Of Rachel L Kaylie, PC, David Resnick & Associates, P.C., Gorodetsky Law Group, Forzano Law Firm, Angus U. Ejiofor, LLC, The Stein Law Group and 18 more."
+        }
+      }
+    ]
+  }
+}

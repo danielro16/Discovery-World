@@ -1,0 +1,28 @@
+{
+  "vertical": "restaurants",
+  "vertical_display": "Restaurants",
+  "city": "new_york_ny",
+  "city_display": "New York Ny",
+  "generated": "2026-03-16",
+  "total_businesses": 17294,
+  "questions": [
+    {
+      "question": "Which restaurants in New York Ny are open on weekends?",
+      "answer": "Restaurants in New York Ny with weekend hours include: Woodrow Diner (Sat: 07:00-23:00), IHOP (Sat: 00:00-24:00), Yaho Sushi (Sat: 11:00-22:30), Buddy's Cafe Play Place (Sat: 10:00-21:00), Popeyes (Sat: 10:30-24:00), La Iguana Azul (Sat: 11:00-21:30), Il Sogno (Sat: 12:00-23:00), Dunkin' (Sat: 06:00-18:00) and 6755 more. 6763 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which restaurants in New York Ny are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Restaurants in New York Ny with weekend hours include: Woodrow Diner (Sat: 07:00-23:00), IHOP (Sat: 00:00-24:00), Yaho Sushi (Sat: 11:00-22:30), Buddy's Cafe Play Place (Sat: 10:00-21:00), Popeyes (Sat: 10:30-24:00), La Iguana Azul (Sat: 11:00-21:30), Il Sogno (Sat: 12:00-23:00), Dunkin' (Sat: 06:00-18:00) and 6755 more. 6763 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

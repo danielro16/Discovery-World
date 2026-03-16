@@ -1,0 +1,28 @@
+{
+  "vertical": "restaurants",
+  "vertical_display": "Restaurants",
+  "city": "chicago_il",
+  "city_display": "Chicago Il",
+  "generated": "2026-03-16",
+  "total_businesses": 4644,
+  "questions": [
+    {
+      "question": "Which restaurants in Chicago Il are open on weekends?",
+      "answer": "Restaurants in Chicago Il with weekend hours include: McDonald's (Sat: 05:00-21:00), Domino's (Sat: 10:00-01:00), Dunkin' (Sat: 05:00-17:00), Mancino's Pizza and Grinders (Sat: 11:00-22:00), Panda Express (Sat: 10:00-21:30), Subway (Sat: 08:00-20:30), Subway (Sat: 08:00-22:00), Subway (Sat: 09:00-21:00) and 1187 more. 1195 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which restaurants in Chicago Il are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Restaurants in Chicago Il with weekend hours include: McDonald's (Sat: 05:00-21:00), Domino's (Sat: 10:00-01:00), Dunkin' (Sat: 05:00-17:00), Mancino's Pizza and Grinders (Sat: 11:00-22:00), Panda Express (Sat: 10:00-21:30), Subway (Sat: 08:00-20:30), Subway (Sat: 08:00-22:00), Subway (Sat: 09:00-21:00) and 1187 more. 1195 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

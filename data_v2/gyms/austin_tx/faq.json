@@ -1,0 +1,28 @@
+{
+  "vertical": "gyms",
+  "vertical_display": "Gyms & Fitness",
+  "city": "austin_tx",
+  "city_display": "Austin Tx",
+  "generated": "2026-03-16",
+  "total_businesses": 82,
+  "questions": [
+    {
+      "question": "Which gyms & fitness in Austin Tx are open on weekends?",
+      "answer": "Gyms & Fitness in Austin Tx with weekend hours include: Crunch Fitness (Sat: 00:00 - 24:00), LA Fitness (Sat: 08:00-19:00), The Range at Austin (Sat: 10:00-21:00), F45 Training (Sat: 07:30-23:00), Wild Heart Yoga (Sat: 09:00-17:00), Shield Wall Range and Training Facility (Sat: 09:00-21:00), Life Time (Sat: 00:00 - 24:00), Gold's Gym (Sat: 07:00-21:00) and 13 more. 21 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which gyms & fitness in Austin Tx are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Gyms & Fitness in Austin Tx with weekend hours include: Crunch Fitness (Sat: 00:00 - 24:00), LA Fitness (Sat: 08:00-19:00), The Range at Austin (Sat: 10:00-21:00), F45 Training (Sat: 07:30-23:00), Wild Heart Yoga (Sat: 09:00-17:00), Shield Wall Range and Training Facility (Sat: 09:00-21:00), Life Time (Sat: 00:00 - 24:00), Gold's Gym (Sat: 07:00-21:00) and 13 more. 21 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

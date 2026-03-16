@@ -1,16 +1,16 @@
 {
   "vertical": "attorneys",
   "city": "San Francisco, CA",
-  "total_places": 0,
+  "total_places": 15,
   "sources": {
-    "osm": 0,
+    "osm": 15,
     "public_records": 0
   },
-  "with_website": 0,
-  "with_phone": 0,
-  "with_address": 0,
+  "with_website": 8,
+  "with_phone": 8,
+  "with_address": 12,
   "with_license": 0,
-  "avg_completeness": 0.0,
+  "avg_completeness": 45.7,
   "attribution": [
     "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
   ]

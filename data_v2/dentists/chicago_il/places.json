@@ -27,9 +27,37 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General Dentistry",
+        "Teeth Whitening",
+        "Dental Implants",
+        "Fillings",
+        "Cosmetic Dentistry"
+      ],
+      "insurance_accepted": [
+        "All PPO"
+      ],
+      "procedures": [
+        "Fillings",
+        "Whitening",
+        "Implants",
+        "Veneers"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": false,
+      "free_consultation": false,
+      "payment_plans": true,
+      "technology": [
+        "Latest dental technology"
+      ],
+      "year_established": null,
+      "team_size": 2
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -195,9 +223,49 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Preventative",
+        "Oral Cancer Screening",
+        "Oral Exams",
+        "Fluoride",
+        "Root Canals",
+        "Whitening",
+        "Dental Implants",
+        "Veneers",
+        "Restorative",
+        "Pediatric",
+        "Invisalign",
+        "Periodontal",
+        "Sedation",
+        "Oral Surgery"
+      ],
+      "insurance_accepted": [
+        "All insurances including Medicaid and Medicare"
+      ],
+      "procedures": [
+        "Cleanings",
+        "Root canals",
+        "Implants",
+        "Veneers",
+        "Oral surgery",
+        "Extractions"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "emergency": false,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": [
+        "State-of-the-art equipment"
+      ],
+      "year_established": 2011,
+      "team_size": null
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -256,9 +324,42 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Dental Implants",
+        "Fillings",
+        "Invisalign",
+        "Whitening",
+        "Sedation",
+        "Cosmetic",
+        "Implant Reconstruction",
+        "Regenerative",
+        "Full Arch Restorations"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "Cleanings",
+        "Implants",
+        "Invisalign",
+        "Whitening",
+        "Sinus lifts",
+        "Soft tissue grafting"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": false,
+      "free_consultation": true,
+      "payment_plans": false,
+      "technology": [
+        "Metal-free implants",
+        "Advanced imaging"
+      ],
+      "year_established": 2025,
+      "team_size": 2
+    },
+    "profile_completeness": 77,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -430,9 +531,49 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Preventative",
+        "Oral Cancer Screening",
+        "Oral Exams",
+        "Fluoride",
+        "Root Canals",
+        "Whitening",
+        "Dental Implants",
+        "Veneers",
+        "Restorative",
+        "Pediatric",
+        "Invisalign",
+        "Periodontal",
+        "Sedation",
+        "Oral Surgery"
+      ],
+      "insurance_accepted": [
+        "All insurances including Medicaid and Medicare"
+      ],
+      "procedures": [
+        "Cleanings",
+        "Root canals",
+        "Implants",
+        "Veneers",
+        "Oral surgery",
+        "Extractions"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "emergency": false,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": [
+        "State-of-the-art equipment"
+      ],
+      "year_established": 2011,
+      "team_size": null
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -492,9 +633,49 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Preventative",
+        "Oral Cancer Screening",
+        "Oral Exams",
+        "Fluoride",
+        "Root Canals",
+        "Whitening",
+        "Dental Implants",
+        "Veneers",
+        "Restorative",
+        "Pediatric",
+        "Invisalign",
+        "Periodontal",
+        "Sedation",
+        "Oral Surgery"
+      ],
+      "insurance_accepted": [
+        "All insurances including Medicaid and Medicare"
+      ],
+      "procedures": [
+        "Cleanings",
+        "Root canals",
+        "Implants",
+        "Veneers",
+        "Oral surgery",
+        "Extractions"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "emergency": false,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": [
+        "State-of-the-art equipment"
+      ],
+      "year_established": 2011,
+      "team_size": null
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -554,9 +735,49 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Preventative",
+        "Oral Cancer Screening",
+        "Oral Exams",
+        "Fluoride",
+        "Root Canals",
+        "Whitening",
+        "Dental Implants",
+        "Veneers",
+        "Restorative",
+        "Pediatric",
+        "Invisalign",
+        "Periodontal",
+        "Sedation",
+        "Oral Surgery"
+      ],
+      "insurance_accepted": [
+        "All insurances including Medicaid and Medicare"
+      ],
+      "procedures": [
+        "Cleanings",
+        "Root canals",
+        "Implants",
+        "Veneers",
+        "Oral surgery",
+        "Extractions"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "emergency": false,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": [
+        "State-of-the-art equipment"
+      ],
+      "year_established": 2011,
+      "team_size": null
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -618,9 +839,49 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Preventative",
+        "Oral Cancer Screening",
+        "Oral Exams",
+        "Fluoride",
+        "Root Canals",
+        "Whitening",
+        "Dental Implants",
+        "Veneers",
+        "Restorative",
+        "Pediatric",
+        "Invisalign",
+        "Periodontal",
+        "Sedation",
+        "Oral Surgery"
+      ],
+      "insurance_accepted": [
+        "All insurances including Medicaid and Medicare"
+      ],
+      "procedures": [
+        "Cleanings",
+        "Root canals",
+        "Implants",
+        "Veneers",
+        "Oral surgery",
+        "Extractions"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "emergency": false,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": [
+        "State-of-the-art equipment"
+      ],
+      "year_established": 2011,
+      "team_size": null
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -680,9 +941,49 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Preventative",
+        "Oral Cancer Screening",
+        "Oral Exams",
+        "Fluoride",
+        "Root Canals",
+        "Whitening",
+        "Dental Implants",
+        "Veneers",
+        "Restorative",
+        "Pediatric",
+        "Invisalign",
+        "Periodontal",
+        "Sedation",
+        "Oral Surgery"
+      ],
+      "insurance_accepted": [
+        "All insurances including Medicaid and Medicare"
+      ],
+      "procedures": [
+        "Cleanings",
+        "Root canals",
+        "Implants",
+        "Veneers",
+        "Oral surgery",
+        "Extractions"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "emergency": false,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": [
+        "State-of-the-art equipment"
+      ],
+      "year_established": 2011,
+      "team_size": null
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -741,9 +1042,62 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General dentistry",
+        "Emergency dental care",
+        "Cosmetic dentistry",
+        "Dental implants",
+        "Invisalign",
+        "Dental crowns",
+        "Root canals",
+        "Extractions",
+        "Fillings",
+        "Dentures",
+        "Bridges",
+        "Oral surgery",
+        "Whitening",
+        "Veneers",
+        "Sedation"
+      ],
+      "insurance_accepted": [
+        "Delta",
+        "MetLife",
+        "Aetna",
+        "Humana",
+        "Cigna",
+        "Guardian",
+        "Lincoln Financial",
+        "Beam",
+        "United Healthcare",
+        "BCBS PPO",
+        "Principal",
+        "Ameritas",
+        "Always Care"
+      ],
+      "procedures": [
+        "X-rays",
+        "3D scans",
+        "Implants",
+        "Root canals",
+        "Crowns"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": true,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": [
+        "X-rays",
+        "3D scans",
+        "Periodontal charting"
+      ],
+      "year_established": null,
+      "team_size": 5
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -808,9 +1162,62 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General dentistry",
+        "Emergency dental care",
+        "Cosmetic dentistry",
+        "Dental implants",
+        "Invisalign",
+        "Dental crowns",
+        "Root canals",
+        "Extractions",
+        "Fillings",
+        "Dentures",
+        "Bridges",
+        "Oral surgery",
+        "Whitening",
+        "Veneers",
+        "Sedation"
+      ],
+      "insurance_accepted": [
+        "Delta",
+        "MetLife",
+        "Aetna",
+        "Humana",
+        "Cigna",
+        "Guardian",
+        "Lincoln Financial",
+        "Beam",
+        "United Healthcare",
+        "BCBS PPO",
+        "Principal",
+        "Ameritas",
+        "Always Care"
+      ],
+      "procedures": [
+        "X-rays",
+        "3D scans",
+        "Implants",
+        "Root canals",
+        "Crowns"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": true,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": [
+        "X-rays",
+        "3D scans",
+        "Periodontal charting"
+      ],
+      "year_established": null,
+      "team_size": 5
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -874,9 +1281,44 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Preventive Dentistry",
+        "Cosmetic Dentistry",
+        "Restorative Dentistry",
+        "Emergency Dentistry",
+        "Smile design",
+        "Veneers",
+        "Invisalign",
+        "Implants",
+        "Whitening"
+      ],
+      "insurance_accepted": [
+        "Most PPO dental insurance"
+      ],
+      "procedures": [
+        "Cleanings",
+        "Exams",
+        "Veneers",
+        "Whitening",
+        "Crowns",
+        "Implants",
+        "Clear aligners"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": true,
+      "free_consultation": false,
+      "payment_plans": true,
+      "technology": [
+        "Advanced/cutting-edge technology"
+      ],
+      "year_established": 2017,
+      "team_size": 11
+    },
+    "profile_completeness": 79,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -934,9 +1376,35 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Preventative Dental Care",
+        "Cosmetic Dentistry",
+        "Restorative Dentistry",
+        "Sedation",
+        "Whitening"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "Cleanings",
+        "Exams",
+        "Whitening",
+        "Cosmetic restorations"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": false,
+      "free_consultation": false,
+      "payment_plans": true,
+      "technology": [
+        "Advanced technology"
+      ],
+      "year_established": 2001,
+      "team_size": 4
+    },
+    "profile_completeness": 77,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -987,9 +1455,45 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General dentistry",
+        "Cosmetic dentistry",
+        "Invisalign",
+        "Implants",
+        "Veneers",
+        "Crowns",
+        "Whitening",
+        "Root canals",
+        "Emergency dentistry",
+        "Botox",
+        "All-on-4",
+        "Dentures"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "Cleanings",
+        "X-rays",
+        "Fillings",
+        "Sealants",
+        "Implants",
+        "Emergency care"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": true,
+      "free_consultation": false,
+      "payment_plans": false,
+      "technology": [
+        "Digital imaging",
+        "Invisalign"
+      ],
+      "year_established": null,
+      "team_size": 4
+    },
+    "profile_completeness": 76,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1003,7 +1507,7 @@
       "addr:street": "North Broadway",
       "amenity": "dentist",
       "check_date": "2023-10-23",
-      "description": "Modern Smiles is a general dental practice. The dental team practices a full range of general and cosmetic services ranging from veneers, dental implants, bridges, crowns, Invisalign\u00ae, teeth whitening, and more to create an optimal and ideal smile.",
+      "description": "Modern Smiles is a general dental practice. The dental team practices a full range of general and cosmetic services ranging from veneers, dental implants, bridges, crowns, Invisalign®, teeth whitening, and more to create an optimal and ideal smile.",
       "healthcare": "dentist",
       "healthcare:speciality": "dentist",
       "name": "Modern Smiles",
@@ -1099,9 +1603,54 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General Dentistry",
+        "Preventive",
+        "Cosmetic",
+        "Restorative",
+        "Implants",
+        "Orthodontics",
+        "Invisalign",
+        "Oral Surgery",
+        "Emergency",
+        "Periodontal",
+        "Sleep Apnea",
+        "TMJ",
+        "Whitening",
+        "Veneers"
+      ],
+      "insurance_accepted": [
+        "Majority of top dental insurance carriers"
+      ],
+      "procedures": [
+        "Exams",
+        "X-rays",
+        "Implants",
+        "Crowns",
+        "Invisalign",
+        "Whitening",
+        "Veneers"
+      ],
+      "languages": [
+        "English",
+        "Spanish",
+        "Korean",
+        "Hindi",
+        "Gujarati",
+        "Filipino"
+      ],
+      "emergency": true,
+      "free_consultation": false,
+      "payment_plans": true,
+      "technology": [
+        "Latest dental technology"
+      ],
+      "year_established": null,
+      "team_size": null
+    },
+    "profile_completeness": 77,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1116,7 +1665,7 @@
       "amenity": "dentist",
       "check_date": "2026-01-22",
       "contact:facebook": "https://www.facebook.com/ChicagoDentist60613",
-      "description": "At Elite Dental, Dr. Grace E. Lee, DMD, and her team believe a healthy smile begins with compassionate care and modern dental techniques\u2014all in a welcoming, family-friendly environment. Located in Chicago, we offer a full range of general and cosmetic ser",
+      "description": "At Elite Dental, Dr. Grace E. Lee, DMD, and her team believe a healthy smile begins with compassionate care and modern dental techniques—all in a welcoming, family-friendly environment. Located in Chicago, we offer a full range of general and cosmetic ser",
       "healthcare": "dentist",
       "healthcare:speciality": "preventive_dentistry;general_dentistry;oral_surgery;emergency_dentist_appointments;implant_dentistry;root_canals;kids_dentistry;restorative_dentistry",
       "name": "Elite Dental",
@@ -1218,9 +1767,49 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Preventative",
+        "Oral Cancer Screening",
+        "Oral Exams",
+        "Fluoride",
+        "Root Canals",
+        "Whitening",
+        "Dental Implants",
+        "Veneers",
+        "Restorative",
+        "Pediatric",
+        "Invisalign",
+        "Periodontal",
+        "Sedation",
+        "Oral Surgery"
+      ],
+      "insurance_accepted": [
+        "All insurances including Medicaid and Medicare"
+      ],
+      "procedures": [
+        "Cleanings",
+        "Root canals",
+        "Implants",
+        "Veneers",
+        "Oral surgery",
+        "Extractions"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "emergency": false,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": [
+        "State-of-the-art equipment"
+      ],
+      "year_established": 2011,
+      "team_size": null
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1279,9 +1868,54 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General dentistry",
+        "Emergency dental care",
+        "Cosmetic dentistry",
+        "Dental implants",
+        "Invisalign",
+        "Dental crowns",
+        "Root canals",
+        "Extractions",
+        "Fillings",
+        "Dentures",
+        "Bridges",
+        "Whitening",
+        "Sedation"
+      ],
+      "insurance_accepted": [
+        "Delta",
+        "MetLife",
+        "Aetna",
+        "Humana",
+        "Cigna",
+        "Guardian",
+        "United Healthcare",
+        "BCBS PPO"
+      ],
+      "procedures": [
+        "X-rays",
+        "3D scans",
+        "Implants",
+        "Root canals",
+        "Crowns"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": true,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": [
+        "X-rays",
+        "3D scans"
+      ],
+      "year_established": null,
+      "team_size": null
+    },
+    "profile_completeness": 77,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1345,9 +1979,27 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General dentistry",
+        "Dental specialists"
+      ],
+      "insurance_accepted": [],
+      "procedures": [],
+      "languages": [
+        "English"
+      ],
+      "emergency": false,
+      "free_consultation": false,
+      "payment_plans": false,
+      "technology": [
+        "Cutting edge technology"
+      ],
+      "year_established": null,
+      "team_size": null
+    },
+    "profile_completeness": 73,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1582,9 +2234,55 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General Dentistry",
+        "Children's Dentistry",
+        "Cosmetic Dentistry",
+        "Restorative Dentistry",
+        "Endodontics",
+        "Orthodontics",
+        "Oral Surgery",
+        "Emergency"
+      ],
+      "procedures": [
+        "Cleanings",
+        "Fillings",
+        "Sealants",
+        "X-rays",
+        "Fluoride",
+        "Whitening",
+        "Veneers",
+        "Invisalign",
+        "Braces",
+        "Implants",
+        "All-on-4",
+        "Bridges",
+        "Dentures",
+        "Root canals",
+        "Same-day crowns",
+        "Bone grafting",
+        "Wisdom teeth",
+        "Botox"
+      ],
+      "insurance_accepted": [],
+      "languages": [
+        "English"
+      ],
+      "emergency": true,
+      "free_consultation": false,
+      "payment_plans": false,
+      "technology": [
+        "3D CT scanning",
+        "iTero digital impressions",
+        "Intraoral cameras",
+        "Same-day crown technology"
+      ],
+      "year_established": null,
+      "team_size": 3
+    },
+    "profile_completeness": 76,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1756,9 +2454,35 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Emergency Dentistry",
+        "Emergency Extractions",
+        "Emergency Root Canals"
+      ],
+      "insurance_accepted": [
+        "Will file insurance"
+      ],
+      "procedures": [
+        "Emergency pain relief",
+        "Tooth extractions",
+        "Root canals",
+        "Abscess treatment"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": true,
+      "free_consultation": false,
+      "payment_plans": true,
+      "technology": [
+        "Latest dental technology"
+      ],
+      "year_established": null,
+      "team_size": null
+    },
+    "profile_completeness": 77,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -4049,7 +4773,7 @@
       "healthcare:speciality": "orthodontics",
       "mobile": "+1-773-697-8119",
       "name": "Floss & Co. - Lincoln Park",
-      "opening_hours": "Mon: 10:00 AM \u2013 6:00 PM; Tues-Thurs: 10:00 AM \u2013 7:00 PM; Fri, Sun: 10:00 AM \u2013 4:00 PM; Sat: 8:00 AM \u2013 1:00 PM",
+      "opening_hours": "Mon: 10:00 AM – 6:00 PM; Tues-Thurs: 10:00 AM – 7:00 PM; Fri, Sun: 10:00 AM – 4:00 PM; Sat: 8:00 AM – 1:00 PM",
       "operator": "Izzy Naem",
       "website": "https://flossandcompany.com/locations/lincoln-park/"
     },

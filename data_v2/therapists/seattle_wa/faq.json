@@ -1,0 +1,28 @@
+{
+  "vertical": "therapists",
+  "vertical_display": "Therapists & Mental Health",
+  "city": "seattle_wa",
+  "city_display": "Seattle Wa",
+  "generated": "2026-03-16",
+  "total_businesses": 916,
+  "questions": [
+    {
+      "question": "Which therapists & mental health in Seattle Wa are open on weekends?",
+      "answer": "Therapists & Mental Health in Seattle Wa with weekend hours include: The Center for Psychological Health (Sat: 08:00-15:00), LightHeart Associates (Sat: \"by appointment\"), Planned Parenthood (Sat: 08:30-16:30), Mindful Therapy Group (Sat: 08:30-17:00), WW Studio (Sat: 07:00-10:00). 5 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which therapists & mental health in Seattle Wa are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Therapists & Mental Health in Seattle Wa with weekend hours include: The Center for Psychological Health (Sat: 08:00-15:00), LightHeart Associates (Sat: \"by appointment\"), Planned Parenthood (Sat: 08:30-16:30), Mindful Therapy Group (Sat: 08:30-17:00), WW Studio (Sat: 07:00-10:00). 5 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

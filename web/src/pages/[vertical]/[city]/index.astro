@@ -1,7 +1,7 @@
 ---
 import Base from '../../../layouts/Base.astro';
 import BusinessCard from '../../../components/BusinessCard.astro';
-import { getVerticals, getCities, getPlaces, getStats, getVertical, formatCityName, formatCitySlug, VERTICAL_COLORS, VERTICAL_EMOJIS } from '../../../utils/data';
+import { getVerticals, getCities, getPlaces, getStats, formatCityName, formatCitySlug, VERTICAL_COLORS, VERTICAL_EMOJIS } from '../../../utils/data';
 import type { GetStaticPaths } from 'astro';
 
 export const getStaticPaths: GetStaticPaths = () => {
@@ -19,18 +19,30 @@ export const getStaticPaths: GetStaticPaths = () => {
 };
 
 const { vertical, citySlug, cityName } = Astro.props;
-const places = getPlaces(vertical.name, citySlug);
-const stats = getStats(places);
+const allPlaces = getPlaces(vertical.name, citySlug);
+const stats = getStats(allPlaces);
 const colors = VERTICAL_COLORS[vertical.name] || VERTICAL_COLORS.dentists;
 const emoji = VERTICAL_EMOJIS[vertical.name] || '📍';
 const cityUrlSlug = formatCitySlug(citySlug);
+
+// Sort: rated/reviewed first, then by profile completeness
+const sortedPlaces = [...allPlaces].sort((a, b) => {
+  const ratingDiff = (b.rating ?? -1) - (a.rating ?? -1);
+  if (ratingDiff !== 0) return ratingDiff;
+  return (b.profile_completeness ?? 0) - (a.profile_completeness ?? 0);
+});
+
+// Render top 50 as HTML — keeps page fast even for 17K-record cities
+const PAGE_SIZE = 50;
+const displayPlaces = sortedPlaces.slice(0, PAGE_SIZE);
+const hasMore = allPlaces.length > PAGE_SIZE;
 
 const schemaJson = JSON.stringify({
   "@context": "https://schema.org",
   "@type": "ItemList",
   "name": `${vertical.display_name} in ${cityName}`,
-  "numberOfItems": places.length,
-  "itemListElement": places.slice(0, 20).map((p, i) => ({
+  "numberOfItems": allPlaces.length,
+  "itemListElement": sortedPlaces.slice(0, 20).map((p, i) => ({
     "@type": "ListItem",
     "position": i + 1,
     "item": {
@@ -71,7 +83,7 @@ const schemaJson = JSON.stringify({
         <div class="text-xs text-gray-400 mt-1">Total Listed</div>
       </div>
       <div class="rounded-2xl p-4 text-center" style={`background: ${colors.bg}`}>
-        <div class="text-2xl font-extrabold" style={`color: ${colors.accent}`}>{stats.avgRating}</div>
+        <div class="text-2xl font-extrabold" style={`color: ${colors.accent}`}>{stats.avgRating || '—'}</div>
         <div class="text-xs text-gray-400 mt-1">Avg Rating</div>
       </div>
       <div class="rounded-2xl p-4 text-center" style={`background: ${colors.bg}`}>
@@ -108,12 +120,20 @@ const schemaJson = JSON.stringify({
 
     <!-- Business List -->
     <div id="business-list" class="grid grid-cols-1 md:grid-cols-2 gap-4">
-      {places.map(place => (
+      {displayPlaces.map(place => (
         <BusinessCard place={place} vertical={vertical.name} city={cityUrlSlug} />
       ))}
     </div>
 
     <p id="no-results" class="hidden text-center text-gray-400 py-12">No businesses match your search.</p>
+
+    <!-- Note for large datasets -->
+    {hasMore && (
+      <p class="mt-8 text-center text-sm text-gray-400">
+        Showing top {PAGE_SIZE} of {stats.total} businesses, sorted by rating.
+        Use the search box above to find a specific business by name or address.
+      </p>
+    )}
   </section>
 
   <script>

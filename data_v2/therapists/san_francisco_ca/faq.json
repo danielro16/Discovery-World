@@ -1,0 +1,28 @@
+{
+  "vertical": "therapists",
+  "vertical_display": "Therapists & Mental Health",
+  "city": "san_francisco_ca",
+  "city_display": "San Francisco Ca",
+  "generated": "2026-03-16",
+  "total_businesses": 872,
+  "questions": [
+    {
+      "question": "Which therapists & mental health in San Francisco Ca are open on weekends?",
+      "answer": "Therapists & Mental Health in San Francisco Ca with weekend hours include: Planned Parenthood Mar Monte (Sat: 08:00-16:30), RAMS Richmond Area Multi-Services Inc (Sat: off). 2 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which therapists & mental health in San Francisco Ca are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Therapists & Mental Health in San Francisco Ca with weekend hours include: Planned Parenthood Mar Monte (Sat: 08:00-16:30), RAMS Richmond Area Multi-Services Inc (Sat: off). 2 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

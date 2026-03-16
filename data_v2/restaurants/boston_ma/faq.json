@@ -1,0 +1,28 @@
+{
+  "vertical": "restaurants",
+  "vertical_display": "Restaurants",
+  "city": "boston_ma",
+  "city_display": "Boston Ma",
+  "generated": "2026-03-16",
+  "total_businesses": 4285,
+  "questions": [
+    {
+      "question": "Which restaurants in Boston Ma are open on weekends?",
+      "answer": "Restaurants in Boston Ma with weekend hours include: Dunkin' (Sat: 04:00-19:00), Starbucks (Sat: 06:00-21:00), Subway (Sat: 08:00-22:00), Hungry Coyote (Sat: 10:00-24:00), Qdoba (Sat: 10:30-23:00), Five Guys (Sat: 11:00-22:00), Chipotle (Sat: 10:45-22:00), Subway (Sat: 08:00-20:30) and 1657 more. 1665 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which restaurants in Boston Ma are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Restaurants in Boston Ma with weekend hours include: Dunkin' (Sat: 04:00-19:00), Starbucks (Sat: 06:00-21:00), Subway (Sat: 08:00-22:00), Hungry Coyote (Sat: 10:00-24:00), Qdoba (Sat: 10:30-23:00), Five Guys (Sat: 11:00-22:00), Chipotle (Sat: 10:45-22:00), Subway (Sat: 08:00-20:30) and 1657 more. 1665 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

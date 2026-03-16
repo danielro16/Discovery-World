@@ -1,16 +1,16 @@
 {
   "vertical": "gyms",
   "city": "San Francisco, CA",
-  "total_places": 0,
+  "total_places": 477,
   "sources": {
-    "osm": 0,
+    "osm": 477,
     "public_records": 0
   },
-  "with_website": 0,
-  "with_phone": 0,
-  "with_address": 0,
+  "with_website": 162,
+  "with_phone": 90,
+  "with_address": 273,
   "with_license": 0,
-  "avg_completeness": 0.0,
+  "avg_completeness": 32.4,
   "attribution": [
     "\u00a9 OpenStreetMap contributors (ODbL 1.0) \u2014 https://www.openstreetmap.org/copyright"
   ]

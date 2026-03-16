@@ -1,0 +1,28 @@
+{
+  "vertical": "restaurants",
+  "vertical_display": "Restaurants",
+  "city": "denver_co",
+  "city_display": "Denver Co",
+  "generated": "2026-03-16",
+  "total_businesses": 3301,
+  "questions": [
+    {
+      "question": "Which restaurants in Denver Co are open on weekends?",
+      "answer": "Restaurants in Denver Co with weekend hours include: Chick-fil-A (Sat: 06:00-22:00), Vellichor Coffee Roasters (Sat: 06:30-15:00), DQ Grill & Chill (Sat: 10:30-22:00), McDonald's (Sat: 05:00-24:00), Hunan Dynasty (Sat: 11:00-22:00), Domino's (Sat: 10:00-01:00), Virgilio's Pizzeria & Wine Bar (Sat: 11:00-20:25), The Cow Eatery (Sat: 07:00-20:00) and 1077 more. 1085 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which restaurants in Denver Co are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Restaurants in Denver Co with weekend hours include: Chick-fil-A (Sat: 06:00-22:00), Vellichor Coffee Roasters (Sat: 06:30-15:00), DQ Grill & Chill (Sat: 10:30-22:00), McDonald's (Sat: 05:00-24:00), Hunan Dynasty (Sat: 11:00-22:00), Domino's (Sat: 10:00-01:00), Virgilio's Pizzeria & Wine Bar (Sat: 11:00-20:25), The Cow Eatery (Sat: 07:00-20:00) and 1077 more. 1085 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

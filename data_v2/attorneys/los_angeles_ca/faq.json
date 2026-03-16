@@ -1,0 +1,28 @@
+{
+  "vertical": "attorneys",
+  "vertical_display": "Attorneys & Law Firms",
+  "city": "los_angeles_ca",
+  "city_display": "Los Angeles Ca",
+  "generated": "2026-03-16",
+  "total_businesses": 189,
+  "questions": [
+    {
+      "question": "Which attorneys & law firms in Los Angeles Ca are open on weekends?",
+      "answer": "Attorneys & Law Firms in Los Angeles Ca with weekend hours include: Kraut Law Group Criminal & DUI Lawyers, Inc. (Sat: 00:00 - 24:00), OakTree Law (Sat: 07:00-21:00), Text Kevin Accident Attorneys (Sat: 00:00 - 24:00), Text Kevin Accident Attorneys (Sat: 00:00 - 24:00), Barr Renter's Service (Sat: 11:00-14:00), Employee Law Group (Sat: 09:00-22:00), The Lemon Law Experts (Sat: 10:00-16:00), Helfend Law Group (Sat: 00:00 - 24:00) and 34 more. 42 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which attorneys & law firms in Los Angeles Ca are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Attorneys & Law Firms in Los Angeles Ca with weekend hours include: Kraut Law Group Criminal & DUI Lawyers, Inc. (Sat: 00:00 - 24:00), OakTree Law (Sat: 07:00-21:00), Text Kevin Accident Attorneys (Sat: 00:00 - 24:00), Text Kevin Accident Attorneys (Sat: 00:00 - 24:00), Barr Renter's Service (Sat: 11:00-14:00), Employee Law Group (Sat: 09:00-22:00), The Lemon Law Experts (Sat: 10:00-16:00), Helfend Law Group (Sat: 00:00 - 24:00) and 34 more. 42 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

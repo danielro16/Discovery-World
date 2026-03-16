@@ -1,0 +1,28 @@
+{
+  "vertical": "dentists",
+  "vertical_display": "Dentists",
+  "city": "san_diego_ca",
+  "city_display": "San Diego Ca",
+  "generated": "2026-03-16",
+  "total_businesses": 631,
+  "questions": [
+    {
+      "question": "Which dentists in San Diego Ca are open on weekends?",
+      "answer": "Dentists in San Diego Ca with weekend hours include: Dr MEXICO | Chaparral Border Location (Sat: 09:00-15:00,  Su off), Pure Aesthetic Dentistry (Sat: 09:00-18:00), Dentiland (Sat: 09:00-14:00), Western Dental (Sat: 08:00-16:30), Sorrento Valley Dental Group (Sat: 08:00-14:00), Impression Dental Group (Sat: 07:00-13:00), Dentalia (Sat: 09:00-18:00), Dentalia (Sat: 09:00-18:00) and 2 more. 10 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which dentists in San Diego Ca are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in San Diego Ca with weekend hours include: Dr MEXICO | Chaparral Border Location (Sat: 09:00-15:00,  Su off), Pure Aesthetic Dentistry (Sat: 09:00-18:00), Dentiland (Sat: 09:00-14:00), Western Dental (Sat: 08:00-16:30), Sorrento Valley Dental Group (Sat: 08:00-14:00), Impression Dental Group (Sat: 07:00-13:00), Dentalia (Sat: 09:00-18:00), Dentalia (Sat: 09:00-18:00) and 2 more. 10 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

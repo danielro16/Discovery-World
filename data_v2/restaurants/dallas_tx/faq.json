@@ -1,0 +1,28 @@
+{
+  "vertical": "restaurants",
+  "vertical_display": "Restaurants",
+  "city": "dallas_tx",
+  "city_display": "Dallas Tx",
+  "generated": "2026-03-16",
+  "total_businesses": 3771,
+  "questions": [
+    {
+      "question": "Which restaurants in Dallas Tx are open on weekends?",
+      "answer": "Restaurants in Dallas Tx with weekend hours include: Domino's Pizza (Sat: 10:30-01:00), Ann's Snack Bar (Sat: 08:30-18:30), McDonald's (Sat: 06:00-23:00), Sonic (Sat: 07:00-24:00), Burger King (Sat: 06:00-21:59), Mason's Chicken & Seafood Grill (Sat: 11:00-22:00), Taco Bell (Sat: 08:00-02:00), Papa John's (Sat: 10:00-24:00) and 1183 more. 1191 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which restaurants in Dallas Tx are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Restaurants in Dallas Tx with weekend hours include: Domino's Pizza (Sat: 10:30-01:00), Ann's Snack Bar (Sat: 08:30-18:30), McDonald's (Sat: 06:00-23:00), Sonic (Sat: 07:00-24:00), Burger King (Sat: 06:00-21:59), Mason's Chicken & Seafood Grill (Sat: 11:00-22:00), Taco Bell (Sat: 08:00-02:00), Papa John's (Sat: 10:00-24:00) and 1183 more. 1191 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

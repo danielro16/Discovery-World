@@ -1,0 +1,28 @@
+{
+  "vertical": "therapists",
+  "vertical_display": "Therapists & Mental Health",
+  "city": "washington_dc",
+  "city_display": "Washington Dc",
+  "generated": "2026-03-16",
+  "total_businesses": 23,
+  "questions": [
+    {
+      "question": "Which therapists & mental health in Washington Dc are open on weekends?",
+      "answer": "Therapists & Mental Health in Washington Dc with weekend hours include: IAFF Center of Excellence (Sat: 00:00 - 24:00), Think Happy Live Healthy (Sat: 06:00-21:00), Jenny Craig (Sat: 07:00-14:00). 3 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which therapists & mental health in Washington Dc are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Therapists & Mental Health in Washington Dc with weekend hours include: IAFF Center of Excellence (Sat: 00:00 - 24:00), Think Happy Live Healthy (Sat: 06:00-21:00), Jenny Craig (Sat: 07:00-14:00). 3 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

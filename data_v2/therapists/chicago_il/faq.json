@@ -1,0 +1,28 @@
+{
+  "vertical": "therapists",
+  "vertical_display": "Therapists & Mental Health",
+  "city": "chicago_il",
+  "city_display": "Chicago Il",
+  "generated": "2026-03-16",
+  "total_businesses": 907,
+  "questions": [
+    {
+      "question": "Which therapists & mental health in Chicago Il are open on weekends?",
+      "answer": "Therapists & Mental Health in Chicago Il with weekend hours include: Psychic Chakra Energy Healing (Sat: 00:00 - 24:00), The Loft at Eight Corners (Sat: 13:00-20:00), Relationship Reality 312 (Sat: 08:00-18:00), CFC Therapy (Sat: Su 09:00-15:00), Clarity Clinic (Sat: off), Smelling the Difference, LLC (Sat: 09:00-18:00), Making the Difference International, Inc (Sat: 08:00-20:00), Tides Mental Health (Sat: Su off) and 1 more. 9 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which therapists & mental health in Chicago Il are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Therapists & Mental Health in Chicago Il with weekend hours include: Psychic Chakra Energy Healing (Sat: 00:00 - 24:00), The Loft at Eight Corners (Sat: 13:00-20:00), Relationship Reality 312 (Sat: 08:00-18:00), CFC Therapy (Sat: Su 09:00-15:00), Clarity Clinic (Sat: off), Smelling the Difference, LLC (Sat: 09:00-18:00), Making the Difference International, Inc (Sat: 08:00-20:00), Tides Mental Health (Sat: Su off) and 1 more. 9 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

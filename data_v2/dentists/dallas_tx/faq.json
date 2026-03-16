@@ -1,0 +1,28 @@
+{
+  "vertical": "dentists",
+  "vertical_display": "Dentists",
+  "city": "dallas_tx",
+  "city_display": "Dallas Tx",
+  "generated": "2026-03-16",
+  "total_businesses": 294,
+  "questions": [
+    {
+      "question": "Which dentists in Dallas Tx are open on weekends?",
+      "answer": "Dentists in Dallas Tx with weekend hours include: South Texas Dental (Sat: 09:00-15:00), Fitz Dental (Sat: 10:00-15:00), ToothHQ (Sat: 08:00-17:00), Fresca Dental (Sat: 09:30-14:30), Rio Dental & Orthodontics (Sat: 09:00-15:00), Hermosa Dental & Orthodontics (Sat: 10:00-15:00), Ideal Dental (Sat: 09:00-15:00), Oak Tree Dental (Sat: 08:00-12:00) and 11 more. 19 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which dentists in Dallas Tx are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Dallas Tx with weekend hours include: South Texas Dental (Sat: 09:00-15:00), Fitz Dental (Sat: 10:00-15:00), ToothHQ (Sat: 08:00-17:00), Fresca Dental (Sat: 09:30-14:30), Rio Dental & Orthodontics (Sat: 09:00-15:00), Hermosa Dental & Orthodontics (Sat: 10:00-15:00), Ideal Dental (Sat: 09:00-15:00), Oak Tree Dental (Sat: 08:00-12:00) and 11 more. 19 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

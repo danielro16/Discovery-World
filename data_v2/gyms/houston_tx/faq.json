@@ -1,0 +1,28 @@
+{
+  "vertical": "gyms",
+  "vertical_display": "Gyms & Fitness",
+  "city": "houston_tx",
+  "city_display": "Houston Tx",
+  "generated": "2026-03-16",
+  "total_businesses": 231,
+  "questions": [
+    {
+      "question": "Which gyms & fitness in Houston Tx are open on weekends?",
+      "answer": "Gyms & Fitness in Houston Tx with weekend hours include: Planet Fitness (Sat: 00:00 - 24:00), Houston Sword Sports (Sat: 09:00-13:00), Club Pilates (Sat: 08:30-14:30), Life Time (Sat: 05:00-23:00), William\u2019s Indoor Pool (Sat: 09:00-11:45, 13:00-15:45), Houston International Table Tennis Academy (Sat: 12:00-22:00), Life Time (Sat: 00:00 - 24:00), 24 Hour Fitness (Sat: 05:00-23:00) and 14 more. 22 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which gyms & fitness in Houston Tx are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Gyms & Fitness in Houston Tx with weekend hours include: Planet Fitness (Sat: 00:00 - 24:00), Houston Sword Sports (Sat: 09:00-13:00), Club Pilates (Sat: 08:30-14:30), Life Time (Sat: 05:00-23:00), William\u2019s Indoor Pool (Sat: 09:00-11:45, 13:00-15:45), Houston International Table Tennis Academy (Sat: 12:00-22:00), Life Time (Sat: 00:00 - 24:00), 24 Hour Fitness (Sat: 05:00-23:00) and 14 more. 22 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

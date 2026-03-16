@@ -1,0 +1,28 @@
+{
+  "vertical": "attorneys",
+  "vertical_display": "Attorneys & Law Firms",
+  "city": "austin_tx",
+  "city_display": "Austin Tx",
+  "generated": "2026-03-16",
+  "total_businesses": 31,
+  "questions": [
+    {
+      "question": "Which attorneys & law firms in Austin Tx are open on weekends?",
+      "answer": "Attorneys & Law Firms in Austin Tx with weekend hours include: FVF Law (Sat: 00:00 - 24:00), Sutliff & Stout Injury & Accident Law Firm - Austin (Sat: 00:00 - 24:00), The Cagle Law Firm (Sat: 00:00 - 24:00), The James R. Fletcher Law Firm (Sat: 12:00-23:45), DJC Law (Sat: 00:00 - 24:00), The Law Office of Kevin Bennett (Sat: 00:00 - 24:00), Wiley Associates of Austin (Sat: off). 7 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which attorneys & law firms in Austin Tx are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Attorneys & Law Firms in Austin Tx with weekend hours include: FVF Law (Sat: 00:00 - 24:00), Sutliff & Stout Injury & Accident Law Firm - Austin (Sat: 00:00 - 24:00), The Cagle Law Firm (Sat: 00:00 - 24:00), The James R. Fletcher Law Firm (Sat: 12:00-23:45), DJC Law (Sat: 00:00 - 24:00), The Law Office of Kevin Bennett (Sat: 00:00 - 24:00), Wiley Associates of Austin (Sat: off). 7 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

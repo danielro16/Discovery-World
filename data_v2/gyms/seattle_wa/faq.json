@@ -1,0 +1,28 @@
+{
+  "vertical": "gyms",
+  "vertical_display": "Gyms & Fitness",
+  "city": "seattle_wa",
+  "city_display": "Seattle Wa",
+  "generated": "2026-03-16",
+  "total_businesses": 593,
+  "questions": [
+    {
+      "question": "Which gyms & fitness in Seattle Wa are open on weekends?",
+      "answer": "Gyms & Fitness in Seattle Wa with weekend hours include: Westcoast Fitness (Sat: 07:00-19:00), Anytime Fitness (Sat: 00:00 - 24:00), ProFitness (Sat: 00:00 - 24:00), Rainier Beach Community Center (Sat: 08:30-19:00), RainCity Shooting Center (Sat: 10:00-20:00), Snap Fitness (Sat: 00:00 - 24:00), Insight Climbing & Movement (Sat: 10:00-17:00), Marina Square Express YMCA (Sat: 07:00-15:00) and 61 more. 69 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which gyms & fitness in Seattle Wa are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Gyms & Fitness in Seattle Wa with weekend hours include: Westcoast Fitness (Sat: 07:00-19:00), Anytime Fitness (Sat: 00:00 - 24:00), ProFitness (Sat: 00:00 - 24:00), Rainier Beach Community Center (Sat: 08:30-19:00), RainCity Shooting Center (Sat: 10:00-20:00), Snap Fitness (Sat: 00:00 - 24:00), Insight Climbing & Movement (Sat: 10:00-17:00), Marina Square Express YMCA (Sat: 07:00-15:00) and 61 more. 69 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

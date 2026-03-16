@@ -1,0 +1,28 @@
+{
+  "vertical": "restaurants",
+  "vertical_display": "Restaurants",
+  "city": "los_angeles_ca",
+  "city_display": "Los Angeles Ca",
+  "generated": "2026-03-16",
+  "total_businesses": 8946,
+  "questions": [
+    {
+      "question": "Which restaurants in Los Angeles Ca are open on weekends?",
+      "answer": "Restaurants in Los Angeles Ca with weekend hours include: Subway (Sat: 08:00-20:00), Bistro Miyoda & Sushi Ichiriki (Sat: 15:00-22:30), Jamba (Sat: 09:00-19:00), Chick-fil-A (Sat: 06:30-22:00), The Coffee Bean & Tea Leaf (Sat: 06:00-22:00), The Source Cafe (Sat: 07:00-19:00), Hof's Hut (Sat: 07:00-22:00), Good Stuff (Sat: 07:00-15:00) and 2591 more. 2599 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which restaurants in Los Angeles Ca are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Restaurants in Los Angeles Ca with weekend hours include: Subway (Sat: 08:00-20:00), Bistro Miyoda & Sushi Ichiriki (Sat: 15:00-22:30), Jamba (Sat: 09:00-19:00), Chick-fil-A (Sat: 06:30-22:00), The Coffee Bean & Tea Leaf (Sat: 06:00-22:00), The Source Cafe (Sat: 07:00-19:00), Hof's Hut (Sat: 07:00-22:00), Good Stuff (Sat: 07:00-15:00) and 2591 more. 2599 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

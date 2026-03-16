@@ -1,0 +1,28 @@
+{
+  "vertical": "attorneys",
+  "vertical_display": "Attorneys & Law Firms",
+  "city": "san_diego_ca",
+  "city_display": "San Diego Ca",
+  "generated": "2026-03-16",
+  "total_businesses": 34,
+  "questions": [
+    {
+      "question": "Which attorneys & law firms in San Diego Ca are open on weekends?",
+      "answer": "Attorneys & Law Firms in San Diego Ca with weekend hours include: Elite Criminal Defense - San Diego Criminal Defense Attorneys (Sat: 00:00 - 24:00), Kash Legal Group Chula Vista (Sat: 00:00 - 24:00), San Diego Personal Injury Lawyer | Mova Law Group (Sat: 00:00 - 24:00), HKM Employment Attorneys LLP (Sat: 08:00-16:00), Wilshire Law Firm (Sat: 00:00 - 24:00), Jassim Law (Sat: 00:00 - 24:00), Bernal Law Felony & Criminal Defense Lawyer (Sat: 00:00 - 24:00), Silver Law PLC (Sat: off) and 3 more. 11 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which attorneys & law firms in San Diego Ca are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Attorneys & Law Firms in San Diego Ca with weekend hours include: Elite Criminal Defense - San Diego Criminal Defense Attorneys (Sat: 00:00 - 24:00), Kash Legal Group Chula Vista (Sat: 00:00 - 24:00), San Diego Personal Injury Lawyer | Mova Law Group (Sat: 00:00 - 24:00), HKM Employment Attorneys LLP (Sat: 08:00-16:00), Wilshire Law Firm (Sat: 00:00 - 24:00), Jassim Law (Sat: 00:00 - 24:00), Bernal Law Felony & Criminal Defense Lawyer (Sat: 00:00 - 24:00), Silver Law PLC (Sat: off) and 3 more. 11 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "vertical": "dentists",
+  "vertical_display": "Dentists",
+  "city": "denver_co",
+  "city_display": "Denver Co",
+  "generated": "2026-03-16",
+  "total_businesses": 235,
+  "questions": [
+    {
+      "question": "Which dentists in Denver Co are open on weekends?",
+      "answer": "Dentists in Denver Co with weekend hours include: Comfort Dental (Sat: 08:00-13:00), Comfort Dental (Sat: 07:30-13:30), Comfort Dental (Sat: 08:00-13:00), DK Dental (Sat: 09:00-13:00), Shining Stars Kids Dentistry (Sat: 08:00-13:00), Star Dental (Sat: 09:00-17:00), Comfort Dental (Sat: 08:00-13:00), Open and Affordable Dental Aurora South (Sat: 07:30-19:30) and 11 more. 19 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which dentists in Denver Co are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Denver Co with weekend hours include: Comfort Dental (Sat: 08:00-13:00), Comfort Dental (Sat: 07:30-13:30), Comfort Dental (Sat: 08:00-13:00), DK Dental (Sat: 09:00-13:00), Shining Stars Kids Dentistry (Sat: 08:00-13:00), Star Dental (Sat: 09:00-17:00), Comfort Dental (Sat: 08:00-13:00), Open and Affordable Dental Aurora South (Sat: 07:30-19:30) and 11 more. 19 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

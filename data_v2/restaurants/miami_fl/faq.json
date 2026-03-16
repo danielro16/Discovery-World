@@ -1,0 +1,28 @@
+{
+  "vertical": "restaurants",
+  "vertical_display": "Restaurants",
+  "city": "miami_fl",
+  "city_display": "Miami Fl",
+  "generated": "2026-03-16",
+  "total_businesses": 2474,
+  "questions": [
+    {
+      "question": "Which restaurants in Miami Fl are open on weekends?",
+      "answer": "Restaurants in Miami Fl with weekend hours include: Steve\u2019s Pizza-South (Sat: 10:30-23:00), IHOP (Sat: 00:00 - 24:00), Dunkin' (Sat: 05:00-20:00), Subway (Sat: 08:00-22:30), Sergio's (Sat: 06:00-23:00), Dunkin' (Sat: 05:00-17:00), Papa John's (Sat: 10:00-24:00), Papa John's (Sat: 10:00-01:00) and 737 more. 745 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which restaurants in Miami Fl are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Restaurants in Miami Fl with weekend hours include: Steve\u2019s Pizza-South (Sat: 10:30-23:00), IHOP (Sat: 00:00 - 24:00), Dunkin' (Sat: 05:00-20:00), Subway (Sat: 08:00-22:30), Sergio's (Sat: 06:00-23:00), Dunkin' (Sat: 05:00-17:00), Papa John's (Sat: 10:00-24:00), Papa John's (Sat: 10:00-01:00) and 737 more. 745 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

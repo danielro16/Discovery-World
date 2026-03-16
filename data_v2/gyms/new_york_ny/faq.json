@@ -1,0 +1,28 @@
+{
+  "vertical": "gyms",
+  "vertical_display": "Gyms & Fitness",
+  "city": "new_york_ny",
+  "city_display": "New York Ny",
+  "generated": "2026-03-16",
+  "total_businesses": 582,
+  "questions": [
+    {
+      "question": "Which gyms & fitness in New York Ny are open on weekends?",
+      "answer": "Gyms & Fitness in New York Ny with weekend hours include: Blink Fitness (Sat: 07:00-19:00), Blink Fitness (Sat: 07:00-19:00), Harbor Fitness (Sat: 07:00-21:00), Retro Fitness (Sat: 07:00-20:00), Retro Fitness (Sat: 07:00-20:00), Retro Fitness (Sat: 06:00-19:00), Fitness Gallery Gym (Sat: 08:00-17:00), New York Fencing Academy - Brooklyn (Sat: 09:00-18:00) and 106 more. 114 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which gyms & fitness in New York Ny are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Gyms & Fitness in New York Ny with weekend hours include: Blink Fitness (Sat: 07:00-19:00), Blink Fitness (Sat: 07:00-19:00), Harbor Fitness (Sat: 07:00-21:00), Retro Fitness (Sat: 07:00-20:00), Retro Fitness (Sat: 07:00-20:00), Retro Fitness (Sat: 06:00-19:00), Fitness Gallery Gym (Sat: 08:00-17:00), New York Fencing Academy - Brooklyn (Sat: 09:00-18:00) and 106 more. 114 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

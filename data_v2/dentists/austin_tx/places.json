@@ -27,9 +27,44 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General dentistry",
+        "Cosmetic dentistry",
+        "Teeth whitening",
+        "Dental implants",
+        "Crowns",
+        "Bridges",
+        "Bonding",
+        "Dentures",
+        "Extractions",
+        "Periodontal health"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "ZOOM whitening",
+        "Digital X-rays",
+        "Implants",
+        "Crowns",
+        "Bridges",
+        "Fillings"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": false,
+      "free_consultation": false,
+      "payment_plans": false,
+      "technology": [
+        "Digital X-ray",
+        "Intraoral camera",
+        "Digital panographic radiographs"
+      ],
+      "year_established": null,
+      "team_size": 7
+    },
+    "profile_completeness": 76,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -143,9 +178,44 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General Dentistry",
+        "Cosmetic Dentistry",
+        "Restorative Dentistry",
+        "Sedation Dentistry"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "Exams",
+        "Cleanings",
+        "Fluoride",
+        "Laser dentistry",
+        "Extractions",
+        "Crowns",
+        "Bridges",
+        "Fillings",
+        "Root canals",
+        "Implants",
+        "Veneers",
+        "Teeth whitening"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": false,
+      "free_consultation": false,
+      "payment_plans": true,
+      "technology": [
+        "Digital imaging",
+        "Laser dentistry",
+        "Zoom whitening"
+      ],
+      "year_established": 2001,
+      "team_size": null
+    },
+    "profile_completeness": 76,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -199,9 +269,37 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Family Dentistry",
+        "Orthodontics",
+        "Cosmetic Dentistry",
+        "Wisdom Teeth",
+        "Dentures",
+        "Dental Implants",
+        "Periodontal Care",
+        "Sleep Apnea"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "Cleanings",
+        "Extractions",
+        "Implants",
+        "Aligners",
+        "Sleep apnea treatment"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": true,
+      "free_consultation": false,
+      "payment_plans": true,
+      "technology": [],
+      "year_established": null,
+      "team_size": 7
+    },
+    "profile_completeness": 74,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -319,9 +417,29 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Pediatric dentistry",
+        "General dentistry",
+        "Cosmetic dentistry"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "Routine dental visits",
+        "Preventive care"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": true,
+      "free_consultation": false,
+      "payment_plans": true,
+      "technology": [],
+      "year_established": null,
+      "team_size": 4
+    },
+    "profile_completeness": 74,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -379,9 +497,38 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General Dentistry",
+        "Advanced Dentistry",
+        "Orthodontics",
+        "Periodontics",
+        "Cosmetic Dentistry",
+        "Invisalign",
+        "Endodontics"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "Digital impressions",
+        "Bleaching trays",
+        "Implants",
+        "Gum disease treatment",
+        "Root canals"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": false,
+      "free_consultation": true,
+      "payment_plans": false,
+      "technology": [
+        "Itero digital scanning"
+      ],
+      "year_established": 2006,
+      "team_size": 4
+    },
+    "profile_completeness": 77,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -436,9 +583,32 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Family dentistry",
+        "Restorative dentistry",
+        "Cosmetic dentistry"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "Cleanings",
+        "Root canals",
+        "Bone grafting",
+        "Implants",
+        "Emergency dentistry"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": true,
+      "free_consultation": false,
+      "payment_plans": true,
+      "technology": [],
+      "year_established": 2011,
+      "team_size": 8
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -548,9 +718,38 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Family dentistry",
+        "Cosmetic dentistry",
+        "Prosthodontics"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "Cleanings",
+        "Root canals",
+        "Bridges",
+        "Crowns",
+        "Fillings",
+        "Whitening",
+        "Implants",
+        "Dentures",
+        "Veneers",
+        "Extractions"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "emergency": true,
+      "free_consultation": false,
+      "payment_plans": true,
+      "technology": [],
+      "year_established": null,
+      "team_size": 3
+    },
+    "profile_completeness": 74,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -604,9 +803,50 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General dentistry",
+        "Cosmetic dentistry",
+        "Pediatric dentistry",
+        "Periodontal treatments",
+        "Dental implants",
+        "Sleep apnea",
+        "TMJ/TMD",
+        "Teeth whitening"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "Exams",
+        "Cleanings",
+        "Fillings",
+        "Whitening",
+        "Veneers",
+        "Extractions",
+        "Root canals",
+        "Implants",
+        "Bridges",
+        "Crowns",
+        "Dentures",
+        "Laser dentistry"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "emergency": true,
+      "free_consultation": false,
+      "payment_plans": false,
+      "technology": [
+        "Digital X-rays",
+        "Laser dentistry",
+        "Intraoral camera",
+        "Oral cancer screening"
+      ],
+      "year_established": 1994,
+      "team_size": null
+    },
+    "profile_completeness": 76,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -780,9 +1020,34 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Orthodontics",
+        "Invisalign",
+        "Pediatric dentistry"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "Orthodontic treatment",
+        "Teeth alignment",
+        "Sedation dentistry",
+        "X-rays"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": false,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": [
+        "Invisalign",
+        "Ceramic brackets"
+      ],
+      "year_established": null,
+      "team_size": null
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -839,9 +1104,39 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General dentistry",
+        "Cosmetic dentistry"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "Cleanings",
+        "Exams",
+        "X-rays",
+        "Fillings",
+        "Root canals",
+        "Extractions",
+        "Crowns",
+        "Whitening",
+        "Bridges",
+        "Veneers",
+        "Bonding"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": false,
+      "free_consultation": false,
+      "payment_plans": false,
+      "technology": [
+        "Digital X-rays"
+      ],
+      "year_established": null,
+      "team_size": null
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -895,9 +1190,37 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General dentistry",
+        "Cosmetic dentistry",
+        "Dental implants",
+        "Same-day crowns",
+        "Restorative dentistry"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "CEREC crowns",
+        "Porcelain veneers",
+        "Implants",
+        "Zoom whitening",
+        "Cleanings"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": false,
+      "free_consultation": false,
+      "payment_plans": true,
+      "technology": [
+        "CEREC same-day crown technology",
+        "Low-radiation digital imaging"
+      ],
+      "year_established": null,
+      "team_size": null
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -950,9 +1273,28 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Pediatric dentistry",
+        "Orthodontics"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "Preventive care",
+        "Orthodontic treatment"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": false,
+      "free_consultation": false,
+      "payment_plans": true,
+      "technology": [],
+      "year_established": null,
+      "team_size": null
+    },
+    "profile_completeness": 73,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1006,9 +1348,35 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Cosmetic dentistry",
+        "Restorative dentistry",
+        "Implants",
+        "Invisalign",
+        "Emergency dentistry"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "Cleanings",
+        "Extractions",
+        "Root canals",
+        "Crowns",
+        "Implants",
+        "Cosmetic treatments"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": true,
+      "free_consultation": false,
+      "payment_plans": true,
+      "technology": [],
+      "year_established": null,
+      "team_size": null
+    },
+    "profile_completeness": 73,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1061,9 +1429,42 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Comprehensive dentistry",
+        "Cosmetic dentistry",
+        "Implants",
+        "Pediatric dentistry",
+        "Sleep apnea",
+        "Invisalign"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "Cleanings",
+        "Crowns",
+        "Bridges",
+        "Implants",
+        "Veneers",
+        "Zoom whitening",
+        "Sealants",
+        "Nightguards"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": false,
+      "free_consultation": false,
+      "payment_plans": true,
+      "technology": [
+        "iTero",
+        "Formlabs 3D Printing",
+        "Wand/STA Single Tooth Anesthesia"
+      ],
+      "year_established": null,
+      "team_size": null
+    },
+    "profile_completeness": 75,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1116,9 +1517,24 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Pediatric dentistry"
+      ],
+      "insurance_accepted": [],
+      "procedures": [],
+      "languages": [
+        "English"
+      ],
+      "emergency": false,
+      "free_consultation": false,
+      "payment_plans": true,
+      "technology": [],
+      "year_established": null,
+      "team_size": null
+    },
+    "profile_completeness": 71,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1171,9 +1587,26 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Family dentistry",
+        "Cosmetic dentistry",
+        "Kids dentistry"
+      ],
+      "insurance_accepted": [],
+      "procedures": [],
+      "languages": [
+        "English"
+      ],
+      "emergency": false,
+      "free_consultation": false,
+      "payment_plans": false,
+      "technology": [],
+      "year_established": 2017,
+      "team_size": null
+    },
+    "profile_completeness": 72,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1234,9 +1667,40 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Comprehensive dentistry",
+        "Cosmetic dentistry",
+        "Restorative dentistry",
+        "Sedation dentistry",
+        "Laser dentistry",
+        "Sleep apnea",
+        "Pediatric dentistry",
+        "Periodontics",
+        "Invisalign"
+      ],
+      "insurance_accepted": [
+        "Most insurances accepted"
+      ],
+      "procedures": [
+        "Painless laser procedures",
+        "Multi-quadrant dentistry"
+      ],
+      "languages": [
+        "English",
+        "Chinese"
+      ],
+      "emergency": true,
+      "free_consultation": false,
+      "payment_plans": true,
+      "technology": [
+        "Solea CO2 laser system"
+      ],
+      "year_established": 2017,
+      "team_size": null
+    },
+    "profile_completeness": 78,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1294,9 +1758,38 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Restorative dentistry",
+        "Family dental care",
+        "Cosmetic dentistry"
+      ],
+      "insurance_accepted": [
+        "Yes"
+      ],
+      "procedures": [
+        "Cleanings",
+        "X-rays",
+        "Fillings",
+        "Crowns",
+        "Root canals",
+        "Extractions",
+        "Exams"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": true,
+      "free_consultation": false,
+      "payment_plans": false,
+      "technology": [
+        "State-of-the-art equipment"
+      ],
+      "year_established": null,
+      "team_size": null
+    },
+    "profile_completeness": 77,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1474,9 +1967,25 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 65,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General dentistry",
+        "Family dentistry"
+      ],
+      "insurance_accepted": [],
+      "procedures": [],
+      "languages": [
+        "English"
+      ],
+      "emergency": false,
+      "free_consultation": false,
+      "payment_plans": false,
+      "technology": [],
+      "year_established": null,
+      "team_size": null
+    },
+    "profile_completeness": 71,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1532,9 +2041,35 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 55,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Pediatric dentistry",
+        "Orthodontics",
+        "Invisalign"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "Preventive care",
+        "Restorative care",
+        "Braces",
+        "Frenectomies",
+        "Sedation",
+        "Special needs dentistry"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": true,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": [
+        "Invisalign"
+      ],
+      "year_established": null,
+      "team_size": 15
+    },
+    "profile_completeness": 66,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1584,9 +2119,24 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 55,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Pediatric dentistry"
+      ],
+      "insurance_accepted": [],
+      "procedures": [],
+      "languages": [
+        "English"
+      ],
+      "emergency": false,
+      "free_consultation": false,
+      "payment_plans": false,
+      "technology": [],
+      "year_established": 2023,
+      "team_size": null
+    },
+    "profile_completeness": 62,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1629,9 +2179,42 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "Dental implants",
+        "All-on-4",
+        "Periodontics",
+        "Oral surgery",
+        "Microsurgery",
+        "Bone grafting"
+      ],
+      "insurance_accepted": [],
+      "procedures": [
+        "Implant placement",
+        "All-on-4",
+        "Bone grafting",
+        "Laser periodontal therapy",
+        "Scaling and root planing",
+        "Endodontic microsurgery"
+      ],
+      "languages": [
+        "English",
+        "Spanish",
+        "ASL",
+        "German"
+      ],
+      "emergency": false,
+      "free_consultation": true,
+      "payment_plans": true,
+      "technology": [
+        "3D imaging",
+        "Premium implant systems"
+      ],
+      "year_established": null,
+      "team_size": null
+    },
+    "profile_completeness": 60,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",
@@ -1681,9 +2264,47 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
-    "enriched_data": {},
-    "profile_completeness": 50,
+    "enriched": true,
+    "enriched_data": {
+      "specialties": [
+        "General dentistry",
+        "Emergency dental care",
+        "Dental implants",
+        "Orthodontics",
+        "Cosmetic dentistry",
+        "Periodontics",
+        "Prosthodontics",
+        "Pediatric dentistry"
+      ],
+      "insurance_accepted": [
+        "Most major dental insurance"
+      ],
+      "procedures": [
+        "Cleanings",
+        "Fillings",
+        "Root canals",
+        "Extractions",
+        "Wisdom teeth",
+        "Crowns",
+        "Bridges",
+        "Dentures",
+        "Whitening",
+        "Veneers",
+        "Bonding"
+      ],
+      "languages": [
+        "English"
+      ],
+      "emergency": true,
+      "free_consultation": false,
+      "payment_plans": true,
+      "technology": [
+        "Digital x-rays"
+      ],
+      "year_established": null,
+      "team_size": null
+    },
+    "profile_completeness": 62,
     "claimed": false,
     "source": "osm",
     "source_license": "ODbL 1.0",

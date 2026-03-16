@@ -1,0 +1,28 @@
+{
+  "vertical": "gyms",
+  "vertical_display": "Gyms & Fitness",
+  "city": "dallas_tx",
+  "city_display": "Dallas Tx",
+  "generated": "2026-03-16",
+  "total_businesses": 339,
+  "questions": [
+    {
+      "question": "Which gyms & fitness in Dallas Tx are open on weekends?",
+      "answer": "Gyms & Fitness in Dallas Tx with weekend hours include: Planet Fitness (Sat: 00:00 - 24:00), Planet Fitness (Sat: 00:00 - 24:00), planet fitness (Sat: 00:00 - 24:00), Cover All Bases (Sat: 10:00-14:00), Anytime Fitness (Sat: 11:00-14:00), ASI Gymnastics (Sat: 09:00-20:00), Haven (Sat: 10:00-21:00), Session Pilates (Sat: 08:00-13:00) and 48 more. 56 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which gyms & fitness in Dallas Tx are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Gyms & Fitness in Dallas Tx with weekend hours include: Planet Fitness (Sat: 00:00 - 24:00), Planet Fitness (Sat: 00:00 - 24:00), planet fitness (Sat: 00:00 - 24:00), Cover All Bases (Sat: 10:00-14:00), Anytime Fitness (Sat: 11:00-14:00), ASI Gymnastics (Sat: 09:00-20:00), Haven (Sat: 10:00-21:00), Session Pilates (Sat: 08:00-13:00) and 48 more. 56 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

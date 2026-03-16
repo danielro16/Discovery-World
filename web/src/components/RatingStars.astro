@@ -11,7 +11,7 @@ const sizeClasses = { sm: 'text-sm', md: 'text-base', lg: 'text-lg' };
 ---
 
 <div class={`flex items-center gap-1.5 ${sizeClasses[size]}`}>
-  <div class="flex" aria-label={`${rating} out of 5 stars`}>
+  <div class="flex" aria-label={rating != null ? `${rating} out of 5 stars` : 'No rating yet'}>
     {[1, 2, 3, 4, 5].map(i => (
       <span class={i <= Math.floor(stars) ? 'star-filled' : i - 0.5 <= stars ? 'star-filled opacity-50' : 'star-empty'}>
         ★

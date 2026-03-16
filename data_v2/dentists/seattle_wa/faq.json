@@ -1,0 +1,28 @@
+{
+  "vertical": "dentists",
+  "vertical_display": "Dentists",
+  "city": "seattle_wa",
+  "city_display": "Seattle Wa",
+  "generated": "2026-03-16",
+  "total_businesses": 550,
+  "questions": [
+    {
+      "question": "Which dentists in Seattle Wa are open on weekends?",
+      "answer": "Dentists in Seattle Wa with weekend hours include: Gentle Dental (Sat: 08:00-16:00), Eastside Modern Dentistry (Sat: \"by appointment\"), Best Smiles Dentistry (Sat: 08:00-14:00), Redmond Way Dentistry (Sat: off), Prime Dental (Sat: 08:00-16:00). 5 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which dentists in Seattle Wa are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Seattle Wa with weekend hours include: Gentle Dental (Sat: 08:00-16:00), Eastside Modern Dentistry (Sat: \"by appointment\"), Best Smiles Dentistry (Sat: 08:00-14:00), Redmond Way Dentistry (Sat: off), Prime Dental (Sat: 08:00-16:00). 5 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

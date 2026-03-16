@@ -1,0 +1,28 @@
+{
+  "vertical": "gyms",
+  "vertical_display": "Gyms & Fitness",
+  "city": "los_angeles_ca",
+  "city_display": "Los Angeles Ca",
+  "generated": "2026-03-16",
+  "total_businesses": 694,
+  "questions": [
+    {
+      "question": "Which gyms & fitness in Los Angeles Ca are open on weekends?",
+      "answer": "Gyms & Fitness in Los Angeles Ca with weekend hours include: 24 Hour Fitness (Sat: 00:00 - 24:00), LA Fitness (Sat: 08:00-20:00), Planet Fitness (Sat: 00:00 - 24:00), Chuze Fitness (Sat: 06:00-20:00), Dollar Tree (Sat: 08:00-21:00), Sofive South Gate (Sat: 8:00-23:00), Gardena-Carson Family YMCA (Sat: 08:00-18:00), Hollywood Sports Park (Sat: 10:00-17:00) and 58 more. 66 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which gyms & fitness in Los Angeles Ca are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Gyms & Fitness in Los Angeles Ca with weekend hours include: 24 Hour Fitness (Sat: 00:00 - 24:00), LA Fitness (Sat: 08:00-20:00), Planet Fitness (Sat: 00:00 - 24:00), Chuze Fitness (Sat: 06:00-20:00), Dollar Tree (Sat: 08:00-21:00), Sofive South Gate (Sat: 8:00-23:00), Gardena-Carson Family YMCA (Sat: 08:00-18:00), Hollywood Sports Park (Sat: 10:00-17:00) and 58 more. 66 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

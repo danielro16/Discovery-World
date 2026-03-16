@@ -1,0 +1,28 @@
+{
+  "vertical": "therapists",
+  "vertical_display": "Therapists & Mental Health",
+  "city": "boston_ma",
+  "city_display": "Boston Ma",
+  "generated": "2026-03-16",
+  "total_businesses": 739,
+  "questions": [
+    {
+      "question": "Which therapists & mental health in Boston Ma are open on weekends?",
+      "answer": "Therapists & Mental Health in Boston Ma with weekend hours include: HRI Hospital (Sat: 00:00 - 24:00), Outback Physical Therapy (Sat: 07:00-20:00), Jenny Craig (Sat: 07:00-14:00), WW Studio (Sat: 07:30-12:00). 4 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which therapists & mental health in Boston Ma are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Therapists & Mental Health in Boston Ma with weekend hours include: HRI Hospital (Sat: 00:00 - 24:00), Outback Physical Therapy (Sat: 07:00-20:00), Jenny Craig (Sat: 07:00-14:00), WW Studio (Sat: 07:30-12:00). 4 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

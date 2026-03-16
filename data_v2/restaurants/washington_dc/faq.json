@@ -1,0 +1,28 @@
+{
+  "vertical": "restaurants",
+  "vertical_display": "Restaurants",
+  "city": "washington_dc",
+  "city_display": "Washington Dc",
+  "generated": "2026-03-16",
+  "total_businesses": 5727,
+  "questions": [
+    {
+      "question": "Which restaurants in Washington Dc are open on weekends?",
+      "answer": "Restaurants in Washington Dc with weekend hours include: Dunkin' (Sat: 05:00-19:00), Cafe Rio (Sat: 10:30-22:00), Villa Bella Italian Restaurant (Sat: 11:30-23:00), Einstein Bros. Bagels (Sat: 06:00-16:00), Subway (Sat: 09:00-21:30), Chopsticks Express (Sat: 11:00-21:30), McDonald's (Sat: 00:00 - 24:00), Domino's (Sat: 00:00-01:00, 10:00-00:00) and 2321 more. 2329 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which restaurants in Washington Dc are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Restaurants in Washington Dc with weekend hours include: Dunkin' (Sat: 05:00-19:00), Cafe Rio (Sat: 10:30-22:00), Villa Bella Italian Restaurant (Sat: 11:30-23:00), Einstein Bros. Bagels (Sat: 06:00-16:00), Subway (Sat: 09:00-21:30), Chopsticks Express (Sat: 11:00-21:30), McDonald's (Sat: 00:00 - 24:00), Domino's (Sat: 00:00-01:00, 10:00-00:00) and 2321 more. 2329 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

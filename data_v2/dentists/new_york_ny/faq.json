@@ -1,0 +1,28 @@
+{
+  "vertical": "dentists",
+  "vertical_display": "Dentists",
+  "city": "new_york_ny",
+  "city_display": "New York Ny",
+  "generated": "2026-03-16",
+  "total_businesses": 1613,
+  "questions": [
+    {
+      "question": "Which dentists in New York Ny are open on weekends?",
+      "answer": "Dentists in New York Ny with weekend hours include: Family Cosmetic & Implant Dentistry of Brooklyn (Sat: 9:00-17:00), LuxDen Dental Center (Sun: 10:00-15:00), Dr. Andrew G. Oliphant, DDS (Sat: 09:00-14:00 || Fr, Su \"By appointment only\"), Superior Dental (Sat: 09:00-14:00), Kids Dental (Sat: 10:00-18:00), Emil Blank, DDS (Sat: 10:00-15:00), The Brooklyn Dental Center (Sat: off), Bright Smile Dental (Sat: 09:00-16:00) and 80 more. 88 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which dentists in New York Ny are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in New York Ny with weekend hours include: Family Cosmetic & Implant Dentistry of Brooklyn (Sat: 9:00-17:00), LuxDen Dental Center (Sun: 10:00-15:00), Dr. Andrew G. Oliphant, DDS (Sat: 09:00-14:00 || Fr, Su \"By appointment only\"), Superior Dental (Sat: 09:00-14:00), Kids Dental (Sat: 10:00-18:00), Emil Blank, DDS (Sat: 10:00-15:00), The Brooklyn Dental Center (Sat: off), Bright Smile Dental (Sat: 09:00-16:00) and 80 more. 88 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "vertical": "dentists",
+  "vertical_display": "Dentists",
+  "city": "austin_tx",
+  "city_display": "Austin Tx",
+  "generated": "2026-03-16",
+  "total_businesses": 475,
+  "questions": [
+    {
+      "question": "Which dentists in Austin Tx are open on weekends?",
+      "answer": "Dentists in Austin Tx with weekend hours include: My Care Dental (Sat: 09:00-13:00), myDental at Tech Ridge (Sat: 09:00-15:00), Rivery Dental (Sat: 09:00-15:00), Toothwise Dental (Sat: 10:00-14:00). 4 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which dentists in Austin Tx are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dentists in Austin Tx with weekend hours include: My Care Dental (Sat: 09:00-13:00), myDental at Tech Ridge (Sat: 09:00-15:00), Rivery Dental (Sat: 09:00-15:00), Toothwise Dental (Sat: 10:00-14:00). 4 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

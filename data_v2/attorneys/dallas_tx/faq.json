@@ -1,0 +1,28 @@
+{
+  "vertical": "attorneys",
+  "vertical_display": "Attorneys & Law Firms",
+  "city": "dallas_tx",
+  "city_display": "Dallas Tx",
+  "generated": "2026-03-16",
+  "total_businesses": 76,
+  "questions": [
+    {
+      "question": "Which attorneys & law firms in Dallas Tx are open on weekends?",
+      "answer": "Attorneys & Law Firms in Dallas Tx with weekend hours include: The Law Office of Michael J Crawford - Criminal Defense Attorneys (Sat: 00:00 - 24:00), Law Office of Frank W Pettigrew (Sat: 09:00-14:00), Jim Ross Law Group, P.C. (Sat: 00:00 - 24:00), Law Office of Juan Tijerina (Sat: 09:00-12:00), 1-800 The Wolf Accident Attorneys (Sat: 00:00 - 24:00), Kastl Law P.C. (Sat: 09:00-13:00), The Benton Law Firm (Sat: 00:00 - 24:00), Mullen & Mullen Law Firm (Sat: off) and 7 more. 15 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which attorneys & law firms in Dallas Tx are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Attorneys & Law Firms in Dallas Tx with weekend hours include: The Law Office of Michael J Crawford - Criminal Defense Attorneys (Sat: 00:00 - 24:00), Law Office of Frank W Pettigrew (Sat: 09:00-14:00), Jim Ross Law Group, P.C. (Sat: 00:00 - 24:00), Law Office of Juan Tijerina (Sat: 09:00-12:00), 1-800 The Wolf Accident Attorneys (Sat: 00:00 - 24:00), Kastl Law P.C. (Sat: 09:00-13:00), The Benton Law Firm (Sat: 00:00 - 24:00), Mullen & Mullen Law Firm (Sat: off) and 7 more. 15 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

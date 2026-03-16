@@ -1,0 +1,28 @@
+{
+  "vertical": "attorneys",
+  "vertical_display": "Attorneys & Law Firms",
+  "city": "boston_ma",
+  "city_display": "Boston Ma",
+  "generated": "2026-03-16",
+  "total_businesses": 83,
+  "questions": [
+    {
+      "question": "Which attorneys & law firms in Boston Ma are open on weekends?",
+      "answer": "Attorneys & Law Firms in Boston Ma with weekend hours include: Peck Law Offices LLC (Sat: 8:00-17:00), Morgan & Morgan (Sat: 00:00 - 24:00), Hannaford Immigration Law (Sat: 10:00-18:00), Morgan & Morgan (Sat: 00:00 - 24:00), Boston Banking Law (Sat: 00:00 - 24:00), Sweeney Merrigan Law, LLP (Sat: 00:00 - 24:00), Jeffrey Glassman Injury Lawyers (Sat: 00:00 - 24:00). 7 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which attorneys & law firms in Boston Ma are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Attorneys & Law Firms in Boston Ma with weekend hours include: Peck Law Offices LLC (Sat: 8:00-17:00), Morgan & Morgan (Sat: 00:00 - 24:00), Hannaford Immigration Law (Sat: 10:00-18:00), Morgan & Morgan (Sat: 00:00 - 24:00), Boston Banking Law (Sat: 00:00 - 24:00), Sweeney Merrigan Law, LLP (Sat: 00:00 - 24:00), Jeffrey Glassman Injury Lawyers (Sat: 00:00 - 24:00). 7 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

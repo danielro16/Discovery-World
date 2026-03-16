@@ -1,1 +1,737 @@
-[]
+[
+  {
+    "id": "osm_node_10755741273",
+    "name": "Underwood Law Firm, P.C.",
+    "address": "1300 Clay Street, Oakland, CA, 94612",
+    "location": {
+      "lat": 37.8046983,
+      "lng": -122.273605
+    },
+    "phone": "+1-510-519-9000",
+    "website": "https://www.underwood.law",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10755741273",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "09:00-18:00",
+      "Thursday": "09:00-18:00",
+      "Friday": "09:00-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10755741273,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Oakland",
+      "addr:country": "US",
+      "addr:housenumber": "1300",
+      "addr:postcode": "94612",
+      "addr:state": "CA",
+      "addr:street": "Clay Street",
+      "addr:unit": "600",
+      "description": "Underwood Law Firm, P.C. is a boutique partition, eminent domain, and civil litigation firm with offices throughout California.",
+      "name": "Underwood Law Firm, P.C.",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-18:00",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:credit_cards": "yes",
+      "phone": "+1-510-519-9000",
+      "website": "https://www.underwood.law"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11750253476",
+    "name": "Estavillo Law Group",
+    "address": "555 12th Street, Oakland, CA, 94607",
+    "location": {
+      "lat": 37.8037842,
+      "lng": -122.2750956
+    },
+    "phone": "+1-510-982-3001",
+    "website": "https://estavillolaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11750253476",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:30-17:30",
+      "Tuesday": "08:30-17:30",
+      "Wednesday": "08:30-17:30",
+      "Thursday": "08:30-17:30",
+      "Friday": "08:30-17:30",
+      "Saturday": "off",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11750253476,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Oakland",
+      "addr:housenumber": "555",
+      "addr:postcode": "94607",
+      "addr:state": "CA",
+      "addr:street": "12th Street",
+      "addr:unit": "Suite 1280",
+      "contact:instagram": "https://www.instagram.com/estavillolaw/",
+      "contact:linkedin": "https://www.linkedin.com/company/estavillo-law-group/",
+      "description": "Fighting for the American Dream of Homeownership.",
+      "email": "info@estavillolaw.com",
+      "facebook": "https://www.facebook.com/lawofficesofjasonestavillo/",
+      "name": "Estavillo Law Group",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:30-17:30; Sa,Su off",
+      "phone": "+1-510-982-3001",
+      "twitter": "https://twitter.com/estavillo_law",
+      "website": "https://estavillolaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_89535132",
+    "name": "The Nieves Law Firm",
+    "address": "160 FranklinSt., Oakland, CA, 94607",
+    "location": {
+      "lat": 37.8069735,
+      "lng": -122.2723694
+    },
+    "phone": "+1-510-879-7549",
+    "website": "https://thenieveslawfirm.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/89535132",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "07:00-23:00",
+      "Tuesday": "07:00-23:00",
+      "Wednesday": "07:00-23:00",
+      "Thursday": "07:00-23:00",
+      "Friday": "07:00-23:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 89535132,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Oakland",
+      "addr:housenumber": "160",
+      "addr:postcode": "94607",
+      "addr:state": "CA",
+      "addr:street": "FranklinSt.",
+      "addr:unit": "210",
+      "building": "yes",
+      "description": "Criminal defense lawyer, Lawyer, Law Firm, Trial Lawyer, Legal Services",
+      "historic": "building",
+      "name": "The Nieves Law Firm",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 07:00-23:00",
+      "phone": "+1-510-879-7549",
+      "website": "https://thenieveslawfirm.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9135716691",
+    "name": "California Civil Rights Law Group",
+    "address": "332 San Anselmo Avenue, San Anselmo, CA, 94960",
+    "location": {
+      "lat": 37.973327,
+      "lng": -122.5621205
+    },
+    "phone": "+1-415-453-4740",
+    "website": "https://www.civilrightsca.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9135716691",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "09:00-18:00",
+      "Thursday": "09:00-18:00",
+      "Friday": "09:00-18:00",
+      "Saturday": "off",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9135716691,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Anselmo",
+      "addr:housenumber": "332",
+      "addr:postcode": "94960",
+      "addr:state": "CA",
+      "addr:street": "San Anselmo Avenue",
+      "contact:linkedin": "https://www.linkedin.com/company/cacivilrights/",
+      "description": "California Civil Rights Law Group is a leading employment law firm based in the Bay Area with offices in San Francisco, Oakland and San Anselmo, California. If you are seeking a sex harassment, race discrimination, disability discrimination or a whistlebl",
+      "email": "info@civilrightsca.com",
+      "facebook": "https://www.facebook.com/CivilRightsLawyers/",
+      "name": "California Civil Rights Law Group",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-18:00; Sa-Su off",
+      "phone": "+1-415-453-4740",
+      "twitter": "https://twitter.com/CivilRightsCA",
+      "video": "https://www.youtube.com/watch?v=Fp7xNelV0p0",
+      "website": "https://www.civilrightsca.com/",
+      "youtube": "https://www.youtube.com/channel/UC-LZBn7yVnGWq94TalkLwug"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_9792301312",
+    "name": "Delfino Green & Green",
+    "address": "1010 B Street, San Rafael, CA, 94901",
+    "location": {
+      "lat": 37.9735186,
+      "lng": -122.529295
+    },
+    "phone": "+1-415-442-4646",
+    "website": "https://www.dgglaw.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/9792301312",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "08:00-18:00",
+      "Tuesday": "08:00-18:00",
+      "Wednesday": "08:00-18:00",
+      "Thursday": "08:00-18:00",
+      "Friday": "08:00-18:00"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 9792301312,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "San Rafael",
+      "addr:housenumber": "1010",
+      "addr:postcode": "94901",
+      "addr:state": "CA",
+      "addr:street": "B Street",
+      "addr:unit": "#419",
+      "contact:facebook": "https://www.facebook.com/DGGLaw/",
+      "contact:linkedin": "https://www.linkedin.com/company/delfino-green-&-green",
+      "contact:twitter": "https://twitter.com/DelfinoGreen",
+      "contact:youtube": "https://www.youtube.com/user/DelfinoGreenGreen",
+      "description": "Delfino Green & Green is a personal injury law firm serving the San Francisco Bay Area and surrounding regions.\n\nWe help the injured and disabled reclaim their lives.",
+      "image": "https://www.dgglaw.com/wp-content/uploads/2022/01/delfino-green.jpg",
+      "name": "Delfino Green & Green",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 08:00-18:00",
+      "phone": "+1-415-442-4646",
+      "start_date": "1996-01-01",
+      "website": "https://www.dgglaw.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_5837601045",
+    "name": "Mastrangelo Law Offices",
+    "address": "Moraga Way, Orinda, CA, 94563",
+    "location": {
+      "lat": 37.8784944,
+      "lng": -122.1822438
+    },
+    "phone": "+1 925 2580500",
+    "website": "https://www.mlolawyer.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/5837601045",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-18:00, Sa-Su off",
+      "Tuesday": "09:00-18:00, Sa-Su off",
+      "Wednesday": "09:00-18:00, Sa-Su off",
+      "Thursday": "09:00-18:00, Sa-Su off",
+      "Friday": "09:00-18:00, Sa-Su off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 65,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 5837601045,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Orinda",
+      "addr:country": "US",
+      "addr:place": "Orinda Theatre Square",
+      "addr:postcode": "94563",
+      "addr:state": "CA",
+      "addr:street": "Moraga Way",
+      "addr:unit": "234",
+      "description": "Auto Accident Lawyer",
+      "name": "Mastrangelo Law Offices",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-18:00,Sa-Su off",
+      "phone": "+1 925 2580500",
+      "website": "https://www.mlolawyer.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_way_311051762",
+    "name": "Dolan Law Firm",
+    "address": "1498 Alice Street, Oakland, CA",
+    "location": {
+      "lat": 37.8037399,
+      "lng": -122.2652768
+    },
+    "phone": "+1-510-878-4143",
+    "website": "https://dolanlawfirm.com/offices/oakland/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/way/311051762",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 50,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 311051762,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Oakland",
+      "addr:housenumber": "1498",
+      "addr:state": "CA",
+      "addr:street": "Alice Street",
+      "building": "yes",
+      "name": "Dolan Law Firm",
+      "office": "lawyer",
+      "phone": "+1-510-878-4143",
+      "website": "https://dolanlawfirm.com/offices/oakland/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10573708460",
+    "name": "Bay Area Legal Aid",
+    "address": "1735 Telegraph Avenue",
+    "location": {
+      "lat": 37.807384,
+      "lng": -122.2703102
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10573708460",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {
+      "Monday": "09:00-12:00, 13:00-17:00",
+      "Tuesday": "09:00-12:00, 13:00-17:00",
+      "Wednesday": "09:00-12:00, 13:00-17:00",
+      "Thursday": "09:00-12:00, 13:00-17:00",
+      "Friday": "09:00-12:00, 13:00-17:00",
+      "Saturday": "off",
+      "Sunday": "off"
+    },
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 45,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10573708460,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "1735",
+      "addr:street": "Telegraph Avenue",
+      "check_date": "2023-01-21",
+      "name": "Bay Area Legal Aid",
+      "office": "lawyer",
+      "opening_hours": "Mo-Fr 09:00-12:00,13:00-17:00; Sa-Su off"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_11509744701",
+    "name": "Law Office Of Kurt D. Huysentruyt",
+    "address": "3630 Lawton Street",
+    "location": {
+      "lat": 37.7569687,
+      "lng": -122.5023107
+    },
+    "phone": "+1 415-661-5565",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/11509744701",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 11509744701,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "3630",
+      "addr:street": "Lawton Street",
+      "appointment": "required",
+      "check_date": "2024-01-11",
+      "email": "kurt@kdlawoffice.com",
+      "level": "0",
+      "name": "Law Office Of Kurt D. Huysentruyt",
+      "office": "lawyer",
+      "phone": "+1 415-661-5565",
+      "walk-in": "no"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_12832055824",
+    "name": "Gorelick Wolfert, P.C",
+    "address": "732 Addison Street, Berkeley, CA, 94710",
+    "location": {
+      "lat": 37.8661662,
+      "lng": -122.2988199
+    },
+    "phone": "",
+    "website": "https://bpgcomp.com/",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/12832055824",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 40,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 12832055824,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Berkeley",
+      "addr:housenumber": "732",
+      "addr:postcode": "94710",
+      "addr:state": "CA",
+      "addr:street": "Addison Street",
+      "addr:unit": "D",
+      "name": "Gorelick Wolfert, P.C",
+      "office": "lawyer",
+      "website": "https://bpgcomp.com/"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_4593719025",
+    "name": "Scott I. Bassin, A Professional Corporation",
+    "address": "3406 Judah Street",
+    "location": {
+      "lat": 37.7608753,
+      "lng": -122.498657
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/4593719025",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 4593719025,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "3406",
+      "addr:street": "Judah Street",
+      "check_date": "2025-12-21",
+      "name": "Scott I. Bassin, A Professional Corporation",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7211219857",
+    "name": "Givens & Zweben",
+    "address": "1730 Solano Avenue, Berkeley, CA, 94707",
+    "location": {
+      "lat": 37.8910837,
+      "lng": -122.2817179
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7211219857",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 30,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7211219857,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Berkeley",
+      "addr:housenumber": "1730",
+      "addr:postcode": "94707",
+      "addr:state": "CA",
+      "addr:street": "Solano Avenue",
+      "name": "Givens & Zweben",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_3969659717",
+    "name": "QUiVX e-Discovery and Document Solutions",
+    "address": "",
+    "location": {
+      "lat": 37.8049806,
+      "lng": -122.270537
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/3969659717",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 3969659717,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "QUiVX e-Discovery and Document Solutions",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_10942519289",
+    "name": "Wong Chang & Yang Attorneys at Law",
+    "address": "",
+    "location": {
+      "lat": 37.7963073,
+      "lng": -122.2751886
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/10942519289",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 10942519289,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Wong Chang & Yang Attorneys at Law",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  },
+  {
+    "id": "osm_node_7211219858",
+    "name": "Law Offices of Leslie A. Levy",
+    "address": "",
+    "location": {
+      "lat": 37.8910856,
+      "lng": -122.2818144
+    },
+    "phone": "",
+    "website": "",
+    "google_maps_url": "",
+    "osm_url": "https://www.openstreetmap.org/node/7211219858",
+    "rating": null,
+    "review_count": 0,
+    "business_status": "OPERATIONAL",
+    "price_level": "",
+    "types": [
+      "lawyer"
+    ],
+    "hours": {},
+    "reviews": [],
+    "photos": [],
+    "enriched": false,
+    "enriched_data": {},
+    "profile_completeness": 20,
+    "claimed": false,
+    "source": "osm",
+    "source_license": "ODbL 1.0",
+    "osm_id": 7211219858,
+    "osm_type": "node",
+    "osm_tags": {
+      "name": "Law Offices of Leslie A. Levy",
+      "office": "lawyer"
+    },
+    "sources": [
+      "osm"
+    ]
+  }
+]

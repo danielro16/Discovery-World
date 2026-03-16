@@ -1,0 +1,52 @@
+{
+  "vertical": "attorneys",
+  "vertical_display": "Attorneys & Law Firms",
+  "city": "miami_fl",
+  "city_display": "Miami Fl",
+  "generated": "2026-03-16",
+  "total_businesses": 79,
+  "questions": [
+    {
+      "question": "Which attorneys & law firms in Miami Fl are open on weekends?",
+      "answer": "Attorneys & Law Firms in Miami Fl with weekend hours include: Miami Car Accident Lawyer Group (Sat: 07:00-22:00), Cutler Bay Car Accident Lawyer Group (Sat: 00:00 - 24:00), Palmetto Bay Car Accident Lawyer Group (Sat: 00:00 - 24:00), Sanabria & Abogados (Sat: 10:00-16:00), Rothrock Immigration Lawyer Miami (Sat: off), Orlando R. Murillo, P.A. (Sat: 00:00 - 24:00), Panter, Panter & Sampedro, P.A., Car Accident and Personal Injury Attorneys (Sat: 00:00 - 24:00), Key Biscayne Car Accident Lawyer Group (Sat: 00:00 - 24:00) and 28 more. 36 total with weekend availability."
+    },
+    {
+      "question": "Which attorneys & law firms in Miami Fl speak Spanish?",
+      "answer": "Spanish-speaking attorneys & law firms in Miami Fl include: Orlando R. Murillo, P.A., Wolfson & Leon, David M. Edelstein, PA, Arias & Abbass Your Attorneys, De Maio Immigration Law, PLLC, Fleites Law, P.A., Silva & Silva, P.A., Mario Serralta & Associates and 10 more. 18 total found."
+    },
+    {
+      "question": "Which attorneys & law firms in Miami Fl offer free consultations?",
+      "answer": "Attorneys & Law Firms in Miami Fl offering free consultations include: Orlando R. Murillo, P.A., Footman Law Firm, P.A., Wolfson & Leon, David M. Edelstein, PA, Arias & Abbass Your Attorneys, Galbut Walters & Associates, The Ferraro Law Firm, P.A., Musca Law and 16 more."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which attorneys & law firms in Miami Fl are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Attorneys & Law Firms in Miami Fl with weekend hours include: Miami Car Accident Lawyer Group (Sat: 07:00-22:00), Cutler Bay Car Accident Lawyer Group (Sat: 00:00 - 24:00), Palmetto Bay Car Accident Lawyer Group (Sat: 00:00 - 24:00), Sanabria & Abogados (Sat: 10:00-16:00), Rothrock Immigration Lawyer Miami (Sat: off), Orlando R. Murillo, P.A. (Sat: 00:00 - 24:00), Panter, Panter & Sampedro, P.A., Car Accident and Personal Injury Attorneys (Sat: 00:00 - 24:00), Key Biscayne Car Accident Lawyer Group (Sat: 00:00 - 24:00) and 28 more. 36 total with weekend availability."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which attorneys & law firms in Miami Fl speak Spanish?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Spanish-speaking attorneys & law firms in Miami Fl include: Orlando R. Murillo, P.A., Wolfson & Leon, David M. Edelstein, PA, Arias & Abbass Your Attorneys, De Maio Immigration Law, PLLC, Fleites Law, P.A., Silva & Silva, P.A., Mario Serralta & Associates and 10 more. 18 total found."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which attorneys & law firms in Miami Fl offer free consultations?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Attorneys & Law Firms in Miami Fl offering free consultations include: Orlando R. Murillo, P.A., Footman Law Firm, P.A., Wolfson & Leon, David M. Edelstein, PA, Arias & Abbass Your Attorneys, Galbut Walters & Associates, The Ferraro Law Firm, P.A., Musca Law and 16 more."
+        }
+      }
+    ]
+  }
+}

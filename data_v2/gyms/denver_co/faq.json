@@ -1,0 +1,28 @@
+{
+  "vertical": "gyms",
+  "vertical_display": "Gyms & Fitness",
+  "city": "denver_co",
+  "city_display": "Denver Co",
+  "generated": "2026-03-16",
+  "total_businesses": 514,
+  "questions": [
+    {
+      "question": "Which gyms & fitness in Denver Co are open on weekends?",
+      "answer": "Gyms & Fitness in Denver Co with weekend hours include: Harvard Gulch Recreation Center (Sat: 09:00-15:00), Chuze Fitness (Sat: 06:00-20:00), Planet Fitness (Sat: 06:00-20:00), K1 Speed (Sat: 12:00-23:59), Life Time (Sat: 00:00 - 24:00), Orangetheory Fitness (Sat: 06:15-12:45), Stretch Zone (Sat: 08:00-16:00), BODY20 (Sat: 09:00-17:00) and 48 more. 56 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which gyms & fitness in Denver Co are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Gyms & Fitness in Denver Co with weekend hours include: Harvard Gulch Recreation Center (Sat: 09:00-15:00), Chuze Fitness (Sat: 06:00-20:00), Planet Fitness (Sat: 06:00-20:00), K1 Speed (Sat: 12:00-23:59), Life Time (Sat: 00:00 - 24:00), Orangetheory Fitness (Sat: 06:15-12:45), Stretch Zone (Sat: 08:00-16:00), BODY20 (Sat: 09:00-17:00) and 48 more. 56 total with weekend availability."
+        }
+      }
+    ]
+  }
+}

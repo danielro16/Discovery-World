@@ -1,0 +1,28 @@
+{
+  "vertical": "restaurants",
+  "vertical_display": "Restaurants",
+  "city": "austin_tx",
+  "city_display": "Austin Tx",
+  "generated": "2026-03-16",
+  "total_businesses": 970,
+  "questions": [
+    {
+      "question": "Which restaurants in Austin Tx are open on weekends?",
+      "answer": "Restaurants in Austin Tx with weekend hours include: Starbucks (Sat: 04:30-21:00), Waterloo Ice House (Sat: 08:00-23:00), Domino's (Sat: 10:00-01:00), Tacodeli (Sat: 08:00-21:00), Domino's (Sat: 10:00-01:00), McDonald's (Sat: 00:00-24:00), Zaxby's (Sat: 10:00-21:00), CraigO's Pizza & Pastaria (Sat: 11:00-20:45) and 359 more. 367 total with weekend availability."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which restaurants in Austin Tx are open on weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Restaurants in Austin Tx with weekend hours include: Starbucks (Sat: 04:30-21:00), Waterloo Ice House (Sat: 08:00-23:00), Domino's (Sat: 10:00-01:00), Tacodeli (Sat: 08:00-21:00), Domino's (Sat: 10:00-01:00), McDonald's (Sat: 00:00-24:00), Zaxby's (Sat: 10:00-21:00), CraigO's Pizza & Pastaria (Sat: 11:00-20:45) and 359 more. 367 total with weekend availability."
+        }
+      }
+    ]
+  }
+}
