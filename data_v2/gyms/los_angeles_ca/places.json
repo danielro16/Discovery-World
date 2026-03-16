@@ -68,7 +68,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cpo@24hourfit.com"
   },
   {
     "id": "osm_node_13111116501",
@@ -170,7 +171,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_way_132312969",
@@ -540,7 +542,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "christinabragg@ymcala.org",
+    "booking_url": "https://www.ymcala.org/wp-content/themes/bd-theme-2024-main/fonts/cachet_std_book-webfont.woff2"
   },
   {
     "id": "osm_way_1370137837",
@@ -703,7 +707,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@crunchlamirada.com",
+    "booking_url": "https://www.facebook.com/CrunchLaMirada"
   },
   {
     "id": "osm_way_450367194",
@@ -809,7 +815,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@crunchnorwalkca.com",
+    "booking_url": "https://www.facebook.com/CrunchNorwalkCA"
   },
   {
     "id": "osm_way_450409950",
@@ -919,7 +927,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_way_455801886",
@@ -998,7 +1007,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cpo@24hourfit.com"
   },
   {
     "id": "osm_way_456773299",
@@ -1077,7 +1087,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cpo@24hourfit.com"
   },
   {
     "id": "osm_way_186386934",
@@ -1152,7 +1163,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cpo@24hourfit.com"
   },
   {
     "id": "osm_node_6913753059",
@@ -1424,7 +1436,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "manon.troncin@equinox.com"
   },
   {
     "id": "osm_node_5145895685",
@@ -1681,7 +1694,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "heather@smackhappy.com"
   },
   {
     "id": "osm_way_421719501",
@@ -1890,7 +1904,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cheronka.townsend@equinox.com"
   },
   {
     "id": "osm_way_429370069",
@@ -2070,7 +2085,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "gina.wong@equinox.com"
   },
   {
     "id": "osm_node_2440167481",
@@ -2169,7 +2185,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@strongholdclimb.com",
+    "booking_url": "https://www.facebook.com/StrongholdClimbing/"
   },
   {
     "id": "osm_node_13003903721",
@@ -2488,7 +2506,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@crunchwesthills.com",
+    "booking_url": "https://www.facebook.com/CrunchSelectWestHills"
   },
   {
     "id": "osm_node_13631330103",
@@ -3106,7 +3126,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cpo@24hourfit.com"
   },
   {
     "id": "osm_node_4808297544",
@@ -3373,7 +3394,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_node_10832881651",
@@ -3482,7 +3504,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "madison.bin@equinox.com"
   },
   {
     "id": "osm_node_11963903266",
@@ -3771,7 +3794,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_node_13432038577",
@@ -3945,7 +3969,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_way_404197962",
@@ -4194,7 +4219,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "christinabragg@ymcala.org",
+    "booking_url": "https://www.ymcala.org/wp-content/themes/bd-theme-2024-main/fonts/cachet_std_book-webfont.woff2"
   },
   {
     "id": "osm_way_270285795",
@@ -4911,7 +4938,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_way_455807538",
@@ -5159,7 +5187,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@crucnchlakewood.com",
+    "booking_url": "http://www.Facebook.com/CrunchLakewood"
   },
   {
     "id": "osm_node_5850070981",
@@ -7347,7 +7377,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "burbankmanager@crunch.com",
+    "booking_url": "http://www.Facebook.com/CrunchBurbank/"
   },
   {
     "id": "osm_node_5760795591",
@@ -9497,7 +9529,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@anaheimymca.org",
+    "booking_url": "https://www.anaheimymca.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5"
   },
   {
     "id": "osm_node_9280888321",
@@ -10024,7 +10058,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_node_5127650278",
@@ -10737,7 +10772,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cpo@24hourfit.com"
   },
   {
     "id": "osm_node_3186103819",

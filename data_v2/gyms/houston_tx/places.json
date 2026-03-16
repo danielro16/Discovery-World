@@ -169,7 +169,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@houstonswords.com",
+    "booking_url": "https://houstonswords.com/wp-content/plugins/contact-form-7-signature-addon/public/css/style.css?ver=4.2.2"
   },
   {
     "id": "osm_node_12735415133",
@@ -267,7 +269,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "sugarland@clubpilates.com",
+    "booking_url": "https://www.clubpilates.com/hubfs/hub_generated/module_assets/1/17207331599/1744236747636/module_location-scheduler-v2.min.css"
   },
   {
     "id": "osm_way_1319275285",
@@ -374,7 +378,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "sienna@ltfinc.onmicrosoft.com"
   },
   {
     "id": "osm_way_1117748129",
@@ -596,7 +601,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cincoranch@ltfinc.onmicrosoft.com"
   },
   {
     "id": "osm_node_2375571241",
@@ -760,7 +766,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "citycentrehouston@ltfinc.onmicrosoft.com"
   },
   {
     "id": "osm_way_543831882",
@@ -913,7 +920,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "ricemilitary@clubpilates.com",
+    "booking_url": "https://www.clubpilates.com/hubfs/hub_generated/module_assets/1/17207331599/1744236747636/module_location-scheduler-v2.min.css"
   },
   {
     "id": "osm_node_9758533646",
@@ -1110,7 +1119,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.houstongym.com/contact-us/"
   },
   {
     "id": "osm_way_361929130",
@@ -1220,7 +1230,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/MomentumClimbing"
   },
   {
     "id": "osm_way_532698192",
@@ -1417,7 +1428,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com"
   },
   {
     "id": "osm_way_589008445",
@@ -1505,7 +1517,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mediainquiries@sebrands.com"
   },
   {
     "id": "osm_node_4227141892",
@@ -1734,7 +1747,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_node_12710705625",
@@ -1824,7 +1838,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "studiomanager0110@orangetheoryfitness.com"
   },
   {
     "id": "osm_way_396536319",
@@ -2226,7 +2241,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/MADabolictheheights"
   },
   {
     "id": "osm_way_231126361",
@@ -2333,7 +2349,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "greenway@ltfinc.onmicrosoft.com"
   },
   {
     "id": "osm_way_371544704",
@@ -3262,7 +3279,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "booking_url": "https://www.facebook.com/LAFitness"
   },
   {
     "id": "osm_way_621297735",
