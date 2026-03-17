@@ -1493,7 +1493,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1517,7 +1517,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Capital Gymnastics offers gymnastics classes, tumbling, ninja training, camps, birthday parties, and Kids Night Out events designed to build confidence and skills in children.",
+    "amenities": [
+      "Gymnastics classes",
+      "Tumbling classes",
+      "Ninja training",
+      "Camps",
+      "Birthday parties",
+      "Kids Night Out",
+      "Open gym"
+    ],
+    "booking_url": "https://capgym.com/location/cedar-park/free-trial/"
   },
   {
     "id": "osm_way_1217233442",

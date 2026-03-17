@@ -4293,7 +4293,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4320,7 +4320,11 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@smartypantsgarage.com",
+    "description": "Full-service bar and restaurant in Burien specializing in scratch-made sandwiches, salads, and weekend brunch in a motorcycle-themed modern space.",
+    "cuisine_type": "American",
+    "price_range": "$$"
   },
   {
     "id": "osm_node_5583694655",
@@ -4465,7 +4469,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4489,7 +4493,10 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Quick-serve seafood restaurant in Burien specializing in fish tacos, fish and chips, burgers, and po-boys with various sauce options.",
+    "cuisine_type": "Seafood",
+    "price_range": "$$"
   },
   {
     "id": "osm_node_5583694979",

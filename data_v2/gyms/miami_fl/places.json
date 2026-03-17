@@ -1679,7 +1679,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1707,7 +1707,26 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "coopercityfl@retrofitness.net",
+    "opening_hours": {
+      "Monday-Friday": "5:00am-11:00pm",
+      "Saturday": "7:00am-8:00pm",
+      "Sunday": "7:00am-7:00pm"
+    },
+    "description": "State-of-the-art fitness facility with world-class group exercise classes, personal training, and comprehensive recovery amenities for all fitness levels.",
+    "amenities": [
+      "Group fitness classes (Zumba, Spin, Yoga, HIIT)",
+      "Strength training",
+      "Cardio equipment",
+      "Personal training",
+      "Smoothie bar",
+      "Tanning",
+      "Massage chairs",
+      "Red light therapy"
+    ],
+    "membership_info": "Starting at $19.99/month; Ultimate membership includes guest passes, tanning, massage chairs, red light therapy",
+    "booking_url": "https://jointoday.retrofitness.com/club/8807/"
   },
   {
     "id": "osm_node_10290246310",
@@ -2684,7 +2703,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2708,7 +2727,22 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "A premier recreational sports, fitness, and wellness center at the University of Miami affirming the university's commitment to holistic education.",
+    "amenities": [
+      "Group fitness classes",
+      "Premium classes",
+      "Climbing wall",
+      "Storm Zone",
+      "Club sports",
+      "Intramural sports",
+      "Esports",
+      "Outdoor adventures",
+      "Gear rentals",
+      "Personal training"
+    ],
+    "membership_info": "Student, employee, and alumni memberships available",
+    "booking_url": "https://wellness.studentaffairs.miami.edu/services-and-spaces/reservations/index.html"
   },
   {
     "id": "osm_node_2838440508",

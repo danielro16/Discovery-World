@@ -468,7 +468,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -499,6 +499,20 @@
     },
     "sources": [
       "osm"
+    ],
+    "email": "membership@ymcapkc.org",
+    "opening_hours": {
+      "Monday-Friday": "6am-8pm",
+      "Saturday": "7am-3pm",
+      "Sunday": "Closed"
+    },
+    "description": "An adult-focused fitness center (15+) in downtown Bremerton offering strength training and cardio equipment with seasonal outdoor group exercise classes.",
+    "amenities": [
+      "Weights and cardio equipment",
+      "Free weights",
+      "Machine weights",
+      "Stretching areas",
+      "Seasonal outdoor classes"
     ]
   },
   {
@@ -636,7 +650,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -659,7 +673,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@corsairfitness.com",
+    "opening_hours": "Monday-Sunday 09:00-17:00",
+    "description": "Seattle's only gym offering CrossFit, HYROX, hybrid strength training, and open gym under one roof in Ballard, serving all experience levels.",
+    "amenities": [
+      "CrossFit classes",
+      "HYROX training track",
+      "Hybrid strength classes",
+      "Open gym access",
+      "Olympic weightlifting",
+      "Personal training"
+    ],
+    "booking_url": "https://traincorsair.com/get-started/"
   },
   {
     "id": "osm_node_2140468429",
@@ -1202,7 +1228,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1226,6 +1252,14 @@
     },
     "sources": [
       "osm"
+    ],
+    "description": "A yoga and fitness studio where strength, resilience, and calm are built day by day through hot yoga and pilates classes designed to help members grow in body and mind.",
+    "amenities": [
+      "Hot Yoga classes",
+      "Hot Pilates with HIIT training",
+      "Expert instructors",
+      "Community events",
+      "Mobile app access"
     ]
   },
   {
@@ -1259,7 +1293,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1285,7 +1319,15 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "High-energy, music-driven group classes blending low-impact rowing intervals with floor-based strength work for a full-body workout.",
+    "amenities": [
+      "Concept2 Rowers",
+      "Multiple class formats (Signature, Strength, Full Row, Restore)",
+      "Expert coaches",
+      "45-min and 30-min class options"
+    ],
+    "booking_url": "https://lp.therowhouse.com/try?offer_id=first-class-free-try"
   },
   {
     "id": "osm_node_2404244822",
@@ -1741,7 +1783,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1765,7 +1807,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@ekstasissc.com",
+    "opening_hours": "Monday-Friday: 7:00am-7:00pm",
+    "description": "Seattle's premier strength and conditioning gym offering customized programs through expert coaches for athletes and fitness enthusiasts of all abilities and ages.",
+    "amenities": [
+      "Personalized small group training",
+      "One-on-one coaching",
+      "Youth athletic development",
+      "HRV biomarker technology",
+      "Aerobic conditioning",
+      "Basketball training",
+      "Force plate assessment"
+    ],
+    "booking_url": "https://www.wellnessliving.com/schedule/ekstasis_strength_and_conditioning?id_class_tab=1&k_class=166035"
   },
   {
     "id": "osm_node_9945851968",
@@ -1850,7 +1905,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1870,7 +1925,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hello@studio45.com",
+    "description": "PNW boutique fitness studio offering 45-minute high-intensity, low-impact classes designed for full-body transformation in small group settings.",
+    "amenities": [
+      "Small classes (12 person max)",
+      "Personalized instruction",
+      "High-intensity low-impact movements",
+      "Megaformer and XFormer equipment"
+    ],
+    "membership_info": {
+      "new_client_2_weeks_unlimited": "$89",
+      "private_classes_2_sessions": "$199"
+    },
+    "booking_url": "https://www.studio45.com/book-washington"
   },
   {
     "id": "osm_node_12782006301",
@@ -1902,7 +1970,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1922,7 +1990,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@foundationcrossfit.com",
+    "opening_hours": "Open 7 days a week",
+    "description": "Premier fitness instruction facility in Seattle offering CrossFit and non-CrossFit classes, personal training, physical rehabilitation, and nutrition counseling.",
+    "amenities": [
+      "CrossFit classes",
+      "Non-CrossFit classes",
+      "Personal training",
+      "Physical rehabilitation",
+      "Nutrition counseling",
+      "50+ classes/week"
+    ],
+    "booking_url": "https://foundation.pushpress.com/open/calendar?view=week"
   },
   {
     "id": "osm_node_13037954809",
@@ -2051,7 +2131,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2070,7 +2150,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "5am-10pm, every day of the year",
+    "description": "Self-service neighborhood gym with modern equipment and a strong sense of community in Seattle's Beacon Hill and Mount Baker areas.",
+    "amenities": [
+      "Free weights",
+      "Aerobic machines",
+      "Matrix fitness machines",
+      "TRX",
+      "Parking",
+      "Wi-Fi"
+    ],
+    "membership_info": "Multiple membership plans including 6-month options",
+    "booking_url": "https://seattleurbanplayground.com/beaconhill-membership/"
   },
   {
     "id": "osm_way_187838318",
@@ -2193,7 +2285,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2225,7 +2317,27 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "seattle@bladeandtimber.com",
+    "opening_hours": {
+      "Monday-Tuesday": "4pm-9pm",
+      "Wednesday": "4pm-9pm",
+      "Thursday": "4pm-10pm",
+      "Friday": "2pm-11pm",
+      "Saturday": "11am-11pm",
+      "Sunday": "12pm-8pm"
+    },
+    "description": "Premier axe-throwing venue in Capitol Hill with 18 lanes, professional coaching, and a full bar with local beer and food offerings.",
+    "amenities": [
+      "18 axe-throwing lanes",
+      "Safety-certified coaching",
+      "Beer menu",
+      "Food",
+      "The Whetstone Bar",
+      "Private event space"
+    ],
+    "membership_info": "$36/person (min 2 per lane)",
+    "booking_url": "https://bladeandtimberseattle.resova.us/widget"
   },
   {
     "id": "osm_way_1326151814",
@@ -2258,7 +2370,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2293,7 +2405,22 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "WAssup@trufusionstudio.com",
+    "opening_hours": {
+      "Monday-Thursday": "6:00am-9:00pm",
+      "Friday": "6:00am-8:00pm",
+      "Saturday-Sunday": "8:30am-2:30pm"
+    },
+    "description": "Located in Lincoln Square, this fitness studio features an unmatched variety of innovative heated and unheated group fitness classes and world-class instructors.",
+    "amenities": [
+      "Changing Rooms & Showers",
+      "Complimentary Lockers",
+      "Free Parking",
+      "100+ group fitness classes/week",
+      "Snack bar"
+    ],
+    "booking_url": "https://trufusion.com/bellevue/"
   },
   {
     "id": "osm_node_1179908493",
@@ -2528,7 +2655,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2551,7 +2678,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "Info@EBConefamily.com",
+    "description": "Full-service basketball facility in Kirkland, WA providing athlete development in a family-centered environment with 300+ active athletes.",
+    "amenities": [
+      "AAU Teams",
+      "Development League",
+      "Private Training",
+      "Basketball Camps",
+      "High School Tryouts"
+    ],
+    "booking_url": "https://ebconefamily.playbookapi.com/programs/register/"
   },
   {
     "id": "osm_node_3883822563",
@@ -2786,7 +2923,7 @@
   },
   {
     "id": "osm_node_11040165861",
-    "name": "M² Fitness",
+    "name": "M\u00b2 Fitness",
     "address": "8102 161st Avenue Northeast, Redmond, WA, 98052",
     "location": {
       "lat": 47.6764849,
@@ -2828,7 +2965,7 @@
       "addr:state": "WA",
       "addr:street": "161st Avenue Northeast",
       "leisure": "fitness_centre",
-      "name": "M² Fitness",
+      "name": "M\u00b2 Fitness",
       "opening_hours": "Mo-Fr 05:00-20:00; Sa 07:00-13:00",
       "phone": "+1-425-968-8214",
       "website": "http://www.m2-fitness.com/"
@@ -10900,7 +11037,7 @@
   },
   {
     "id": "osm_node_2015644373",
-    "name": "Häutē Yoga",
+    "name": "H\u00e4ut\u0113 Yoga",
     "address": "2131 Queen Anne Avenue North, Seattle, 98109",
     "location": {
       "lat": 47.6380929,
@@ -10936,7 +11073,7 @@
       "addr:street": "Queen Anne Avenue North",
       "check_date": "2024-06-20",
       "leisure": "fitness_centre",
-      "name": "Häutē Yoga",
+      "name": "H\u00e4ut\u0113 Yoga",
       "source": "King County GIS;survey",
       "sport": "yoga",
       "website": "https://hauteyogaqueenanne.com"
@@ -14214,7 +14351,7 @@
   },
   {
     "id": "osm_way_161906718",
-    "name": "Olympic Athletic Club Women’s Gym",
+    "name": "Olympic Athletic Club Women\u2019s Gym",
     "address": "5244 Leary Avenue Northwest, Seattle, WA, 98107",
     "location": {
       "lat": 47.6668241,
@@ -14251,7 +14388,7 @@
       "building": "yes",
       "email": "richardf@olympicathleticclub.com",
       "leisure": "fitness_centre",
-      "name": "Olympic Athletic Club Women’s Gym",
+      "name": "Olympic Athletic Club Women\u2019s Gym",
       "source": "King County GIS",
       "website": "https://www.olympicathleticclub.com/womensgym/"
     },
@@ -19421,7 +19558,7 @@
   },
   {
     "id": "osm_node_9777969517",
-    "name": "Praxis Yoga & Café",
+    "name": "Praxis Yoga & Caf\u00e9",
     "address": "5599 17th Avenue Northwest, Seattle, WA, 98107",
     "location": {
       "lat": 47.6691447,
@@ -19458,7 +19595,7 @@
       "addr:street": "17th Avenue Northwest",
       "check_date": "2026-01-03",
       "leisure": "fitness_centre",
-      "name": "Praxis Yoga & Café",
+      "name": "Praxis Yoga & Caf\u00e9",
       "sport": "yoga"
     },
     "sources": [

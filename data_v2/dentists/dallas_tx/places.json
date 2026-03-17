@@ -3678,7 +3678,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3710,7 +3710,16 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "admin@haightfamilydentistry.com",
+    "opening_hours": {
+      "Monday": "08:00-14:30",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-14:00"
+    },
+    "description": "Haight Family Dentistry provides comprehensive dental care in Plano, Texas under the direction of Dr. Fred Haight, emphasizing quality, affordability, and patient comfort."
   },
   {
     "id": "osm_node_12360576033",
@@ -3744,7 +3753,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3768,6 +3777,18 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-16:00"
+    },
+    "description": "Dental Depot provides high-level dental care in The Colony, TX, striving to deliver exceptional service for the entire family.",
+    "services": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
     ]
   },
   {
@@ -3798,7 +3819,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3823,6 +3844,42 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "Closed",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Legacy Drive Dental is committed to providing quality, compassionate care and takes time to understand unique patient needs to help accomplish dental goals.",
+    "services": [
+      "Dental Cleanings & Checkups",
+      "Comprehensive Exams",
+      "Dental Imaging & X-rays",
+      "Fluoride Treatment",
+      "Oral Cancer Screening",
+      "Gum Disease Treatment",
+      "Crowns",
+      "Implants",
+      "Fillings",
+      "Root Canal Treatment",
+      "Invisalign Treatment",
+      "Cosmetic Dentistry",
+      "Teeth Whitening"
+    ],
+    "insurance_accepted": [
+      "Delta",
+      "MetLife",
+      "Aetna",
+      "UHC",
+      "Cigna",
+      "Guardian",
+      "Humana",
+      "BCBS",
+      "Aflac"
     ]
   },
   {
@@ -3856,7 +3913,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3882,7 +3939,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Advanced Implant & Cosmetic Dentistry provides hi-tech dental services in Frisco, Texas, specializing in dental implants, cosmetic dentistry, and restorative treatments utilizing advanced technologies.",
+    "services": [
+      "Preventive Dentistry",
+      "Restorative Dentistry",
+      "Dental Implants",
+      "Cosmetic Dentistry",
+      "Periodontal Therapy",
+      "Advanced Technologies"
+    ],
+    "booking_url": "https://advancedimplantcosmeticdentistry.com/request-appointment.html"
   },
   {
     "id": "osm_node_12468812175",
@@ -3947,7 +4014,7 @@
       "lat": 32.6457701,
       "lng": -96.8810425
     },
-    "phone": "",
+    "phone": "(972) 296-1471",
     "website": "https://www.smiletimedentistry.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/12635782487",
@@ -3968,7 +4035,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -4001,6 +4068,27 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday": "8:30 am - 5:00 pm",
+      "Tuesday": "10:00 am - 7:00 pm",
+      "Wednesday": "8:30 am - 1:00 pm",
+      "Thursday": "8:30 am - 5:00 pm"
+    },
+    "description": "Smile Time Dentistry is a privately owned dental practice in DeSoto, TX led by Dr. George Daniels III, providing leading dental care to the DeSoto community for over 30 years with compassionate, top-notch dentistry at affordable prices.",
+    "services": [
+      "Preventive Dentistry",
+      "Restorative Dentistry",
+      "Dental Implants",
+      "Cosmetic Dentistry",
+      "Dental Veneers",
+      "Oral Surgery",
+      "Sedation Dentistry",
+      "Dental Emergencies"
+    ],
+    "insurance_accepted": [
+      "Multiple insurance plans",
+      "VA Hospital System provider"
     ]
   },
   {
@@ -4207,7 +4295,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -4226,7 +4314,14 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Dental Dreams provides quality dentistry to families regardless of payment method, with locations across multiple states.",
+    "services": [
+      "General dentistry",
+      "Family dentistry",
+      "Pediatric dentistry"
+    ],
+    "booking_url": "https://www.dentaldreams.com/contact/"
   },
   {
     "id": "osm_node_10245663425",
@@ -4456,7 +4551,7 @@
       "lat": 32.9073334,
       "lng": -96.8046202
     },
-    "phone": "",
+    "phone": "(214) 647-3106",
     "website": "https://prestonhollowdentalcare.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/13265962935",
@@ -4476,7 +4571,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -4499,7 +4594,27 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "Closed",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Preston Hollow Dental Care & Orthodontics offers general dentistry, orthodontics, dental implants, and same-day emergency services for Preston Hollow and surrounding communities.",
+    "services": [
+      "General Dental Care",
+      "Dental Implants",
+      "Same-Day Emergency Dentistry",
+      "Orthodontics (Braces & Clear Aligners)"
+    ],
+    "insurance_accepted": [
+      "Most major insurance plans"
+    ],
+    "booking_url": "https://www.appointnow.com/?P=3040&O=548&PT=0"
   },
   {
     "id": "osm_node_13464157029",
@@ -4563,7 +4678,7 @@
       "lat": 33.1099528,
       "lng": -96.8075455
     },
-    "phone": "",
+    "phone": "(972) 377-5516",
     "website": "https://www.yourfriscodentist.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/12547544066",
@@ -4584,7 +4699,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -4619,7 +4734,42 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "8:00am - 5:00pm",
+      "Tuesday": "8:00am - 5:00pm",
+      "Wednesday": "Closed",
+      "Thursday": "8:00am - 5:00pm",
+      "Friday": "8:00am - 5:00pm"
+    },
+    "description": "Stonebriar Family Dentistry provides personalized, comprehensive dental care for patients of all ages in Frisco, TX. The practice emphasizes patient-first priorities with same-day appointments and advanced technology.",
+    "services": [
+      "Preventive Dentistry",
+      "Restorative Dentistry",
+      "Dental Implants",
+      "Dental Crowns",
+      "Same-Day Crowns",
+      "Cosmetic Dentistry",
+      "Dental Veneers",
+      "Teeth Whitening",
+      "Orthodontics",
+      "Invisalign",
+      "Dental Extractions",
+      "Emergency Dentistry",
+      "Kids' Dentistry"
+    ],
+    "insurance_accepted": [
+      "Aetna",
+      "Blue Cross Blue Shield",
+      "Cigna",
+      "Delta Dental",
+      "GEHA",
+      "Guardian",
+      "Humana",
+      "MetLife",
+      "United Concordia"
+    ],
+    "booking_url": "https://www.yourfriscodentist.com/contact-us/"
   },
   {
     "id": "osm_node_12956368940",
@@ -4629,7 +4779,7 @@
       "lat": 33.0160385,
       "lng": -96.7996052
     },
-    "phone": "",
+    "phone": "(972) 818-1300",
     "website": "https://www.parkwayvistadental.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/12956368940",
@@ -4650,7 +4800,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -4682,7 +4832,35 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "8:00am - 2:00pm",
+      "Tuesday": "8:00am - 5:00pm",
+      "Wednesday": "8:00am - 5:00pm",
+      "Thursday": "8:00am - 5:00pm",
+      "Friday": "By Appointment"
+    },
+    "description": "Female-owned dental practice in Plano, TX voted Best Dentist in 2024. Offers comprehensive services from preventive care to cosmetic and restorative dentistry with same-day appointments.",
+    "services": [
+      "Preventive Dentistry",
+      "Cosmetic Dentistry",
+      "Dental Veneers",
+      "Teeth Whitening",
+      "Restorative Dentistry",
+      "Dental Implants",
+      "Dentures",
+      "Invisalign",
+      "Oral Surgery",
+      "Emergency Dentistry",
+      "Root Canal Therapy",
+      "Sedation Dentistry",
+      "TMJ Treatment"
+    ],
+    "insurance_accepted": [
+      "Most major dental insurances",
+      "Medicare Advantage"
+    ],
+    "booking_url": "https://www.zocdoc.com/practice/parkway-vista-dental-151391"
   },
   {
     "id": "osm_node_13435829598",
@@ -4764,7 +4942,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -4790,7 +4968,34 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "09:00am-06:00pm",
+      "Tuesday": "09:00am-06:00pm",
+      "Wednesday": "09:00am-06:00pm",
+      "Thursday": "09:00am-06:00pm",
+      "Friday": "09:00am-06:00pm",
+      "Saturday": "Open"
+    },
+    "description": "Husband-and-wife dentists with 20+ years of clinical experience provide comprehensive dental care in a supportive, welcoming environment. The practice serves families across Arlington with Saturday appointments and Spanish-language services.",
+    "services": [
+      "General Dentistry",
+      "Cosmetic Dentistry",
+      "Restorative Dentistry",
+      "Dental Implants",
+      "Invisalign",
+      "Wisdom Teeth Removal",
+      "Teeth Cleanings",
+      "Emergency Dentistry",
+      "Preventative Care",
+      "Orthodontic Care"
+    ],
+    "insurance_accepted": [
+      "Most PPO Insurance",
+      "Children's Medicaid",
+      "CHIP"
+    ],
+    "booking_url": "https://www.appointnow.com/?P=4075&O=101&PT=0"
   },
   {
     "id": "osm_node_13564824490",
@@ -4815,7 +5020,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -4838,7 +5043,25 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Viva Dental offers comprehensive family dentistry with a focus on patient comfort and conservative care in a modern, relaxed atmosphere. The practice treats patients of all ages.",
+    "services": [
+      "Preventive Dentistry",
+      "Checkups & Cleanings",
+      "Restorative Dentistry",
+      "Dental Crowns",
+      "Bridges & Dentures",
+      "Cosmetic Dentistry",
+      "Teeth Whitening",
+      "Porcelain Veneers",
+      "Pediatric Dentistry",
+      "Orthodontics",
+      "Braces",
+      "Invisalign Aligners",
+      "Dental Implants",
+      "Emergency Dentistry"
+    ],
+    "booking_url": "https://myvivadental.com/contact-us/"
   },
   {
     "id": "osm_node_10201043579",
@@ -4863,7 +5086,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -4886,7 +5109,40 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "mikewing@deepellumdentist.com",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "10:00am-5:00pm",
+      "Wednesday": "Closed",
+      "Thursday": "Closed",
+      "Friday": "10:00am-5:00pm",
+      "Saturday": "10:00am-5:00pm",
+      "Sunday": "Closed"
+    },
+    "description": "Deep Ellum Advanced Dentistry offers comprehensive dental care with a focus on patient comfort. Led by Dr. Michael Wing, the practice provides family-friendly services in a welcoming environment.",
+    "services": [
+      "General Dentistry",
+      "Preventative Dentistry",
+      "Fillings",
+      "Cleanings and Exams",
+      "Teeth Whitening",
+      "Extractions",
+      "Emergency Care",
+      "Full Mouth Reconstruction",
+      "Smile Makeover",
+      "All-On-X Implants",
+      "Veneers",
+      "Dentures",
+      "Porcelain Crowns",
+      "Invisalign",
+      "Dental Implants",
+      "Bridges",
+      "Traditional Braces",
+      "Gum Grafting",
+      "Periodontal Disease Treatment"
+    ],
+    "booking_url": "https://www.deepellumdentist.com/request-an-appointment"
   },
   {
     "id": "osm_node_11846164700",
@@ -4911,7 +5167,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -4933,7 +5189,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@drellisorthodontics.com",
+    "description": "Ellis Orthodontics is a private practice led by Dr. Christine Ellis offering advanced orthodontic care for patients of all ages in the Dallas area. The practice prioritizes ethical, patient-centered treatment with personalized smile solutions.",
+    "services": [
+      "Phase I Orthodontics (Early Treatment for Kids)",
+      "Teen Orthodontics",
+      "Adult Orthodontics",
+      "Spark Clear Aligners",
+      "Damon Braces",
+      "Surgical Orthodontic Treatment",
+      "Retainers"
+    ],
+    "booking_url": "https://www.drellisorthodontics.com/contact-us"
   },
   {
     "id": "osm_node_13076411211",
@@ -4959,7 +5227,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -4987,7 +5255,37 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@Coppellpediatricdentistry.com",
+    "opening_hours": {
+      "Monday": "8:00am - 4:00pm",
+      "Tuesday": "8:00am - 4:00pm",
+      "Wednesday": "8:00am - 4:00pm",
+      "Thursday": "8:00am - 4:00pm",
+      "Friday": "Closed",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Board-certified pediatric dentistry practice delivering exceptional care for infants, toddlers, children, and teens. The practice emphasizes preventive care and creating positive dental experiences to establish lifelong oral health habits.",
+    "services": [
+      "Dental Exams",
+      "Dental Cleanings",
+      "Dental Emergencies",
+      "Digital Dental X-rays",
+      "Preventative Dentistry",
+      "Tooth-Colored Fillings",
+      "Dental Crowns",
+      "Nerve Treatments",
+      "Space Maintainers",
+      "Tooth Extraction",
+      "Sedation Dentistry",
+      "Special Needs Dentistry",
+      "Sports Mouthguards"
+    ],
+    "insurance_accepted": [
+      "Most traditional insurance plans"
+    ],
+    "booking_url": "https://www.patientviewer.com/?RSID=3138393236&CID=30&C=1357"
   },
   {
     "id": "osm_node_13076411212",
@@ -5158,7 +5456,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -5182,7 +5480,23 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@genecovorthodontics.com",
+    "description": "Genecov Orthodontics provides orthodontic treatment in a relaxing, friendly, and professional environment. They offer traditional braces, Invisalign clear aligners, and other cosmetic options.",
+    "services": [
+      "Traditional braces",
+      "Invisalign clear aligners",
+      "Clear braces",
+      "Self-ligating braces",
+      "Two-phase treatment",
+      "Craniofacial orthodontics",
+      "Surgical orthodontics",
+      "TMJ-TMD treatment",
+      "Sleep apnea",
+      "Palatal expander",
+      "Emergency care"
+    ],
+    "booking_url": "https://www.genecovorthodontics.com/appointment-request"
   },
   {
     "id": "osm_way_197635315",
@@ -5207,7 +5521,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -5231,7 +5545,25 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Viva Dental offers comprehensive family dentistry with a focus on patient comfort and conservative care in a modern, relaxed atmosphere. The practice treats patients of all ages.",
+    "services": [
+      "Preventive Dentistry",
+      "Checkups & Cleanings",
+      "Restorative Dentistry",
+      "Dental Crowns",
+      "Bridges & Dentures",
+      "Cosmetic Dentistry",
+      "Teeth Whitening",
+      "Porcelain Veneers",
+      "Pediatric Dentistry",
+      "Orthodontics",
+      "Braces",
+      "Invisalign Aligners",
+      "Dental Implants",
+      "Emergency Dentistry"
+    ],
+    "booking_url": "https://myvivadental.com/contact-us/"
   },
   {
     "id": "osm_node_6385353796",
@@ -5301,7 +5633,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -5325,6 +5657,27 @@
     },
     "sources": [
       "osm"
+    ],
+    "email": "info@couturedentist.com",
+    "opening_hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Couture Dentistry offers general and cosmetic dentistry services including veneers, smile makeovers, Invisalign, whitening, Botox, and dermal fillers in Plano, TX.",
+    "services": [
+      "Cosmetic Dentistry",
+      "Veneers",
+      "Smile Makeovers",
+      "Invisalign",
+      "Teeth Whitening",
+      "Botox",
+      "Dermal Fillers",
+      "General Dentistry"
     ]
   },
   {
@@ -5351,7 +5704,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -5375,7 +5728,26 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00"
+    },
+    "description": "Award-winning orthodontists providing comprehensive orthodontic care using advanced technologies. Both doctors are Airway-Aware Orthodontists qualified to screen for pediatric sleep disorders.",
+    "services": [
+      "Passive Self-Ligating Braces",
+      "Invisalign Clear Aligners",
+      "Invisalign First (pediatric)",
+      "Two-Phase Orthodontic Treatment",
+      "Pediatric Sleep Apnea Screening",
+      "3D CBCT Imaging",
+      "Digital Impressions (iTero Scanner)",
+      "Professional Teeth Whitening",
+      "Orthodontic Retainers"
+    ],
+    "booking_url": "https://rxsmile.com/contact/"
   },
   {
     "id": "osm_node_12308507458",
@@ -5401,7 +5773,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -5425,7 +5797,27 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Legacy Smiles is a Frisco, TX dental practice committed to comprehensive care. Dr. Alex Canevet and team offer cosmetic, restorative, and preventive dentistry welcoming new patients of all ages.",
+    "services": [
+      "Cosmetic Dentistry",
+      "Dental Cleanings and Exams",
+      "Dental Hygiene",
+      "Oral Cancer Screenings",
+      "Bonding",
+      "Porcelain Dental Veneers",
+      "Teeth Whitening",
+      "Restorative Dentistry",
+      "Bridges",
+      "Composite Fillings",
+      "Dental Crowns",
+      "Dental Implants",
+      "Implant Retained Dentures",
+      "Invisalign",
+      "Periodontal Disease Treatment",
+      "Sedation Dentistry"
+    ],
+    "booking_url": "https://book2.getweave.com/a52af305-f3f8-468b-b7b6-0a8b39e9f8a0/request-appointment?source=WEBSITE"
   },
   {
     "id": "osm_node_13436019286",
@@ -5854,7 +6246,7 @@
       "lat": 32.707537,
       "lng": -97.1843716
     },
-    "phone": "",
+    "phone": "817-451-8071",
     "website": "https://www.drbrianbritton.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/way/672378322",
@@ -5869,7 +6261,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -5891,7 +6283,35 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "7:00 AM - 4:00 PM",
+      "Tuesday": "7:00 AM - 4:00 PM",
+      "Wednesday": "7:00 AM - 4:00 PM",
+      "Thursday": "7:00 AM - 3:00 PM",
+      "Friday": "Closed",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Dr. Brian L. Britton operates a patient-centered dental practice in Arlington, TX offering comprehensive dental services. The practice is committed to oral health and total wellness with both general and cosmetic dentistry.",
+    "services": [
+      "Dental Hygiene",
+      "Bonding & White Fillings",
+      "Crowns and Bridges",
+      "Dental Implants",
+      "Tooth Extraction/Wisdom Teeth",
+      "Porcelain Veneers",
+      "TMJ/Jaw Joint Treatment",
+      "Inlays & Onlays",
+      "Protective Mouth Guards",
+      "Invisalign",
+      "Dentures",
+      "Root Canal",
+      "Night Guards",
+      "Sleep Apnea Treatment",
+      "Full-mouth Reconstruction"
+    ],
+    "booking_url": "https://www.drbrianbritton.com/appointment"
   },
   {
     "id": "osm_node_9921467737",

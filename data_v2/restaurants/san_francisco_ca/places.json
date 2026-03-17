@@ -1601,7 +1601,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1620,7 +1620,11 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@wallys.cafe",
+    "description": "Authentic Mediterranean Lebanese restaurant offering traditional dishes. Founded in 2007 in Emeryville, CA.",
+    "cuisine_type": "Mediterranean Lebanese",
+    "price_range": "$$"
   },
   {
     "id": "osm_node_1564797227",
@@ -2943,7 +2947,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2968,7 +2972,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Oakland café offering coffee and kitchen fare with good vibes and ample seating for work or socializing.",
+    "cuisine_type": "Coffee Shop"
   },
   {
     "id": "osm_node_3166077151",
@@ -3166,7 +3172,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3192,7 +3198,12 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@burmaberkeley.com",
+    "description": "Burma Berkeley serves authentic Burmese cuisine including curries, noodle soups, and stir-fries in Berkeley.",
+    "cuisine_type": "Burmese",
+    "price_range": "$$",
+    "booking_url": "https://tables.toasttab.com/restaurants/475e4377-66cd-40eb-a905-7208ccb06152/reserve"
   },
   {
     "id": "osm_node_3509555152",
@@ -14267,7 +14278,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -14287,7 +14298,11 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "admin@theba.cafe",
+    "description": "Argentine empanada cafe recognized as \"the best empanadas in the Bay Area\" with espresso, pastries, and gelato in a welcoming community space.",
+    "cuisine_type": "Argentine",
+    "price_range": "$$"
   },
   {
     "id": "osm_node_1491795920",

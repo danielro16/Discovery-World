@@ -3224,7 +3224,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3247,7 +3247,11 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@pointlomaseafoods.com",
+    "description": "Seafood market and restaurant established in 1963 offering fresh daily fish, sushi, and dining with views of San Diego Bay.",
+    "cuisine_type": "Seafood",
+    "price_range": "$$$"
   },
   {
     "id": "osm_node_9544086748",
@@ -3396,7 +3400,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3421,7 +3425,11 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Thai restaurant offering takeout and food delivery in San Diego, known for quality consistent food with genuine Thai dishes.",
+    "cuisine_type": "Thai",
+    "price_range": "$$",
+    "booking_url": "https://purethaisd.com/table-reservations"
   },
   {
     "id": "osm_way_31843419",
@@ -4565,7 +4573,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4590,7 +4598,11 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "goappr@gmail.com",
+    "description": "A San Diego institution offering classic Italian pizza and pasta dishes across multiple Southern California locations with over 68 years of tradition.",
+    "cuisine_type": "Italian",
+    "price_range": "$$"
   },
   {
     "id": "osm_node_561107739",
@@ -4796,7 +4808,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4820,7 +4832,12 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "jennipher@keyandcleaver.com",
+    "description": "San Diego burger and craft beer restaurant sourcing locally with beef from North County and buns from a La Jolla bakery, alongside 16 local draft beers.",
+    "cuisine_type": "Burgers & Craft Beer",
+    "price_range": "$$",
+    "booking_url": "https://order.spoton.com/67588510a30297230e29ff44"
   },
   {
     "id": "osm_node_596812044",

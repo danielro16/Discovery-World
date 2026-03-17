@@ -634,7 +634,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -662,7 +662,22 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info.nyfa@gmail.com",
+    "opening_hours": {
+      "Monday-Friday": "3:00pm-9:00pm",
+      "Saturday": "9:00am-6:00pm"
+    },
+    "description": "Founded in 2010, NYFA offers quality instruction for all aspects of fencing with one of the strongest competitive programs in the country, ranked #1 nationally in youth categories.",
+    "amenities": [
+      "Group classes",
+      "Private lessons",
+      "After-school programs",
+      "Birthday parties",
+      "Day camps",
+      "Summer camps"
+    ],
+    "booking_url": "https://fencenyfa.com/contact/"
   },
   {
     "id": "osm_way_528319575",
@@ -3149,7 +3164,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3173,7 +3188,25 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@rock-gyms.com",
+    "description": "ROCK provides the highest quality fitness and personal training solutions to help community members stay committed to improving their lifestyle.",
+    "amenities": [
+      "State-of-the-art equipment",
+      "Personal training",
+      "Group fitness classes",
+      "Boxing",
+      "Cardio",
+      "Pilates",
+      "HIIT",
+      "Boot Camp",
+      "Spinning",
+      "Yoga",
+      "Zumba",
+      "Sauna",
+      "Tanning"
+    ],
+    "booking_url": "https://join.jonasfitness.com/510512"
   },
   {
     "id": "osm_node_6062382802",
@@ -3423,7 +3456,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3446,6 +3479,16 @@
     },
     "sources": [
       "osm"
+    ],
+    "email": "Locustvalleymartialarts@gmail.com",
+    "opening_hours": "Monday-Friday: 3pm-9pm, Saturday: 2pm-8pm",
+    "description": "Professional martial arts training in Taekwondo, Kick Boxing, and Self-Defense with over 25 classes weekly for all skill levels.",
+    "amenities": [
+      "Martial arts classes",
+      "Self-defense training",
+      "Board breaking",
+      "Summer camp",
+      "After school programs"
     ]
   },
   {
@@ -3833,7 +3876,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3857,7 +3900,28 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday-Friday": "6:00am-10:00pm",
+      "Saturday-Sunday": "8:00am-8:00pm"
+    },
+    "description": "24 Hour Fitness in Kew Gardens offering fitness classes, personal training, and modern gym amenities in a community-focused environment.",
+    "amenities": [
+      "Group Exercise",
+      "Personal Training",
+      "Cardio Equipment",
+      "Strength Machines",
+      "Free Weights",
+      "Free WiFi",
+      "Towel Service"
+    ],
+    "membership_info": {
+      "Platinum": "$59.99/month",
+      "National": "$49.99/month",
+      "Gold": "$44.99/month",
+      "Silver": "$29.99/month"
+    },
+    "booking_url": "https://www.24hourfitness.com/sales-redirect/salesredirect.html?flow=POS&clubId=00290"
   },
   {
     "id": "osm_node_13451735143",
@@ -4268,7 +4332,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4300,7 +4364,16 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "The National Tennis Center is a USTA facility offering tennis programs, court bookings, private lessons, and venue rentals for players of all ages and skill levels.",
+    "amenities": [
+      "Tennis courts",
+      "Pro shop",
+      "Private lessons",
+      "Court reservations",
+      "Venue rentals"
+    ],
+    "booking_url": "https://usta.courtreserve.com/Online/Portal/Index/5881"
   },
   {
     "id": "osm_node_1727242124",
@@ -4686,7 +4759,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4718,7 +4791,29 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "manager@crunchverona.com",
+    "opening_hours": {
+      "Monday-Thursday": "5:00am-11:00pm",
+      "Friday": "5:00am-9:00pm",
+      "Saturday-Sunday": "7:00am-5:00pm"
+    },
+    "description": "A fitness facility emphasizing inclusivity with state-of-the-art equipment, group classes, and personal training in a judgment-free environment.",
+    "amenities": [
+      "Cardio equipment",
+      "Strength equipment",
+      "Group fitness classes",
+      "HIIT",
+      "Personal training",
+      "HydroMassage",
+      "Tanning",
+      "Sauna",
+      "Steam rooms",
+      "Stretching zone",
+      "Juice bar",
+      "Locker rooms with showers"
+    ],
+    "booking_url": "https://www.crunch.com/free-trial"
   },
   {
     "id": "osm_node_10858012965",
@@ -5040,7 +5135,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5064,7 +5159,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hhscnew@gmail.com",
+    "description": "A 50+ year-old community swim club offering families a safe and welcoming environment with two pools and recreational facilities during summer months.",
+    "amenities": [
+      "Two pools",
+      "Kiddie pool",
+      "Picnic areas",
+      "Swings",
+      "Ping pong tables",
+      "Basketball courts"
+    ],
+    "membership_info": "Open to residents of Hasbrouck Heights and Wood-Ridge only",
+    "booking_url": "https://hhswimclub.com/membership-2/join/"
   },
   {
     "id": "osm_way_1382205210",
@@ -5096,7 +5203,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5121,7 +5228,29 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday-Thursday": "5:00am-11:00pm",
+      "Friday": "5:00am-10:00pm",
+      "Saturday-Sunday": "8:00am-8:00pm"
+    },
+    "description": "LA Fitness offers comprehensive fitness options with state-of-the-art equipment and diverse group classes catering to all experience levels.",
+    "amenities": [
+      "Free Weights",
+      "Cardio & Strength equipment",
+      "Locker Room",
+      "Basketball",
+      "Group Fitness Classes",
+      "Indoor Pool",
+      "Kids Klub",
+      "Personal Training",
+      "Pilates",
+      "Racquetball",
+      "Sauna",
+      "Wi-Fi",
+      "Whirlpool spa"
+    ],
+    "booking_url": "https://www.lafitness.com/Pages/MembershipSignUpSearch.aspx"
   },
   {
     "id": "osm_node_1383939144",
@@ -5154,7 +5283,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5178,7 +5307,33 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "5:00am-10:00pm",
+      "Tuesday": "5:00am-10:00pm",
+      "Wednesday": "5:00am-10:00pm",
+      "Thursday": "5:00am-10:00pm",
+      "Friday": "5:00am-9:00pm",
+      "Saturday": "7:00am-8:00pm",
+      "Sunday": "7:00am-8:00pm"
+    },
+    "description": "A luxury fitness facility in Midtown West featuring state-of-the-art equipment, diverse class offerings, and a saltwater pool alongside executive amenities.",
+    "amenities": [
+      "Steam Room",
+      "Sauna",
+      "Barre Studio",
+      "Yoga Studio",
+      "Cycling Studio",
+      "Saltwater Pool",
+      "Spa",
+      "Private Pilates",
+      "Power Plate",
+      "Precision Run Treadmills",
+      "Tier X Coaching",
+      "The Shop",
+      "Earthbar"
+    ],
+    "booking_url": "https://www.equinox.com/inquiry/schedule-your-visit/113"
   },
   {
     "id": "osm_node_2414094437",
@@ -5211,7 +5366,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5239,7 +5394,14 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "columbusave@purebarre.com",
+    "description": "A barre fitness studio offering low-impact, high-intensity workouts inspired by yoga, Pilates, and ballet designed to build strength and flexibility for all fitness levels.",
+    "amenities": [
+      "Barre classes",
+      "Intro classes"
+    ],
+    "booking_url": "https://lp.purebarre.com/free-barre-class?offer_id=try-an-intro-class-for-free&booking=1&location=new-york-upper-west-side-columbus-avenue-ny"
   },
   {
     "id": "osm_node_2724095356",
@@ -5270,7 +5432,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5294,7 +5456,21 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "eastside@barrys.com",
+    "opening_hours": {
+      "Monday-Thursday": "6:00am-8:30pm",
+      "Friday": "6:00am-7:00pm",
+      "Saturday": "7:00am-1:30pm",
+      "Sunday": "8:15am-1:30pm"
+    },
+    "description": "Barry's is a high-intensity interval training studio combining running and weights to tone muscle and maximize fat loss.",
+    "amenities": [
+      "Treadmill running",
+      "Weight training",
+      "HIIT classes"
+    ],
+    "booking_url": "https://www.barrys.com/schedule/east-86th"
   },
   {
     "id": "osm_node_2745450959",
@@ -5497,7 +5673,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5524,7 +5700,31 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@mphc.com",
+    "opening_hours": {
+      "Monday-Friday": "6:00am-10:00pm",
+      "Saturday": "7:00am-9:00pm",
+      "Sunday": "8:00am-9:00pm"
+    },
+    "description": "Manhattan Plaza Health Club is a full-service fitness facility featuring a 75-foot junior Olympic pool with an opening roof and comprehensive wellness services.",
+    "amenities": [
+      "75-foot junior Olympic pool",
+      "Rock climbing gym",
+      "Weight training floor",
+      "Cardio mezzanine",
+      "Tennis courts",
+      "Spa services",
+      "Sundeck",
+      "Personal training",
+      "Group exercise classes",
+      "Aquatic classes",
+      "Massage therapy",
+      "Pilates",
+      "Children's programs"
+    ],
+    "membership_info": "No-commitment membership available at $49/month",
+    "booking_url": "https://mphc.com/pricelist/"
   },
   {
     "id": "osm_node_4520376389",
@@ -6066,7 +6266,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -6093,7 +6293,28 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday-Friday": "11:00am-10:00pm",
+      "Saturday-Sunday": "10:00am-8:00pm"
+    },
+    "description": "VITAL Climbing Gym offers bouldering walls, classes, yoga, and youth programs with 24/7 member access at their Upper East Side location.",
+    "amenities": [
+      "24/7 member access",
+      "Bouldering walls",
+      "Climbing classes",
+      "Yoga",
+      "Youth programs",
+      "Private training",
+      "Shoe rentals",
+      "Chalk bag rentals"
+    ],
+    "membership_info": {
+      "standard_monthly": "$125/month",
+      "annual_prepaid": "$1,250/year",
+      "day_pass": "$28"
+    },
+    "booking_url": "https://vitalclimbinggym.com/wh-ues-book-class"
   },
   {
     "id": "osm_node_5742195731",
@@ -6124,7 +6345,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -6147,7 +6368,28 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday-Thursday": "5:30am-11:00pm",
+      "Friday": "5:30am-10:00pm",
+      "Saturday-Sunday": "7:00am-8:00pm"
+    },
+    "description": "Located on Lexington Avenue near Central Park, this Upper East Side flagship occupies the historic Barbizon building and spans 45,000 square feet across four floors.",
+    "amenities": [
+      "Boxing Studio",
+      "Steam Room",
+      "Sauna",
+      "Jacuzzi",
+      "Lap Pool",
+      "Plunge Pool",
+      "Precision Run Treadmills",
+      "Full-Service Spa",
+      "Private Pilates Studio",
+      "Group Fitness Studios",
+      "Cycling Studio",
+      "Power Plate"
+    ],
+    "booking_url": "https://www.equinox.com/inquiry/schedule-your-visit/105"
   },
   {
     "id": "osm_node_5849993503",
@@ -6235,7 +6477,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -6258,7 +6500,29 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "5:30am-10:00pm",
+      "Tuesday": "5:30am-10:00pm",
+      "Wednesday": "5:30am-10:00pm",
+      "Thursday": "5:30am-10:00pm",
+      "Friday": "5:30am-8:00pm",
+      "Saturday": "7:00am-7:00pm",
+      "Sunday": "7:00am-7:00pm"
+    },
+    "description": "Located on Manhattan's Upper East Side, this luxury fitness establishment offers state-of-the-art amenities alongside comprehensive wellness services and dedicated studio programming.",
+    "amenities": [
+      "Boxing Studio",
+      "Steam Room",
+      "Kids Club",
+      "Spa",
+      "Private Pilates",
+      "HigherDOSE Infrared Sauna",
+      "Cycling Studio",
+      "Yoga & Barre Studio",
+      "Martial Arts Classes"
+    ],
+    "booking_url": "https://www.equinox.com/inquiry/schedule-your-visit/117"
   },
   {
     "id": "osm_node_8653626438",
@@ -6347,7 +6611,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -6371,7 +6635,16 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "ues@realpilatesnyc.com",
+    "opening_hours": "Monday-Thursday: 7AM-9PM, Friday: 7AM-7PM, Saturday: 8AM-2PM, Sunday: 9AM-3PM",
+    "description": "Real Pilates provides specialized training for fitness enthusiasts with signature classes and programs designed to build strength and reshape the body.",
+    "amenities": [
+      "Pilates reformer classes",
+      "Signature programs",
+      "Personal training"
+    ],
+    "booking_url": "https://momence.com/sign-up/visitor?hostId=39885"
   },
   {
     "id": "osm_node_10311585051",
@@ -6404,7 +6677,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -6427,7 +6700,29 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "west57@clubpilates.com",
+    "opening_hours": {
+      "Monday": "07:00-20:30",
+      "Tuesday": "07:30-21:00",
+      "Wednesday": "06:00-21:00",
+      "Thursday": "07:30-21:00",
+      "Friday": "07:00-19:00",
+      "Saturday": "08:00-16:00",
+      "Sunday": "08:30-17:00"
+    },
+    "description": "Boutique Pilates studio specializing in reformer fusion classes for all ages and fitness levels, offering high-quality training at affordable pricing.",
+    "amenities": [
+      "Reformer equipment",
+      "Springboard",
+      "Chair",
+      "Mat",
+      "Jumpboard",
+      "TRX suspension training",
+      "Free weights",
+      "Gliding discs"
+    ],
+    "booking_url": "https://lp.clubpilates.com/offers?offer_id=intro-class-promo&location=west57th"
   },
   {
     "id": "osm_node_10711404203",
@@ -6459,7 +6754,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -6484,7 +6779,28 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "5:30am-10:00pm",
+      "Tuesday": "5:30am-10:00pm",
+      "Wednesday": "5:30am-10:00pm",
+      "Thursday": "5:30am-10:00pm",
+      "Friday": "5:30am-8:00pm",
+      "Saturday": "7:00am-7:00pm",
+      "Sunday": "7:00am-7:00pm"
+    },
+    "description": "A welcoming sanctuary for the Upper East Side community in Yorkville featuring dynamic fitness studios and a high-end spa experience.",
+    "amenities": [
+      "Steam Room",
+      "Spa",
+      "Private Pilates",
+      "Power Plate",
+      "Yoga Studio",
+      "Cycling Studio",
+      "Barre + Yoga Studio",
+      "EQX Body Lab"
+    ],
+    "booking_url": "https://www.equinox.com/inquiry/schedule-your-visit/104"
   },
   {
     "id": "osm_node_10969041005",
@@ -6699,7 +7015,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -6722,7 +7038,23 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "grassroots@grassrootsfitnessproject.com",
+    "opening_hours": {
+      "Monday-Friday": "6:00am-8:30pm",
+      "Saturday": "8:00am-2:00pm",
+      "Sunday": "9:00am-2:00pm"
+    },
+    "description": "Small group and personal training facility offering classes in strength, conditioning, and mobility for adults and youth in Upper Manhattan.",
+    "amenities": [
+      "Group fitness classes",
+      "Personal training",
+      "Youth training programs",
+      "Women's strength program",
+      "Mobile fitness app"
+    ],
+    "membership_info": "Introductory offer: 2 classes for $25",
+    "booking_url": "https://www.wellnessliving.com/rs/catalog-view.html?id_sale=1&k_business=54598&k_id=3011977"
   },
   {
     "id": "osm_node_11506905539",
@@ -6754,7 +7086,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -6778,7 +7110,30 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "5:30am-10:00pm",
+      "Tuesday": "5:30am-10:00pm",
+      "Wednesday": "5:30am-10:00pm",
+      "Thursday": "5:30am-10:00pm",
+      "Friday": "5:30am-9:00pm",
+      "Saturday": "7:00am-8:00pm",
+      "Sunday": "7:00am-8:00pm"
+    },
+    "description": "Steps from Central Park on the Upper West Side, this Equinox features upgraded locker rooms, an expanded spa, pilates studio, and yoga classes.",
+    "amenities": [
+      "Boxing Studio",
+      "Steam Room",
+      "Barre Studio",
+      "Kids Club",
+      "Precision Run Treadmills",
+      "Spa",
+      "Private Pilates",
+      "Cycling Studio",
+      "Group Fitness Studio",
+      "Strength Floor"
+    ],
+    "booking_url": "https://www.equinox.com/inquiry/schedule-your-visit/103"
   },
   {
     "id": "osm_node_12042445169",
@@ -6810,7 +7165,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -6833,6 +7188,21 @@
     },
     "sources": [
       "osm"
+    ],
+    "email": "elysiumfitness72@gmail.com",
+    "opening_hours": "Monday-Friday: 7am-7pm, Saturday-Sunday: 8am-12pm",
+    "description": "Premier one-on-one personal training facility on NYC's Upper West Side, established in 2001, offering a comfortable workout experience with current fitness equipment.",
+    "amenities": [
+      "Treadmills",
+      "Stationary Bikes",
+      "Rowing Machine",
+      "Cable Machines",
+      "Leg Press",
+      "Dumbbells",
+      "Kettlebells",
+      "Barbells",
+      "Battle Ropes",
+      "TRX Systems"
     ]
   },
   {

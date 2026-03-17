@@ -3957,7 +3957,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3978,7 +3978,34 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hsilverdds@verizon.net",
+    "opening_hours": {
+      "Monday": "9:00 am - 5:00 pm",
+      "Tuesday": "10:00 am - 6:30 pm",
+      "Wednesday": "9:00 am - 5:00 pm",
+      "Thursday": "10:00 am - 6:30 pm",
+      "Friday": "Closed",
+      "Saturday": "9:00 am - 2:00 pm",
+      "Sunday": "Closed"
+    },
+    "description": "Howard A. Silver, DDS provides comprehensive dental care in Brooklyn, NY offering cosmetic dentistry, family dental services, and specialized treatments including root canals and periodontal care.",
+    "services": [
+      "Bonding and White Fillings",
+      "Bridges",
+      "Crowns",
+      "Dentures",
+      "Extractions",
+      "Root Canal (Endodontics)",
+      "Whitening and Bleaching",
+      "Veneers",
+      "Periodontal Disease Treatment",
+      "Pediatric Care",
+      "Digital X-Ray",
+      "Night Guards",
+      "Protective Mouth Guards"
+    ],
+    "booking_url": "https://www.drhowardsilverdds.com/appointment-request"
   },
   {
     "id": "osm_node_7768283488",
@@ -4005,7 +4032,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4038,7 +4065,40 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@precisiondentalnyc.com",
+    "opening_hours": {
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "Closed",
+      "Thursday": "9:00 AM - 5:30 PM",
+      "Friday": "Closed",
+      "Saturday": "8:00 AM - 3:00 PM",
+      "Sunday": "Closed"
+    },
+    "description": "Astoria dental practice offering comprehensive care including cosmetic, restorative, periodontal, and sedation dentistry. Led by Dr. Alexander Bokser and Dr. Irene Bokser, specialists in dental implants and gum disease treatment.",
+    "services": [
+      "Dental Implants",
+      "Cosmetic Dentistry",
+      "Teeth Whitening",
+      "Dental Crowns",
+      "Dental Bonding",
+      "Dental Bridges",
+      "Smile Makeover",
+      "Root Canal Therapy",
+      "Periodontal Treatment",
+      "Sedation Dentistry",
+      "Dentures",
+      "Gum Grafting",
+      "TMJ Treatment",
+      "Deep Teeth Cleaning",
+      "Tooth Extractions",
+      "Crown Lengthening"
+    ],
+    "insurance_accepted": [
+      "Insurance accepted"
+    ],
+    "booking_url": "https://precisiondentalnyc.com/schedule-appointment/"
   },
   {
     "id": "osm_node_8272824077",
@@ -4184,7 +4244,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4217,7 +4277,35 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "9am - 5pm",
+      "Tuesday": "9am - 5pm",
+      "Wednesday": "9am - 5pm",
+      "Thursday": "9am - 5pm",
+      "Friday": "9am - 2pm",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Award-winning cosmetic and family dentistry practice led by a fifth-generation dentist. Provides personalized treatment combining modern laser technology with aesthetic expertise for healthy, beautiful smiles.",
+    "services": [
+      "Cosmetic Dentistry",
+      "Dental Veneers",
+      "Smile Makeover",
+      "Dental Bonding",
+      "Dental Crowns",
+      "Teeth Whitening",
+      "Family Dentistry",
+      "Root Canal",
+      "Teeth Cleaning",
+      "Dental Implants",
+      "Invisalign",
+      "Bone Grafting",
+      "Crown Lengthening",
+      "Gum Contouring",
+      "Tooth Extraction"
+    ],
+    "booking_url": "https://www.shalmandentistry.com/book-dental-appointment/"
   },
   {
     "id": "osm_node_10020545576",
@@ -4429,7 +4517,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4452,7 +4540,41 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "chelsea@souldentalnyc.com",
+    "opening_hours": {
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 3:00 PM",
+      "Sunday": "Closed"
+    },
+    "description": "Soul Dental operates luxury dental locations providing holistic cosmetic, family, and pediatric dentistry services. Their practice emphasizes a beautiful patient experience while maintaining excellence in clinical care.",
+    "services": [
+      "Exams & Cleanings",
+      "Cosmetic Dentistry",
+      "Porcelain Veneers",
+      "Invisalign",
+      "Teeth Whitening",
+      "Botox Dentistry",
+      "Emergency Dentistry",
+      "Periodontics",
+      "Orthodontics",
+      "Restorative Dentistry",
+      "Tooth Restoration",
+      "Tooth Replacement",
+      "Oral Surgery",
+      "Extractions",
+      "Sedation Dentistry",
+      "Root Canals",
+      "Pediatric Dentistry"
+    ],
+    "insurance_accepted": [
+      "Multiple insurance plans accepted"
+    ],
+    "booking_url": "https://nexhealth.com/appt/souldental/"
   },
   {
     "id": "osm_node_10803109644",
@@ -4484,7 +4606,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4508,7 +4630,39 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "Info@broadwayfamilydentalpc.com",
+    "opening_hours": {
+      "Monday": "10:00-18:00",
+      "Tuesday": "10:00-18:00",
+      "Wednesday": "10:00-18:00",
+      "Thursday": "10:00-18:00",
+      "Friday": "10:00-18:00",
+      "Saturday": "10:00-15:00",
+      "Sunday": "Closed"
+    },
+    "description": "Top-rated cosmetic and family dentistry center in Bushwick, Brooklyn offering comprehensive dental care with advanced technology. The practice specializes in painless treatments and serves patients from Brooklyn, Williamsburg, and Bedford-Stuyvesant.",
+    "services": [
+      "Dental Implants",
+      "Teeth Whitening",
+      "Dental Crowns",
+      "Dental Bridges",
+      "Porcelain Veneers",
+      "Root Canal Therapy",
+      "Tooth Extraction",
+      "Dental Bonding",
+      "Dentures",
+      "Invisalign/Braces",
+      "Teeth Cleaning",
+      "Oral Cancer Screening",
+      "Bone Regeneration",
+      "Periodontal Services",
+      "Orthodontics"
+    ],
+    "insurance_accepted": [
+      "Most major dental insurance plans accepted"
+    ],
+    "booking_url": "https://app.nexhealth.com/appt/BroadwayFamilyDental"
   },
   {
     "id": "osm_node_10896495774",
@@ -4596,7 +4750,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4623,7 +4777,31 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@journalsquaredental.com",
+    "opening_hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "09:00-18:00",
+      "Thursday": "09:00-18:00"
+    },
+    "description": "Journal Square Dental is a warm, welcoming dental office serving Jersey City and surrounding areas offering affordable, expert dental care including cosmetic, periodontal, and restorative treatments.",
+    "services": [
+      "General & Restorative Dentistry",
+      "Cosmetic Dentistry",
+      "Dental Implants",
+      "Dentures",
+      "Root Canal Therapy",
+      "Implant Supported Dentures",
+      "Invisalign",
+      "Dental Crowns",
+      "Smile Makeover",
+      "Teeth Whitening",
+      "Dental Cleaning",
+      "Periodontal Treatment",
+      "Emergency Dentistry"
+    ],
+    "booking_url": "https://www.journalsquaredental.com/book-an-appointment/"
   },
   {
     "id": "osm_node_11141626504",
@@ -4654,7 +4832,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4679,7 +4857,29 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "9AM - 6PM",
+      "Tuesday": "9AM - 6PM",
+      "Wednesday": "9AM - 6PM",
+      "Thursday": "9AM - 6PM",
+      "Friday": "9AM - 6PM",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Oral and maxillofacial surgery specialist located in New York, NY. Dr. Ronald Biondo provides surgical dental procedures with a focus on patient comfort and anxiety management.",
+    "services": [
+      "Implant Surgery",
+      "Biopsy",
+      "Bone Grafting",
+      "Extractions",
+      "Emergency Care",
+      "TMJ Treatment",
+      "Oral & Maxillofacial Trauma",
+      "3D Imaging",
+      "Sedation"
+    ],
+    "booking_url": "https://www.zocdoc.com/practice/dr-ronald-l-biondo-oral-maxillofacial-surgeon-68279?lock=true&isNewPatient=false&referrerType=widget"
   },
   {
     "id": "osm_node_11189743597",
@@ -4771,7 +4971,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4801,7 +5001,16 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@toothworksnyc.com",
+    "description": "Tooth Works provides comprehensive pediatric dental care for infants, children, and adolescents in New York. The practice emphasizes patient comfort through a child-friendly approach.",
+    "services": [
+      "Preventative care",
+      "Conservative treatment",
+      "Special needs care",
+      "Sedation dentistry"
+    ],
+    "booking_url": "https://www.zocdoc.com/practice/tooth-works-23377?lock=true&isNewPatient=false&referrerType=widget"
   },
   {
     "id": "osm_node_11530464560",
@@ -4886,7 +5095,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4909,7 +5118,25 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "Info@sunshinesmilesny.com",
+    "opening_hours": {
+      "Monday": "9am - 5pm",
+      "Tuesday": "9am - 5pm",
+      "Wednesday": "9am - 5pm",
+      "Thursday": "9am - 5pm",
+      "Friday": "9am - 5pm"
+    },
+    "description": "Pediatric dentistry practice on Manhattan's Upper West Side offering a bright, welcoming environment. The practice aims to provide exceptional dental care and help children develop positive attitudes toward dentistry.",
+    "services": [
+      "Preventative Dentistry",
+      "Restorative Treatment",
+      "Tongue and Lip Ties with Laser Technology",
+      "Sedation",
+      "Special Needs Dentistry",
+      "Dental Emergencies"
+    ],
+    "booking_url": "https://flexbook.me/sunshineny"
   },
   {
     "id": "osm_node_11559194862",
@@ -4940,7 +5167,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4963,7 +5190,39 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "west@souldentalnyc.com",
+    "opening_hours": {
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Soul Dental operates luxury dental locations providing holistic cosmetic, family, and pediatric dentistry services. Their practice emphasizes a beautiful patient experience while maintaining excellence in clinical care.",
+    "services": [
+      "Exams & Cleanings",
+      "Cosmetic Dentistry",
+      "Porcelain Veneers",
+      "Invisalign",
+      "Teeth Whitening",
+      "Botox Dentistry",
+      "Emergency Dentistry",
+      "Periodontics",
+      "Orthodontics",
+      "Restorative Dentistry",
+      "Oral Surgery",
+      "Extractions",
+      "Sedation Dentistry",
+      "Root Canals",
+      "Pediatric Dentistry"
+    ],
+    "insurance_accepted": [
+      "Multiple insurance plans accepted"
+    ],
+    "booking_url": "https://nexhealth.com/appt/souldental/"
   },
   {
     "id": "osm_node_11563331772",
@@ -4995,7 +5254,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5018,7 +5277,49 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hello@hellotend.com",
+    "opening_hours": {
+      "Monday": "07:00am-08:00pm",
+      "Tuesday": "07:00am-08:00pm",
+      "Wednesday": "07:00am-08:00pm",
+      "Thursday": "07:00am-08:00pm",
+      "Friday": "07:00am-08:00pm",
+      "Saturday": "08:00am-03:00pm",
+      "Sunday": "Closed"
+    },
+    "description": "Modern dental practice on the Upper West Side offering routine cleanings, checkups, whitening, clear aligners, and cosmetic services with evening and weekend appointments in a calm, thoughtfully designed space.",
+    "services": [
+      "Family Dental Care",
+      "Dental Exams",
+      "Hygiene & Cleaning",
+      "Clear Aligners",
+      "Teeth Whitening",
+      "Veneers",
+      "Dental Implants",
+      "Oral Surgery",
+      "Endodontics",
+      "Perio Protect Gum Treatment",
+      "Emergency Care",
+      "Wisdom Tooth Extractions",
+      "Cosmetic Services",
+      "Injectables for TMJ"
+    ],
+    "insurance_accepted": [
+      "Aetna",
+      "Anthem/CareFirst/FEP Dental",
+      "Cigna",
+      "Delta Dental",
+      "GEHA",
+      "Guardian",
+      "MetLife",
+      "United Concordia",
+      "United Healthcare",
+      "Blue Cross Blue Shield",
+      "Principal",
+      "Ameritas"
+    ],
+    "booking_url": "https://www.hellotend.com/booking/services?market=new-york-city&studio=upper-west-side"
   },
   {
     "id": "osm_node_11591064696",
@@ -5159,7 +5460,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5189,7 +5490,21 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Leading cosmetic dentist in NYC specializing in veneers, crowns and smile makeovers. Dr. Pia uses 'The Dr. Pia Method™,' a proprietary no-prep or minimally invasive approach that designs smiles directly on natural teeth without filing.",
+    "services": [
+      "Porcelain Veneers",
+      "No Drill Veneers",
+      "Cosmetic Dentistry",
+      "Smile Makeovers",
+      "Dental Bonding",
+      "Implant Crowns",
+      "Laser Teeth Whitening",
+      "Invisalign",
+      "Lip Enhancement/Augmentation",
+      "Botox & Fillers"
+    ],
+    "booking_url": "https://cosmeticdentistrycenternyc.com/contact/"
   },
   {
     "id": "osm_node_12840681274",
@@ -5284,7 +5599,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5312,7 +5627,37 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "08:00-19:00",
+      "Tuesday": "08:00-19:00",
+      "Wednesday": "08:00-19:00",
+      "Thursday": "08:00-19:00",
+      "Friday": "08:00-19:00"
+    },
+    "description": "Multi-specialty center serving Brooklyn and Manhattan for over 20 years with advanced 3D scanning and laser technology. Dentists provide treatments to address dental needs and overall well-being for long-term results.",
+    "services": [
+      "Cosmetic Dentistry",
+      "Dental Crowns",
+      "Dental Veneers",
+      "Dental Bonding",
+      "Teeth Whitening",
+      "Dental Implants",
+      "General Dentistry",
+      "Family Dentistry",
+      "Root Canal",
+      "Tooth Extraction",
+      "Orthodontics",
+      "Emergency Dental",
+      "Teeth Cleaning"
+    ],
+    "insurance_accepted": [
+      "Medicaid",
+      "Medicare",
+      "Most major dental insurance plans",
+      "Care Credit Financing"
+    ],
+    "booking_url": "https://www.centurymedicaldental.com/book-dental-appointment/"
   },
   {
     "id": "osm_node_13298424129",
@@ -5344,7 +5689,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5372,7 +5717,32 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "office@cpwdentistry.com",
+    "opening_hours": {
+      "Monday": "8:00 AM - 8:00 PM",
+      "Tuesday": "8:00 AM - 8:00 PM",
+      "Wednesday": "8:00 AM - 8:00 PM",
+      "Thursday": "8:00 AM - 8:00 PM",
+      "Friday": "8:00 AM - 8:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM"
+    },
+    "description": "Locally owned Upper West Side dental practice operating 7 days a week, providing trusted, comfort-first care since 1998 near Columbus Circle and Lincoln Center.",
+    "services": [
+      "Emergency Dentistry",
+      "General Family Dentistry",
+      "Restorative Dentistry",
+      "Cosmetic Dentistry",
+      "Dental Implants",
+      "Invisalign",
+      "Pain-Free Root Canals",
+      "Periodontics & Gum Disease"
+    ],
+    "insurance_accepted": [
+      "Most major PPO plans"
+    ],
+    "booking_url": "https://cpwdentistry.com/schedule-an-appointment/"
   },
   {
     "id": "osm_node_13596597822",
@@ -5404,7 +5774,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5433,7 +5803,36 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@nycdentistrycenter.com",
+    "opening_hours": {
+      "Monday": "8:30 AM - 6:00 PM",
+      "Tuesday": "8:30 AM - 6:00 PM",
+      "Wednesday": "8:30 AM - 6:00 PM",
+      "Thursday": "8:30 AM - 6:00 PM",
+      "Friday": "8:30 AM - 3:00 PM",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Multi-specialty dental practice in Midtown East offering cosmetic, implant, orthodontic, and emergency care. Accepts new patients in a modern setting.",
+    "services": [
+      "Cosmetic Dentistry",
+      "Restorative Dentistry",
+      "Dental Implants",
+      "Oral Surgery",
+      "Endodontics",
+      "Orthodontics",
+      "Family Dentistry",
+      "Periodontics",
+      "Diagnostic & Preventative Care",
+      "Sedation Dentistry",
+      "Laser Dentistry",
+      "Emergency Dental Care"
+    ],
+    "insurance_accepted": [
+      "Major insurance plans accepted"
+    ],
+    "booking_url": "https://www.nycdentistrycenter.com/book-dental-appointment/"
   },
   {
     "id": "osm_node_2522802844",
@@ -5465,7 +5864,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5490,7 +5889,36 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "9:00-19:00",
+      "Tuesday": "9:00-17:00",
+      "Wednesday": "9:00-18:00",
+      "Thursday": "9:00-17:00"
+    },
+    "description": "Trusted dentist in Astoria since 1992, specializing in restorative and cosmetic dental care. Top priorities are the care and comfort of patients and the provision of successful treatment outcomes.",
+    "services": [
+      "Emergency Treatment",
+      "Extractions",
+      "Oral Exams",
+      "Periodontal Treatment",
+      "Preventative Program",
+      "Root Canals",
+      "Crowns",
+      "Dental Bridges",
+      "Dentures",
+      "Full Mouth Reconstruction",
+      "Implant Dentistry",
+      "Bonding",
+      "Bone Grafts",
+      "Cosmetic Dentistry",
+      "Teeth Whitening",
+      "Veneers"
+    ],
+    "insurance_accepted": [
+      "Dental Insurance"
+    ],
+    "booking_url": "https://ditmars-dental.com/appointments/"
   },
   {
     "id": "osm_node_2550786603",

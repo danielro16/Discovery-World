@@ -216,7 +216,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -240,7 +240,39 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@codydental.com",
+    "opening_hours": {
+      "Monday": "7:00 AM - 5:00 PM",
+      "Tuesday": "7:00 AM - 5:00 PM",
+      "Wednesday": "7:00 AM - 5:00 PM",
+      "Thursday": "7:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 12:00 PM"
+    },
+    "description": "Cody Dental Group provides comprehensive dental care in Denver, CO since 1946 with over 100 years of combined dental experience. The practice offers patient-centered care emphasizing education and prevention.",
+    "services": [
+      "General Dentistry",
+      "Pediatric Dentistry",
+      "Orthodontics",
+      "Periodontics",
+      "TMJ Treatment",
+      "Emergency Dentistry",
+      "Dental Implants",
+      "Teeth Whitening",
+      "Dental Crowns",
+      "Dental Bridges",
+      "Veneers",
+      "Bonding",
+      "Invisalign"
+    ],
+    "insurance_accepted": [
+      "Delta Dental",
+      "Cigna",
+      "United Concordia",
+      "Aetna",
+      "MetLife"
+    ],
+    "booking_url": "https://codydental.com/dentist-appointment/"
   },
   {
     "id": "osm_node_7325863582",
@@ -348,7 +380,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -374,7 +406,32 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "bsclearsmile@gmail.com",
+    "opening_hours": {
+      "Monday": "10:00 am - 6:00 pm",
+      "Tuesday": "10:00 am - 6:00 pm",
+      "Wednesday": "7:00 am - 3:00 pm",
+      "Thursday": "7:00 am - 3:00 pm",
+      "Friday": "8:00 am - 4:00 pm"
+    },
+    "description": "Locally owned private dental practice offering personalized care for families with general, cosmetic, and restorative dentistry and modern technology.",
+    "services": [
+      "Family & General Dentistry",
+      "Cosmetic Dentistry",
+      "Dental Implants",
+      "Restorative Dentistry",
+      "Invisalign",
+      "Oral Surgery",
+      "Sedation Dentistry",
+      "Emergency Dentistry",
+      "Sleep Apnea Treatment",
+      "TMJ Treatment"
+    ],
+    "insurance_accepted": [
+      "Multiple major dental insurance carriers accepted"
+    ],
+    "booking_url": "https://www.flexbook.me/CSDC/google/1"
   },
   {
     "id": "osm_node_12630751501",
@@ -494,7 +551,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -519,7 +576,40 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "office@soprissmiles.com",
+    "opening_hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "07:30-16:00",
+      "Wednesday": "09:00-16:00",
+      "Thursday": "07:30-16:00"
+    },
+    "description": "Boutique family and cosmetic dental practice in Englewood offering advanced laser dentistry and same-day crowns. Known for personalized, anesthetic-free procedures using cutting-edge technology.",
+    "services": [
+      "Cosmetic Dentistry",
+      "Dental Implants",
+      "Same-Day Crowns (CEREC)",
+      "Invisalign & Clear Aligners",
+      "Teeth Whitening",
+      "Veneers",
+      "Dental Bridges",
+      "Dentures",
+      "Periodontal Treatment",
+      "Oral Cancer Screening",
+      "Family Dentistry",
+      "TMJ Treatment",
+      "Botox",
+      "Emergency Dental Care"
+    ],
+    "insurance_accepted": [
+      "GEHA",
+      "Guardian",
+      "Cigna",
+      "Humana",
+      "United Healthcare",
+      "Medicare Advantage"
+    ],
+    "booking_url": "https://app.nexhealth.com/appt/sopris-smiles"
   },
   {
     "id": "osm_node_13640629629",
@@ -1599,7 +1689,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1658,6 +1748,29 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday": "09:00-20:00",
+      "Tuesday": "09:00-20:00",
+      "Wednesday": "09:00-20:00",
+      "Thursday": "09:00-20:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "09:00-17:00",
+      "Sunday": "09:00-17:00"
+    },
+    "description": "Star Dental PLLC is a Denver-based dental practice offering comprehensive dental services including emergency care, serving patients from Denver and surrounding Colorado communities with a focus on family dentistry.",
+    "services": [
+      "Emergency Dentistry",
+      "Cosmetic Dentistry",
+      "Dental Implants",
+      "Oral Surgery",
+      "Orthodontics",
+      "Endodontics",
+      "Periodontics",
+      "Pediatric Dentistry",
+      "Restorative Dentistry",
+      "Preventive Care",
+      "Family Dentistry"
     ]
   },
   {
@@ -1800,7 +1913,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1820,7 +1933,40 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "gvr@gvrdental.com",
+    "opening_hours": {
+      "Monday": "8:00-17:00",
+      "Tuesday": "8:00-17:00",
+      "Wednesday": "8:00-17:00",
+      "Thursday": "8:00-17:00",
+      "Friday": "Closed",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Family-friendly modern dentistry office in Green Valley Ranch, Denver, offering comprehensive dental services with a team of specialists. The practice emphasizes patient comfort and satisfaction while maintaining healthy, bright smiles.",
+    "services": [
+      "Cosmetic Dentistry",
+      "Whitening",
+      "Veneers",
+      "Dentures",
+      "Bridges and Crowns",
+      "Dental Implants",
+      "Emergency Services",
+      "Endodontics",
+      "Tooth Extractions",
+      "Invisalign",
+      "Pediatric Dentistry",
+      "Orthodontics"
+    ],
+    "insurance_accepted": [
+      "AETNA",
+      "Delta Dental",
+      "MetLife",
+      "Cigna",
+      "United Concordia"
+    ],
+    "booking_url": "https://gvrdental.com/contact/"
   },
   {
     "id": "osm_node_9523022423",
@@ -1850,7 +1996,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1876,7 +2022,35 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "8:00 AM - 5:00 PM",
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 2:00 PM",
+      "Friday": "Closed",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "SMYLE Dental Design is a comprehensive dental practice in Aurora, CO led by Dr. Conan Zhu, providing preventative, restorative, and cosmetic dentistry for families of all ages.",
+    "services": [
+      "Oral Cancer Screening",
+      "Teeth Cleaning",
+      "Periodontal Therapy",
+      "Porcelain Veneers",
+      "Porcelain Crowns",
+      "Composite Fillings",
+      "Teeth Whitening",
+      "Gum Contouring",
+      "Invisalign",
+      "Implants",
+      "Full or Partial Dentures",
+      "Porcelain Bridges",
+      "Root Canals",
+      "Oral Surgery",
+      "Bone Grafting"
+    ],
+    "booking_url": "https://smyledentaldesign.com/contact/"
   },
   {
     "id": "osm_node_11965789304",
@@ -2152,7 +2326,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2178,7 +2352,47 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "7:00 AM - 2:00 PM",
+      "Saturday": "Closed",
+      "Sunday": "9:00 AM - 2:00 PM"
+    },
+    "description": "Quality, affordable dental care facility in Arvada, CO offering routine care and specialized treatments. The practice provides comprehensive dental services including cleanings, implants, clear aligners, and cosmetic dentistry.",
+    "services": [
+      "General Dentistry",
+      "Dental Implants",
+      "Clear Aligners",
+      "Orthodontics",
+      "Emergency Dental Care",
+      "Cosmetic Dentistry",
+      "Braces",
+      "Root Canals",
+      "Dental Crowns",
+      "Teeth Whitening",
+      "Dentures",
+      "Dental Veneers",
+      "Wisdom Teeth Removal"
+    ],
+    "insurance_accepted": [
+      "Aetna DHMO",
+      "Aetna PPO",
+      "Anthem/Wellpoint PPO",
+      "Cigna DHMO",
+      "Cigna PPO",
+      "Delta Dental PPO",
+      "Delta Dental Premier",
+      "Guardian PPO",
+      "Humana/CompBenefits PPO",
+      "MetLife PPO",
+      "UHC/DBP PPO",
+      "Medicaid - DentaQuest"
+    ],
+    "booking_url": "https://www.brightnow.com/appointment/?officeid=41210"
   },
   {
     "id": "osm_node_12804201061",
@@ -2208,7 +2422,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2231,7 +2445,37 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "7 AM - 6 PM",
+      "Tuesday": "7 AM - 5:30 PM",
+      "Wednesday": "7 AM - 5:30 PM",
+      "Thursday": "7 AM - 5:30 PM",
+      "Friday": "7 AM - 1:30 PM",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Station Dental in Arvada provides comprehensive general and cosmetic dentistry with a team of experienced and highly skilled dental professionals committed to providing quality dental care to patients of all ages.",
+    "services": [
+      "Family Dentistry",
+      "Preventive Care",
+      "Dental Fillings",
+      "Dental Crowns",
+      "Dental Implants",
+      "Root Canal Therapy",
+      "Teeth Whitening",
+      "Dental Veneers",
+      "Invisalign Clear Braces",
+      "Emergency Dentistry",
+      "Children's Dentistry",
+      "Dentures",
+      "Periodontics",
+      "Sedation Dentistry"
+    ],
+    "insurance_accepted": [
+      "All PPO Insurance Plans"
+    ],
+    "booking_url": "https://app.nexhealth.com/appt/smile_partners_usa?lid=127444"
   },
   {
     "id": "osm_node_13073364801",
@@ -2262,7 +2506,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2285,6 +2529,31 @@
     },
     "sources": [
       "osm"
+    ],
+    "email": "info@arvadadentalcenter.com",
+    "opening_hours": {
+      "Monday": "8:00 AM - 5:00 PM",
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Arvada Dental Center & Implants offers dental implants, full-arch restorations, and cosmetic dentistry services. The practice is led by Dr. Gregory Bennett and specializes in transformative implant treatments.",
+    "services": [
+      "Dental Implants",
+      "All On 4 Full Mouth Implants",
+      "Implant Supported Dentures",
+      "Zirconia Fixed Bridges",
+      "Cosmetic Dentistry",
+      "Porcelain Veneers",
+      "CEREC Same Day Crowns",
+      "Teeth Whitening",
+      "Invisalign & Clear Aligners",
+      "LANAP for Gum Disease",
+      "LAPIP for Failing Implants",
+      "Emergency Dental Care"
     ]
   },
   {
@@ -2437,7 +2706,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2464,7 +2733,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Comfort Dental at 80th & Sheridan in Westminster offers comprehensive dental care with a focus on patient comfort and modern treatment options.",
+    "services": [
+      "General Dentistry",
+      "Braces",
+      "Invisible Braces",
+      "Dental Implants",
+      "Oral Surgery",
+      "Pediatric Dentistry",
+      "Periodontics"
+    ],
+    "booking_url": "https://comfortdental.com/find-a-dentist-directory/"
   },
   {
     "id": "osm_way_220905525",
@@ -2496,7 +2776,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2521,7 +2801,50 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "8:00 AM - 6:00 PM",
+      "Tuesday": "7:00 AM - 6:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 6:00 PM",
+      "Friday": "7:00 AM - 4:00 PM",
+      "Saturday": "8:00 AM - 1:00 PM",
+      "Sunday": "Closed"
+    },
+    "description": "Comprehensive family dentistry provider offering personalized care and advanced solutions in Brighton, Colorado. The practice emphasizes the connection between oral and overall health.",
+    "services": [
+      "Braces/Orthodontics",
+      "Clear Aligners",
+      "Crowns",
+      "Dental Sealants",
+      "Dentures",
+      "Emergency Services",
+      "Fillings",
+      "Fluoride Treatment",
+      "Teeth Cleaning",
+      "Implants",
+      "Inlays and Onlays",
+      "Oral Cancer Screening",
+      "Periodontics",
+      "Root Canal",
+      "Sedation Dentistry",
+      "Teeth Bonding",
+      "Veneers",
+      "Whitening",
+      "Wisdom Teeth Removal"
+    ],
+    "insurance_accepted": [
+      "Aetna",
+      "Ameritas",
+      "Anthem Blue Cross",
+      "Cigna",
+      "Delta Dental",
+      "Guardian",
+      "MetLife",
+      "United Health Care",
+      "UCCI"
+    ],
+    "booking_url": "https://www.brightonmoderndentistry.com/about-us/dentist-appointment/"
   },
   {
     "id": "osm_node_10181520017",
@@ -2531,7 +2854,7 @@
       "lat": 39.6285919,
       "lng": -104.895303
     },
-    "phone": "",
+    "phone": "303-745-3182",
     "website": "https://espiredental.com/locations/denver-tech-center/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/10181520017",
@@ -2552,7 +2875,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -2572,7 +2895,40 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "7:00am-4:00pm",
+      "Tuesday": "7:00am-4:00pm",
+      "Wednesday": "7:00am-4:00pm",
+      "Thursday": "7:00am-4:00pm",
+      "Friday": "7:00am-2:00pm",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Espire Dental in the Denver Tech Center is committed to providing exceptional, comprehensive dental care using advanced technology. The practice serves Denver, Greenwood Village, and Cherry Hills with a custom-built facility featuring CEREC same-day crowns.",
+    "services": [
+      "General Dentistry",
+      "Cosmetic Dentistry",
+      "Dental Exams & Cleanings",
+      "Sedation Dentistry",
+      "Emergency Care",
+      "Clear Correct & Clear Aligners",
+      "Same Day Crowns",
+      "Veneers",
+      "Teeth Whitening",
+      "Gum Therapy",
+      "Fillings & Tooth Bonding",
+      "Wisdom Teeth Removal",
+      "Root Canals",
+      "Dental Implants",
+      "Implant Supported Dentures",
+      "Pediatric Dentistry",
+      "TMJ Therapy"
+    ],
+    "insurance_accepted": [
+      "Most major dental insurance plans accepted"
+    ],
+    "booking_url": "https://patientportal-cs5.carestack.com/?dn=espiredental&ln=2009/#/online-appointments"
   },
   {
     "id": "osm_node_11099631960",
@@ -2582,7 +2938,7 @@
       "lat": 39.5834695,
       "lng": -104.9877341
     },
-    "phone": "",
+    "phone": "720-442-8740",
     "website": "https://www.dentistsoflittleton.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/11099631960",
@@ -2603,7 +2959,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -2626,7 +2982,52 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "8:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "11:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "7:00 AM - 4:00 PM",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Dentists of Littleton provides family dentistry services in a modern, friendly environment, emphasizing personalized care and advanced solutions for patients of all ages.",
+    "services": [
+      "Clear Aligners",
+      "Crowns",
+      "Dental Sealants",
+      "Dental X-rays and Imaging",
+      "Dentures",
+      "Emergency Services",
+      "Fillings",
+      "Fluoride Treatment",
+      "Teeth Cleaning",
+      "Inlays and Onlays",
+      "Mouth Guard",
+      "Oral Cancer Screening",
+      "Periodontics",
+      "Root Canal",
+      "Scaling and Root Planing",
+      "Teeth Bonding",
+      "Teeth Extractions",
+      "Tooth Bridge",
+      "Veneers",
+      "Whitening",
+      "Wisdom Teeth Removal"
+    ],
+    "insurance_accepted": [
+      "Aetna",
+      "Ameritas",
+      "Anthem Blue Cross",
+      "Cigna",
+      "Delta Dental",
+      "Guardian",
+      "MetLife",
+      "United Health Care",
+      "UCCI"
+    ],
+    "booking_url": "https://www.dentistsoflittleton.com/about-us/dentist-appointment/"
   },
   {
     "id": "osm_node_11310665460",
@@ -2926,7 +3327,7 @@
       "lat": 39.9156809,
       "lng": -105.0651697
     },
-    "phone": "",
+    "phone": "(303) 466-4646",
     "website": "https://www.peakdentalhealthbroomfield.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/6778215972",
@@ -2947,7 +3348,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -2970,7 +3371,34 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "office@pdhbroomfield.com",
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "8:00 AM - 1:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 2:00 PM"
+    },
+    "description": "Peak Dental Health delivers compassionate, comprehensive dental care in a judgment-free environment. Provides routine cleanings, cosmetic treatments, and restorative procedures with advanced technology and anxiety-free services.",
+    "services": [
+      "General Dentistry",
+      "Anxiety-Free Dentistry",
+      "Dental Cleanings",
+      "Emergency Dentistry",
+      "Cosmetic Dentistry",
+      "Crowns & Bridges",
+      "Teeth Whitening",
+      "Veneers",
+      "Restorative Dentistry",
+      "All on Four Implants",
+      "Clear Aligners",
+      "Dental Implants",
+      "Digital Impressions",
+      "Implant Supported Dentures",
+      "Tooth Extractions"
+    ],
+    "booking_url": "https://app.nexhealth.com/appt/peak-dental-health-broomfield?lid=332964"
   },
   {
     "id": "osm_way_1441714677",
@@ -3102,7 +3530,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3125,7 +3553,39 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@paradisedentistryortho.com",
+    "opening_hours": {
+      "Monday": "8:00am - 4:00pm",
+      "Tuesday": "9:00am - 6:00pm",
+      "Wednesday": "8:00am - 5:00pm",
+      "Thursday": "8:00am - 3:00pm",
+      "Friday": "Closed"
+    },
+    "description": "A Denver dental practice offering comprehensive care combining contemporary technology with resort-style service, featuring preventive, restorative, and cosmetic treatments.",
+    "services": [
+      "Family Dentistry",
+      "Dental Checkups & Cleanings",
+      "Restorative Dentistry",
+      "Dental Crowns",
+      "Dental Bridges",
+      "Tooth-Colored Fillings",
+      "Dentures",
+      "Dental Implants",
+      "Cosmetic Dentistry",
+      "Veneers",
+      "Teeth Whitening",
+      "Dental Bonding",
+      "Orthodontics",
+      "Invisalign",
+      "Emergency Dentistry",
+      "Tooth Extractions",
+      "Gum Disease Treatment"
+    ],
+    "insurance_accepted": [
+      "All popular dental insurance plans"
+    ],
+    "booking_url": "https://www.paradisedentistryorthodenver.com/request-an-appointment.html"
   },
   {
     "id": "osm_node_2890189845",

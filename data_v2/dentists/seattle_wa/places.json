@@ -2628,7 +2628,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -2647,7 +2647,16 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@redmonddentalsmiles.com",
+    "description": "A local family-owned dental practice serving Redmond, Bellevue, and the greater Seattle area. The practice emphasizes minimally invasive dentistry and comprehensive patient care.",
+    "services": [
+      "Preventive Care",
+      "Restorative Dentistry",
+      "Implants",
+      "Invisalign"
+    ],
+    "booking_url": "https://docs.google.com/forms/d/e/1FAIpQLSdtvk8vswM6ZO99O9LViaCHr7txfSu-9n5FPovuQpOgL1bEjQ/viewform"
   },
   {
     "id": "osm_way_457379167",
@@ -2901,7 +2910,7 @@
       "lat": 47.6337431,
       "lng": -122.5177231
     },
-    "phone": "",
+    "phone": "206-780-1010",
     "website": "https://islandental.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/12851669713",
@@ -2916,7 +2925,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 30,
     "claimed": false,
@@ -2932,7 +2941,38 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "reception@islandental.com",
+    "opening_hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "09:00-17:00"
+    },
+    "description": "Trusted family and cosmetic dental practice on Bainbridge Island offering modern, compassionate care for patients of all ages. Services include preventive, cosmetic, and restorative dentistry with advanced technology.",
+    "services": [
+      "General cleanings (simple and deep periodontal)",
+      "Exams and check-ups",
+      "Dental sealants",
+      "Fluoride treatments",
+      "Digital X-rays",
+      "Night guards and TMJ appliances",
+      "Emergency care",
+      "Porcelain veneers",
+      "Porcelain crowns and bridges",
+      "Tooth-colored fillings",
+      "Invisalign",
+      "Teeth whitening",
+      "Dental implants",
+      "Oral surgery",
+      "Tooth extractions",
+      "Wisdom teeth removal",
+      "Sedation services"
+    ],
+    "insurance_accepted": [
+      "Most insurance plans accepted"
+    ],
+    "booking_url": "https://islandental.com/bainbridge-island/"
   },
   {
     "id": "osm_node_1191784997",

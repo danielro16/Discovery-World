@@ -1816,7 +1816,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -1837,7 +1837,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Hickory Hills Park District provides recreational programs and park services to enhance quality of life through fitness center, splash pad, skate park, and sports facilities.",
+    "amenities": [
+      "Fitness Center with Hydro Massage",
+      "Splash Pad",
+      "Skate Park",
+      "Sled Hill",
+      "Basketball Courts",
+      "Tennis Courts",
+      "Athletic Fields"
+    ],
+    "booking_url": "https://www.hhparkdistrict.org/how-to-register/"
   },
   {
     "id": "osm_node_8619401967",
@@ -2612,7 +2623,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -2641,6 +2652,16 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday-Friday": "8am-8pm",
+      "Saturday": "8am-5pm",
+      "Sunday": "Closed"
+    },
+    "description": "The Palmer Cultural Center/Fieldhouse is located at 201 E. 111th in Chicago's Palmer Park, providing community recreational spaces.",
+    "amenities": [
+      "Fieldhouse",
+      "Cultural center"
     ]
   },
   {
@@ -2871,7 +2892,7 @@
       "lat": 41.5422143,
       "lng": -87.6331426
     },
-    "phone": "",
+    "phone": "708-754-9400",
     "website": "https://www.bloomtownship.org/facilities/facility/details/Veterans-Memorial-Park-Skyline-Pool-1",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/way/1324214098",
@@ -2886,7 +2907,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -2910,6 +2931,16 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": "Noon to 7pm",
+    "description": "Veteran's Memorial Park & Skyline Pool offers recreational facilities including a pool, pavilions, sports courts, and community amenities.",
+    "amenities": [
+      "Pool",
+      "Pavilion",
+      "Bocce Ball Courts",
+      "Volleyball",
+      "Grill",
+      "Restrooms"
     ]
   },
   {
@@ -3207,7 +3238,7 @@
       "lat": 41.7387928,
       "lng": -87.7292634
     },
-    "phone": "",
+    "phone": "773.284.7316",
     "website": "https://www.chicagoparkdistrict.com/parks-facilities/durkin-martin-park",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/12331547635",
@@ -3221,7 +3252,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -3243,7 +3274,27 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "9:30am-8pm",
+      "Tuesday": "10:30am-8pm",
+      "Wednesday": "12:30pm-9pm",
+      "Thursday": "10am-8pm",
+      "Friday": "9am-6pm",
+      "Saturday-Sunday": "Closed"
+    },
+    "description": "A 9.67-acre park in the Ashburn community offering four baseball diamonds, a playground, multi-purpose courts, and gymnasium facilities.",
+    "amenities": [
+      "Gymnasium",
+      "Baseball fields (4)",
+      "Football/Soccer field",
+      "Playground",
+      "Multi-purpose court",
+      "Fitness course",
+      "Roller hockey rink",
+      "Water spray pool"
+    ],
+    "booking_url": "http://apm.activecommunities.com/chicagoparkdistrict/Activity_Search"
   },
   {
     "id": "osm_node_12585965881",
@@ -3507,7 +3558,7 @@
       "lat": 41.8200919,
       "lng": -87.8435405
     },
-    "phone": "",
+    "phone": "708.485.9663",
     "website": "https://www.sokolspirit.org/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/way/779995031",
@@ -3521,7 +3572,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -3542,7 +3593,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@sokolspirit.org",
+    "description": "Sokol Spirit is a fitness, gymnastics, education, and social club in Brookfield, IL offering programs rooted in Czech and Slovak cultural traditions.",
+    "amenities": [
+      "Gymnastics classes",
+      "Wheel gymnastics",
+      "Spin classes",
+      "Czech language classes",
+      "Czech film series",
+      "Social events"
+    ],
+    "booking_url": "https://sokolspirit-612637.square.site"
   },
   {
     "id": "osm_way_1146720097",
@@ -3615,7 +3677,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -3636,7 +3698,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@studioyogi.com",
+    "description": "Yoga studio in Chicago's South Shore neighborhood committed to amplifying the importance of movement as part of well-being through an inclusive community.",
+    "amenities": [
+      "Yoga mats for rent",
+      "Locker rooms",
+      "Courtesy slippers",
+      "Parking nearby"
+    ],
+    "membership_info": "Founding membership available",
+    "booking_url": "https://www.union.fit/orgs/studio-yogi"
   },
   {
     "id": "osm_node_7209753932",
@@ -3749,7 +3821,7 @@
       "lat": 41.7171691,
       "lng": -87.6826057
     },
-    "phone": "",
+    "phone": "+1 (708) 887-7371",
     "website": "https://www.clubpilates.com/EvergreenPark/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/12817382290",
@@ -3764,7 +3836,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -3788,7 +3860,27 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "evergreenpark@clubpilates.com",
+    "opening_hours": {
+      "Monday": "06:00-20:00",
+      "Tuesday": "05:00-20:00",
+      "Wednesday": "05:30-20:00",
+      "Thursday": "05:30-20:30",
+      "Friday": "06:00-20:00",
+      "Saturday": "07:30-14:00",
+      "Sunday": "07:30-14:00"
+    },
+    "description": "Boutique Pilates studio specializing in reformer fusion classes for all ages and fitness levels, offering modernized group training based on Joseph Pilates' original method.",
+    "amenities": [
+      "Reformer equipment",
+      "Springboard",
+      "Chair",
+      "Mat classes",
+      "TRX suspension training",
+      "Jumpboard for cardio"
+    ],
+    "booking_url": "https://lp.clubpilates.com/offers?offer_id=intro-class-promo&location=evergreenpark"
   },
   {
     "id": "osm_way_165137625",
@@ -3915,7 +4007,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -3948,6 +4040,14 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday-Friday": "11am-8pm",
+      "Saturday-Sunday": "Closed"
+    },
+    "description": "Community fieldhouse located in Mandrake Park in Chicago's South Side.",
+    "amenities": [
+      "Fieldhouse"
     ]
   },
   {
@@ -3972,7 +4072,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -4002,6 +4102,14 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday-Friday": "9am-8pm",
+      "Saturday-Sunday": "9am-5pm"
+    },
+    "description": "Lindblom Fieldhouse is a public recreational facility located within Robert Lindblom Park at 6054 S. Damen Ave., Chicago.",
+    "amenities": [
+      "Accessible facility"
     ]
   },
   {
@@ -4027,7 +4135,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -4058,6 +4166,15 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday-Friday": "10am-9pm",
+      "Saturday": "11am-7:30pm",
+      "Sunday": "Closed"
+    },
+    "description": "A public fieldhouse at 1301 W. 52nd St. in Chicago's Sherman Park, operated by the Chicago Park District.",
+    "amenities": [
+      "Accessible facility"
     ]
   },
   {
@@ -4185,7 +4302,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -4214,6 +4331,15 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday-Friday": "9am-7:30pm",
+      "Saturday": "9am-5pm",
+      "Sunday": "Closed"
+    },
+    "description": "Fieldhouse facility in Trumbull (Lyman) Park on Chicago's South Side offering recreational amenities.",
+    "amenities": [
+      "Accessible facility"
     ]
   },
   {

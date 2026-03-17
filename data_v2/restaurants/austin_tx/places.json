@@ -3426,7 +3426,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3449,7 +3449,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Thai restaurant offering dine-in, delivery, and takeaway services with authentic Thai cuisine in Austin.",
+    "cuisine_type": "Thai"
   },
   {
     "id": "osm_node_530785813",
@@ -5858,7 +5860,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5882,7 +5884,10 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Korean BBQ inspired restaurant offering bowls, ssäms, and signature Kimchi Fries with Korean Tex-Mex fusion cuisine.",
+    "cuisine_type": "Korean BBQ / Korean Tex-Mex",
+    "booking_url": "https://order.chilantrobbq.com/"
   },
   {
     "id": "osm_node_4727762157",

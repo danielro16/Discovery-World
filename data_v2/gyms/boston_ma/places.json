@@ -1293,7 +1293,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1318,6 +1318,13 @@
     },
     "sources": [
       "osm"
+    ],
+    "description": "Sports and fitness club in Davis Square offering cardio and strength equipment, group fitness classes, and wellness amenities.",
+    "amenities": [
+      "Cardio equipment",
+      "Strength equipment",
+      "Group fitness classes",
+      "Personal training"
     ]
   },
   {
@@ -2422,7 +2429,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2449,6 +2456,10 @@
     },
     "sources": [
       "osm"
+    ],
+    "description": "Combat Sports Boston offers mixed martial arts training in Boston, MA at 261 Friend Street.",
+    "amenities": [
+      "Mixed martial arts training"
     ]
   },
   {
@@ -2788,7 +2799,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2825,6 +2836,11 @@
     },
     "sources": [
       "osm"
+    ],
+    "description": "Goldfish Swim School offers swim lessons in Brookline, MA with a focus on water safety and swimming instruction for children.",
+    "amenities": [
+      "Swim instruction",
+      "Water safety programs"
     ]
   },
   {
@@ -4113,7 +4129,7 @@
       "lat": 42.3370827,
       "lng": -71.0557947
     },
-    "phone": "",
+    "phone": "+1-617-315-7265",
     "website": "https://playpkl.com",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/10874276856",
@@ -4135,7 +4151,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -4167,7 +4183,23 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@playpkl.com",
+    "opening_hours": {
+      "Monday-Wednesday": "7:00am-11:00pm",
+      "Thursday-Friday": "7:00am-1:00am",
+      "Saturday": "8:30am-1:00am",
+      "Sunday": "8:30am-10:00pm"
+    },
+    "description": "Boston's original pickleball venue offering court rentals, food, drinks, and events in a vibrant social atmosphere.",
+    "amenities": [
+      "Pickleball courts",
+      "Award-winning BBQ",
+      "Full bar",
+      "Live music events",
+      "Group event hosting"
+    ],
+    "booking_url": "https://playpkl.com/reserve/"
   },
   {
     "id": "osm_node_12920338298",
@@ -4200,7 +4232,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -4219,7 +4251,33 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Sunday": "8am-10pm",
+      "Monday": "6am-11pm",
+      "Tuesday": "6am-11pm",
+      "Wednesday": "6am-11pm",
+      "Thursday": "6am-11pm",
+      "Friday": "6am-11pm",
+      "Saturday": "8am-10pm"
+    },
+    "description": "Located in Somerville near Harvard University, this Bouldering Project location offers indoor bouldering and rope climbing\u2014the only location with rope climbing capabilities.",
+    "amenities": [
+      "Bouldering walls",
+      "Rope climbing",
+      "Yoga studio",
+      "Fitness studio",
+      "Co-working spaces",
+      "Sauna",
+      "Youth programming"
+    ],
+    "membership_info": {
+      "monthly": "Recurring monthly membership",
+      "annual": "Prepaid annual membership",
+      "day_pass": "Single day visit option",
+      "punch_pass": "10-visit punch card"
+    },
+    "booking_url": "https://boulderingproject.com/pricing-membership/"
   },
   {
     "id": "osm_way_29764913",
@@ -4541,7 +4599,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -4569,7 +4627,22 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "A comprehensive sports and wellness facility offering tennis, pickleball, platform tennis, fitness, aquatics, basketball, volleyball, and dining services.",
+    "amenities": [
+      "Tennis courts",
+      "Pickleball courts",
+      "Platform tennis courts",
+      "Swimming pool",
+      "Fitness center",
+      "Group exercise classes",
+      "Pilates studio",
+      "Basketball courts",
+      "Soccer facilities",
+      "Restaurant"
+    ],
+    "membership_info": "Full memberships plus specialized pickleball-only and platform tennis-only options",
+    "booking_url": "https://kingsburymed.clubautomation.com/"
   },
   {
     "id": "osm_way_1058643787",
@@ -4692,7 +4765,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -4711,7 +4784,22 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Balance Studio offers movement, mindfulness, and community through yoga, pilates, barre, and wellness services designed to support transformation.",
+    "amenities": [
+      "Yoga classes",
+      "Classical pilates mat & equipment",
+      "Barre classes",
+      "Private yoga",
+      "Yoga therapy",
+      "Private pilates",
+      "Infrared sauna",
+      "Reiki",
+      "Massage therapy",
+      "On-demand virtual studio"
+    ],
+    "membership_info": "Membership options available",
+    "booking_url": "https://balancestudiocohasset.com/book-a-class"
   },
   {
     "id": "osm_node_7043269468",

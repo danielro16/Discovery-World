@@ -877,7 +877,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -905,6 +905,21 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Rifkin Raanan is a Beverly Hills cosmetic dentistry practice offering advanced dental services with a 5-star rating. Located at 414 North Camden Drive Suite 1280.",
+    "services": [
+      "Cosmetic dentistry",
+      "Dental procedures",
+      "Smile enhancement"
     ]
   },
   {
@@ -1646,7 +1661,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1670,6 +1685,11 @@
     },
     "sources": [
       "osm"
+    ],
+    "description": "Yeo Family Dental Group offers affordable, personalized, quality dental care in Marina Del Rey, focusing on long-term results for patients.",
+    "services": [
+      "Family dentistry",
+      "General dental care"
     ]
   },
   {
@@ -2440,7 +2460,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2467,7 +2487,34 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "xuanyulu.chn@gmail.com",
+    "opening_hours": {
+      "Monday": "8:30am - 5:00pm",
+      "Tuesday": "8:30am - 5:00pm",
+      "Wednesday": "Closed",
+      "Thursday": "8:30am - 5:00pm",
+      "Friday": "Closed",
+      "Saturday": "8:00am - 1:00pm",
+      "Sunday": "Closed"
+    },
+    "description": "PhD Orthodontics provides evidence-based orthodontic care with specialization in craniofacial treatment and early intervention. Dr. Xuanyu Lu combines expertise from advanced training at UIC, Children's Hospital Los Angeles, and USC.",
+    "services": [
+      "Braces",
+      "Invisalign Treatment",
+      "Early Orthodontic Treatment",
+      "Pediatric Orthodontics",
+      "Smile Arc",
+      "Sleep Apnea Treatment",
+      "Pediatric Sleep Apnea Appliances",
+      "Surgical Orthodontics",
+      "Cleft and Craniofacial Treatment",
+      "Orthopedics"
+    ],
+    "insurance_accepted": [
+      "Most insurance plans accepted"
+    ],
+    "booking_url": "https://phdorthodontics.com/request-appointment/"
   },
   {
     "id": "osm_node_13340618473",
@@ -2500,7 +2547,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2529,6 +2576,33 @@
     },
     "sources": [
       "osm"
+    ],
+    "email": "contact@genesisdentalartssanmarino.com",
+    "opening_hours": {
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 3:00 PM",
+      "Sunday": "Closed"
+    },
+    "description": "Premier dental clinic providing comprehensive care with skill, compassion, and integrity. Serves San Marino and surrounding areas with a full spectrum of dental medicine.",
+    "services": [
+      "General Dentistry",
+      "Cosmetic Dentistry",
+      "Dental Implants",
+      "Root Canal Treatment",
+      "Wisdom Teeth Extraction",
+      "Orthodontics",
+      "Periodontics",
+      "Oral/Maxillofacial Surgery",
+      "Conscious Sedation",
+      "General Anesthesia"
+    ],
+    "insurance_accepted": [
+      "All major PPOs",
+      "All major HMOs"
     ]
   },
   {
@@ -2684,7 +2758,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2711,7 +2785,52 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "8:30 AM - 5:30 PM",
+      "Tuesday": "8:00 AM - 7:00 PM",
+      "Wednesday": "8:30 AM - 5:30 PM",
+      "Thursday": "8:00 AM - 6:00 PM",
+      "Friday": "7:00 AM - 4:00 PM",
+      "Saturday": "8:00 AM - 12:00 PM",
+      "Sunday": "Closed"
+    },
+    "description": "Family dentistry practice in Arcadia offering comprehensive oral care with advanced technology. Dedicated to supporting overall health through personalized treatments from routine cleanings to complex procedures.",
+    "services": [
+      "Clear Aligners",
+      "Crowns",
+      "Dental Sealants",
+      "Dental X-rays and Imaging",
+      "Dentures",
+      "Emergency Services",
+      "Fillings",
+      "Fluoride Treatment",
+      "Teeth Cleaning",
+      "Inlays and Onlays",
+      "Mouth Guard",
+      "Oral Cancer Screening",
+      "Periodontics",
+      "Root Canal",
+      "Scaling and Root Planing",
+      "Teeth Bonding",
+      "Teeth Extractions",
+      "Tooth Bridge",
+      "Veneers",
+      "Whitening",
+      "Wisdom Teeth Removal"
+    ],
+    "insurance_accepted": [
+      "Aetna",
+      "Ameritas",
+      "Anthem Blue Cross",
+      "Cigna",
+      "Delta Dental",
+      "Guardian",
+      "MetLife",
+      "United Health Care",
+      "UCCI"
+    ],
+    "booking_url": "https://www.santaanitadental.com/about-us/dentist-appointment/"
   },
   {
     "id": "osm_node_4457142892",
@@ -2738,7 +2857,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2761,7 +2880,28 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "dr.cronk@pacbell.net",
+    "opening_hours": {
+      "Monday": "9:00 am - 6:00 pm",
+      "Tuesday": "Closed",
+      "Wednesday": "9:00 am - 6:00 pm",
+      "Thursday": "9:00 am - 6:00 pm",
+      "Friday": "9:00 am - 6:00 pm"
+    },
+    "description": "Woodland Hills dental practice offering general and cosmetic dentistry with a priority on quality, gentle dental care in a comfortable and convenient setting.",
+    "services": [
+      "General dentistry",
+      "Cosmetic dentistry",
+      "Teeth whitening",
+      "Veneers",
+      "Implants",
+      "Crowns and bridges",
+      "Fillings",
+      "Sealants",
+      "Invisalign"
+    ],
+    "booking_url": "https://www.drcronk.com/appointment-request"
   },
   {
     "id": "osm_node_6995508487",
@@ -2907,7 +3047,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2930,6 +3070,14 @@
     },
     "sources": [
       "osm"
+    ],
+    "email": "info@bakimplantstudio.com",
+    "description": "BAK Implant Studio specializes in periodontal and implant dentistry in Tarzana, California providing advanced surgical procedures and full-arch rehabilitation with board-certified periodontists.",
+    "services": [
+      "Dental implant surgery",
+      "Periodontal care",
+      "Full-arch rehabilitation",
+      "Same-day dental implants"
     ]
   },
   {
@@ -2961,7 +3109,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2988,7 +3136,36 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "09:00-17:30",
+      "Tuesday": "09:00-17:30",
+      "Wednesday": "09:00-17:30",
+      "Thursday": "09:00-17:30",
+      "Friday": "09:00-17:30",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Northridge Dental Group offers comprehensive family dental care in the San Fernando Valley, providing comfortable treatment from caring professionals.",
+    "services": [
+      "General Dentistry",
+      "Cosmetic Dentistry",
+      "Restorative Dentistry",
+      "Endodontics",
+      "Preventative Dentistry",
+      "Orthodontics",
+      "Periodontics",
+      "Implant Dentistry",
+      "Oral Surgery",
+      "Dental Sleep Medicine",
+      "Emergency Dentistry",
+      "Hypno Dentistry",
+      "Sedation"
+    ],
+    "insurance_accepted": [
+      "Private insurance accepted"
+    ],
+    "booking_url": "https://northridgedentalgroup.com/request-an-appointment/"
   },
   {
     "id": "osm_node_13168939325",
@@ -3195,7 +3372,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3220,7 +3397,30 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "shermanoakspedo@hotmail.com",
+    "opening_hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00",
+      "Saturday": "08:00-12:00"
+    },
+    "description": "Pediatric dental practice serving the San Fernando Valley since 2007, offering specialized care for children and teens including dentistry and orthodontics.",
+    "services": [
+      "Pediatric Dentistry",
+      "Orthodontics",
+      "Special Needs Dentistry",
+      "Preventive Care",
+      "Dental Exams and Cleanings",
+      "Sports Mouthguards",
+      "Sealants",
+      "Nitrous Oxide Sedation",
+      "Invisalign for Teens",
+      "Emergency Dental Care"
+    ],
+    "booking_url": "https://booking.adit.com/39ed8586-90e2-4dba-9f79-8cd09f3e1e67"
   },
   {
     "id": "osm_node_9859573455",
@@ -3307,7 +3507,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3329,7 +3529,37 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "admin@alphaonedental.com",
+    "opening_hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "09:00-18:00",
+      "Thursday": "09:00-18:00",
+      "Friday": "09:00-18:00"
+    },
+    "description": "Alpha One Dental provides comprehensive dental care specializing in cosmetic and implant dentistry in Burbank, CA. Services include dental implants, overdentures, All-on-4/Teeth in a Day, and cosmetic dentistry.",
+    "services": [
+      "Dental Implants",
+      "All-on-4/Teeth in a Day",
+      "Overdentures",
+      "Cosmetic Dentistry",
+      "General cleanings and exams",
+      "Reconstructive services",
+      "Wisdom teeth extraction",
+      "Preventive care"
+    ],
+    "insurance_accepted": [
+      "MetLife",
+      "Humana",
+      "Guardian",
+      "AFLAC",
+      "Aetna",
+      "Delta Dental",
+      "Medi-Cal",
+      "Cigna"
+    ],
+    "booking_url": "https://alphaonedental.com/contact"
   },
   {
     "id": "osm_node_11395319167",
@@ -3416,7 +3646,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3440,7 +3670,21 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "All Smile Dental Group is a family and cosmetic dental practice in Burbank, CA led by Dr. Michael Shirvani, DDS, offering comprehensive dental care including implants, Invisalign, and cosmetic treatments.",
+    "services": [
+      "General Dentistry",
+      "Family Dentistry",
+      "Cosmetic Dentistry",
+      "Invisalign",
+      "Dental Exam & Cleaning",
+      "Teeth Whitening",
+      "Dental Crowns",
+      "Dental Implants",
+      "Dental Fillings",
+      "Root Canal"
+    ],
+    "booking_url": "https://www.allsmilesburbank.com/appointment/"
   },
   {
     "id": "osm_node_11751744768",

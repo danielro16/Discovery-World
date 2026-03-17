@@ -1558,7 +1558,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1582,7 +1582,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon & Tue: 7am-2pm, Wed & Thu: 7am-6pm, Fri-Sun: by appointment",
+    "description": "Holistic fitness combining hypnotherapy with dynamic movement training using the CC 360\u00b0 methodology for mental and physical transformation.",
+    "amenities": [
+      "Hypnotherapy services",
+      "Pilates training",
+      "CC360\u00b0 coaching",
+      "1:1 hypnosis sessions",
+      "Group workshops"
+    ],
+    "booking_url": "https://formationenergetix.systeme.io/guided_session"
   },
   {
     "id": "osm_node_13036321493",
@@ -2657,7 +2667,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2685,7 +2695,26 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "studio@spinasanafit.com",
+    "description": "Studio blending indoor cycling and yoga classes, offering both high-intensity workouts and restorative practices in a single membership.",
+    "amenities": [
+      "Unlimited classes option",
+      "Early booking credits",
+      "Free mat and towel rentals",
+      "Free spin shoe rentals",
+      "Free workshop access",
+      "Monthly guest passes"
+    ],
+    "membership_info": {
+      "unlimited_monthly": "$340/month",
+      "unlimited_yearly": "$3,500/year",
+      "12_class_monthly": "$265/month",
+      "8_class_monthly": "$195/month",
+      "10_class_pack": "$280",
+      "single_class": "$33"
+    },
+    "booking_url": "https://momence.com/m/558730"
   },
   {
     "id": "osm_node_3178454566",
@@ -3716,7 +3745,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3745,7 +3774,29 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "sanmarinohuntington@snapfitness.com",
+    "opening_hours": {
+      "Monday": "10:00am-3:00pm",
+      "Tuesday": "2:00pm-7:00pm",
+      "Wednesday": "2:00pm-7:00pm",
+      "Thursday": "2:00pm-7:00pm",
+      "Friday": "10:00am-3:00pm",
+      "Saturday": "10:00am-3:00pm"
+    },
+    "description": "San Marino boutique gym offering 24/7 member access with cardio, strength, and functional training equipment plus a member app.",
+    "amenities": [
+      "24/7 access",
+      "Cardio equipment",
+      "Free weights",
+      "Strength training",
+      "Personal training",
+      "Group classes",
+      "Private showers",
+      "Snap App access"
+    ],
+    "membership_info": "Special offer: FREE enrollment with first month dues; key card access included",
+    "booking_url": "https://www.snapfitness.com/us/join"
   },
   {
     "id": "osm_node_13298890564",
@@ -4112,7 +4163,7 @@
       "lat": 33.8798941,
       "lng": -118.0516118
     },
-    "phone": "",
+    "phone": "(562) 407-2600",
     "website": "https://www.cerritos.gov/recreation-culture/pool-and-swimming/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/way/404197962",
@@ -4135,7 +4186,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -4166,7 +4217,28 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Recreational Swim Sat-Sun": "Noon-2pm",
+      "Adult Lap Swim Mon-Fri": "6am-2pm",
+      "Fitness Center Mon-Fri": "6am-9pm",
+      "Fitness Center Sat-Sun": "7am-5pm"
+    },
+    "description": "An enclosed 50-meter Olympic pool with locker rooms, fitness center, and seating for 288 spectators offering swimming lessons and lap sessions.",
+    "amenities": [
+      "50-meter Olympic pool",
+      "Locker rooms",
+      "Fitness center",
+      "Treadmills",
+      "Ellipticals",
+      "Spectator seating"
+    ],
+    "membership_info": {
+      "fitness_center_annual": "$50/year",
+      "lap_swim_general": "$3",
+      "lap_swim_seniors": "$2.50",
+      "ticket_booklet_adults": "20 for $60"
+    }
   },
   {
     "id": "osm_way_1443813834",
@@ -4633,7 +4705,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -4659,7 +4731,16 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Coach-led, full-body workouts combining strength training with heart rate-based cardio using real-time performance tracking technology.",
+    "amenities": [
+      "Heart rate-based interval training",
+      "Full-body strength training",
+      "Real-time performance monitoring",
+      "Expert coaching",
+      "Group fitness classes"
+    ],
+    "membership_info": "First month free with Premier membership; 30-day money-back guarantee after 12 sessions"
   },
   {
     "id": "osm_node_9718919024",
@@ -4733,7 +4814,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -4755,7 +4836,24 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday-Friday": "7am-9pm",
+      "Saturday-Sunday": "7am-5pm"
+    },
+    "description": "Public tennis and pickleball facility offering private or group lessons for all ages, court rentals, and lit courts.",
+    "amenities": [
+      "Tennis courts (lit)",
+      "9 Pickleball courts",
+      "Private lessons",
+      "Group classes",
+      "Youth programs",
+      "Adult programs",
+      "Court rentals",
+      "Pro shop",
+      "Event hosting"
+    ],
+    "booking_url": "https://sbtc.playbypoint.com/"
   },
   {
     "id": "osm_node_12861025395",
@@ -4824,7 +4922,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -4847,6 +4945,22 @@
     },
     "sources": [
       "osm"
+    ],
+    "email": "inglewood@iconixfit.com",
+    "opening_hours": "Monday-Thursday: 5am-10pm, Friday: 5am-9pm, Saturday-Sunday: 6am-6pm",
+    "description": "Premium fitness facility in Inglewood featuring over 100 weekly group classes, luxury amenities, and a rooftop pool.",
+    "amenities": [
+      "Rooftop pool and turf",
+      "100+ group fitness classes weekly",
+      "Yoga, cycle, kickboxing, strength, HIIT, dance",
+      "Cardio deck",
+      "Personal trainers",
+      "Steam room",
+      "Massage chairs",
+      "Childcare",
+      "Towel service",
+      "Barrel sauna",
+      "Coworking space"
     ]
   },
   {
@@ -5400,7 +5514,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -5419,7 +5533,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@jeffspeakmanwhittier.com",
+    "description": "Premier martial arts studio offering Kenpo 5.0 classes, fitness kickboxing, yoga, and birthday parties for kids and adults in Whittier.",
+    "amenities": [
+      "Kids Martial Arts",
+      "Adult Martial Arts",
+      "Fitness Kickboxing",
+      "Yoga",
+      "Birthday Parties",
+      "Women's Self Defense",
+      "Personal Training"
+    ],
+    "membership_info": "Free trial classes available; no risk, no contract",
+    "booking_url": "https://jeffspeakmanwhittier.com/programs/"
   },
   {
     "id": "osm_node_11952331524",
@@ -5547,7 +5674,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -5568,7 +5695,26 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@santamonicayoga.com",
+    "opening_hours": {
+      "Monday": "7:15am-9:00pm",
+      "Tuesday": "7:30am-8:45pm",
+      "Wednesday": "7:15am-9:15pm",
+      "Thursday": "7:30am-8:45pm",
+      "Friday": "7:15am-8:00pm",
+      "Saturday": "8:00am-5:15pm",
+      "Sunday": "8:00am-8:30pm"
+    },
+    "description": "A welcoming neighborhood yoga studio offering diverse classes for beginning and experienced students, with an emphasis on approachability and community.",
+    "amenities": [
+      "In-studio classes",
+      "Livestream classes",
+      "Outdoor classes",
+      "Beach house classes",
+      "Events and workshops"
+    ],
+    "booking_url": "https://clients.mindbodyonline.com/classic/ws?studioid=1174&stype=-2"
   },
   {
     "id": "osm_node_5133454764",
@@ -5593,7 +5739,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -5617,6 +5763,16 @@
     },
     "sources": [
       "osm"
+    ],
+    "email": "zenciel@gmail.com",
+    "description": "Yoga and ballet instruction studio featuring Zenciel, a unique discipline combining traditional yoga with ballet athleticism and chi energy concepts.",
+    "amenities": [
+      "Private sessions",
+      "Small group classes",
+      "Yoga",
+      "Pilates",
+      "Tai Chi",
+      "Dance instruction"
     ]
   },
   {

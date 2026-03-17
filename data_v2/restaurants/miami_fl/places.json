@@ -4123,7 +4123,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4164,7 +4164,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Classic Thai dishes and Japanese sushi rolls served in a relaxed setting with modern flair.",
+    "cuisine_type": "Asian, Thai, Sushi"
   },
   {
     "id": "osm_node_10308041319",
@@ -5500,7 +5502,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5523,7 +5525,11 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "web@JamaicaKitchen.com",
+    "description": "Family-owned since 1976, Jamaica Kitchen serves authentic Jamaican and Jamaican-Chinese cuisine at its original Miami location, featuring jerk dishes and patties.",
+    "cuisine_type": "Jamaican",
+    "price_range": "$$"
   },
   {
     "id": "osm_node_12038520897",
@@ -5673,7 +5679,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5697,7 +5703,10 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "A beloved Kendall restaurant since 2008 offering authentic Cuban cuisine in a cozy, warm atmosphere with tantalizing appetizers and refreshing drinks.",
+    "cuisine_type": "Cuban",
+    "price_range": "$$"
   },
   {
     "id": "osm_node_12403653843",
@@ -5731,7 +5740,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5772,7 +5781,12 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@lanpanasian.com",
+    "description": "Pan Asian restaurant specializing in East and Southeast Asian cuisine with creative menu items from Japan, China, Korea, Thailand, and Vietnam.",
+    "cuisine_type": "Pan Asian / Sushi",
+    "price_range": "$$",
+    "booking_url": "https://lanpanasian.com/reservations"
   },
   {
     "id": "osm_node_12485479501",
@@ -5805,7 +5819,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5828,7 +5842,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Vietnamese restaurant serving authentic pho, egg rolls, spring rolls, milk tea, and Vietnamese grill specialties alongside breakfast and lunch dishes.",
+    "cuisine_type": "Vietnamese"
   },
   {
     "id": "osm_node_12805813201",
@@ -5933,7 +5949,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5966,7 +5982,10 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Cuban restaurant in Dadeland/Pinecrest offering signature dishes like Mofongo and Rinconcito Fuego with a full menu of traditional Cuban fare.",
+    "cuisine_type": "Cuban",
+    "price_range": "$$"
   },
   {
     "id": "osm_node_13556822410",
@@ -6071,7 +6090,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -6095,7 +6114,11 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "orders@macondocoffee.com",
+    "description": "Miami-based specialty coffee roaster and café offering Latin American favorites and traditional American breakfast/lunch dishes with beans sourced from Colombian farms.",
+    "cuisine_type": "Specialty Coffee, Latin American",
+    "price_range": "$$"
   },
   {
     "id": "osm_way_192555125",

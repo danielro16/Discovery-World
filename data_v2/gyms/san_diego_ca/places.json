@@ -687,7 +687,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -711,6 +711,12 @@
     },
     "sources": [
       "osm"
+    ],
+    "email": "mkfitnesssandiego@gmail.com",
+    "description": "Elite personal training and luxury boutique athleisure in San Diego, offering coaching by women for women.",
+    "amenities": [
+      "Personal training",
+      "Boutique athleisure"
     ]
   },
   {
@@ -947,7 +953,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -973,7 +979,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "andy@movementreborn.com",
+    "opening_hours": "Monday-Friday: 7:30am-7pm, Saturday: 9am-1pm",
+    "description": "Movement Reborn integrates pain management with fitness through specialized assessments and custom training programs designed to address root causes of pain and rebuild functional movement.",
+    "amenities": [
+      "Movement assessments",
+      "Neurokinetic Therapy",
+      "Strength training",
+      "Body-weight exercises",
+      "Pain management",
+      "Video content library"
+    ],
+    "booking_url": "https://movementreborn.janeapp.com/#/discipline/4/treatment/1"
   },
   {
     "id": "osm_node_9971240961",
@@ -1261,7 +1279,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -1284,7 +1302,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Open 24/7",
+    "description": "Privately owned gym inspiring beach community members to achieve excellence through functional fitness training and personal development.",
+    "amenities": [
+      "13,000 sq ft facility",
+      "Personal Training",
+      "Functional Fitness",
+      "Weight loss programs",
+      "Free WiFi",
+      "Tanning",
+      "Monthly measurements",
+      "Military discounts"
+    ],
+    "booking_url": "https://ibfitness.antaris.us/v2/online_memberships.php"
   },
   {
     "id": "osm_way_791281427",
@@ -1717,7 +1748,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -1745,7 +1776,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Located in San Ysidro's Vista Terrace Park, this facility features a 25-yard L-shaped pool ideal for birthday parties and competitive swimming.",
+    "amenities": [
+      "25-yard L-shaped pool",
+      "Restrooms",
+      "Disabled Access (Lift)",
+      "Showers",
+      "Lockers",
+      "Bleachers (Shaded)"
+    ],
+    "booking_url": "https://anc.apm.activecommunities.com/sdparkandrec/activity/search?onlineSiteId=0&site_ids=17"
   },
   {
     "id": "osm_way_1250224434",
@@ -2389,7 +2430,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2413,7 +2454,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday-Friday": "12pm-9pm",
+      "Saturday": "9am-5pm",
+      "Sunday": "Closed"
+    },
+    "description": "Historic gymnasium built for the 1935 California Pacific International Exposition featuring Maya-influenced architecture, located in Balboa Park.",
+    "amenities": [
+      "Gymnasium"
+    ],
+    "booking_url": "https://anc.apm.activecommunities.com/sdparkandrec/activity/search?onlineSiteId=0&site_ids=125"
   },
   {
     "id": "osm_way_381012089",

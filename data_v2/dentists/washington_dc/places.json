@@ -28,7 +28,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -53,7 +53,35 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "sinadrsmile@yahoo.com",
+    "opening_hours": {
+      "Monday": "8:00 AM - 5:00 PM",
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "By appointments only",
+      "Sunday": "Closed"
+    },
+    "description": "Convenient and affordable dental practice offering comprehensive services with a welcoming, compassionate staff. The practice emphasizes high-quality care including same-day crowns and Invisalign.",
+    "services": [
+      "Teeth Whitening",
+      "Invisalign",
+      "Cosmetic Dentistry",
+      "Restorative Dentistry",
+      "Same-Day Crowns",
+      "Same-Day Emergency Visit"
+    ],
+    "insurance_accepted": [
+      "DDPA",
+      "MetLife",
+      "Cigna",
+      "Blue Cross Blue Shield",
+      "Delta Dental",
+      "Aetna"
+    ],
+    "booking_url": "https://springfieldvirginiadentist.com/appointments/"
   },
   {
     "id": "osm_node_6955524930",
@@ -85,7 +113,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -110,6 +138,25 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "08:00-16:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "08:00-16:00"
+    },
+    "description": "Lorton Town Dental serves families and patients of all ages with customized, comfortable care offering comprehensive dental solutions including preventive, cosmetic, and restorative treatments.",
+    "services": [
+      "Preventive dentistry",
+      "Cosmetic services",
+      "Restorative treatments",
+      "Pediatric dentistry",
+      "Dental implants",
+      "Orthodontics",
+      "Emergency care",
+      "Sedation options",
+      "Laser dentistry"
     ]
   },
   {
@@ -139,7 +186,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -163,7 +210,44 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@dentalstudiomc.com",
+    "opening_hours": {
+      "Monday": "09:00-17:00",
+      "Tuesday": "09:00-17:00",
+      "Wednesday": "09:00-17:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-17:00",
+      "Saturday": "09:00-17:00",
+      "Sunday": "09:00-17:00"
+    },
+    "description": "Dr. Badri's Alexandria dental practice emphasizes patient education and compassionate care using advanced materials and techniques, empowering patients with confidence in their treatment choices.",
+    "services": [
+      "Emergency Dental Care",
+      "Root Canal Treatment",
+      "Dental Implants",
+      "Crowns & Bridges",
+      "Sleep Apnea Treatment",
+      "Preventative Dentistry",
+      "Invisalign",
+      "Teeth Whitening",
+      "Smile Makeovers",
+      "Veneers"
+    ],
+    "insurance_accepted": [
+      "Aetna",
+      "Cigna",
+      "Delta Dental",
+      "MetLife",
+      "United Healthcare",
+      "Tricare",
+      "Assurant",
+      "Medicaid",
+      "Guardian",
+      "Principal",
+      "BlueCross BlueShield"
+    ],
+    "booking_url": "https://dentalstudiomc.com/appointment/"
   },
   {
     "id": "osm_node_8554634276",
@@ -196,7 +280,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -220,6 +304,60 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday": "08:00-18:00",
+      "Tuesday": "10:00-18:00",
+      "Wednesday": "08:00-18:00",
+      "Thursday": "10:00-18:00",
+      "Friday": "Closed",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Comprehensive dental practice providing preventative care, restorative treatments, and cosmetic dentistry services to the Alexandria, VA community.",
+    "services": [
+      "Dental Cleanings & Checkups",
+      "Comprehensive Exams",
+      "Dental Imaging & X-rays",
+      "Fluoride Treatment",
+      "Intraoral Camera",
+      "Mouth Guards",
+      "Night Guards",
+      "Oral Cancer Screening",
+      "Sealants",
+      "Gum Disease Treatment",
+      "LANAP",
+      "Scaling and Root Planing",
+      "Crowns",
+      "Implants",
+      "Dentures",
+      "Fillings",
+      "Root Canal Treatment",
+      "Extractions",
+      "Wisdom Tooth Removal",
+      "Invisalign Treatment",
+      "Teeth Whitening",
+      "Veneers",
+      "Tooth Bonding"
+    ],
+    "insurance_accepted": [
+      "Aetna",
+      "Delta",
+      "BCBS",
+      "MetLife",
+      "Guardian",
+      "GEHA Connection",
+      "Cigna",
+      "UHC",
+      "UCCI",
+      "Humana",
+      "Ameritas",
+      "Dominion",
+      "DentaQuest",
+      "Assurant SunLife",
+      "Unum",
+      "Careington",
+      "Aflac"
     ]
   },
   {
@@ -250,7 +388,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -274,7 +412,46 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@brightwhitesdental.com",
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "Closed",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "BrightWhites is a family dental practice in Franconia, Alexandria, VA led by Dr. Brigitte White, delivering comprehensive dental care with expert technique and cutting-edge technology for stunning, healthy smiles.",
+    "services": [
+      "General Dentistry",
+      "Veneers",
+      "Teeth Whitening",
+      "Clear Aligners",
+      "Sleep Devices",
+      "Dental Implants",
+      "Restorative Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "insurance_accepted": [
+      "Aetna PPO",
+      "Anthem PPO",
+      "Ameritas PPO",
+      "BCBS PPO",
+      "Carefirst PPO",
+      "Cigna HMO/PPO",
+      "Delta Dental PPO/Premier",
+      "Dominion PPO",
+      "Geha PPO",
+      "Guardian PPO",
+      "Principal PPO",
+      "MetLife PPO",
+      "United Concordia PPO",
+      "United Healthcare PPO",
+      "Medicare Dental PPO Plans"
+    ],
+    "booking_url": "https://bookit.dentrixascend.com/soe/new/dental?pid=ASC1000000001289&mode=externalLink"
   },
   {
     "id": "osm_node_10102199264",
@@ -305,7 +482,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -329,7 +506,52 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "8:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "8:00 AM - 6:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 2:00 PM",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Foxchase Dental Group provides comprehensive family dentistry with personalized care and advanced technology, prioritizing oral health and its connection to overall wellness.",
+    "services": [
+      "Crowns",
+      "Dental Sealants",
+      "Dental X-rays and Imaging",
+      "Dentures",
+      "Emergency Services",
+      "Fillings",
+      "Fluoride Treatment",
+      "Teeth Cleaning",
+      "Implants",
+      "Inlays and Onlays",
+      "Mouth Guard",
+      "Oral Cancer Screening",
+      "Periodontics",
+      "Root Canal",
+      "Scaling and Root Planing",
+      "Teeth Bonding",
+      "Teeth Extractions",
+      "Tooth Bridge",
+      "Veneers",
+      "Teeth Whitening",
+      "Wisdom Teeth Removal"
+    ],
+    "insurance_accepted": [
+      "Aetna",
+      "Ameritas",
+      "Anthem Blue Cross",
+      "Cigna",
+      "Delta Dental",
+      "Guardian",
+      "MetLife",
+      "United Health Care",
+      "UCCI"
+    ],
+    "booking_url": "https://www.foxchasedentalgroup.com/about-us/dentist-appointment/"
   },
   {
     "id": "osm_node_11738055697",
@@ -360,7 +582,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -384,7 +606,54 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "9:00 AM - 3:00 PM",
+      "Sunday": "Closed"
+    },
+    "description": "First Smile Dental offers expert family dentistry and cosmetic services in Alexandria, VA, led by Dr. Keehong Kwon DDS with state-of-the-art facilities.",
+    "services": [
+      "Oral Surgery",
+      "Invisalign",
+      "TMJ",
+      "Dental Cleaning",
+      "Periodontics",
+      "Veneers",
+      "Crowns and Bridges",
+      "Family Dentistry",
+      "Cosmetic Dentistry",
+      "Dentures",
+      "Dental Implants",
+      "Teeth Whitening",
+      "Fillings",
+      "Emergency Dental Care",
+      "Root Canal",
+      "Wisdom Teeth"
+    ],
+    "insurance_accepted": [
+      "Aetna",
+      "Anthem Blue Cross Blue Shield",
+      "Assurant",
+      "CareFirst",
+      "Cigna",
+      "Delta Dental",
+      "GEHA",
+      "Guardian",
+      "Humana",
+      "MetLife",
+      "Principal",
+      "United Concordia",
+      "United Healthcare",
+      "FAMIS",
+      "FAMIS Plus",
+      "Smiles for Children"
+    ],
+    "booking_url": "https://www.firstsmiledentalva.com/schedule"
   },
   {
     "id": "osm_node_11897338369",
@@ -416,7 +685,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -439,7 +708,28 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "9am-6pm",
+      "Tuesday": "9am-6pm",
+      "Wednesday": "9am-6pm",
+      "Thursday": "9am-6pm",
+      "Friday": "9am-5pm",
+      "Saturday": "9am-3pm (every other Saturday)",
+      "Sunday": "Closed"
+    },
+    "description": "A newly expanded Fairfax dental practice dedicated to patient comfort and care, offering gentle treatments across multiple specialties with experienced dentists.",
+    "services": [
+      "Implant dentistry",
+      "Cosmetic dentistry",
+      "Restorative dentistry",
+      "General and preventive dentistry",
+      "Orthodontics (Invisalign)",
+      "TMJ treatment",
+      "Sleep apnea screening",
+      "Emergency care"
+    ],
+    "booking_url": "https://www.ismileva.com/find-a-location"
   },
   {
     "id": "osm_node_12250095179",
@@ -471,7 +761,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -506,7 +796,46 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "drjasondulac@dulacdds.com",
+    "opening_hours": {
+      "Monday": "8:00am - 5:00pm",
+      "Tuesday": "8:00am - 5:00pm",
+      "Wednesday": "8:00am - 5:00pm",
+      "Thursday": "8:00am - 5:00pm",
+      "Friday": "8:00am - 1:00pm",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Dulac Dental of Springfield provides comprehensive family dentistry focused on creating beautiful, natural-looking smiles with emphasis on patient comfort and compassionate care.",
+    "services": [
+      "General Dentistry",
+      "Preventive Care",
+      "Dental Cleanings",
+      "Dental Exams",
+      "3D X-Ray/CBCT",
+      "Dental Sealants",
+      "Dental Implants",
+      "Same-Day Crowns",
+      "Dental Bonding",
+      "Dental Bridges",
+      "Dentures",
+      "All on Fours",
+      "Clear Aligners",
+      "Teeth Whitening",
+      "Veneers",
+      "Root Canal",
+      "Tooth Extraction",
+      "Pediatric Dentistry",
+      "Sedation",
+      "Emergency Dentistry",
+      "Fillings",
+      "Full Mouth Reconstruction",
+      "Sleep Apnea Treatment",
+      "Laser Therapy",
+      "Orthodontics"
+    ],
+    "booking_url": "https://p.adit.com/hYTEi"
   },
   {
     "id": "osm_node_13249055847",
@@ -537,7 +866,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -560,7 +889,37 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "8:00 AM - 5:00 PM",
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Family and cosmetic dental practice offering preventive, restorative, cosmetic, orthodontic, and emergency care for all ages in Springfield, VA.",
+    "services": [
+      "Professional Cleanings & Exams",
+      "Teeth Whitening",
+      "Cosmetic Dentistry",
+      "Crowns & Caps",
+      "Porcelain Veneers",
+      "Composite Fillings",
+      "Invisalign Orthodontics",
+      "Family Dentistry",
+      "Root Canal Therapy",
+      "Dental Implants",
+      "Tooth Extractions",
+      "Gum Disease Treatment",
+      "Dental Emergencies",
+      "Dentures & Partials",
+      "Oral Cancer Exam",
+      "Digital X-Rays",
+      "3D Imaging"
+    ],
+    "booking_url": "https://www.ryantaylordmd.com/appointments/"
   },
   {
     "id": "osm_node_3720374047",
@@ -650,7 +1009,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -673,7 +1032,31 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "pgdental@alexandriakidsdentist.com",
+    "opening_hours": {
+      "Monday": "8:00 AM - 4:00 PM",
+      "Tuesday": "8:00 AM - 4:00 PM",
+      "Wednesday": "8:00 AM - 1:00 PM",
+      "Thursday": "8:00 AM - 4:00 PM",
+      "Friday": "8:00 AM - 3:00 PM"
+    },
+    "description": "Pediatric and orthodontic dental practice dedicated to establishing a comfortable dental home for children with gentle, family-oriented care and advanced technology.",
+    "services": [
+      "Dental Exam",
+      "Preventive Care",
+      "Restorative Care",
+      "Pediatric Oral Surgery",
+      "Sports/Night Guard",
+      "Emergency Care",
+      "Nitrous Oxide/Oxygen",
+      "Early Orthodontic Treatment",
+      "Adolescent Orthodontic Treatment",
+      "Adult Orthodontic Treatment",
+      "Types of Braces",
+      "Invisalign Adults & Teens"
+    ],
+    "booking_url": "https://alexandriakidsdentist.com/request-appointment/"
   },
   {
     "id": "osm_node_4520234934",
@@ -702,7 +1085,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -728,7 +1111,39 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "crystalcity@siranlidental.com",
+    "opening_hours": {
+      "Monday": "8:00am - 5:00pm",
+      "Tuesday": "8:00am - 5:00pm",
+      "Wednesday": "8:00am - 5:00pm",
+      "Thursday": "8:00am - 5:00pm",
+      "Friday": "8:00am - 5:00pm",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Top-rated Arlington dental practice offering personalized, modern dentistry with minimally-invasive approaches and advanced digital technology for comfortable patient experiences.",
+    "services": [
+      "Dental Exams, X-Rays, Cleanings",
+      "Oral Cancer Screening",
+      "Dental Sealants",
+      "Root Canal Treatments",
+      "Dental Emergencies",
+      "Composite Fillings",
+      "Periodontal Disease Treatment",
+      "Tooth Extractions",
+      "Dental Bridges",
+      "CEREC Same-Day Crowns",
+      "Dental Implants",
+      "Dental Veneers",
+      "Zoom Teeth Whitening",
+      "Invisalign",
+      "Botox Treatments"
+    ],
+    "insurance_accepted": [
+      "Most dental insurances accepted"
+    ],
+    "booking_url": "https://app.nexhealth.com/appt/siranli-implants-facial-aesthetics?lid=324634"
   },
   {
     "id": "osm_node_9904572300",
@@ -759,7 +1174,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -782,7 +1197,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Affordable dental practice in Alexandria offering exceptional services and friendly, personal treatment."
   },
   {
     "id": "osm_way_930547612",
@@ -872,7 +1288,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -895,6 +1311,28 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday": "8 AM - 5 PM",
+      "Tuesday": "8 AM - 5 PM",
+      "Wednesday": "10 AM - 7 PM",
+      "Thursday": "8 AM - 5 PM",
+      "Friday": "8 AM - 5 PM",
+      "Saturday": "8 AM - 2 PM",
+      "Sunday": "Closed"
+    },
+    "description": "Pan Am Dental provides gentle, personalized dental care for adults and children with a focus on helping patients maintain beautiful, healthy smiles throughout their lives.",
+    "services": [
+      "Luminners",
+      "Invisalign",
+      "Implants",
+      "Crowns",
+      "Whitening",
+      "Missing Teeth solutions",
+      "Fillings",
+      "Inlays/Onlays",
+      "Dental Veneers",
+      "Full & Partial Dentures"
     ]
   },
   {
@@ -981,7 +1419,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1004,7 +1442,43 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "8:00 AM to 4:00 PM",
+      "Tuesday": "8:00 AM to 4:00 PM",
+      "Wednesday": "8:00 AM to 4:00 PM",
+      "Thursday": "8:00 AM to 4:00 PM",
+      "Friday": "8:00 AM to 4:00 PM",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Virginia Dental Care provides comprehensive dental treatments spanning general, cosmetic, periodontic, implant, and oral surgery services designed to help patients achieve their ideal smile.",
+    "services": [
+      "General Dentistry",
+      "Types of Cleanings",
+      "Cavities",
+      "Crowns",
+      "Bridges",
+      "Root Canal",
+      "White Fillings",
+      "Emergency Extraction",
+      "Sedation Options",
+      "Cosmetic Dentistry",
+      "Porcelain Veneers",
+      "Bonded Veneers",
+      "Clear Braces/Invisalign",
+      "Teeth Whitening",
+      "Periodontics",
+      "Gum Disease Treatment",
+      "Gum Recession",
+      "Dental Implants",
+      "Bone Grafting",
+      "Sinus Lift",
+      "Snap on Dentures",
+      "Teeth in a Day",
+      "Emergency Dentistry"
+    ],
+    "booking_url": "https://microsite.adit.com/db00b47b-6313-4081-bb30-6fe436af8323"
   },
   {
     "id": "osm_node_4456411713",
@@ -1096,7 +1570,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1121,7 +1595,46 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contactpine@pinedentistry.com",
+    "opening_hours": {
+      "Monday": "8:00 AM - 5:00 PM",
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 2:00 PM",
+      "Sunday": "Closed"
+    },
+    "description": "Pine Dentistry & Braces offers comprehensive family dental care in Falls Church, VA featuring services for patients of all ages with an emphasis on patient comfort and advanced technology.",
+    "services": [
+      "General Dentistry",
+      "Children's Dentistry",
+      "Oral Surgery",
+      "Orthodontics/Braces",
+      "Teeth Cleaning",
+      "Dental Exams",
+      "Fillings",
+      "Crowns",
+      "Bridges"
+    ],
+    "insurance_accepted": [
+      "Medicaid",
+      "CHIP/SCHIP",
+      "Tricare",
+      "Cigna",
+      "Aetna",
+      "Delta Dental",
+      "Guardian",
+      "United Healthcare",
+      "Blue Cross Blue Shield",
+      "Amerigroup",
+      "Unison Insurance",
+      "Healthy Smiles Dental Program",
+      "Smiles 4 Kids",
+      "Resolution Dental"
+    ],
+    "booking_url": "https://www.pinedentistry.com/schedule-appointment/"
   },
   {
     "id": "osm_node_6195111706",
@@ -1152,7 +1665,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1176,7 +1689,25 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "7:00-4:00",
+      "Tuesday": "7:00-4:00",
+      "Wednesday": "7:00-4:00",
+      "Thursday": "7:00-3:00",
+      "Friday": "Closed"
+    },
+    "description": "Dr. DeWitt operates a cosmetic and general dentistry practice dedicated to patient health and individualized care, emphasizing gentle, thorough service from highly trained professionals.",
+    "services": [
+      "Invisalign",
+      "Tooth Bonding",
+      "Preventative Dental Care",
+      "TMJ Therapy",
+      "Periodontics",
+      "Teeth Whitening",
+      "Cosmetic Dentistry"
+    ],
+    "booking_url": "https://www.doctordewitt.com/contact-us/"
   },
   {
     "id": "osm_node_9531445703",
@@ -1207,7 +1738,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1230,7 +1761,30 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "7:00 AM - 7:00 PM",
+      "Tuesday": "7:00 AM - 7:00 PM",
+      "Wednesday": "7:00 AM - 7:00 PM",
+      "Thursday": "7:00 AM - 5:00 PM",
+      "Friday": "7:00 AM - 5:00 PM",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Led by Dr. Sadeddin, this Arlington practice offers personalized modern dentistry in a caring, fun environment with comprehensive oral health solutions for families and patients of all ages.",
+    "services": [
+      "Family Dentistry",
+      "Sleep Dentistry",
+      "Implant Dentistry",
+      "Dental Implants",
+      "Dental Crowns",
+      "Composite Fillings",
+      "Cosmetic Dentistry",
+      "Emergency Dentistry",
+      "Gum Disease Treatment",
+      "Implant Crowns"
+    ],
+    "booking_url": "https://schedule.jarvisanalytics.com/frame/westover-dentistry?location_id=4822&referrer="
   },
   {
     "id": "osm_node_9893683239",
@@ -1240,7 +1794,7 @@
       "lat": 38.8962227,
       "lng": -77.1042723
     },
-    "phone": "+1-571-447-5577",
+    "phone": "571.447.5577",
     "website": "https://www.apexdentalva.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/9893683239",
@@ -1262,7 +1816,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1286,7 +1840,28 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "9:00 am - 5:00 pm",
+      "Tuesday": "9:00 am - 5:00 pm",
+      "Wednesday": "9:00 am - 5:00 pm",
+      "Thursday": "9:00 am - 5:00 pm",
+      "Friday": "9:00 am - 5:00 pm",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Multi-specialty dental practice offering compassionate, expert dental care for routine visits and emergencies, serving Arlington, Virginia and surrounding areas.",
+    "services": [
+      "Emergency Dental Care",
+      "Professional Teeth Whitening",
+      "Periodontics – Gum Treatment",
+      "Invisalign – Invisible Braces",
+      "Implant Dentistry",
+      "Smile Makeovers",
+      "Dental Veneers",
+      "Natural Tooth Colored Fillings"
+    ],
+    "booking_url": "https://cherrydalesmiles.com/schedule-an-appointment/"
   },
   {
     "id": "osm_node_9893683240",
@@ -1317,7 +1892,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1341,7 +1916,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "admin@drreardon.com",
+    "description": "Pediatric dental office in Arlington, Virginia dedicated to providing high-quality dental care for children in a comfortable, welcoming environment with specially trained staff.",
+    "services": [
+      "Diagnostic",
+      "Preventative",
+      "Restorative",
+      "Extraction",
+      "Sedation",
+      "Special Needs",
+      "Emergency Care"
+    ],
+    "booking_url": "https://local.demandforce.com/b/christinereardon/schedule"
   },
   {
     "id": "osm_node_11378462246",
@@ -1373,7 +1960,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1398,7 +1985,15 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Specialist endodontic practice dedicated exclusively to root canal and related treatments, striving to provide the highest standard of professional care in a friendly, comfortable environment.",
+    "services": [
+      "Root canal treatment",
+      "Apical surgery",
+      "Endodontic retreatment",
+      "Emergency endodontic care"
+    ],
+    "booking_url": "https://www.northernvirginiaendo.com/request-appointment/"
   },
   {
     "id": "osm_node_11907967614",
@@ -1429,7 +2024,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1453,6 +2048,54 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-17:00",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Covel, Stack and Henon, DDS, P.C. is a dental practice committed to comprehensive family dentistry with a patient-focused care approach in Vienna, VA.",
+    "services": [
+      "Dental Cleanings & Checkups",
+      "Comprehensive Exams",
+      "Dental Imaging & X-rays",
+      "Fluoride Treatment",
+      "Intraoral Camera",
+      "Mouth Guards",
+      "Night Guards",
+      "Sealants",
+      "Scaling and Root Planing",
+      "Bridges",
+      "Crowns",
+      "Implants",
+      "Dentures",
+      "Fillings",
+      "Implant-Supported Dentures",
+      "Emergency Dental Care",
+      "Invisalign Treatment",
+      "Cosmetic Contouring",
+      "Teeth Whitening",
+      "Tooth Bonding",
+      "Veneers"
+    ],
+    "insurance_accepted": [
+      "MetLife",
+      "Aetna",
+      "Delta",
+      "Zelis",
+      "BCBS",
+      "GEHA Connection",
+      "UHC",
+      "UCCI",
+      "Humana",
+      "Assurant SunLife",
+      "Careington",
+      "DentaQuest",
+      "Aflac"
     ]
   },
   {
@@ -1593,7 +2236,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1619,7 +2262,36 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "smiles@dominionhillsdentistry.com",
+    "opening_hours": {
+      "Monday": "7:30 am - 3:30 pm",
+      "Tuesday": "7:30 am - 3:30 pm",
+      "Wednesday": "7:30 am - 3:30 pm",
+      "Thursday": "7:30 am - 5:00 pm",
+      "Friday": "Closed",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Local Arlington dental practice offering comprehensive services including general dentistry, cosmetic treatments, and surgical procedures with a focus on quality patient care.",
+    "services": [
+      "Fillings and restorations",
+      "Tooth extractions",
+      "Dentures",
+      "Dental sealants",
+      "Root canal therapy",
+      "Dental implants",
+      "Clear braces",
+      "Crowns and bridges",
+      "Teeth whitening",
+      "Veneers",
+      "Bonding",
+      "Periodontal treatment",
+      "Oral surgery",
+      "Orthodontics",
+      "Pediatric dentistry"
+    ],
+    "booking_url": "https://www.dominionhillsdentistry.com/appointment"
   },
   {
     "id": "osm_node_1066856374",
@@ -1650,7 +2322,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1678,7 +2350,26 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "officemanager@takomadentist.com",
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM"
+    },
+    "description": "Premier Dental Care has served Washington D.C. for over 35 years, offering advanced dentistry with a judgment-free approach and a holistic focus on whole-body wellness.",
+    "services": [
+      "General dentistry/routine check-ups",
+      "Cosmetic dentistry",
+      "Invisalign aligners",
+      "Restorative dentistry",
+      "Complex restorative work"
+    ],
+    "insurance_accepted": [
+      "Multiple insurance types accepted"
+    ],
+    "booking_url": "https://takomadentist.com/contact"
   },
   {
     "id": "osm_node_3775055759",

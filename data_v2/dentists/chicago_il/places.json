@@ -2085,7 +2085,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2109,7 +2109,25 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Glen Dental Center in Glenview, IL offers comprehensive dental care under the leadership of Dr. Jeffrey Gilmor and Dr. Verena Phillips, featuring modern technology and compassionate patient-centered treatment.",
+    "services": [
+      "Cosmetic Dentistry",
+      "Dental Implants",
+      "Family Dentistry",
+      "Invisalign",
+      "Sleep Apnea Treatment",
+      "Emergency Dentistry",
+      "Porcelain Veneers",
+      "Tooth Whitening",
+      "Tooth Bonding",
+      "Porcelain Crowns",
+      "Porcelain Bridges",
+      "White Fillings",
+      "Zoom Whitening",
+      "Dental Makeover"
+    ],
+    "booking_url": "https://glendentalcev3.wpengine.com/make-an-appointment/"
   },
   {
     "id": "osm_node_4689753511",
@@ -2558,7 +2576,7 @@
       "lat": 41.7356552,
       "lng": -87.7997423
     },
-    "phone": "",
+    "phone": "(708) 598-8760",
     "website": "http://www.dajanidental.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/13378853238",
@@ -2576,7 +2594,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -2602,6 +2620,33 @@
     },
     "sources": [
       "osm"
+    ],
+    "description": "Dajani Dental Services provides comprehensive dental care in a professional, comfortable, and friendly environment with a focus on patient education and communication.",
+    "services": [
+      "Preventative dentistry",
+      "Check ups and cleanings",
+      "Periodontal therapy",
+      "Root canals",
+      "Extractions and oral surgery",
+      "Restorative dentistry",
+      "Crowns and bridges",
+      "Dentures and partials",
+      "Dental implants",
+      "Cosmetic dentistry",
+      "Porcelain veneers",
+      "Teeth whitening",
+      "Tooth colored fillings",
+      "Dental emergencies"
+    ],
+    "insurance_accepted": [
+      "Aetna",
+      "Blue Cross Blue Shield",
+      "Cigna",
+      "Metlife",
+      "Guardian",
+      "Delta Dental",
+      "Humana",
+      "Dentaquest/medical card"
     ]
   },
   {
@@ -2665,7 +2710,7 @@
       "lat": 41.895716,
       "lng": -87.6806245
     },
-    "phone": "",
+    "phone": "(773) 904-0095",
     "website": "https://www.milktoothdental.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/11346962547",
@@ -2687,7 +2732,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -2710,7 +2755,30 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@milktoothdental.com",
+    "opening_hours": {
+      "Monday": "9:00am - 5:00pm",
+      "Tuesday": "10:00am - 6:00pm",
+      "Wednesday": "9:00am - 5:00pm",
+      "Thursday": "9:00am - 5:00pm",
+      "Friday": "9:00am - 1:00pm"
+    },
+    "description": "Milktooth Pediatric Dentistry provides specialized dental care for infants through adolescents in Chicago. Dr. Amy Shah and her team approach pediatric dentistry in a way that is engaging, positive, and delightfully informative.",
+    "services": [
+      "Infant dentistry",
+      "Children's dentistry",
+      "Teen dentistry",
+      "Preventive dentistry",
+      "Restorative dentistry",
+      "Frenectomies",
+      "Dental fillings",
+      "Pediatric crowns",
+      "Dental emergencies",
+      "Special Needs Dentistry",
+      "Laughing Gas"
+    ],
+    "booking_url": "https://bookit.dentrixascend.com/soe/new/dental?pid=ASC14000000000456&mode=externalLink"
   },
   {
     "id": "osm_node_11673117984",
@@ -2797,7 +2865,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {
       "npi": "1407314610",
       "credential": "",
@@ -2842,7 +2910,24 @@
       "status": "A",
       "enumeration_date": "2019-03-06",
       "last_updated": "2020-01-21"
-    }
+    },
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 4:00 PM",
+      "Friday": "7:00 AM - 3:00 PM",
+      "Saturday": "8:00 AM - 1:00 PM",
+      "Sunday": "Closed"
+    },
+    "description": "Orthodontic Experts provides quality orthodontic care with a personal touch, making treatments accessible at affordable prices. The Avondale location delivers specialized orthodontic care with a commitment to patient confidence.",
+    "services": [
+      "Metal braces",
+      "Clear ceramic braces",
+      "Clear aligners",
+      "Invisalign"
+    ],
+    "booking_url": "https://www.orthodonticexprts.com/il/chicago-orthodontist/schedule-consultation/"
   },
   {
     "id": "osm_node_12757790502",
@@ -2904,7 +2989,7 @@
       "lat": 42.0149874,
       "lng": -87.8352048
     },
-    "phone": "",
+    "phone": "(847) 823-8000",
     "website": "https://www.parkridgesmilecenter.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/13086932906",
@@ -2923,7 +3008,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -2955,6 +3040,14 @@
     },
     "sources": [
       "osm"
+    ],
+    "description": "Park Ridge Smile Center is a dental practice offering comprehensive oral healthcare services with modern techniques and patient-centered care.",
+    "services": [
+      "General dentistry",
+      "Cosmetic dentistry",
+      "Dental implants",
+      "Orthodontics",
+      "Preventive care"
     ]
   },
   {
@@ -3028,7 +3121,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3051,7 +3144,36 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@familydentalcare.com",
+    "opening_hours": {
+      "Monday": "8:00 AM - 7:00 PM",
+      "Tuesday": "8:00 AM - 7:00 PM",
+      "Wednesday": "8:00 AM - 7:00 PM",
+      "Thursday": "8:00 AM - 7:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 2:00 PM",
+      "Sunday": "Closed"
+    },
+    "description": "Family Dental Care's Oak Lawn location offers comprehensive dental services including cosmetic, surgical, restorative, and general dentistry. The practice features modern technology and serves the Chicago area with multiple convenient office locations.",
+    "services": [
+      "Cosmetic Dentistry",
+      "Smile Makeover",
+      "Teeth Whitening",
+      "Porcelain Veneers",
+      "Dental Implants",
+      "Root Canal Therapy",
+      "Crowns and Bridges",
+      "Teeth Cleanings",
+      "Oral Cancer Screenings",
+      "TMJ/TMD Treatment",
+      "Emergency Dental Care",
+      "Pediatric Dentistry"
+    ],
+    "insurance_accepted": [
+      "Most major dental insurance plans accepted"
+    ],
+    "booking_url": "https://www.familydentalcare.com/book-an-appointment/"
   },
   {
     "id": "osm_node_9603461493",
@@ -3077,7 +3199,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3100,7 +3222,22 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@mypdsmile.com",
+    "description": "Petty & Dragstrem Orthodontics combines art, science and technology to create beautiful, healthy smiles while elevating self-esteem and confidence in a warm, family environment.",
+    "services": [
+      "Metal braces",
+      "Clear braces",
+      "Invisalign clear aligners",
+      "Invisalign Teen",
+      "Early treatment",
+      "Digital radiographs",
+      "Intra-oral scanning"
+    ],
+    "insurance_accepted": [
+      "Most insurance plans accepted"
+    ],
+    "booking_url": "https://www.mypdsmile.com/get-started"
   },
   {
     "id": "osm_node_12032111920",
@@ -3125,7 +3262,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3147,7 +3284,28 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "drlafemina@aol.com",
+    "opening_hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Thursday": "09:00-17:00",
+      "Friday": "09:00-13:00",
+      "Saturday": "09:00-13:00"
+    },
+    "description": "Dr. Gilbert J. LaFemina provides general and cosmetic dentistry in Riverside, IL, blending art and science to preserve and restore patients' smiles. The practice offers comprehensive dental care for local communities.",
+    "services": [
+      "Invisalign Clear Braces",
+      "Dental Implant Restorations",
+      "Cosmetic Dentistry",
+      "Sleep Apnea Treatment",
+      "Periodontal/Gum Health",
+      "Crowns, Bridges, and Dentures",
+      "Digital X-Rays",
+      "Root Canal Therapy",
+      "Teeth Cleaning and Prevention"
+    ],
+    "booking_url": "https://www.drlafemina.com/appointment-request/"
   },
   {
     "id": "osm_way_602010699",
@@ -3172,7 +3330,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3197,7 +3355,33 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "smile@orlandfamilydental.com",
+    "opening_hours": {
+      "Monday": "9 AM - 6 PM",
+      "Tuesday": "9 AM - 6 PM",
+      "Wednesday": "10 AM - 6 PM",
+      "Thursday": "9 AM - 6 PM",
+      "Friday": "9 AM - 2 PM",
+      "Saturday": "8 AM - 1 PM"
+    },
+    "description": "A third-generation, female-owned family dental practice in Riverside, IL offering personalized cosmetic and preventive care for patients of all ages since 1975.",
+    "services": [
+      "Dental Exams & Oral Cancer Screenings",
+      "Digital X-Rays",
+      "Routine Cleanings",
+      "Fluoride Treatments",
+      "Sealants",
+      "Bonding & Tooth-Colored Fillings",
+      "Porcelain Crowns & Veneers",
+      "Implant Crowns & Fixed Bridges",
+      "Teeth Whitening",
+      "Dentures & Partials",
+      "Occlusal Guards",
+      "Periodontal Treatment",
+      "Pediatric Dentistry"
+    ],
+    "booking_url": "https://www.orlandfamilydental.com/contact"
   },
   {
     "id": "osm_node_10945608468",
@@ -3269,7 +3453,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3291,6 +3475,15 @@
     },
     "sources": [
       "osm"
+    ],
+    "description": "International Dental Center provides comprehensive dental services including general, cosmetic, and implant dentistry, along with specialized treatments such as root canals, braces, and oral surgery to the Illinois community.",
+    "services": [
+      "General dentistry",
+      "Cosmetic dentistry",
+      "Implant dentistry",
+      "Endodontics (root canal treatments)",
+      "Orthodontics (braces)",
+      "Oral surgery"
     ]
   },
   {
@@ -3316,7 +3509,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3339,7 +3532,32 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "Dentalcareop@sbcglobal.net",
+    "opening_hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "08:00-19:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-15:00",
+      "Saturday": "08:00-13:00"
+    },
+    "description": "Family dental practice serving Oak Park, IL for over 30 years, providing comprehensive dental services for all ages with emphasis on preventive care and patient comfort.",
+    "services": [
+      "Dental Implants",
+      "Implant Supported Dentures",
+      "Root Canals (SWEEPS Laser Treatment)",
+      "Cosmetic Dentistry",
+      "Dental Crowns",
+      "Teeth Cleaning",
+      "Scaling and Root Planing",
+      "Tooth Extractions",
+      "Laser Gum Therapy",
+      "Sleep Apnea Treatment",
+      "Sedation",
+      "Clear Aligner Therapy"
+    ],
+    "booking_url": "https://dentalcareop.com/contact-us-oak-park-il/"
   },
   {
     "id": "osm_way_1204729254",
@@ -3482,7 +3700,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3505,7 +3723,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Brighter Dental Chicago operates three locations offering comprehensive dental care with a focus on patient comfort. The practice emphasizes treating patients as special individuals and provides sedation options for anxious patients.",
+    "services": [
+      "Teeth Whitening",
+      "Dental Implants",
+      "Periodontal Treatment",
+      "Orthodontics",
+      "Restorative Care",
+      "Sleep Apnea Treatment",
+      "Preventative Care",
+      "Emergency Dental Care",
+      "Comprehensive Dental Treatment"
+    ],
+    "booking_url": "https://app.nexhealth.com/appt/brighter_dental?lid=25196"
   },
   {
     "id": "osm_node_4426882519",
@@ -3530,7 +3761,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3554,7 +3785,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Brighter Dental Chicago operates three locations offering comprehensive dental care with a focus on patient comfort. The practice emphasizes treating patients as special individuals and provides sedation options for anxious patients.",
+    "services": [
+      "Teeth Whitening",
+      "Dental Implants",
+      "Periodontal Treatment",
+      "Orthodontics",
+      "Restorative Care",
+      "Sleep Apnea Treatment",
+      "Preventative Care",
+      "Emergency Dental Care",
+      "Comprehensive Dental Treatment"
+    ],
+    "booking_url": "https://app.nexhealth.com/appt/brighter_dental?lid=25196"
   },
   {
     "id": "osm_node_8936283290",
@@ -3579,7 +3823,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3602,7 +3846,27 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Family Dental of Roscoe offers comprehensive dental care with a focus on family services, prioritizing patient health, comfort, and personalized treatment.",
+    "services": [
+      "Orthodontics",
+      "Braces",
+      "Ceramic Braces",
+      "Invisalign",
+      "Retainers",
+      "Children's Dentistry",
+      "Cosmetic Dentistry",
+      "Dental Bridges",
+      "Dental Checkups",
+      "Dental Crowns",
+      "Dental Fillings",
+      "Dental Implants",
+      "Emergency Dental Care",
+      "Root Canal Therapy",
+      "Teeth Whitening",
+      "Tooth Extractions"
+    ],
+    "booking_url": "https://app.nexhealth.com/appt/Family_Dental_of_Lincoln?lid=73790"
   },
   {
     "id": "osm_node_10571630029",
@@ -3627,7 +3891,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3649,7 +3913,37 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "8:00 AM - 4:00 PM",
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 4:00 PM",
+      "Thursday": "8:00 AM - 4:00 PM",
+      "Friday": "8:00 AM - 2:00 PM",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Hyde Park dental practice offering comprehensive care including general dentistry, pediatric services, orthodontics, cosmetic treatments, restorative procedures, and emergency services for patients across South Shore neighborhoods.",
+    "services": [
+      "General Dentistry",
+      "Dental Cleanings",
+      "Dental Fillings",
+      "Cosmetic Dentistry",
+      "Porcelain Veneers",
+      "Teeth Whitening",
+      "Emergency Dentistry",
+      "Gum Disease Treatment",
+      "Invisalign",
+      "Orthodontics",
+      "Pediatric Dentistry",
+      "Restorative Dentistry",
+      "Dental Bridges",
+      "Dental Crowns",
+      "Dental Implants",
+      "Dentures & Partials",
+      "Root Canal Treatment"
+    ],
+    "booking_url": "https://www.manusdental.com/contact/"
   },
   {
     "id": "osm_node_11869821404",
@@ -3674,7 +3968,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3697,7 +3991,34 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "9am - 5pm",
+      "Tuesday": "7am - 3pm",
+      "Wednesday": "8am - 4pm",
+      "Thursday": "8am - 7pm",
+      "Friday": "8am - 4pm",
+      "Saturday": "By appointment only"
+    },
+    "description": "Comfort Dental Studio offers family and cosmetic dentistry services across two Chicago locations. The practice features state-of-the-art dental technology and a team of experienced dentists.",
+    "services": [
+      "General Dentistry",
+      "Family Dentistry",
+      "Cosmetic Dentistry",
+      "Teeth Whitening",
+      "Exam and Cleaning",
+      "Dental Implants",
+      "Dental Fillings",
+      "Dental Crowns",
+      "Orthodontics",
+      "Dentures",
+      "Emergency Dentistry",
+      "Laser Dentistry"
+    ],
+    "insurance_accepted": [
+      "Most major insurance carriers"
+    ],
+    "booking_url": "https://www.comfortteeth.com/appointment"
   },
   {
     "id": "osm_node_13200933201",

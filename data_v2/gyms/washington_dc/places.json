@@ -352,7 +352,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -377,7 +377,16 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Elite baseball training facility offering camps, lessons, and competitive Senators teams for players of all skill levels.",
+    "amenities": [
+      "Indoor training facility",
+      "HitTrax technology",
+      "Private lessons",
+      "Facility rentals"
+    ],
+    "membership_info": "Hitters Club membership available",
+    "booking_url": "https://book.runswiftapp.com/facilities/metro-baseball-academy"
   },
   {
     "id": "osm_node_11449537795",
@@ -500,7 +509,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -524,7 +533,27 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "springfield@bigblueswimschool.com",
+    "opening_hours": {
+      "Monday": "9am-8pm",
+      "Tuesday-Friday": "3:30pm-8pm",
+      "Saturday-Sunday": "8am-4pm"
+    },
+    "description": "Big Blue Swim School in Springfield offers swim lessons for infants through 12-year-olds, emphasizing water safety and confidence building through play-based learning.",
+    "amenities": [
+      "State-of-the-art pools",
+      "Antimicrobial flooring",
+      "Viewing areas with Wi-Fi",
+      "LessonBuddy scheduling app",
+      "Free make-up lessons"
+    ],
+    "membership_info": {
+      "annual_fee": "$36/child",
+      "weekly_lesson_from": "$39/lesson",
+      "sibling_discounts": "available"
+    },
+    "booking_url": "https://app.bigblueswimschool.com/locations/virginia/springfield/preview/weekly"
   },
   {
     "id": "osm_node_13249055849",
@@ -555,7 +584,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -578,7 +607,28 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "springfield@bodynbrain.com",
+    "opening_hours": {
+      "Monday-Friday": "9am-8pm",
+      "Saturday": "9am-3pm",
+      "Sunday": "Closed"
+    },
+    "description": "Wellness center combining yoga, tai chi, qigong, and meditation designed to harmonize body, mind, and spirit for all fitness levels.",
+    "amenities": [
+      "BNB Yoga classes",
+      "Qigong & Tai Chi",
+      "BNB Core classes",
+      "Meditation sessions",
+      "Private coaching",
+      "Online class options"
+    ],
+    "membership_info": {
+      "intro_trial_class": "$30",
+      "qigong_starter_package": "$89 (5 sessions)",
+      "private_session": "$49"
+    },
+    "booking_url": "https://www.bodynbrain.com/locations/virginia/springfield"
   },
   {
     "id": "osm_node_13471037411",
@@ -1181,7 +1231,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1201,7 +1251,15 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "High-energy, music-driven group classes blending low-impact rowing intervals with floor-based strength work for a full-body workout.",
+    "amenities": [
+      "Concept2 Rowers",
+      "Multiple class formats",
+      "Expert coaches",
+      "45-min and 30-min classes"
+    ],
+    "booking_url": "https://lp.therowhouse.com/try?offer_id=first-class-free-try"
   },
   {
     "id": "osm_way_67266468",
@@ -1525,7 +1583,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1548,7 +1606,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@discoverkungfu.com",
+    "description": "Traditional Hung Gar Kung Fu and Yang Tai Chi instruction in Northern Virginia with emphasis on one-to-one student-teacher relationships and small group classes for adults.",
+    "amenities": [
+      "Private classes",
+      "Semi-private small group classes",
+      "Hung Gar Kung Fu training",
+      "Tai Chi Martial Arts",
+      "Tai Chi Meditation"
+    ],
+    "booking_url": "https://discoverkungfu.perfectmind.com/SocialSite/MemberRegistration/MemberSignIn"
   },
   {
     "id": "osm_node_9264427888",
@@ -1722,7 +1790,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1748,7 +1816,16 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Women-only fitness studio specializing in small group and personal training focused on functional strength and community support.",
+    "amenities": [
+      "Small group training",
+      "Personal training",
+      "Semi-private training",
+      "Nutrition services",
+      "Women-only environment"
+    ],
+    "booking_url": "https://starfitstudio.com/get-started/"
   },
   {
     "id": "osm_node_11945905305",
@@ -1781,7 +1858,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1805,7 +1882,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@tpc-tysons.com",
+    "opening_hours": "7 days a week, 8am-10pm",
+    "description": "Dedicated indoor pickleball facility in Northern Virginia offering 6 full-size climate-controlled courts welcoming players of all skill levels.",
+    "amenities": [
+      "6 indoor full-size courts",
+      "Climate-controlled facility",
+      "Open play",
+      "Lessons and clinics",
+      "Tournaments",
+      "Social events",
+      "Private events"
+    ],
+    "booking_url": "https://app.courtreserve.com/Online/Memberships/Public/11483"
   },
   {
     "id": "osm_way_32920347",
@@ -1918,7 +2008,7 @@
   },
   {
     "id": "osm_way_208649159",
-    "name": "Rose Benté Lee Center",
+    "name": "Rose Bent\u00e9 Lee Center",
     "address": "2807 North Glebe Road, Arlington, VA, 22207",
     "location": {
       "lat": 38.9057401,
@@ -1967,7 +2057,7 @@
       "fee": "no",
       "gnis:feature_id": "2102749",
       "leisure": "sports_centre",
-      "name": "Rose Benté Lee Center",
+      "name": "Rose Bent\u00e9 Lee Center",
       "opening_hours": "Mo-Th 06:00-23:00; Fr 06:00-22:00; Sa-Su 10:00-18:00",
       "phone": "+1-703-526-6910",
       "source": "USGS Geonames",
@@ -2306,7 +2396,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2330,7 +2420,28 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday-Friday": "6:00am-11:00pm",
+      "Saturday": "8:00am-8:00pm",
+      "Sunday": "8:00am-6:00pm"
+    },
+    "description": "A 38,000 sq ft climbing facility offering bouldering and rope climbing for all skill levels, plus yoga and fitness classes in a vibrant community setting.",
+    "amenities": [
+      "Bouldering walls",
+      "Rope climbing walls",
+      "Fitness training area",
+      "Yoga studio",
+      "Locker rooms with showers",
+      "Gear shop",
+      "ADA accessible"
+    ],
+    "membership_info": {
+      "starting_at": "$107/month",
+      "day_pass": "$29",
+      "7_visit_pass": "$182"
+    },
+    "booking_url": "https://app.rockgympro.com/b/?&bw=1b2e38c5b7f0428499bdccaa4d6c69af"
   },
   {
     "id": "osm_node_6204225366",
@@ -2419,7 +2530,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2443,7 +2554,29 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "Info@ChampionBoxingFitness.com",
+    "opening_hours": {
+      "Monday-Friday": "6:00am-6:30pm",
+      "Saturday-Sunday": "9:00am-2:00pm"
+    },
+    "description": "Boxing and fitness gym offering high-intensity training classes with over 15 years in business. 'To get the results of a champion, you need to be coached like one.'",
+    "amenities": [
+      "Boxing classes",
+      "Kickboxing/Muay Thai",
+      "Competitive boxing team",
+      "Personal training",
+      "Young Champions program",
+      "Parkinson's Program (Rock Steady)",
+      "Boot camp",
+      "Masters program (50+)"
+    ],
+    "membership_info": {
+      "1_class": "$30",
+      "5_class_pack": "$140 ($28/class)",
+      "BOGO_class": "$30"
+    },
+    "booking_url": "https://championboxingfitness.com/select-your-program/"
   },
   {
     "id": "osm_way_228446930",
@@ -2575,7 +2708,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2598,7 +2731,28 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "rockville@onelifefitness.com",
+    "opening_hours": {
+      "Monday-Thursday": "5am-11pm",
+      "Friday": "5am-9pm",
+      "Saturday": "7am-8pm",
+      "Sunday": "8am-7pm"
+    },
+    "description": "A comprehensive fitness facility offering state-of-the-art equipment, boutique studio classes, and sports programs to support members at every fitness level.",
+    "amenities": [
+      "Free weights",
+      "Cardio equipment",
+      "Group fitness classes",
+      "Cycle studio",
+      "Basketball court",
+      "Salt water pool",
+      "Steam room/Sauna",
+      "HydroMassage",
+      "Kids Club",
+      "Turf area"
+    ],
+    "booking_url": "https://join.onelifefitness.com/"
   },
   {
     "id": "osm_node_512982205",
@@ -2630,7 +2784,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2655,7 +2809,28 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "bethesda@onelifefitness.com",
+    "opening_hours": {
+      "Monday-Friday": "5am-10pm",
+      "Saturday": "7am-7pm",
+      "Sunday": "8am-7pm"
+    },
+    "description": "Premier fitness center offering state-of-the-art facilities, diverse group classes, certified trainers, and a supportive community for members of all fitness levels.",
+    "amenities": [
+      "Cardio and strength equipment",
+      "Group fitness classes",
+      "Personal training",
+      "Steam room and sauna",
+      "Whirlpool",
+      "Indoor saltwater pool",
+      "Tennis courts",
+      "Racquetball/squash",
+      "Basketball court",
+      "Cycle studio",
+      "Kids club"
+    ],
+    "booking_url": "https://join.onelifefitness.com/"
   },
   {
     "id": "osm_node_4208482891",
@@ -2687,7 +2862,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2707,6 +2882,17 @@
     },
     "sources": [
       "osm"
+    ],
+    "email": "mail@flyingkicktkd.com",
+    "description": "Flying Kick Fitness Center is dedicated to developing students through TaeKwonDo training for ages 3+ with a curriculum emphasizing courtesy, self-control, and self-esteem.",
+    "amenities": [
+      "Kids Program",
+      "Family Program",
+      "Adolescent Program",
+      "Adult Program",
+      "After School Programs",
+      "Birthday Parties",
+      "Summer Camp"
     ]
   },
   {
@@ -6785,7 +6971,7 @@
       "addr:postcode": "20906",
       "addr:state": "MD",
       "addr:street": "Ferrara Drive",
-      "description": "Montgomery County’s largest privately owned swim and tennis club",
+      "description": "Montgomery County\u2019s largest privately owned swim and tennis club",
       "leisure": "sports_centre",
       "name": "Connecticut Belair Swim Club",
       "phone": "+1-301-946-4500",
@@ -8654,7 +8840,7 @@
       "building": "commercial",
       "leisure": "fitness_centre",
       "name": "Ascend Cycle",
-      "note": "Formerly named Swēt Ride",
+      "note": "Formerly named Sw\u0113t Ride",
       "sport": "cycling",
       "website": "https://www.ascendcycle.com/"
     },
@@ -8712,7 +8898,7 @@
   },
   {
     "id": "osm_way_934332058",
-    "name": "Leonard “Chick” Armstrong Recreation Center",
+    "name": "Leonard \u201cChick\u201d Armstrong Recreation Center",
     "address": "25 West Reed Avenue, Alexandria, VA, 22305",
     "location": {
       "lat": 38.8372246,
@@ -8748,7 +8934,7 @@
       "addr:street": "West Reed Avenue",
       "building": "yes",
       "leisure": "fitness_centre",
-      "name": "Leonard “Chick” Armstrong Recreation Center",
+      "name": "Leonard \u201cChick\u201d Armstrong Recreation Center",
       "website": "https://www.alexandriava.gov/recreation/info/default.aspx?id=95493"
     },
     "sources": [
@@ -16264,7 +16450,7 @@
   },
   {
     "id": "osm_node_775412096",
-    "name": "Somerset –Olde Creek Recreation Club",
+    "name": "Somerset \u2013Olde Creek Recreation Club",
     "address": "",
     "location": {
       "lat": 38.8344174,
@@ -16294,7 +16480,7 @@
     "osm_type": "node",
     "osm_tags": {
       "leisure": "sports_centre",
-      "name": "Somerset –Olde Creek Recreation Club"
+      "name": "Somerset \u2013Olde Creek Recreation Club"
     },
     "sources": [
       "osm"

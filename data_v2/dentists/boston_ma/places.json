@@ -31,7 +31,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -54,6 +54,24 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday": "8:00 AM - 8:00 PM",
+      "Tuesday": "8:00 AM - 8:00 PM",
+      "Wednesday": "8:00 AM - 8:00 PM",
+      "Thursday": "8:00 AM - 8:00 PM",
+      "Friday": "8:00 AM - 4:00 PM",
+      "Saturday": "8:00 AM - 1:30 PM",
+      "Sunday": "Closed"
+    },
+    "description": "Chestnut Dental offers coordinated care from pediatric dentists, orthodontists, and adult dental specialists in a warm, family-friendly environment. Established in 1970, the practice provides evening and Saturday hours with 24-hour emergency coverage.",
+    "services": [
+      "Pediatric Dentistry",
+      "Orthodontics (Braces & Invisalign)",
+      "Cosmetic Dentistry (Teeth Whitening, Veneers)",
+      "Prosthodontics",
+      "Sleep Apnea Treatment",
+      "General Dentistry"
     ]
   },
   {
@@ -349,7 +367,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -375,7 +393,46 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "08:00-19:30",
+      "Tuesday": "08:00-19:30",
+      "Wednesday": "08:00-19:30",
+      "Thursday": "08:00-19:30",
+      "Friday": "08:00-19:30",
+      "Saturday": "09:00-15:00",
+      "Sunday": "Closed"
+    },
+    "description": "Comprehensive dental center offering general dentistry, braces, and oral surgery. Services span from emergency tooth care to cleanings, implants, root canals, and orthodontics for the entire family.",
+    "services": [
+      "General Dentistry",
+      "Braces",
+      "Oral Surgery",
+      "Emergency Dental Care",
+      "Teeth Cleaning",
+      "Dental Implants",
+      "Root Canals",
+      "Dental Fillings",
+      "Dentures",
+      "Dental Crowns",
+      "Porcelain Veneers",
+      "Tooth Whitening",
+      "Invisalign",
+      "Dental Bridges"
+    ],
+    "insurance_accepted": [
+      "Delta Dental",
+      "Aetna",
+      "Cigna",
+      "Blue Cross Blue Shield",
+      "Humana Dental",
+      "United Concordia",
+      "Ameritas",
+      "Assurant",
+      "GEHA Connection Dental",
+      "Principal Financial Group"
+    ],
+    "booking_url": "https://www.mydrdental.com/schedule-an-appointment/"
   },
   {
     "id": "osm_node_3779096592",
@@ -1287,7 +1344,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1313,6 +1370,21 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday": "08:00-20:00",
+      "Tuesday": "08:00-20:00",
+      "Wednesday": "08:00-20:00",
+      "Thursday": "08:00-20:00",
+      "Friday": "08:00-14:00",
+      "Saturday": "08:00-14:00"
+    },
+    "description": "Pondside Dental Associates is a dentistry practice located in Jamaica Plain, MA providing comprehensive dental care services to the local community.",
+    "services": [
+      "General dentistry",
+      "Dental implants",
+      "Cosmetic dentistry",
+      "Teeth cleaning"
     ]
   },
   {
@@ -1694,7 +1766,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1717,7 +1789,33 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "08:00-17:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-17:00",
+      "Friday": "08:00-14:00"
+    },
+    "description": "Greenwood Dental provides comprehensive family and implant dentistry across multiple Massachusetts and New Hampshire locations. The practice offers everything from smile makeovers to emergency dentistry.",
+    "services": [
+      "Dental Implants",
+      "Full Mouth Dental Implants",
+      "Smile Makeover",
+      "Porcelain Veneers",
+      "Porcelain Crowns & Bridges",
+      "Invisalign Clear Aligners",
+      "Professional Teeth Whitening",
+      "Botox & Jeuveau",
+      "Family Dentistry",
+      "Pediatric Dentistry",
+      "Oral Surgery",
+      "TMJ Therapy",
+      "Sedation Dentistry",
+      "Root Canals",
+      "Emergency Dentistry"
+    ],
+    "booking_url": "https://www.greenwooddentalpartners.com/contact-us/"
   },
   {
     "id": "osm_node_11373246203",
@@ -2334,7 +2432,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -2353,7 +2451,28 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday": "08:00-18:00",
+      "Tuesday": "08:00-17:00",
+      "Wednesday": "08:00-17:00",
+      "Thursday": "08:00-14:00",
+      "Friday": "Closed",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Dr. Bliss and the team of hygienists strive to provide compassionate, patient-oriented care. The practice specializes in treating anxious patients with modern technology and a friendly environment.",
+    "services": [
+      "General Dentistry",
+      "Preventative Dentistry",
+      "Cosmetic Dentistry",
+      "Specialty Dentistry",
+      "Pediatric Dentistry",
+      "CEREC - Single Visit Crowns & Bridges",
+      "Dental Implants",
+      "Mouthguards"
+    ],
+    "booking_url": "https://blissdentalnorwood.com/request-an-appointment/"
   },
   {
     "id": "osm_node_5019071935",
@@ -2469,7 +2588,7 @@
       "lat": 42.4473564,
       "lng": -71.2305218
     },
-    "phone": "",
+    "phone": "781-860-8828",
     "website": "https://bostonfamilydental.com/locations",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/11182094334",
@@ -2492,7 +2611,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -2516,6 +2635,20 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday": "1PM - 6PM",
+      "Tuesday": "2PM - 6PM",
+      "Wednesday": "10AM - 6PM",
+      "Thursday": "10AM - 6PM",
+      "Friday": "9AM - 5PM",
+      "Saturday": "9AM - 4PM",
+      "Sunday": "Closed"
+    },
+    "description": "Boston Family Dental provides general and family dentistry services across multiple Massachusetts locations. The practice offers convenient hours including evenings and Saturdays.",
+    "services": [
+      "General Dentistry",
+      "Family Dentistry"
     ]
   },
   {
@@ -2541,7 +2674,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2563,7 +2696,32 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@dentalartsdavissquare.com",
+    "opening_hours": {
+      "Monday": "8:00 AM - 7:00 PM",
+      "Tuesday": "8:00 AM - 7:00 PM",
+      "Wednesday": "8:00 AM - 7:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 2:00 PM (twice monthly)"
+    },
+    "description": "Established in 1965, this general and specialty practice offers comprehensive dental care including preventive, restorative, and cosmetic procedures using current technology and exceeding safety standards.",
+    "services": [
+      "Preventative Dentistry",
+      "Dental Cleaning",
+      "Dental Implants",
+      "Cosmetic Dentistry",
+      "Invisalign",
+      "Teeth Whitening",
+      "Porcelain Veneers",
+      "Root Canal Therapy",
+      "Wisdom Teeth Removal",
+      "TMJ Treatment",
+      "Emergency Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "booking_url": "https://dentalartsdavissquare.com/appointment/"
   },
   {
     "id": "osm_node_2791770153",
@@ -2588,7 +2746,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2610,7 +2768,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Kappa Dental Group is a multidisciplinary dental office serving the Boston area since 2002, providing comprehensive dental care in a supportive environment.",
+    "services": [
+      "Endodontics",
+      "Periodontics",
+      "Orthodontics",
+      "Restorative dentistry",
+      "Dental hygiene",
+      "Emergency dental care"
+    ],
+    "booking_url": "https://kappadental.com/contact-us/"
   },
   {
     "id": "osm_node_3269437528",
@@ -2899,7 +3067,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2923,7 +3091,45 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "frontdesk@turningleafdental.com",
+    "opening_hours": {
+      "Monday": "7:00am-4:00pm",
+      "Tuesday": "7:00am-7:00pm",
+      "Wednesday": "7:00am-4:00pm",
+      "Thursday": "7:00am-4:00pm",
+      "Friday": "7:00am-4:00pm",
+      "Saturday": "8:00am-4:00pm (every other)"
+    },
+    "description": "Full-service dental practice offering family, cosmetic, implant and emergency dentistry in a modern, comfortable setting. Provides comprehensive care from routine checkups to smile makeovers with in-house specialists.",
+    "services": [
+      "Dental Checkups & Cleanings",
+      "Gum Disease Therapy",
+      "Dental Crowns",
+      "Full Mouth Rehabilitation",
+      "Dental Bridges",
+      "Dentures",
+      "Dental Implants",
+      "Implant Dentures",
+      "Veneers",
+      "Dental Bonding",
+      "Teeth Whitening",
+      "BOTOX & Dermal Fillers",
+      "Invisalign Clear Braces",
+      "Dental Emergencies",
+      "Root Canals",
+      "Tooth Extractions"
+    ],
+    "insurance_accepted": [
+      "Blue Cross Blue Shield",
+      "Delta Dental",
+      "Cigna",
+      "MetLife",
+      "Aetna",
+      "Altus Dental",
+      "Guardian"
+    ],
+    "booking_url": "https://book.modento.io/c/bfd345cd6bdb40cdad0f46d375a6947a/TLD-New-Pat-Visit"
   },
   {
     "id": "osm_node_7757221188",
@@ -2949,7 +3155,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2978,6 +3184,43 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": {
+      "Monday": "7:00am-7:00pm",
+      "Tuesday": "7:00am-7:00pm",
+      "Wednesday": "7:00am-7:00pm",
+      "Thursday": "7:00am-7:00pm",
+      "Friday": "7:00am-5:00pm",
+      "Saturday": "7:30am-5:00pm",
+      "Sunday": "Closed"
+    },
+    "description": "Newbury Dental Associates is a multi-specialty dental practice in a historic Back Bay brownstone, offering comprehensive care for children and adults with award-winning dentists and the latest dental technology.",
+    "services": [
+      "Dental Cleaning",
+      "Digital X-Rays",
+      "Dental Exam",
+      "Fluoride Treatment",
+      "Oral Cancer Screening",
+      "Sealants",
+      "Crowns and Bridges",
+      "Dental Fillings",
+      "Extractions",
+      "Gum Treatments",
+      "Implants",
+      "Oral Surgery",
+      "Root Canals",
+      "Wisdom Teeth Extractions",
+      "Braces",
+      "Invisalign",
+      "Cosmetic Dentistry",
+      "Emergency Dental Care",
+      "Pediatric Dentistry",
+      "Veneers",
+      "Teeth Whitening"
+    ],
+    "insurance_accepted": [
+      "Most major dental insurance plans",
+      "Care Credit"
     ]
   },
   {
@@ -3003,7 +3246,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3027,7 +3270,34 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@copleydental.com",
+    "opening_hours": {
+      "Monday": "09:00-18:00",
+      "Tuesday": "09:00-18:00",
+      "Wednesday": "09:00-18:00",
+      "Thursday": "09:00-18:00",
+      "Friday": "09:00-18:00",
+      "Saturday": "09:00-13:00",
+      "Sunday": "Closed"
+    },
+    "description": "Premier dental practice in Boston's Back Bay offering comprehensive dental services including cosmetic dentistry, orthodontics, emergency care, and more.",
+    "services": [
+      "General Dentistry",
+      "Cosmetic Dentistry",
+      "Emergency Dental Care",
+      "Orthodontics",
+      "Dental Implants",
+      "Root Canal",
+      "Pediatric Dentistry",
+      "Invisalign",
+      "Teeth Whitening",
+      "Dental Veneers"
+    ],
+    "insurance_accepted": [
+      "Insurance accepted"
+    ],
+    "booking_url": "https://copleydental.com/request-appointment"
   },
   {
     "id": "osm_node_7776200243",
@@ -3102,7 +3372,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {
       "npi": "1629513585",
       "credential": "",
@@ -3146,7 +3416,18 @@
       "status": "A",
       "enumeration_date": "2017-01-03",
       "last_updated": "2017-01-03"
-    }
+    },
+    "email": "hello@smilebar.com",
+    "description": "Boston's top-ranked VIP Diamond+ Invisalign provider since 2018, offering discreet clear aligner treatment with cutting-edge 3D technology and a luxury boutique experience.",
+    "services": [
+      "Invisalign treatment",
+      "Invisalign Express",
+      "Clear aligner therapy",
+      "Orthodontic consultation",
+      "Virtual appointments",
+      "Remote monitoring"
+    ],
+    "booking_url": "https://smilebar.clearworks.com/booking-page/first-booking"
   },
   {
     "id": "osm_node_7809990666",
@@ -3171,7 +3452,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {
       "npi": "1285807586",
       "credential": "",
@@ -3213,7 +3494,34 @@
       "status": "A",
       "enumeration_date": "2008-04-08",
       "last_updated": "2008-04-08"
-    }
+    },
+    "opening_hours": {
+      "Monday": "7:00 AM - 4:00 PM",
+      "Tuesday": "7:00 AM - 4:00 PM",
+      "Wednesday": "7:00 AM - 4:00 PM",
+      "Thursday": "7:00 AM - 4:00 PM",
+      "Friday": "Closed",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "description": "Multidisciplinary team of dentists and prosthodontists in Boston delivering comprehensive dental care since 1998. Specialists in dental implants, cosmetic dentistry, and full mouth reconstruction.",
+    "services": [
+      "Dental Implant Surgery",
+      "All-On-X Dental Implants",
+      "Full Mouth Reconstruction",
+      "Cosmetic Dentistry",
+      "Same-Day Crowns & Bridges",
+      "Porcelain Veneers",
+      "Full & Partial Dentures",
+      "Teeth Whitening",
+      "Family Dentistry",
+      "Root Canals",
+      "Laser Periodontics",
+      "Gum Disease Treatment",
+      "Oral Surgery",
+      "Emergency Dentistry"
+    ],
+    "booking_url": "https://www.abostonsmile.com/contact-us"
   },
   {
     "id": "osm_node_7811482126",

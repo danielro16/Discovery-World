@@ -412,7 +412,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -435,6 +435,18 @@
     },
     "sources": [
       "osm"
+    ],
+    "email": "jawsk2@hotmail.com",
+    "opening_hours": {
+      "Monday-Friday": "5:30am-9:45am | 4:00pm-7:45pm",
+      "Saturday": "9:00am-11:45am | 1:00pm-3:45pm",
+      "Sunday": "1:00pm-5:45pm"
+    },
+    "description": "Year-round indoor lap pool facility offering adult swimming access and professional swim instruction with classes limited to 4 students per instructor.",
+    "amenities": [
+      "Indoor lap pool",
+      "Swim lessons",
+      "Year-round operation"
     ]
   },
   {
@@ -634,7 +646,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -659,7 +671,28 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Open 24/7",
+    "description": "24 Hour Fitness Galleria offers comprehensive gym memberships with group classes, premium amenities, and community-focused workouts in Houston.",
+    "amenities": [
+      "Free Weights",
+      "Strength Machines",
+      "Cardio Equipment",
+      "Indoor Lap Pool",
+      "Sauna",
+      "Steam Room",
+      "Whirlpool",
+      "Group Exercise",
+      "Group Cycling",
+      "Personal Training",
+      "Pro Shop"
+    ],
+    "membership_info": {
+      "Platinum": "$45.99/month",
+      "National": "$43.99/month",
+      "Gold": "$38.99/month"
+    },
+    "booking_url": "https://www.24hourfitness.com/sales-redirect/salesredirect.html?flow=POS&clubId=00882"
   },
   {
     "id": "osm_way_123459694",
@@ -1299,7 +1332,7 @@
       "lat": 29.7339295,
       "lng": -95.4113004
     },
-    "phone": "",
+    "phone": "832-800-3768",
     "website": "https://houston.txkungfu.com",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/6496768393",
@@ -1318,7 +1351,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -1340,7 +1373,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@moytung.com",
+    "description": "Adult-only Ving Tsun (Wing Chun) Kung Fu school offering practical self-defense training and martial arts instruction in Houston.",
+    "amenities": [
+      "Adult-only classes",
+      "Self-defense training",
+      "Physical conditioning",
+      "Technique refinement",
+      "Small class environment"
+    ],
+    "booking_url": "https://houston.txkungfu.com/signup/"
   },
   {
     "id": "osm_node_12050368508",
@@ -1913,7 +1956,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -1938,7 +1981,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "registrar@westburyll.org",
+    "description": "Westbury Little League provides youth baseball development in a supportive community environment, emphasizing skill-building, teamwork, and character.",
+    "amenities": [
+      "Baseball fields",
+      "Team registration",
+      "Coaching programs",
+      "All-star competitions",
+      "Winter camps",
+      "Field rentals"
+    ],
+    "booking_url": "https://www.westburyll.org/Default.aspx?tabid=1953475"
   },
   {
     "id": "osm_way_1326195650",
@@ -1963,7 +2017,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -1986,7 +2040,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "A nonprofit facility providing recreational fitness and educational programs for the Southwest Houston community, with special programs for seniors, disabled adults, children, and youth.",
+    "amenities": [
+      "Tennis programs",
+      "Junior Tennis Academy",
+      "Tennis Camps",
+      "Private lessons",
+      "Fitness classes",
+      "Racquetball",
+      "Aquatics"
+    ],
+    "booking_url": "https://online.spectrumng.net/chancellors"
   },
   {
     "id": "osm_way_670799430",
@@ -2763,7 +2828,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2783,7 +2848,23 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Thurs: 5am-9pm, Fri: 5am-8pm, Sat: 7am-6pm, Sun: noon-6pm",
+    "description": "The Weekley Family YMCA strengthens communities by connecting people to their potential and purpose through high-quality health and development opportunities.",
+    "amenities": [
+      "Strength/Cardio Equipment",
+      "Community Garden",
+      "Pickleball",
+      "Outdoor Pool",
+      "Splash Pad",
+      "Gymnasium",
+      "Steam Room",
+      "Child Watch",
+      "Group Exercise",
+      "Personal Training",
+      "eGym Fitness Equipment"
+    ],
+    "booking_url": "https://ymcahouston.org/program-registration/weekley-family-ymca"
   },
   {
     "id": "osm_node_11036857961",
@@ -3086,7 +3167,7 @@
       "lat": 29.6275547,
       "lng": -95.4761002
     },
-    "phone": "",
+    "phone": "713-726-1606",
     "website": "https://ymcahouston.org/locations/west-orem-family-ymca",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/way/1394087975",
@@ -3100,7 +3181,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -3122,7 +3203,21 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "Dianna.Visoso@ymcahouston.org",
+    "opening_hours": "Mon-Fri: 7am-1pm and 4-8pm; Sat: 8am-Noon",
+    "description": "The West Orem Family YMCA provides youth development, healthy living, and community engagement through before/after school programs, teen activities, and fitness services.",
+    "amenities": [
+      "Strength/Cardio Equipment",
+      "Gymnasium",
+      "Basketball Courts",
+      "Teen Programs",
+      "Group Exercise",
+      "Before/After School Programs",
+      "Camp",
+      "Computer Lab"
+    ],
+    "booking_url": "https://ymcahouston.org/program-registration/west-orem-family-ymca"
   },
   {
     "id": "osm_way_1417975816",
@@ -3875,7 +3970,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -3895,7 +3990,22 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "ricerec@rice.edu",
+    "description": "The Gibbs Recreation and Wellness Center at Rice University encourages healthy living by offering recreational programs and opportunities for healthy behavior patterns.",
+    "amenities": [
+      "Indoor gymnasium",
+      "Weight and cardio area",
+      "Aquatics center",
+      "Racquetball and squash courts",
+      "Outdoor basketball courts",
+      "Outdoor adventure center",
+      "Group exercise classes",
+      "Pilates studio",
+      "Yoga"
+    ],
+    "membership_info": "Student, faculty, staff, and community membership options available",
+    "booking_url": "https://recreation.rice.edu/reservations"
   },
   {
     "id": "osm_way_434293945",

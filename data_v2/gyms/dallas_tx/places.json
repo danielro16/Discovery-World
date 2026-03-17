@@ -301,7 +301,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -334,7 +334,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "coverallbasesarlingto@gmail.com",
+    "description": "Arlington's premier baseball training facility offering professional coaching in hitting, defense, and base running, blending mindset with mechanics for youth players.",
+    "amenities": [
+      "Professional coaching",
+      "Hitting instruction",
+      "Defense training",
+      "Base running",
+      "Cage rentals",
+      "Clinics",
+      "Remote training"
+    ],
+    "booking_url": "https://www.coverallbases.org/s/appointments"
   },
   {
     "id": "osm_way_663987936",
@@ -513,7 +525,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -534,7 +546,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "ASI Gymnastics Lakewood offers gymnastics classes for preschoolers through competitive teams, plus ninja training, birthday parties, and camps.",
+    "amenities": [
+      "Preschool gymnastics",
+      "Girls & Boys gymnastics",
+      "Power tumbling",
+      "Team ASI competitive programs",
+      "ASI Ninja",
+      "Private lessons",
+      "Birthday parties",
+      "Summer camps",
+      "Open gym"
+    ],
+    "booking_url": "https://app.iclasspro.com/portal/asilakewood"
   },
   {
     "id": "osm_node_12040590552",
@@ -899,7 +924,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -922,7 +947,22 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Aquatic facility at Dallas College's Eastfield Campus offering competitive and recreational swimming with 8 lanes, diving boards, and spectator seating.",
+    "amenities": [
+      "8 lanes at 25 yards",
+      "6 lanes at 25 meters",
+      "1m and 3m diving boards",
+      "Open-air roof",
+      "Spectator seating"
+    ],
+    "membership_info": {
+      "resident_15_visit_pass": "$45",
+      "non_resident_15_visit_pass": "$75",
+      "daily_admission_resident": "$5",
+      "daily_admission_non_resident": "$8"
+    },
+    "booking_url": "https://secure.rec1.com/TX/mesquite-tx/catalog/index"
   },
   {
     "id": "osm_node_6365086787",
@@ -1190,7 +1230,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1213,7 +1253,27 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "walnuthill@emlerswimschool.com",
+    "opening_hours": {
+      "Monday": "3:30pm-7:30pm",
+      "Tuesday": "9am-7:30pm",
+      "Wednesday": "9am-7:30pm",
+      "Thursday": "3:30pm-7:30pm",
+      "Saturday": "8am-1:30pm",
+      "Sunday": "8:30am-1pm"
+    },
+    "description": "Year-round swim lessons focused on water safety, confidence, and structured skill progression for children of all ages.",
+    "amenities": [
+      "Group swim lessons",
+      "Private swim lessons",
+      "Adult swimming lessons",
+      "Swim clinics",
+      "Birthday parties",
+      "Parent portal app"
+    ],
+    "membership_info": "$38.00 per class billed monthly; annual registration fee applies",
+    "booking_url": "https://emlerswimschool.com/locations/texas/dallas-walnut-hill/"
   },
   {
     "id": "osm_node_13157158360",
@@ -1246,7 +1306,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1272,7 +1332,16 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "richardson@purebarre.com",
+    "description": "Pure Barre is an empowering full-body workout inspired by yoga, Pilates, and ballet featuring low-impact, high-intensity movements for any fitness level.",
+    "amenities": [
+      "Pure Barre Classic classes",
+      "Pure Barre Align classes",
+      "Pure Barre Empower classes",
+      "Pure Barre Define classes"
+    ],
+    "booking_url": "https://lp.purebarre.com/free-barre-class?offer_id=try-an-intro-class-for-free&booking=1&location=richardson-tx"
   },
   {
     "id": "osm_way_317955211",
@@ -1409,7 +1478,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1434,7 +1503,21 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "Itziar.fuentes@dallascityhall.com",
+    "opening_hours": {
+      "Monday-Thursday": "4:00pm-8:00pm",
+      "Friday": "Closed",
+      "Saturday-Sunday": "Closed"
+    },
+    "description": "Community-focused boxing facility serving youth ages 8-17, offering fitness and boxing training in collaboration with Dallas Police Activities League.",
+    "amenities": [
+      "Fitness Center",
+      "Boxing training",
+      "Professional coaching"
+    ],
+    "membership_info": "Free for youth 8-17 with valid Dallas Recreation Card",
+    "booking_url": "https://www.dallasparks.org/365/Make-a-Reservation"
   },
   {
     "id": "osm_way_1023155601",
@@ -1592,7 +1675,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1613,6 +1696,18 @@
     },
     "sources": [
       "osm"
+    ],
+    "email": "frc@garlandtx.gov",
+    "opening_hours": "Monday-Thursday: 9am-9pm, Friday: 9am-5pm, Saturday: 9am-4pm",
+    "description": "The Gale A. Fields Recreation Center in southeast Garland offers multipurpose facilities for community recreation and events.",
+    "amenities": [
+      "Gymnasium with basketball court",
+      "Multipurpose room",
+      "Fitness room",
+      "Meeting rooms",
+      "Outdoor patio",
+      "Volleyball court",
+      "ADA accessible"
     ]
   },
   {
@@ -2233,7 +2328,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2259,7 +2354,30 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@crunchplano.com",
+    "opening_hours": {
+      "Monday": "5:00am-12:00am",
+      "Tuesday-Friday": "12:00am-12:00am",
+      "Saturday": "12:00am-7:00pm",
+      "Sunday": "7:00am-7:00pm"
+    },
+    "description": "Crunch Fitness Plano offers gym memberships with personal trainers and group fitness classes in an inclusive, judgment-free environment.",
+    "amenities": [
+      "Cardio equipment",
+      "Strength equipment",
+      "Free weights",
+      "Group fitness classes",
+      "HIIT Zone",
+      "Personal training",
+      "Locker rooms",
+      "HydroMassage",
+      "Tanning",
+      "Saunas",
+      "Cycle studio",
+      "Boxing"
+    ],
+    "booking_url": "https://www.crunch.com/join/plano"
   },
   {
     "id": "osm_node_13401975990",

@@ -28,7 +28,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -50,7 +50,23 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "harvardgulch.recreation@denvergov.org",
+    "opening_hours": "Monday-Friday: 9am-8pm, Saturday: 9am-3pm, Sunday: Closed",
+    "description": "A Local Level recreation center in south Denver featuring a game room, outdoor pool (summer), pottery studio, and art room.",
+    "amenities": [
+      "Kitchen",
+      "Game room",
+      "Outdoor pool",
+      "Gymnasium",
+      "Cardio room",
+      "Weight room",
+      "Pottery Studio",
+      "Art Room",
+      "Locker rooms"
+    ],
+    "membership_info": "Free membership for youth and adults 60+ through MY Denver Card/My Denver Prime",
+    "booking_url": "https://anc.apm.activecommunities.com/denver/activity/search?onlineSiteId=0&center_ids=4"
   },
   {
     "id": "osm_node_5322892002",
@@ -2360,7 +2376,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2392,7 +2408,26 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "washingtonpark.recreation@denvergov.org",
+    "opening_hours": {
+      "Monday-Thursday": "6am-9pm",
+      "Friday": "6am-8pm",
+      "Saturday": "8am-4pm",
+      "Sunday": "11am-4pm"
+    },
+    "description": "Regional recreation center in south Denver featuring an Olympic-size gymnasium, pool, pickleball courts, and complementary youth membership programs.",
+    "amenities": [
+      "Lap pool",
+      "Gymnasium",
+      "Pickleball court",
+      "Cardio room",
+      "Weight room",
+      "Multipurpose room",
+      "Locker rooms"
+    ],
+    "membership_info": "Free membership for youth and adults 60+ through MY Denver Card/My Denver Prime",
+    "booking_url": "https://anc.apm.activecommunities.com/denver/activity/search?onlineSiteId=0&center_ids=8"
   },
   {
     "id": "osm_way_105307124",
@@ -2423,7 +2458,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2447,7 +2482,26 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "lafamilia.recreation@denvergov.org",
+    "opening_hours": {
+      "Monday-Friday": "8am-8pm",
+      "Saturday": "10am-4pm",
+      "Sunday": "Closed"
+    },
+    "description": "A Local Level recreation center in the Baker neighborhood offering an indoor pool with baby pool, free youth meals, and community programs.",
+    "amenities": [
+      "Game room",
+      "Baby Pool",
+      "Lap pool",
+      "Gymnasium",
+      "Cardio room",
+      "Weight room",
+      "Pottery Studio",
+      "Locker rooms"
+    ],
+    "membership_info": "Free membership for youth and adults 60+ through MY Denver Card/My Denver Prime",
+    "booking_url": "https://anc.apm.activecommunities.com/denver/activity/search?onlineSiteId=0&center_ids=5"
   },
   {
     "id": "osm_way_149516240",
@@ -2480,7 +2534,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2508,7 +2562,27 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "scheitler.recreation@denvergov.org",
+    "opening_hours": {
+      "Monday-Thursday": "6am-8:30pm",
+      "Friday": "6am-7pm",
+      "Saturday": "9am-4pm",
+      "Sunday": "9am-2pm"
+    },
+    "description": "Regional recreation facility in northwest Denver featuring two pools, outdoor pool, group fitness studio, and pickleball courts.",
+    "amenities": [
+      "Outdoor pool",
+      "Lap pool",
+      "Group fitness studio",
+      "Pickleball court",
+      "Gymnasium",
+      "Cardio room",
+      "Weight room",
+      "Locker rooms"
+    ],
+    "membership_info": "Free membership for youth and adults 60+ through MY Denver Card/My Denver Prime",
+    "booking_url": "https://anc.apm.activecommunities.com/denver/activity/search?onlineSiteId=0&center_ids=37"
   },
   {
     "id": "osm_way_276666817",
@@ -2670,7 +2744,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2697,7 +2771,23 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "rude.recreation@denvergov.org",
+    "opening_hours": {
+      "Weekday": "6am-8pm",
+      "Weekend": "8am-4pm"
+    },
+    "description": "Regional-level recreation center offering a lap pool, gymnasium, and cardio and weight facilities with free memberships for youth and seniors 60+.",
+    "amenities": [
+      "Lap pool",
+      "Gymnasium",
+      "Cardio room",
+      "Weight room",
+      "Multipurpose room",
+      "Locker rooms"
+    ],
+    "membership_info": "Free membership for youth and adults 60+ through MY Denver Card/My Denver Prime",
+    "booking_url": "https://anc.apm.activecommunities.com/denver/activity/search?onlineSiteId=0&center_ids=13"
   },
   {
     "id": "osm_way_381247903",
@@ -2730,7 +2820,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2762,7 +2852,28 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "carlamadison.recreation@denvergov.org",
+    "opening_hours": {
+      "Monday-Thursday": "5:30am-9pm",
+      "Friday": "5:30am-8pm",
+      "Saturday-Sunday": "8am-4pm"
+    },
+    "description": "Regional recreation facility on Colfax featuring two indoor pools, outdoor climbing wall, cycle studio, rooftop event space, and extensive fitness amenities.",
+    "amenities": [
+      "Lap pool",
+      "Leisure pool",
+      "Outdoor climbing wall",
+      "Gymnasium",
+      "Cardio room",
+      "Weight room",
+      "Cycle studio",
+      "Group fitness studio",
+      "Slack lines",
+      "Dog park",
+      "Event space"
+    ],
+    "booking_url": "https://anc.apm.activecommunities.com/denver/home?onlineSiteId=0"
   },
   {
     "id": "osm_node_2988989425",
@@ -3192,7 +3303,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3218,7 +3329,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "centralpark.recreation@denvergov.org",
+    "opening_hours": "Monday-Friday: 5:30am-8pm, Saturday-Sunday: 8am-4pm",
+    "description": "Regional-level recreation center in northeast Denver featuring an indoor pool with a lazy river, splash area, 25-yard lap pool, and slide.",
+    "amenities": [
+      "Indoor pools (leisure, lap, splash area)",
+      "Lazy river and slide",
+      "Gymnasium",
+      "Group fitness studio",
+      "Cardio room",
+      "Weight room",
+      "Event space"
+    ],
+    "booking_url": "https://anc.apm.activecommunities.com/denver/activity/search?onlineSiteId=0&center_ids=30"
   },
   {
     "id": "osm_way_638360231",
@@ -3251,7 +3375,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3280,7 +3404,22 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "montbello.recreation@denvergov.org",
+    "opening_hours": "Monday-Friday: 6am-8pm, Saturday-Sunday: 9am-4pm",
+    "description": "A regional recreation center in northeast Denver offering lap pool, gymnasium, pickleball courts, and free memberships for youth and seniors.",
+    "amenities": [
+      "Lap pool",
+      "Gymnasium",
+      "Cardio room",
+      "Weight room",
+      "Pickleball court",
+      "Art room",
+      "Kitchen",
+      "Locker rooms"
+    ],
+    "membership_info": "Free membership for youth and adults 60+ through MY Denver Card/My Denver Prime",
+    "booking_url": "https://anc.apm.activecommunities.com/denver/activity/search?onlineSiteId=0&center_ids=36"
   },
   {
     "id": "osm_way_685138883",

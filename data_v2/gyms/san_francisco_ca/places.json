@@ -590,7 +590,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -614,7 +614,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "ethanrichperformance@gmail.com",
+    "description": "Private strength training and fitness coaching in San Francisco specializing in personalized athletic development, movement quality, and injury prevention.",
+    "amenities": [
+      "Private 1-on-1 training",
+      "Youth training programs",
+      "Strength training",
+      "Athletic performance coaching",
+      "Movement analysis"
+    ],
+    "booking_url": "https://www.ethanrichperformance.com/appointments"
   },
   {
     "id": "osm_way_113283290",
@@ -851,7 +861,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -879,7 +889,21 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": {
+      "Monday-Friday": "9:00am-6:00pm",
+      "Saturday": "9:00am-1:30pm"
+    },
+    "description": "Head Over Heels Athletic Arts offers gymnastics instruction for ages 18 months and up, embracing the learning process through a fun creative approach.",
+    "amenities": [
+      "Gymnastics classes (all ages)",
+      "Birthday parties",
+      "Summer camps",
+      "Parents Night Out",
+      "Competitive team",
+      "Open gym"
+    ],
+    "booking_url": "https://hohathleticarts.com/class-schedule/"
   },
   {
     "id": "osm_node_4052041190",
@@ -1245,7 +1269,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1273,6 +1297,11 @@
     },
     "sources": [
       "osm"
+    ],
+    "opening_hours": "Monday-Saturday: 7:00am-8:00pm, Sunday: 9:00am-8:00pm",
+    "description": "Immortal Fitness is an exercise gym facility offering fitness services to the Berkeley, California community.",
+    "amenities": [
+      "Fitness equipment"
     ]
   },
   {
@@ -1598,7 +1627,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1621,7 +1650,21 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cm@fitclub4women.com",
+    "opening_hours": "Mon/Wed/Fri: 6am-2pm, Tue/Thu: 7am-2pm & 3:30-7pm, Sat: 8am-12pm",
+    "description": "Exclusive women's fitness and wellness center in Marin County specializing in small group personal training, private sessions, and specialized classes.",
+    "amenities": [
+      "Small Group Personal Training",
+      "One-on-one Personal Training",
+      "Core & Glutes Classes",
+      "MELT Method",
+      "Nutrition coaching",
+      "Body composition tracking",
+      "HIIT cardio"
+    ],
+    "membership_info": "Appointment-based packages for 2, 3, or 4 weekly sessions",
+    "booking_url": "https://clients.mindbodyonline.com/LoginLaunch?studioid=443622"
   },
   {
     "id": "osm_way_43001975",
@@ -1885,7 +1928,7 @@
       "lat": 37.7605228,
       "lng": -122.4216455
     },
-    "phone": "",
+    "phone": "415-525-4364",
     "website": "https://www.livefitgym.com",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/968356991",
@@ -1907,7 +1950,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -1928,7 +1971,25 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "admin@livefitgym.com",
+    "opening_hours": {
+      "Castro Mon-Fri": "5am-10pm",
+      "Castro Sat-Sun": "6am-6pm",
+      "Polk Street": "5am-11pm daily"
+    },
+    "description": "San Francisco's leading wellness-driven fitness club integrating evidence-based training, recovery, and holistic health services under one roof across 8 locations.",
+    "amenities": [
+      "Personal Training",
+      "Group Classes (HIIT, Yoga, Pilates)",
+      "Chiropractic Care",
+      "Softwave Therapy",
+      "Massage Therapy",
+      "Acupuncture",
+      "Physical Therapy",
+      "InBody Test"
+    ],
+    "booking_url": "https://livefitgym.com/signup/"
   },
   {
     "id": "osm_node_2338837133",
@@ -2948,7 +3009,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2976,7 +3037,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@vrv3studios.com",
+    "description": "Pole and aerial dance studio in San Francisco's Lower Haight offering classes for all levels, emphasizing inclusivity and community.",
+    "amenities": [
+      "Pole dance classes",
+      "Aerial classes",
+      "Private training",
+      "Group parties",
+      "Studio rentals"
+    ],
+    "booking_url": "https://www.vrv3studios.com/schedule"
   },
   {
     "id": "osm_node_2666409791",
@@ -3141,7 +3212,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3166,7 +3237,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "admin@livefitgym.com",
+    "description": "San Francisco wellness-driven fitness club at Nob Hill integrating training, recovery, and holistic health services.",
+    "amenities": [
+      "Personal Training",
+      "Group Classes",
+      "Recovery services",
+      "Chiropractic Care",
+      "Massage Therapy"
+    ],
+    "booking_url": "https://livefitgym.com/signup/"
   },
   {
     "id": "osm_node_4637222973",
