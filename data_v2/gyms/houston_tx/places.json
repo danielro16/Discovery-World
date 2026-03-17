@@ -383,7 +383,7 @@
   },
   {
     "id": "osm_way_1117748129",
-    "name": "William’s Indoor Pool",
+    "name": "William\u2019s Indoor Pool",
     "address": "15000 McConn Street, Webster, TX, 77598",
     "location": {
       "lat": 29.5670877,
@@ -427,7 +427,7 @@
       "addr:state": "TX",
       "addr:street": "McConn Street",
       "leisure": "sports_centre",
-      "name": "William’s Indoor Pool",
+      "name": "William\u2019s Indoor Pool",
       "opening_hours": "Mo-Fr 05:30-09:45,16:00-19:45; Sa 09:00-11:45,13:00-15:45; Su 13:00-17:45",
       "phone": "+1-281-486-2626",
       "sport": "swimming",
@@ -2060,7 +2060,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2083,6 +2083,14 @@
     },
     "sources": [
       "osm"
+    ],
+    "description": "Full Armor Firearms offers tactical firearms and gear with an integrated indoor shooting range, custom coatings, machining, and laser engraving services.",
+    "amenities": [
+      "Indoor Gun Range",
+      "Custom Coatings",
+      "Laser Engraving",
+      "Machining Services",
+      "Free Range Access with Purchase"
     ]
   },
   {
@@ -2374,7 +2382,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2401,7 +2409,22 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "Reservations@houstonian.com",
+    "description": "Exclusive 27-acre wooded private health club in Houston featuring comprehensive fitness facilities, indoor and outdoor pools, tennis courts, and a full-service spa.",
+    "amenities": [
+      "Indoor & Outdoor Pools",
+      "300+ Cardio & Strength Machines",
+      "Tennis Courts",
+      "Racquetball Courts",
+      "Group Exercise Studios",
+      "Sauna",
+      "Steam Rooms",
+      "Rock Climbing Wall",
+      "Spa Services"
+    ],
+    "membership_info": "Club membership available with various levels; hotel guests receive complimentary access",
+    "booking_url": "https://be.synxis.com/"
   },
   {
     "id": "osm_way_1327985746",
@@ -2473,7 +2496,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2499,6 +2522,12 @@
     },
     "sources": [
       "osm"
+    ],
+    "description": "Beach volleyball organization based in Houston offering competitive leagues, social events, and community engagement for volleyball enthusiasts.",
+    "amenities": [
+      "Beach Volleyball Courts",
+      "Competitive Leagues",
+      "Social Events"
     ]
   },
   {
@@ -2574,7 +2603,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2596,7 +2625,16 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "The Bar Method offers total-body barre workouts designed to strengthen, sculpt, and lengthen muscles through low-impact, isometric movements.",
+    "amenities": [
+      "Barre Classes",
+      "Online Classes",
+      "Personalized Instruction",
+      "Class Modifications"
+    ],
+    "membership_info": "New client: 13 classes for $78 (valid 60 days)",
+    "booking_url": "https://barmethod.com/find-a-studio/"
   },
   {
     "id": "osm_node_9251094875",
@@ -2666,7 +2704,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2692,7 +2730,16 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "theheights@solidcore.co",
+    "description": "High-intensity, low-impact Pilates-inspired workout studio using custom-built reformers with professional coaching in The Heights neighborhood.",
+    "amenities": [
+      "Custom-Built Reformers",
+      "Professional Coaching",
+      "Blue-Lit Studio",
+      "Free Parking"
+    ],
+    "booking_url": "https://solidcore.co/auth/schedule"
   },
   {
     "id": "osm_way_200077590",
@@ -4373,7 +4420,7 @@
   },
   {
     "id": "osm_way_194628797",
-    "name": "EōS Fitness",
+    "name": "E\u014dS Fitness",
     "address": "8650 Endicott Lane, Houston, TX, 77096",
     "location": {
       "lat": 29.6871119,
@@ -4409,7 +4456,7 @@
       "addr:street": "Endicott Lane",
       "building": "yes",
       "leisure": "fitness_centre",
-      "name": "EōS Fitness",
+      "name": "E\u014dS Fitness",
       "note": "Formerly Texans Fit."
     },
     "sources": [

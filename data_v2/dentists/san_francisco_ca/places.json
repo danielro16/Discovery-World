@@ -29,7 +29,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -52,7 +52,10 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Westlake Dental Care offers comprehensive dental services including general, cosmetic, and restorative procedures with state-of-the-art technology.",
+    "services": "General Dentistry, Cosmetic Dentistry, Dental Implants, Invisalign, Orthodontics, Preventive Hygiene, Periodontal Maintenance, Sleep Apnea Treatment, Pediatric Dentistry, Emergency Dental Care, Teeth Whitening",
+    "booking_url": "https://www.westlake-dentalcare.com/appointment-request"
   },
   {
     "id": "osm_node_6548982338",
@@ -83,7 +86,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -111,7 +114,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Dental practice offering same-day treatments and comprehensive oral care services in Millbrae, California.",
+    "services": "Dental Implants, Dental Emergencies, Tooth Extractions, Invisalign, Restorative Dentistry, Fillings, Dental Bridge, Root Canal, Preventive Care, Cosmetic Dentistry, Dental Veneers, Dentures, Kids Dentistry, Sedation Dentistry"
   },
   {
     "id": "osm_node_11933579496",
@@ -143,7 +148,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -168,7 +173,12 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Thu: 7am-7pm, Fri: 7am-2pm",
+    "description": "Strawberry Village Dentist provides customized dental care in Mill Valley, serving the community for over 28 years with convenient scheduling.",
+    "services": "Preventive Dentistry, Restorative Dentistry, Cosmetic Dentistry, Dental Crowns, Dental Implants, Dentures, Dental Veneers, Teeth Whitening, Invisalign, Sedation Dentistry, Emergency Dentistry, Oral Surgery",
+    "insurance_accepted": "Delta Dental Premier",
+    "booking_url": "https://www.strawberryvillagedentist.com/contact-us/"
   },
   {
     "id": "osm_node_6704967531",
@@ -200,7 +210,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -219,7 +229,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Led by Dr. Luisa Diaz, DDS, Bayhill Dental Care offers trustworthy and individualized dental services in San Bruno, CA."
   },
   {
     "id": "osm_node_13477915502",
@@ -250,7 +261,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -271,7 +282,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Dental practice in San Bruno, CA offering comprehensive dental care for the whole family."
   },
   {
     "id": "osm_node_3442069656",
@@ -295,7 +307,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -316,7 +328,12 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@shoreviewdental.net",
+    "opening_hours": "Mon-Thu: 9am-6pm, Fri: 8am-5pm",
+    "description": "Family dental practice in Pacifica serving patients since 1997, combining cutting-edge technology with personalized, gentle care for all ages.",
+    "services": "General Dentistry, Pediatric Dentistry, Dental Implants, Invisalign, Cosmetic Dentistry, Emergency Care",
+    "booking_url": "https://www.shoreviewdental.net/contact"
   },
   {
     "id": "osm_node_3468362959",
@@ -341,7 +358,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -363,7 +380,11 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Fri: 9am-6pm",
+    "description": "State-of-the-art dental practice offering comprehensive family care with modern amenities including wall-mounted TVs in treatment rooms.",
+    "services": "Teeth Cleaning, Dental Implants, Teeth Whitening, Invisalign, Fillings, Cosmetic Dentistry, Oral Surgery",
+    "insurance_accepted": "Delta Dental PPO/Premier, Cigna, TRICARE, Humana, United Healthcare, MetLife, Blue Cross Blue Shield, Medicaid"
   },
   {
     "id": "osm_node_4884452490",
@@ -480,7 +501,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -497,7 +518,10 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "ArtDentalCentre@yahoo.com",
+    "description": "Comprehensive dental practice offering family, cosmetic, implant, laser, and orthodontic dentistry services.",
+    "services": "Family Dentistry, Cosmetic Dentistry, Implant Dentistry, Laser Dentistry, Orthodontic Dentistry"
   },
   {
     "id": "osm_node_10195853716",

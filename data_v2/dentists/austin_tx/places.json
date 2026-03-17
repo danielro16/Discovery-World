@@ -118,7 +118,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -149,7 +149,13 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "lakewaydentistry@gmail.com",
+    "opening_hours": "Mon-Thu: 8am-5pm, Fri-Sat: by appointment",
+    "description": "Lakeway Cosmetic & Family Dentistry, led by Dr. Robert D'Alfonso with over 20 years of experience, provides comprehensive dental care including cosmetic, restorative, and general dentistry services to Austin area residents.",
+    "services": "Dental Implants, Cosmetic Dentistry, Veneers, Teeth Whitening, Invisalign, General Dentistry, Emergency Dentistry, Sedation Dentistry, Full Mouth Reconstruction, Periodontal Treatment, Wisdom Teeth Removal, Pediatric Dentistry",
+    "insurance_accepted": "PPO insurance accepted; in-house dental insurance available",
+    "booking_url": "https://book2.getweave.com/25969e71-adc6-43d1-806e-ffb1d171ed1d/request-appointment?source=WEBSITE"
   },
   {
     "id": "osm_node_11801652621",
@@ -360,7 +366,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -670,7 +676,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -694,7 +700,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "My Care Dental, led by Dr. Anupama Annapareddy, offers personalized modern dentistry in a caring, fun, and affordable environment."
   },
   {
     "id": "osm_node_8301802491",
@@ -912,7 +919,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -973,7 +980,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -997,7 +1004,12 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Fri: 9am-6pm, some Sat hours available",
+    "description": "Multi-location dental practice offering comprehensive family dentistry across Central Texas with a focus on transparent pricing and judgment-free care.",
+    "services": "Preventive Dentistry, Pediatric Dentistry, Emergency Dental Care, Cosmetic Dentistry, Teeth Whitening, Veneers, Dental Crowns & Bridges, Root Canal Treatment, Dentures, Dental Implants, Invisalign, Oral Surgery",
+    "insurance_accepted": "Aetna, Ameritas, Blue Cross Blue Shield, Cigna, Delta Dental, Guardian, Humana, MetLife, United Concordia, UnitedHealthcare, Most PPO plans",
+    "booking_url": "https://mydental.co/hdl"
   },
   {
     "id": "osm_node_8388892187",
@@ -1924,7 +1936,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1954,7 +1966,11 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@lifetimedental.com",
+    "opening_hours": "Mon-Sun: 9am-5pm",
+    "description": "Austin Lifetime Dental provides comprehensive dental care for families in North Austin and Westlake, specializing in advanced dental implants, cosmetic treatments, and general dentistry services.",
+    "services": "Dental Implants, Cosmetic Dentistry, Family Dentistry"
   },
   {
     "id": "osm_way_383194446",
@@ -2379,7 +2395,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2406,7 +2422,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Orthodontics practice in North Austin/Pflugerville area offering orthodontic treatment for children and adults.",
+    "services": "Orthodontics, Braces, Invisalign"
   },
   {
     "id": "osm_way_382505269",
@@ -2431,7 +2449,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2455,7 +2473,11 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Thu: 8am-5pm, Fri-Sat: 8am-3pm",
+    "description": "Parkfield Dental is focused on creating a welcoming environment with individualized care, prioritizing patient understanding and comfort throughout treatment.",
+    "services": "Preventive Dentistry, Dental Implants, Cosmetic Dentistry",
+    "booking_url": "https://www.flexbook.me/parkfield/1"
   },
   {
     "id": "osm_node_12594152139",
@@ -2465,7 +2487,7 @@
       "lat": 30.2030096,
       "lng": -97.8789166
     },
-    "phone": "",
+    "phone": "+1 (512) 301-2483",
     "website": "http://circlecdental.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/12594152139",
@@ -2479,7 +2501,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -2500,7 +2522,11 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@circlecdental.com",
+    "opening_hours": "Mon-Thu: 8am-5pm",
+    "description": "Circle C Dental, led by Dr. Blake Mulgrew, is a south Austin practice offering comprehensive dental care with a team-oriented and compassionate approach to patient comfort.",
+    "services": "Same Day Crowns (CEREC), Invisalign, Laser Gum Treatment, Implants, Sleep Apnea Treatment, Teeth Whitening, Sedation Dentistry"
   },
   {
     "id": "osm_way_955434311",
@@ -2510,7 +2536,7 @@
       "lat": 30.1749362,
       "lng": -97.8241504
     },
-    "phone": "",
+    "phone": "(512) 430-4472",
     "website": "https://dentistinaustintx.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/way/955434311",
@@ -2525,7 +2551,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -2549,7 +2575,11 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Fri: 8am-6pm",
+    "description": "Dental practice in Austin offering affordable care with flexible payment options and Medicaid acceptance.",
+    "services": "General Dentistry",
+    "insurance_accepted": "Medicaid, Aetna"
   },
   {
     "id": "osm_node_3304986848",
@@ -2559,8 +2589,8 @@
       "lat": 30.3823051,
       "lng": -97.8851377
     },
-    "phone": "",
-    "website": "https://bracesaustin.com/",
+    "phone": "(512) 266-8585",
+    "website": "https://tomblynfamilyorthodontics.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/3304986848",
     "rating": null,
@@ -2574,7 +2604,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -2594,7 +2624,10 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Thu: 7:30am-4pm, Fri: 8am-4pm",
+    "description": "Family-centered orthodontic practice with Diamond TOP 1% Invisalign provider status, completing more Invisalign cases than 99% of practices nationwide.",
+    "services": "Invisalign, Braces, Early Orthodontic Treatment, Teen Orthodontics, Adult Orthodontics, Retainers"
   },
   {
     "id": "osm_node_12297701600",
@@ -2604,7 +2637,7 @@
       "lat": 30.4749444,
       "lng": -97.8406137
     },
-    "phone": "",
+    "phone": "512-336-8478",
     "website": "https://www.512dentist.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/12297701600",
@@ -2619,7 +2652,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -2642,7 +2675,10 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Cedar Park dental practice offering family and cosmetic dentistry services with personalized, gentle care.",
+    "services": "Cleanings & Prevention, Composite Fillings, Porcelain Crowns, Dental Implants, Porcelain Veneers, Tooth Whitening, Clear Tray Orthodontics, Root Canal Therapy, Dentures",
+    "booking_url": "https://www.512dentist.com/appointment-request/"
   },
   {
     "id": "osm_node_12983037642",
@@ -2707,7 +2743,7 @@
       "lat": 30.3921977,
       "lng": -97.830293
     },
-    "phone": "",
+    "phone": "512.795.2800",
     "website": "https://riverplacefamilydental.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/13361919714",
@@ -2722,7 +2758,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -2744,7 +2780,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "River Place Dental in Austin offers advanced technology combined with compassionate care, welcoming new patients for preventive, cosmetic, and restorative dental treatments.",
+    "services": "Preventive Dentistry, Cosmetic Dentistry, Restorative Dentistry"
   },
   {
     "id": "osm_node_9029591430",

@@ -28,7 +28,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -50,7 +50,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Dental practice in Bremerton, WA offering comprehensive dental care services."
   },
   {
     "id": "osm_node_6912243683",
@@ -167,7 +168,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -189,7 +190,12 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon: 9am-6pm, Tue-Wed: 8am-5pm, Thu-Fri: 8am-4pm, Sat: 8am-2pm",
+    "description": "Gentle Dental Coal Creek provides expert dental care at a convenient neighborhood location in Newcastle, Washington with commitment to patient satisfaction and family-centered service.",
+    "services": "General Dentistry, Preventative Care, Cavity Treatments, Cosmetic Dentistry, Orthodontics, Pediatric Dentistry, Oral Surgery, Periodontics, Endodontics, Emergency Dental Care, Sedation Dentistry",
+    "insurance_accepted": "Anthem Blue Cross, Cigna, Delta Dental, Humana, Kaiser Permanente, MetLife, Principal",
+    "booking_url": "https://gentledental.interdent.com/request-appointment?location=Gentle-Dental-Coal-Creek#appt-form"
   },
   {
     "id": "osm_node_5270848467",
@@ -306,7 +312,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -329,7 +335,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Personalized dental practice offering comprehensive care for patients in the Seattle/Kirkland area.",
+    "services": "General Dentistry, Cosmetic Dentistry, Restorative Dentistry, Orthodontics, Oral Surgery, Periodontics, Pediatric Dentistry, Endodontics"
   },
   {
     "id": "osm_node_11040165862",
@@ -359,7 +367,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -384,7 +392,13 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "redmond@sunrisedental.com",
+    "opening_hours": "Mon-Fri: 9am-6pm, Sat: by appointment",
+    "description": "Family-owned dental practice established in 2012, offering superior dental care with a focus on patient comfort and education in Redmond, WA.",
+    "services": "Family Dentistry, Cosmetic Dentistry, Dental Implants, Crowns & Bridges, Root Canals, Oral Surgery, Teeth Whitening, Emergency Services, Invisalign",
+    "insurance_accepted": "Most PPO insurance plans accepted",
+    "booking_url": "https://book.modento.io/sunrise-dental-of-redmond/patient-details"
   },
   {
     "id": "osm_node_12378981556",
@@ -580,7 +594,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -608,7 +622,12 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon: 8am-5pm, Tue: 8am-5:30pm, Wed-Fri: 8am-5pm",
+    "description": "Bright Now! Dental in Issaquah offers comprehensive dental care including preventive, restorative, cosmetic, and orthodontic services with experienced dentists and modern technology.",
+    "services": "General Dentistry, Dental Implants, Clear Aligners, Orthodontics, Cosmetic Dentistry, Emergency Dental Care, Teeth Cleaning, Gum Disease Treatment, Dental Crowns & Bridges, Dentures, Teeth Whitening, Porcelain Veneers",
+    "insurance_accepted": "Aetna, Cigna, Delta Dental/WDS, Guardian, Humana, MetLife, Premera/BC, Regence/BCBS, UHC, and 20+ additional plans",
+    "booking_url": "https://www.brightnow.com/appointment/?officeid=10430"
   },
   {
     "id": "osm_node_3882954897",
@@ -695,7 +714,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -718,7 +737,12 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon: 8am-6pm, Tue: 8am-2pm, Wed-Thu: 8am-6pm, Fri: 8am-5pm",
+    "description": "Family-oriented dental practice offering comprehensive oral care in a warm, welcoming environment with state-of-the-art technology in Redmond, WA.",
+    "services": "Cosmetic Dentistry, Emergency Dentistry, Family Dentistry, Dental Implants, Invisalign, Porcelain Veneers, Teeth Whitening, Crowns and Fillings, Root Canals, Sedation Dentistry",
+    "insurance_accepted": "Majority of dental insurance carriers",
+    "booking_url": "https://redmondwaydentistry.com/?page_id=17"
   },
   {
     "id": "osm_node_4853806259",
@@ -830,7 +854,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -855,7 +879,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Oral surgery and dental implant specialty practice in Sammamish, WA.",
+    "services": "Dental Implants, Oral Surgery"
   },
   {
     "id": "osm_node_4779672822",
@@ -879,7 +905,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -900,7 +926,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Orthodontic practice offering personalized orthodontic treatment for patients of all ages.",
+    "services": "Orthodontics, Braces, Invisalign"
   },
   {
     "id": "osm_node_11959517575",
@@ -1238,7 +1266,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -1261,7 +1289,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Orthodontic practice offering comprehensive orthodontic treatment for children and adults.",
+    "services": "Orthodontics, Braces, Invisalign"
   },
   {
     "id": "osm_way_560591178",
@@ -1534,7 +1564,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -1554,7 +1584,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Full-service dental practice offering comprehensive care in the Seattle area.",
+    "services": "General Dentistry, Cosmetic Dentistry"
   },
   {
     "id": "osm_node_4641428666",
@@ -1579,7 +1611,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -1602,7 +1634,11 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Thu: 7:15am-5pm",
+    "description": "Top 1% Invisalign provider offering clear aligner therapy and traditional braces, with Dr. Mark Nelson specializing in personalized orthodontic treatment for patients of all ages.",
+    "services": "Invisalign, Invisalign for Kids, Traditional Braces, Clear Aligner Therapy",
+    "booking_url": "https://www.sammamishortho.com/book-a-consultation/"
   },
   {
     "id": "osm_node_4641428667",
@@ -2084,7 +2120,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2108,7 +2144,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Comprehensive dental practice offering family and cosmetic dental care on the Eastside of Seattle.",
+    "services": "General Dentistry, Cosmetic Dentistry, Family Dentistry"
   },
   {
     "id": "osm_node_13182442479",
@@ -2133,7 +2171,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2157,7 +2195,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Family dental practice offering comprehensive dental care in the Redmond area.",
+    "services": "Family Dentistry, General Dentistry, Cosmetic Dentistry"
   },
   {
     "id": "osm_node_13182442484",
@@ -2182,7 +2222,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2206,7 +2246,10 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Family and implant dentistry practice offering compassionate, state-of-the-art functional and cosmetic dental care to patients of all ages across the Redmond and Bellevue areas.",
+    "services": "Family Dentistry, Dental Implants, Invisalign, Cosmetic Dentistry, Orthodontics, Crowns, Root Canal, Dentures, Teeth Whitening, Veneers, Wisdom Teeth Extraction",
+    "booking_url": "https://www.redmondsmilesdentistry.com/schedule"
   },
   {
     "id": "osm_way_44710065",
@@ -2231,7 +2274,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2254,7 +2297,10 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Board-certified periodontist offering traditional periodontal therapy, dental implants, microsurgery, and smile enhancement in a wellness-based practice.",
+    "services": "Dental Implants, Gum Disease Treatment, Microsurgery, Root Coverage, Guided Tissue Regeneration, Sinus Augmentation, Bone Grafting, Crown Lengthening, Tooth Removal",
+    "booking_url": "https://www.gumdoctor.net/bellevue-dental-appointment.html"
   },
   {
     "id": "osm_way_44710066",
@@ -2326,7 +2372,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2350,7 +2396,13 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "redmond@sunrisedental.com",
+    "opening_hours": "Mon-Fri: 9am-6pm, Sat: by appointment",
+    "description": "Family-owned dental practice established in 2012, offering superior dental care with a focus on patient comfort and education in Redmond, WA.",
+    "services": "Family Dentistry, Cosmetic Dentistry, Dental Implants, Crowns & Bridges, Root Canals, Oral Surgery, Teeth Whitening, Emergency Services, Invisalign",
+    "insurance_accepted": "Most PPO insurance plans accepted",
+    "booking_url": "https://book.modento.io/sunrise-dental-of-redmond/patient-details"
   },
   {
     "id": "osm_node_11161095946",
@@ -2620,7 +2672,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -2642,7 +2694,12 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon: 8am-5pm, Tue: 8am-5:30pm, Wed-Fri: 8am-5pm",
+    "description": "Bright Now! Dental in Issaquah offers comprehensive dental care including preventive, restorative, cosmetic, and orthodontic services with experienced dentists and modern technology.",
+    "services": "General Dentistry, Dental Implants, Clear Aligners, Orthodontics, Cosmetic Dentistry, Emergency Dental Care, Teeth Cleaning, Gum Disease Treatment, Dental Crowns & Bridges, Dentures, Teeth Whitening, Porcelain Veneers",
+    "insurance_accepted": "Aetna, Cigna, Delta Dental/WDS, Guardian, Humana, MetLife, Premera/BC, Regence/BCBS, UHC, and 20+ additional plans",
+    "booking_url": "https://www.brightnow.com/appointment/?officeid=10430"
   },
   {
     "id": "osm_node_2737502225",

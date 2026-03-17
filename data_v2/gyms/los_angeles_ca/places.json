@@ -419,7 +419,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -447,7 +447,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "southgate@sofive.com",
+    "opening_hours": "Mon-Fri: 2pm-11pm, Sat-Sun: 8am-11pm",
+    "description": "World-class outdoor soccer facility featuring 10 five-a-side and 2 seven-a-side fields with video replay technology, caf\u00e9, and complimentary parking.",
+    "amenities": [
+      "Soccer Fields",
+      "Video Replay Technology",
+      "Caf\u00e9 & Snacks",
+      "Guest WiFi",
+      "Free Parking",
+      "Viewing Lounge"
+    ],
+    "booking_url": "https://webapp.sofive.com/book.html"
   },
   {
     "id": "osm_way_1250585777",
@@ -577,7 +589,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -601,7 +613,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Action-packed paintball and airsoft park with immersive fields featuring movie props, serving Los Angeles and Orange County with activities for all ages.",
+    "amenities": [
+      "Paintball",
+      "Airsoft",
+      "PaintballSoft",
+      "Kids Paintball",
+      "Gel Ball",
+      "Birthday Parties",
+      "Equipment Rental"
+    ],
+    "booking_url": "https://hollywoodsports.com/pages/pricing"
   },
   {
     "id": "osm_way_449964381",
@@ -1470,7 +1493,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1497,7 +1520,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "soulweho@soul-cycle.com",
+    "opening_hours": "Mon/Wed: 6:30am-9:45pm, Tue/Thu: 6:30am-8:45pm, Fri: 5:30am-6:15pm, Sat: 7am-2pm, Sun: 8am-3pm",
+    "description": "High-energy, music-driven indoor cycling experience with top instructors and state-of-the-art facilities in West Hollywood.",
+    "amenities": [
+      "Indoor Cycling",
+      "Expert Instructors",
+      "Music-Driven Classes",
+      "Parking Available"
+    ],
+    "booking_url": "https://www.soul-cycle.com/find-a-class/studio/14/"
   },
   {
     "id": "osm_node_11925655071",
@@ -1581,7 +1614,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1605,7 +1638,23 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@gymtonicla.com",
+    "opening_hours": "Mon-Thu: 5am-10pm, Fri: 5am-9pm, Sat-Sun: 7am-7pm",
+    "description": "A 21,000 sq ft fitness facility in Los Angeles combining science-based training with luxe design, featuring state-of-the-art equipment and comprehensive wellness services.",
+    "amenities": [
+      "Group Fitness Classes",
+      "Personal Training",
+      "Cold Plunge",
+      "Hyperbaric Oxygen Chamber",
+      "Infrared Saunas",
+      "Massage Therapy",
+      "Meditation Rooms",
+      "Recovery Rooms",
+      "Indoor-Outdoor Turf"
+    ],
+    "membership_info": "$0 initiation fee (limited time)",
+    "booking_url": "https://gymtonicla.com/joinnow/"
   },
   {
     "id": "osm_way_391219445",
@@ -2539,7 +2588,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2565,7 +2614,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "porterranch@yogasix.com",
+    "description": "Boutique yoga fitness studio offering six core class formats including mobility, restorative, slow flow, hot yoga, power yoga, and sculpt & flow.",
+    "amenities": [
+      "Multiple Yoga Formats",
+      "Hot Yoga",
+      "Strength & Balance Training",
+      "Flexibility Focus"
+    ],
+    "membership_info": "50% off first month with promo code HALFOFF; unlimited classes monthly",
+    "booking_url": "https://members.yogasix.com/offers/yogasix-porter-ranch/50-off-your-first-month-starts-now-2f31e8f6-45d1-42d3-bf06-87e9ab513265"
   },
   {
     "id": "osm_node_3178369747",
@@ -2659,7 +2718,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2685,7 +2744,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@pasadenaelitefitness.com",
+    "opening_hours": "Mon-Fri: 5:15am-9pm, Sat: 6am-3pm (by appointment)",
+    "description": "Neighborhood fitness studio offering personalized training programs in a welcoming, non-corporate atmosphere with private rooms and premium amenities.",
+    "amenities": [
+      "Private Training Rooms",
+      "Premium Equipment",
+      "Protein Shakes & Bars",
+      "Towel Service",
+      "Complimentary Water",
+      "Parking"
+    ],
+    "booking_url": "https://pasadenaelitefitness.com/contact-us"
   },
   {
     "id": "osm_node_11765072741",
@@ -2714,7 +2785,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2738,7 +2809,14 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "glendale@trainingmate.com",
+    "description": "Training Mate Glendale offers energetic group fitness training classes with expert instruction in a motivating environment.",
+    "amenities": [
+      "Group Fitness Classes",
+      "Class Scheduling"
+    ],
+    "booking_url": "https://trainingmate.com/studios/glendale/schedule"
   },
   {
     "id": "osm_node_12181185172",
@@ -2889,7 +2967,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2921,7 +2999,21 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Thu: 7am-11pm, Fri: 7am-10pm, Sat-Sun: 10am-7pm",
+    "description": "State-of-the-art climbing gym in Pasadena offering 22,500 sq ft with world-class route setting, including 40' lead wall, bouldering, and top rope climbing.",
+    "amenities": [
+      "Lead Climbing (40' Wall)",
+      "Bouldering (6,500 sq ft)",
+      "Top Rope (16,000 sq ft)",
+      "Weight Room",
+      "Yoga Classes",
+      "Sauna",
+      "Showers",
+      "Parking"
+    ],
+    "membership_info": "Individual: $112/mo + $100 initiation; Day pass: $25-$30; 10-visit pass: $270",
+    "booking_url": "https://touchstoneclimbing.com/the-post/membership-and-passes/"
   },
   {
     "id": "osm_way_216267961",
@@ -2954,7 +3046,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2987,7 +3079,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Fri: 5:30am-9pm, Sat: 5:30am-5pm, Sun: 8am-5pm",
+    "description": "Innovative aquatic facility dedicated to water safety, community wellness, and aquatic activities including lap swimming, lessons, yoga, and competitive teams.",
+    "amenities": [
+      "Lap Swimming",
+      "Swim Lessons",
+      "Therapy Pool",
+      "Water Fitness",
+      "Yoga",
+      "Competitive Teams",
+      "Lifeguard Certification",
+      "Adaptive Swim Lessons"
+    ],
+    "booking_url": "https://rosebowlaquatics.org/login-page"
   },
   {
     "id": "osm_way_471969062",
@@ -3160,7 +3265,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3189,7 +3294,22 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "pasadena@basecampfitness.com",
+    "opening_hours": "Mon-Thu: 5:45am-7pm, Fri: 5:45am-6pm, Sat: 7:45am-12pm, Sun: 7:45am-11am",
+    "description": "High-intensity 35-minute HIIT classes combining cardio and strength training, designed to burn 50 minutes worth of calories in half the time.",
+    "amenities": [
+      "HIIT Classes",
+      "Private Showers",
+      "Changing Rooms",
+      "Towel Service",
+      "Lockers",
+      "Healthy Snacks",
+      "Retail Shop",
+      "Validated Parking"
+    ],
+    "membership_info": "Hike (4 classes/mo), Climb (8 classes/mo), Expedition (unlimited)",
+    "booking_url": "https://www.basecampfitness.com/schedule"
   },
   {
     "id": "osm_node_8092872776",
@@ -3629,7 +3749,7 @@
   },
   {
     "id": "osm_node_13298890564",
-    "name": "EōS Fitness",
+    "name": "E\u014dS Fitness",
     "address": "400 South Baldwin Avenue, Arcadia, CA, 91007",
     "location": {
       "lat": 34.1346188,
@@ -3678,7 +3798,7 @@
       "contact:yelp": "https://www.yelp.com/biz/e%C5%8Ds-fitness-arcadia",
       "leisure": "fitness_centre",
       "level": "1",
-      "name": "EōS Fitness",
+      "name": "E\u014dS Fitness",
       "opening_hours": "Mo-Fr 05:00-22:00; Sa-Su 07:00-19:00",
       "phone": "+1 626-447-1500",
       "sport": "fitness",
@@ -3828,7 +3948,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3858,7 +3978,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "pasadena@clubpilates.com",
+    "opening_hours": "Mon/Wed/Fri: 6am-7pm, Tue/Thu: 6:30am-8:30pm, Sat-Sun: 8:30am-1pm",
+    "description": "Boutique Pilates studio specializing in reformer fusion classes for all ages and fitness levels with state-of-the-art equipment.",
+    "amenities": [
+      "Reformer Pilates",
+      "Springboard",
+      "Chair Apparatus",
+      "TRX",
+      "Jumpboard",
+      "Mat Classes"
+    ],
+    "booking_url": "https://lp.clubpilates.com/offers?offer_id=intro-class-promo&booking=1&clubready_referraltypeid=34876&clubready_referraltypeid_ca=63232&location=pasadena"
   },
   {
     "id": "osm_node_13438778383",
@@ -4450,7 +4582,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -4469,7 +4601,15 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@rockitbody.com",
+    "description": "Innovative workout studio fusing Pilates, cardio, and strength training designed to strengthen, tighten, tone, and elongate the body with low-impact movements.",
+    "amenities": [
+      "Group Classes",
+      "Private Sessions",
+      "Pilates Equipment"
+    ],
+    "booking_url": "https://www.rockitbody.com/signin"
   },
   {
     "id": "osm_node_9678307010",
@@ -5336,7 +5476,7 @@
   },
   {
     "id": "osm_way_186421966",
-    "name": "EōS Fitness",
+    "name": "E\u014dS Fitness",
     "address": "2420 E Chapman Ave, Fullerton, CA, 92831",
     "location": {
       "lat": 33.873124,
@@ -5373,7 +5513,7 @@
       "addr:unit": "806-001",
       "building": "yes",
       "leisure": "fitness_centre",
-      "name": "EōS Fitness",
+      "name": "E\u014dS Fitness",
       "phone": "+1-657-356-8005",
       "swimming_pool": "yes",
       "toilets": "yes",
@@ -5595,7 +5735,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -5618,7 +5758,22 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "pasadena@basecampfitness.com",
+    "opening_hours": "Mon-Thu: 5:45am-7pm, Fri: 5:45am-6pm, Sat: 7:45am-12pm, Sun: 7:45am-11am",
+    "description": "High-intensity 35-minute HIIT classes combining cardio and strength training, designed to burn 50 minutes worth of calories in half the time.",
+    "amenities": [
+      "HIIT Classes",
+      "Private Showers",
+      "Changing Rooms",
+      "Towel Service",
+      "Lockers",
+      "Healthy Snacks",
+      "Retail Shop",
+      "Validated Parking"
+    ],
+    "membership_info": "Hike (4 classes/mo), Climb (8 classes/mo), Expedition (unlimited)",
+    "booking_url": "https://www.basecampfitness.com/schedule"
   },
   {
     "id": "osm_node_5247316841",
@@ -5991,7 +6146,7 @@
       "fee": "yes",
       "leisure": "sports_centre",
       "name": "Culver City Municipal Plunge",
-      "operator": "City of Culver City’s Parks, Recreation, and Community Services Department",
+      "operator": "City of Culver City\u2019s Parks, Recreation, and Community Services Department",
       "operator:type": "government",
       "phone": "+1-310-253-6680",
       "sport": "swimming",
@@ -6972,7 +7127,7 @@
   },
   {
     "id": "osm_node_13516459732",
-    "name": "EōS Fitness",
+    "name": "E\u014dS Fitness",
     "address": "9301 Tampa Avenue, Northridge, CA, 91324",
     "location": {
       "lat": 34.2370242,
@@ -7007,7 +7162,7 @@
       "addr:state": "CA",
       "addr:street": "Tampa Avenue",
       "leisure": "fitness_centre",
-      "name": "EōS Fitness",
+      "name": "E\u014dS Fitness",
       "phone": "+1-818-534-5533",
       "website": "https://www.eosfitness.com/"
     },
@@ -7992,7 +8147,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -8022,7 +8177,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "soulweho@soul-cycle.com",
+    "opening_hours": "Mon/Wed: 6:30am-9:45pm, Tue/Thu: 6:30am-8:45pm, Fri: 5:30am-6:15pm, Sat: 7am-2pm, Sun: 8am-3pm",
+    "description": "High-energy, music-driven indoor cycling experience with top instructors and state-of-the-art facilities in West Hollywood.",
+    "amenities": [
+      "Indoor Cycling",
+      "Expert Instructors",
+      "Music-Driven Classes",
+      "Parking Available"
+    ],
+    "booking_url": "https://www.soul-cycle.com/find-a-class/studio/14/"
   },
   {
     "id": "osm_node_12385500502",
@@ -10623,7 +10788,7 @@
   {
     "id": "osm_way_474054756",
     "name": "Stengel Field",
-    "address": "1601 Cañada Boulevard, Glendale, CA, 91208",
+    "address": "1601 Ca\u00f1ada Boulevard, Glendale, CA, 91208",
     "location": {
       "lat": 34.1689749,
       "lng": -118.230744
@@ -10656,7 +10821,7 @@
       "addr:housenumber": "1601",
       "addr:postcode": "91208",
       "addr:state": "CA",
-      "addr:street": "Cañada Boulevard",
+      "addr:street": "Ca\u00f1ada Boulevard",
       "ele": "239",
       "gnis:feature_id": "2126042",
       "leisure": "sports_centre",
@@ -19630,7 +19795,7 @@
   },
   {
     "id": "osm_node_12060230937",
-    "name": "EōS Fitness",
+    "name": "E\u014dS Fitness",
     "address": "",
     "location": {
       "lat": 33.9779607,
@@ -19660,7 +19825,7 @@
     "osm_type": "node",
     "osm_tags": {
       "leisure": "fitness_centre",
-      "name": "EōS Fitness"
+      "name": "E\u014dS Fitness"
     },
     "sources": [
       "osm"
@@ -22119,7 +22284,7 @@
       "covered": "no",
       "leisure": "sports_centre",
       "name": "Santa Monica Swim Center",
-      "name:zh": "圣莫尼卡游泳中心",
+      "name:zh": "\u5723\u83ab\u5c3c\u5361\u6e38\u6cf3\u4e2d\u5fc3",
       "sport": "swimming"
     },
     "sources": [
@@ -22860,7 +23025,7 @@
       "leisure": "fitness_centre",
       "name": "Gold's Gym",
       "name:en": "Gold's Gym",
-      "name:ko": "골드짐"
+      "name:ko": "\uace8\ub4dc\uc9d0"
     },
     "sources": [
       "osm"

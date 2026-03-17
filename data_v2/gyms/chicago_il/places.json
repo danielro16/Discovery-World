@@ -694,7 +694,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -722,7 +722,15 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Retro Fitness is a full-service gym offering modern fitness equipment, personal training, smoothie bar, and meditation space with a retro-inspired design.",
+    "amenities": [
+      "Fitness Equipment",
+      "Personal Training",
+      "Smoothie Bar",
+      "Meditation Space"
+    ],
+    "booking_url": "https://retrofitness.com/schedule-a-tour/"
   },
   {
     "id": "osm_node_9520717904",
@@ -991,7 +999,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1025,7 +1033,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "CrossFit Spero is a CrossFit gym in Oak Park offering high-intensity workouts designed for all fitness levels, with passionate coaching and specialty programs.",
+    "amenities": [
+      "CrossFit Classes",
+      "Personal Training",
+      "Nutrition Coaching",
+      "Barbell Club",
+      "Youth Programs",
+      "Gymnastics"
+    ],
+    "booking_url": "https://api.grow.pushpress.com/widget/appointment/service/consult?group=spero"
   },
   {
     "id": "osm_way_186109130",
@@ -1712,7 +1730,7 @@
       "lat": 42.0101356,
       "lng": -87.8470107
     },
-    "phone": "",
+    "phone": "847-692-5129",
     "website": "https://www.prparks.org/facilities/centennial-fitness-center",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/way/223478255",
@@ -1734,7 +1752,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -1758,7 +1776,23 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Thu: 5:30am-9pm, Fri: 5:30am-8pm, Sat-Sun: 7am-5pm",
+    "description": "State-of-the-art fitness facility serving all ages with strength training, cardio equipment, pools, gymnasiums, and group fitness classes.",
+    "amenities": [
+      "Strength Training",
+      "Cardio Equipment",
+      "Indoor Track",
+      "25-Yard Lap Pool",
+      "Basketball Courts",
+      "Volleyball",
+      "Racquetball Courts",
+      "Sauna",
+      "Whirlpool",
+      "Group Fitness",
+      "Personal Training"
+    ],
+    "membership_info": "Daily rate: $10 resident / $15 non-resident. Multiple membership options available."
   },
   {
     "id": "osm_way_1282039837",
@@ -2111,7 +2145,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2135,7 +2169,16 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hydepark@purebarre.com",
+    "description": "Pure Barre Hyde Park offers an empowering full-body workout inspired by yoga, Pilates, and ballet with low-impact, high-intensity movements for all fitness levels.",
+    "amenities": [
+      "Barre Classes",
+      "Pilates-Inspired",
+      "Yoga-Inspired",
+      "Community-Focused"
+    ],
+    "booking_url": "https://lp.purebarre.com/free-barre-class?offer_id=try-an-intro-class-for-free&booking=1&clubready_referraltypeid=105159&location=chicago-hyde-park-il"
   },
   {
     "id": "osm_node_9523355789",
@@ -2254,7 +2297,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2276,7 +2319,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "bliss@heavenmeetsearthyoga.com",
+    "description": "Yoga studio offering classes, private sessions, yoga therapy, and wellness retreats focused on holistic health and the five pillars of well-being.",
+    "amenities": [
+      "Yoga Classes",
+      "Private Yoga Therapy",
+      "Functional Strength Training",
+      "Retreats",
+      "Teacher Training",
+      "Reiki",
+      "Mommy-Baby Yoga"
+    ],
+    "booking_url": "https://www.heavenmeetsearthyoga.com/schedule"
   },
   {
     "id": "osm_node_7217812190",
@@ -2392,7 +2447,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2418,7 +2473,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "gcicfrontdesk@glenviewparks.org",
+    "opening_hours": "Mon-Fri: 6am-8pm, Sat-Sun: 8am-5pm",
+    "description": "Year-round ice sports destination featuring two NHL-size rinks and a studio rink with comprehensive lessons and programs for figure skating and hockey.",
+    "amenities": [
+      "Two NHL-Size Rinks",
+      "Studio Rink",
+      "Pro Shop",
+      "Restaurant",
+      "Dryland Training Room",
+      "Community Room"
+    ],
+    "booking_url": "https://webtrrac.glenviewparks.org/WEB/wbwsc/webtrac.wsc/SPLASH.html"
   },
   {
     "id": "osm_node_6273044272",
@@ -2584,7 +2651,7 @@
       "lat": 41.6844009,
       "lng": -87.6632185
     },
-    "phone": "",
+    "phone": "(872) 332-9829",
     "website": "https://www.ufcgym.com/locations/chicago-morgan-park",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/way/214153365",
@@ -2598,7 +2665,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -2621,7 +2688,24 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "morganpark@ufcgym.com",
+    "opening_hours": "Open 24 hours daily",
+    "description": "MMA-inspired fitness facility offering Brazilian Jiu-Jitsu, heavy bag training, and diverse fitness classes in a supportive community environment.",
+    "amenities": [
+      "MMA Classes",
+      "Octagon",
+      "Bag Area",
+      "Olympic Lift Platforms",
+      "Turf",
+      "Locker Rooms",
+      "Group Fitness",
+      "Personal Training",
+      "Cardio Equipment",
+      "Free Weights"
+    ],
+    "membership_info": "Starting at $25/month",
+    "booking_url": "/locations/chicago-morgan-park/join"
   },
   {
     "id": "osm_way_458099710",
@@ -2678,7 +2762,7 @@
       "lat": 41.5604436,
       "lng": -87.6685846
     },
-    "phone": "",
+    "phone": "708-798-9994",
     "website": "https://climbonrockgym.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/way/558639598",
@@ -2692,7 +2776,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -2713,7 +2797,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@climbonrockgym.com",
+    "opening_hours": "Tue-Fri: 4pm-10pm, Sat-Sun: 12pm-8pm (Closed Mon)",
+    "description": "Family-owned indoor rock climbing gym in Homewood, IL serving climbers of all ages and abilities since 1997, with varied routes for beginners and experienced climbers.",
+    "amenities": [
+      "Indoor Climbing Walls",
+      "Belay Lessons",
+      "Party Room",
+      "Boy Scout Merit Badge Program"
+    ],
+    "booking_url": "https://app.rockgympro.com/waiver/esign/climbonil/07e19998-a1fe-45a2-ba0c-eab3ede2aeb0"
   },
   {
     "id": "osm_way_1165998738",
@@ -2737,7 +2831,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -2759,7 +2853,15 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Franciscan Health Fitness Centers offer exercise programs, personal training, spa services, and group fitness classes at locations in Illinois and Indiana.",
+    "amenities": [
+      "Group Exercise Classes",
+      "Personal Training",
+      "Spa Services",
+      "Fitness Equipment"
+    ],
+    "booking_url": "https://www.franciscanhealthfitnesscenters.org/class-schedule/"
   },
   {
     "id": "osm_way_1324214098",
@@ -3047,7 +3149,7 @@
       "lat": 41.749817,
       "lng": -87.9116817
     },
-    "phone": "",
+    "phone": "+1 (630) 842-8676",
     "website": "https://www.cyclebar.com/location/burr-ridge",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/10837806887",
@@ -3062,7 +3164,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -3085,7 +3187,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "burrridge@cyclebar.com",
+    "description": "Indoor cycling studio offering energizing rides tailored to all fitness levels with CycleStats performance tracking and certified instructors.",
+    "amenities": [
+      "Indoor Cycling",
+      "CycleStats Performance Tracking",
+      "Shoe Rental",
+      "Free Parking"
+    ],
+    "membership_info": "New rider: 3 rides for $49. HSA/FSA eligible.",
+    "booking_url": "https://lp.cyclebar.com/offer?location=burr-ridge"
   },
   {
     "id": "osm_node_12331547635",
@@ -3201,7 +3313,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -3225,7 +3337,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "customer.service@blink-fitness.com",
+    "description": "Blink Fitness offers affordable gym memberships with top-tier equipment, personal training, and group classes in a judgment-free, spotless environment.",
+    "amenities": [
+      "Fitness Equipment",
+      "Personal Training",
+      "Group Classes",
+      "Recovery Services",
+      "Massage Guns"
+    ],
+    "membership_info": "Starting at $17/month",
+    "booking_url": "https://blink-fitness.com/join/"
   },
   {
     "id": "osm_node_13585783135",
@@ -3583,7 +3706,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -3605,7 +3728,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "customer.service@blink-fitness.com",
+    "description": "Blink Fitness offers affordable gym memberships with top-tier equipment, personal training, and group classes in a judgment-free, spotless environment.",
+    "amenities": [
+      "Fitness Equipment",
+      "Personal Training",
+      "Group Classes",
+      "Recovery Services",
+      "Massage Guns"
+    ],
+    "membership_info": "Starting at $17/month",
+    "booking_url": "https://blink-fitness.com/join/"
   },
   {
     "id": "osm_node_12817382290",
@@ -4425,7 +4559,7 @@
       "lat": 41.9535968,
       "lng": -87.749788
     },
-    "phone": "",
+    "phone": "(708) 628-3784",
     "website": "https://crossfitchisel.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/4090881255",
@@ -4439,7 +4573,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -4462,7 +4596,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "CrossFit Spero is a CrossFit gym in Oak Park offering high-intensity workouts designed for all fitness levels, with passionate coaching and specialty programs.",
+    "amenities": [
+      "CrossFit Classes",
+      "Personal Training",
+      "Nutrition Coaching",
+      "Barbell Club",
+      "Youth Programs",
+      "Gymnastics"
+    ],
+    "booking_url": "https://api.grow.pushpress.com/widget/appointment/service/consult?group=spero"
   },
   {
     "id": "osm_node_7150353980",
@@ -4945,7 +5089,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -4968,7 +5112,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "customer.service@blink-fitness.com",
+    "description": "Blink Fitness offers affordable gym memberships with top-tier equipment, personal training, and group classes in a judgment-free, spotless environment.",
+    "amenities": [
+      "Fitness Equipment",
+      "Personal Training",
+      "Group Classes",
+      "Recovery Services",
+      "Massage Guns"
+    ],
+    "membership_info": "Starting at $17/month",
+    "booking_url": "https://blink-fitness.com/join/"
   },
   {
     "id": "osm_way_414261166",
@@ -5611,7 +5766,7 @@
       "lat": 42.0655289,
       "lng": -87.7458638
     },
-    "phone": "",
+    "phone": "+1 (630) 842-8676",
     "website": "https://www.cyclebar.com/location/wilmette",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/12688499955",
@@ -5626,7 +5781,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -5650,7 +5805,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "burrridge@cyclebar.com",
+    "description": "Indoor cycling studio offering energizing rides tailored to all fitness levels with CycleStats performance tracking and certified instructors.",
+    "amenities": [
+      "Indoor Cycling",
+      "CycleStats Performance Tracking",
+      "Shoe Rental",
+      "Free Parking"
+    ],
+    "membership_info": "New rider: 3 rides for $49. HSA/FSA eligible.",
+    "booking_url": "https://lp.cyclebar.com/offer?location=burr-ridge"
   },
   {
     "id": "osm_node_12784676393",
@@ -17256,7 +17421,7 @@
   },
   {
     "id": "osm_way_815695122",
-    "name": "‘Z’ Frank Apachi",
+    "name": "\u2018Z\u2019 Frank Apachi",
     "address": "3050 Woodridge Lane, Northbrook, IL, 60062",
     "location": {
       "lat": 42.095855,
@@ -17291,7 +17456,7 @@
       "addr:state": "IL",
       "addr:street": "Woodridge Lane",
       "leisure": "sports_centre",
-      "name": "‘Z’ Frank Apachi",
+      "name": "\u2018Z\u2019 Frank Apachi",
       "operator": "JCC Chicago",
       "operator:type": "private_non_profit"
     },

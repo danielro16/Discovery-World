@@ -244,7 +244,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -269,7 +269,21 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "training@therangeaustin.com",
+    "opening_hours": "Mon-Sun: 10am-9pm",
+    "description": "A 52,000 sq ft facility offering pistol and rifle shooting bays, retail firearms store, and training classes for both experienced shooters and beginners.",
+    "amenities": [
+      "Shooting Bays",
+      "Retail Store",
+      "Machine Gun Rentals",
+      "Training Classes",
+      "LTC Certification",
+      "Group Events",
+      "Gunsmith Services"
+    ],
+    "membership_info": "Monthly and annual range memberships available; Dojo membership for advanced training",
+    "booking_url": "https://therangeaustin.com/shop1/"
   },
   {
     "id": "osm_node_9734717355",
@@ -455,7 +469,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -483,7 +497,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "kolbyswyhart@shieldwalltraining.com",
+    "opening_hours": "Mon, Wed-Sun: 9am-9pm (Closed Tuesdays)",
+    "description": "Shield Wall provides specialized firearms training focused on self-defense and family protection, offering customizable courses for all skill levels.",
+    "amenities": [
+      "Indoor/Outdoor Range",
+      "One-on-One Instruction",
+      "Group Classes",
+      "Private Courses",
+      "Constitutional Carry Classes"
+    ],
+    "membership_info": "Class-based pricing: $100-$325 per course depending on type and duration"
   },
   {
     "id": "osm_way_317871854",
@@ -874,7 +899,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -905,7 +930,16 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Pure Barre is a full-body workout studio offering low-impact, technique-focused classes that blend elements of ballet, Pilates, and yoga.",
+    "amenities": [
+      "Barre Classes",
+      "Pilates",
+      "Yoga-Inspired Workouts",
+      "On-Demand Classes",
+      "Mobile App"
+    ],
+    "booking_url": "https://lp.purebarre.com/try?clubready_referraltypeid=129043"
   },
   {
     "id": "osm_node_12978477052",
@@ -1050,8 +1084,8 @@
       "classes_offered": [
         "Group Cycle Classes",
         "Group Fitness Classes",
-        "Les Mills BODYPUMP®",
-        "Launch FC™",
+        "Les Mills BODYPUMP\u00ae",
+        "Launch FC\u2122",
         "Virtual Classes"
       ],
       "amenities": [
@@ -1511,7 +1545,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1539,7 +1573,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "outlawpaintball@yahoo.com",
+    "opening_hours": "Sat: 9am-5pm & 6:30pm-9pm, Sun: 10am-5pm",
+    "description": "Outlaw Paintball offers thrilling outdoor paintball action for families, friends, and groups with multiple field varieties and private event options.",
+    "amenities": [
+      "Outdoor Paintball Fields",
+      "Private Party Options",
+      "After-Hours Access",
+      "Open Play",
+      "Professional Referees"
+    ],
+    "booking_url": "https://outlawpb.com/parties/reservations/"
   },
   {
     "id": "osm_node_11447439345",
@@ -2447,7 +2492,7 @@
       "lat": 30.447644,
       "lng": -97.643346
     },
-    "phone": "",
+    "phone": "(512) 251-1022",
     "website": "https://www.redsguns.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/way/382986348",
@@ -2462,7 +2507,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -2482,7 +2527,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Daily: 9am-9pm",
+    "description": "Austin's oldest indoor gun range with 100 yards of space for pistol and rifle practice, serving Central Texas for over 25 years.",
+    "amenities": [
+      "Indoor Shooting Range (100 yards)",
+      "Rental Guns",
+      "Gun Store",
+      "Ammunition",
+      "Private Instruction",
+      "Texas CHL Courses",
+      "Ladies Day Events"
+    ],
+    "membership_info": "VIP Membership available",
+    "booking_url": "https://www.redsguns.com/classes/"
   },
   {
     "id": "osm_way_384754320",
@@ -2573,7 +2631,7 @@
   },
   {
     "id": "osm_node_3875618467",
-    "name": "Jääkarhu Crossfit",
+    "name": "J\u00e4\u00e4karhu Crossfit",
     "address": "113 Industrial Boulevard, Austin, TX, 78745",
     "location": {
       "lat": 30.2181837,
@@ -2609,7 +2667,7 @@
       "addr:state": "TX",
       "addr:street": "Industrial Boulevard",
       "leisure": "sports_centre",
-      "name": "Jääkarhu Crossfit",
+      "name": "J\u00e4\u00e4karhu Crossfit",
       "sport": "crossfit"
     },
     "sources": [
@@ -3220,7 +3278,7 @@
       "lat": 30.3126179,
       "lng": -97.6384404
     },
-    "phone": "",
+    "phone": "512-928-8119",
     "website": "https://www.playatctennis.com/pages/index.cfm?siteid=21588",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/way/1164871073",
@@ -3235,7 +3293,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 30,
     "claimed": false,
@@ -3251,7 +3309,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@playatctennis.com",
+    "description": "The largest public tennis and pickleball center in Austin featuring 10 tournament lighted tennis courts, 8 lighted pickleball courts, and a pro shop.",
+    "amenities": [
+      "Tennis Courts",
+      "Pickleball Courts",
+      "Lighted Backboard",
+      "Pro Shop",
+      "Group Classes",
+      "Private Lessons",
+      "Leagues",
+      "Junior Programs"
+    ],
+    "booking_url": "https://www.playatctennis.com/pages/scheduler/index.cfm"
   },
   {
     "id": "osm_way_31028860",

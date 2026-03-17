@@ -894,8 +894,8 @@
     "enriched_data": {
       "membership_types": [
         "Standard Membership",
-        "SilverSneakers®",
-        "Optum®"
+        "SilverSneakers\u00ae",
+        "Optum\u00ae"
       ],
       "price_range": null,
       "classes_offered": [],
@@ -1071,7 +1071,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1098,7 +1098,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Online fitness coaching combining personalized workout programming with mindset coaching for weight loss, muscle gain, and overall wellness.",
+    "amenities": [
+      "Personalized Workout Programs",
+      "Mindset Coaching",
+      "Nutrition Education",
+      "Video Calls",
+      "Progress Tracking",
+      "Wearable Device Integration"
+    ],
+    "membership_info": "1 month: $500, 3 months: $1,400, 6 months: $2,600, 12 months: $5,000; 20% discount with Bitcoin payment",
+    "booking_url": "https://proofofworkfitness.fitbudd.com/packs"
   },
   {
     "id": "osm_node_12335926701",
@@ -1889,7 +1900,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -1907,7 +1918,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Central Rock Gym provides world-class indoor rock climbing, fitness, and community experiences in state-of-the-art Wynwood facility.",
+    "amenities": [
+      "Indoor Rock Climbing",
+      "Bouldering",
+      "Auto Belay Stations",
+      "Fitness Facilities",
+      "Yoga Classes",
+      "Kids Programs"
+    ],
+    "booking_url": "https://centralrockgym.com/account/"
   },
   {
     "id": "osm_way_1180472158",
@@ -2198,7 +2219,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -2230,7 +2251,21 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@vibesurfschool.com",
+    "opening_hours": "Mon-Sun: 8am-6pm",
+    "description": "Professional surf instruction offering lessons for all skill levels in South Florida with personalized and group experiences at three beachfront locations.",
+    "amenities": [
+      "Individual Surf Lessons",
+      "Group Surf Lessons",
+      "Surf Camps for Kids",
+      "SUP Tours",
+      "Snorkeling",
+      "Scuba Diving",
+      "All Equipment Provided"
+    ],
+    "membership_info": "Individual lessons $100/person, Group $75/person, SUP tours $75/person",
+    "booking_url": "https://vibesurfschool.com/booking"
   },
   {
     "id": "osm_node_6035708522",
@@ -3766,7 +3801,7 @@
       "lat": 25.7517336,
       "lng": -80.2762723
     },
-    "phone": "",
+    "phone": "786-483-7626",
     "website": "https://ntennismiami.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/way/435575398",
@@ -3780,7 +3815,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -3804,7 +3839,22 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@ntennismiami.com",
+    "opening_hours": "Mon-Fri: 7am-Sunset, Sat-Sun: 7am-2pm",
+    "description": "Group of tennis coaches dedicated to improving players of all ages with 11 courts, professional coaches, and programs for juniors and adults.",
+    "amenities": [
+      "11 Tennis Courts",
+      "Professional Coaches",
+      "Tennis Shop",
+      "Fitness & Gym",
+      "Private Lessons",
+      "Group Classes",
+      "After School Programs",
+      "Summer Camps"
+    ],
+    "membership_info": "First month sign-up includes free private lesson",
+    "booking_url": "https://tennisdirector.com/Players/Reservations/Reserves.asp?CORP=598&RES=Program"
   },
   {
     "id": "osm_node_6096702866",
@@ -5399,7 +5449,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 30,
     "claimed": false,
@@ -5416,6 +5466,14 @@
     },
     "sources": [
       "osm"
+    ],
+    "email": "office@tropicalvinyasa.com",
+    "description": "Tropical Vinyasa helps practitioners find balance and inner peace through transformative yoga practices with a focus on connection with oneself.",
+    "amenities": [
+      "Yoga Classes",
+      "Meditation",
+      "Mindfulness",
+      "Yoga Poses & Sequences"
     ]
   },
   {
@@ -7450,7 +7508,7 @@
   },
   {
     "id": "osm_way_112781064",
-    "name": "Women’s Softball/Tennis Center",
+    "name": "Women\u2019s Softball/Tennis Center",
     "address": "",
     "location": {
       "lat": 25.7574837,
@@ -7482,7 +7540,7 @@
     "osm_tags": {
       "building": "yes",
       "leisure": "sports_centre",
-      "name": "Women’s Softball/Tennis Center",
+      "name": "Women\u2019s Softball/Tennis Center",
       "short_name": "WS/TC",
       "source": "Bing",
       "sport": "softball;tennis"

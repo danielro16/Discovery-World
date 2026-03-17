@@ -155,7 +155,7 @@
   },
   {
     "id": "osm_node_4419896295",
-    "name": "Mesa Rim Climbing & Fitness Center • Mission Valley",
+    "name": "Mesa Rim Climbing & Fitness Center \u2022 Mission Valley",
     "address": "405 Camino del Rio South, 92108",
     "location": {
       "lat": 32.7596315,
@@ -201,8 +201,8 @@
       "internet_access": "wlan",
       "internet_access:fee": "customers",
       "leisure": "fitness_centre",
-      "name": "Mesa Rim Climbing & Fitness Center • Mission Valley",
-      "name:en": "Mesa Rim Climbing & Fitness Center • Mission Valley",
+      "name": "Mesa Rim Climbing & Fitness Center \u2022 Mission Valley",
+      "name:en": "Mesa Rim Climbing & Fitness Center \u2022 Mission Valley",
       "opening_hours": "Mo-Fr 06:00-23:00; Sa,Su 08:00-21:00",
       "phone": "+1-619-908-1911",
       "sport": "climbing;yoga",
@@ -743,7 +743,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -767,7 +767,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Personal training and endurance coaching in San Diego focusing on strength, power, mobility, and nutrition for busy professionals and athletes.",
+    "amenities": [
+      "Personal Training",
+      "Strength Training",
+      "Mobility Sessions",
+      "Nutrition Planning",
+      "Lifestyle Coaching"
+    ],
+    "membership_info": "Services priced at $655 each; free 30-minute consultation available",
+    "booking_url": "http://sandiegotrainingsystems.com/my-services/"
   },
   {
     "id": "osm_node_11043798646",
@@ -799,7 +809,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -825,7 +835,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@momentumacrobatics.com",
+    "description": "Acrobatics facility where kids develop real skills in a supportive environment with classes in tumbling, gymnastics, parkour, and cirque arts.",
+    "amenities": [
+      "Tumbling Classes",
+      "Acro Gymnastics",
+      "Parkour/Ninja Training",
+      "Cirque Classes",
+      "Preschool Programs",
+      "After School Program"
+    ],
+    "booking_url": "https://app.jackrabbitclass.com/regv2.asp?id=542368"
   },
   {
     "id": "osm_node_12128721587",
@@ -855,7 +876,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -882,7 +903,21 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@axethroco.com",
+    "opening_hours": "Tue-Thu: 6pm-10pm, Fri: 6pm-11pm, Sat: 5pm-11pm, Sun: 4pm-9pm (Closed Mon)",
+    "description": "Premier axe throwing venue in San Diego featuring 12 lanes, professional coaching, competitive leagues, and a pizza bar with local draft beer.",
+    "amenities": [
+      "12 Throwing Lanes",
+      "Professional Coaching",
+      "Pizza Bar",
+      "Draft Beer",
+      "Pool Tables",
+      "Competitive Leagues",
+      "Group Events"
+    ],
+    "membership_info": "League membership available",
+    "booking_url": "https://axethroco.com/book-now/"
   },
   {
     "id": "osm_node_12838633040",
@@ -996,7 +1031,7 @@
   },
   {
     "id": "osm_node_8295232708",
-    "name": "Tanya Yoga Holística",
+    "name": "Tanya Yoga Hol\u00edstica",
     "address": "4614 Ignacio Manuel Altamirano, Soler, 22530",
     "location": {
       "lat": 32.5298261,
@@ -1038,7 +1073,7 @@
       "addr:street": "Ignacio Manuel Altamirano",
       "contact:facebook": "https://www.facebook.com/tanyayogaholistica",
       "leisure": "fitness_centre",
-      "name": "Tanya Yoga Holística",
+      "name": "Tanya Yoga Hol\u00edstica",
       "opening_hours": "Mo-Fr 08:00-20:00",
       "phone": "+52 664 408 0467",
       "sport": "yoga"
@@ -1735,7 +1770,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -1751,7 +1786,7 @@
       "addr:street": "Avenida Vaquita",
       "addr:unit": "A",
       "contact:website": "https://www.novofut.com/index.php/es/contacto",
-      "description": "Torneos y renta de Canchas de Futbol 7 con o sin árbitros. Torneos y renta de Canchas de PickleBall Renta de Espacio para eventos Snack Bar (Próximamente) Sports bar (Próximamente) Venta de Artículos Deportivos, entre otros (Próximamente) Cafetería (Próxi",
+      "description": "Torneos y renta de Canchas de Futbol 7 con o sin \u00e1rbitros. Torneos y renta de Canchas de PickleBall Renta de Espacio para eventos Snack Bar (Pr\u00f3ximamente) Sports bar (Pr\u00f3ximamente) Venta de Art\u00edculos Deportivos, entre otros (Pr\u00f3ximamente) Cafeter\u00eda (Pr\u00f3xi",
       "leisure": "sports_centre",
       "level": "0",
       "name": "Novofut",
@@ -1763,6 +1798,14 @@
     },
     "sources": [
       "osm"
+    ],
+    "description": "Soccer facility offering field rentals for 5-a-side and 7-a-side games with event spaces, sports bar, cafeteria, and merchandise.",
+    "amenities": [
+      "Soccer Fields (5-a-side & 7-a-side)",
+      "Event Spaces",
+      "Sports Bar",
+      "Cafeteria",
+      "Sports Merchandise"
     ]
   },
   {
@@ -2022,7 +2065,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2037,7 +2080,7 @@
       "addr:postcode": "92116",
       "addr:state": "CA",
       "addr:street": "Adams Avenue",
-      "description": "Pilgrimage of the Heart Yoga’s staff and yoga instructors are supportive, caring, knowledgeable, and happy to support you in the evolution of your yoga practice - whether you’re just starting out or have been practicing yoga for decades.",
+      "description": "Pilgrimage of the Heart Yoga\u2019s staff and yoga instructors are supportive, caring, knowledgeable, and happy to support you in the evolution of your yoga practice - whether you\u2019re just starting out or have been practicing yoga for decades.",
       "leisure": "fitness_centre",
       "name": "Pilgrimage of the Heart Yoga",
       "phone": "+1-619-640-4438",
@@ -2047,7 +2090,21 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@pilgrimageyoga.com",
+    "description": "San Diego yoga studio offering 39 weekly classes in diverse styles including Gentle, Restorative, Yin, Flowing, and Meditation for all levels.",
+    "amenities": [
+      "Indoor Classes",
+      "Outdoor Courtyard Classes",
+      "Live Stream via Zoom",
+      "On-Demand Video Library",
+      "Retail Boutique",
+      "Sound Healing",
+      "Meditation",
+      "Teacher Training"
+    ],
+    "membership_info": "$99/month unlimited; 2-week trial for $30; drop-in $30",
+    "booking_url": "https://clients.mindbodyonline.com/classic/ws?studioid=4095&stype=-7&sView=week&sLoc=1"
   },
   {
     "id": "osm_node_9339501291",
@@ -2121,7 +2178,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2145,7 +2202,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "getfit@leofitlabs.com",
+    "description": "Private gym offering computerized strength training with personal trainers in 20-minute twice-weekly workouts, guaranteeing 30% strength improvement in 90 days.",
+    "amenities": [
+      "ARX Computerized Weight Training",
+      "PNO\u0112 Metabolic Testing",
+      "Bod Pod Body Composition",
+      "Vasper Aerobic Equipment",
+      "Personal Training"
+    ],
+    "booking_url": "https://leofitlabs.com/contact-us/"
   },
   {
     "id": "osm_node_12585531112",
@@ -2169,7 +2236,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2192,7 +2259,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "studiomanager0118@orangetheoryfitness.com",
+    "opening_hours": "Mon-Fri: 5am-8:30pm, Sat-Sun: 6:30am-1pm",
+    "description": "Coach-led full-body interval training combining strength and heart rate-based cardio with real-time performance monitoring for all fitness levels.",
+    "amenities": [
+      "Heart Rate Zone Training",
+      "Strength Training",
+      "Performance Tracking",
+      "Coach-Led Classes"
+    ],
+    "membership_info": "Basic $89/mo, Elite $129/mo, Premier $189/mo; class packs from $130",
+    "booking_url": "https://www.orangetheory.com/en-us/locations/la-mesa-california-0118"
   },
   {
     "id": "osm_node_12695905570",
@@ -2587,7 +2665,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2609,7 +2687,16 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@werkfitness.com",
+    "description": "Gym space provider for independent fitness professionals in San Diego and La Mesa with 13,000+ sq ft of fully-equipped training facilities.",
+    "amenities": [
+      "Multi-Functional Training Equipment",
+      "Private Consultation Office",
+      "Trainer Lockers",
+      "Break Room"
+    ],
+    "booking_url": "https://www.werkfitness.com/pages/contact-private-gym-san-diego"
   },
   {
     "id": "osm_node_9525434923",
@@ -2680,7 +2767,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -2704,7 +2791,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "studiomanager0118@orangetheoryfitness.com",
+    "opening_hours": "Mon-Fri: 5am-8:30pm, Sat-Sun: 6:30am-1pm",
+    "description": "Coach-led full-body interval training combining strength and heart rate-based cardio with real-time performance monitoring for all fitness levels.",
+    "amenities": [
+      "Heart Rate Zone Training",
+      "Strength Training",
+      "Performance Tracking",
+      "Coach-Led Classes"
+    ],
+    "membership_info": "Basic $89/mo, Elite $129/mo, Premier $189/mo; class packs from $130",
+    "booking_url": "https://www.orangetheory.com/en-us/locations/la-mesa-california-0118"
   },
   {
     "id": "osm_way_1090901593",
@@ -5173,7 +5271,7 @@
   {
     "id": "osm_node_11606804477",
     "name": "La Casita de Agua",
-    "address": "3565 Boulevard de las Américas Oriente, Tijuana, 22100",
+    "address": "3565 Boulevard de las Am\u00e9ricas Oriente, Tijuana, 22100",
     "location": {
       "lat": 32.5142615,
       "lng": -116.988294
@@ -5205,7 +5303,7 @@
       "addr:city": "Tijuana",
       "addr:housenumber": "3565",
       "addr:postcode": "22100",
-      "addr:street": "Boulevard de las Américas Oriente",
+      "addr:street": "Boulevard de las Am\u00e9ricas Oriente",
       "leisure": "fitness_centre",
       "name": "La Casita de Agua",
       "social_facility": "day_care",
@@ -5219,7 +5317,7 @@
   {
     "id": "osm_way_475219099",
     "name": "Total Fitness",
-    "address": "Boulevard General Rodolfo Sánchez Taboada",
+    "address": "Boulevard General Rodolfo S\u00e1nchez Taboada",
     "location": {
       "lat": 32.5238388,
       "lng": -117.0193259
@@ -5247,7 +5345,7 @@
     "osm_id": 475219099,
     "osm_type": "way",
     "osm_tags": {
-      "addr:street": "Boulevard General Rodolfo Sánchez Taboada",
+      "addr:street": "Boulevard General Rodolfo S\u00e1nchez Taboada",
       "building": "yes",
       "leisure": "sports_centre",
       "name": "Total Fitness"

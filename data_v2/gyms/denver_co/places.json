@@ -285,7 +285,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -311,7 +311,15 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Indoor go-kart racing venue in Littleton offering arrive-and-drive experiences, private parties, and competitive leagues.",
+    "amenities": [
+      "Indoor Go-Kart Racing",
+      "Private Parties",
+      "Leagues",
+      "Arrive & Drive"
+    ],
+    "booking_url": "https://www.k1speed.com/denver-location.html"
   },
   {
     "id": "osm_way_317410985",
@@ -520,7 +528,7 @@
   },
   {
     "id": "osm_node_6186810318",
-    "name": "Colorado’s Pro Gym",
+    "name": "Colorado\u2019s Pro Gym",
     "address": "1961 South Havana Street, Aurora, CO, 80014",
     "location": {
       "lat": 39.6806086,
@@ -562,7 +570,7 @@
       "addr:state": "CO",
       "addr:street": "South Havana Street",
       "leisure": "sports_centre",
-      "name": "Colorado’s Pro Gym",
+      "name": "Colorado\u2019s Pro Gym",
       "opening_hours": "Mo-Th 5:00-22:00, Fr 5:00-20:00, Sa-Su 7:00-17:00",
       "phone": "+1-303-671-9586",
       "phone:trainers": "(912) 704-3224",
@@ -938,7 +946,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -967,7 +975,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cpm@24hourfit.com",
+    "description": "24 Hour Fitness offers comprehensive gym facilities with fitness classes, personal training, and wellness services with flexible membership options.",
+    "amenities": [
+      "Group Fitness Classes",
+      "Personal Training",
+      "Fitness App",
+      "Recovery Services",
+      "Nutrition Support"
+    ],
+    "membership_info": "Multiple membership tiers available (Platinum, National, Gold, Silver); $1 down offers available",
+    "booking_url": "https://www.24hourfitness.com/sales-redirect/salesredirect.html"
   },
   {
     "id": "osm_way_685988827",
@@ -1525,7 +1544,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1553,7 +1572,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "arvada@safesplash.com",
+    "opening_hours": "Mon-Fri: 9am-7pm, Sat: 9am-2pm, Sun: 9am-11:30am",
+    "description": "SafeSplash Arvada offers swim instruction for all ages focusing on water safety and technique with flexible scheduling and small class sizes.",
+    "amenities": [
+      "Warm Pool",
+      "Changing Rooms",
+      "Hair Dryers",
+      "Kids Play Area",
+      "Showers"
+    ],
+    "membership_info": "Group lessons $160/mo, Semi-private $280/mo, Private $360/mo, Parent-Tot $132/mo",
+    "booking_url": "https://portal.iclasspro.com/arvadaco/classes?openings=1"
   },
   {
     "id": "osm_node_3420047831",
@@ -1829,7 +1860,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1849,7 +1880,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@axispilates.com",
+    "description": "Denver-based Pilates studio offering personalized instruction for injury rehabilitation, athletic performance enhancement, and general fitness improvement.",
+    "amenities": [
+      "Private Sessions",
+      "Group Classes",
+      "Studio Events",
+      "Gift Cards"
+    ],
+    "membership_info": "Intro offer: 3 private sessions for $225 for new clients",
+    "booking_url": "http://axispilatesco.com/contact-us/"
   },
   {
     "id": "osm_node_6788195854",
@@ -2245,7 +2286,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2273,7 +2314,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "contact@colfaxstrong.com",
+    "description": "Premier fitness facility in downtown Denver offering personalized coaching, strength training, and group fitness programs for all fitness levels.",
+    "amenities": [
+      "9,000 sq ft Facility",
+      "Rogue Equipment",
+      "Group Fitness Classes",
+      "Personal Training",
+      "Olympic Lifting",
+      "Barbell Club",
+      "Nutrition Coaching",
+      "InBody Scans"
+    ],
+    "booking_url": "https://colfaxstrong.com/drop-in/"
   },
   {
     "id": "osm_way_51369917",
@@ -2548,7 +2602,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2571,7 +2625,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "fran@goshootindoors.com",
+    "opening_hours": "Mon-Sun: 9am-5pm",
+    "description": "Indoor shooting range franchise offering safe, welcoming target shooting experiences with rental firearms, free safety classes, and membership programs.",
+    "amenities": [
+      "Indoor Shooting Range",
+      "Rental Firearms",
+      "Safety Classes",
+      "Training",
+      "Events Hosting",
+      "Membership Programs"
+    ],
+    "booking_url": "https://www.goshootindoors.com/find-a-location/"
   },
   {
     "id": "osm_way_347008809",
@@ -2783,7 +2849,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2813,7 +2879,16 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Crunch Fitness offers a comprehensive gym experience with fitness classes, personal training, HiitZone, and a welcoming environment for all fitness levels.",
+    "amenities": [
+      "Group Classes",
+      "HiitZone",
+      "Personal Training",
+      "Small Group Training",
+      "Fitness Equipment"
+    ],
+    "booking_url": "https://www.crunch.com/free-trial"
   },
   {
     "id": "osm_node_11206719684",
@@ -2846,7 +2921,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2871,7 +2946,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cpm@24hourfit.com",
+    "description": "24 Hour Fitness offers comprehensive gym facilities with fitness classes, personal training, and wellness services with flexible membership options.",
+    "amenities": [
+      "Group Fitness Classes",
+      "Personal Training",
+      "Fitness App",
+      "Recovery Services",
+      "Nutrition Support"
+    ],
+    "membership_info": "Multiple membership tiers available (Platinum, National, Gold, Silver); $1 down offers available",
+    "booking_url": "https://www.24hourfitness.com/sales-redirect/salesredirect.html"
   },
   {
     "id": "osm_node_11261824479",
@@ -2902,7 +2988,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2930,7 +3016,15 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hello@twstfitness.com",
+    "description": "Fitness studio offering Lagree Method classes on the Megaformer and VersaClimber rhythm-driven vertical climb classes in Denver.",
+    "amenities": [
+      "Megaformer (Lagree Method)",
+      "VersaClimber",
+      "Mirrored Studio"
+    ],
+    "booking_url": "https://twstfitness.com/schedule-central-park"
   },
   {
     "id": "osm_node_12581338064",
@@ -2960,7 +3054,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2983,7 +3077,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Chuze Fitness is an affordable, full-amenity gym offering premium fitness facilities including pool, hot tub, sauna, cinema room, and group classes.",
+    "amenities": [
+      "Pool",
+      "Hot Tub",
+      "Sauna",
+      "Cinema Room",
+      "Group Classes",
+      "Personal Training",
+      "Cardio Equipment",
+      "Weights"
+    ],
+    "booking_url": "https://chuzefitness.com/join/"
   },
   {
     "id": "osm_node_12903427032",
@@ -3016,7 +3122,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3042,7 +3148,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "VASA Fitness operates modern gym locations featuring strength training, cardio, group fitness classes, personal training, and KidCare services.",
+    "amenities": [
+      "Strength Training",
+      "Cardio Equipment",
+      "Group Fitness Classes",
+      "Personal Training",
+      "KidCare Services",
+      "Recovery Amenities"
+    ],
+    "membership_info": "Multiple membership plans available; business and insurance memberships offered",
+    "booking_url": "https://vasafitness.com/join/"
   },
   {
     "id": "osm_way_174170465",
@@ -3960,7 +4077,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -3982,7 +4099,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "VASA Fitness operates modern gym locations featuring strength training, cardio, group fitness classes, personal training, and KidCare services.",
+    "amenities": [
+      "Strength Training",
+      "Cardio Equipment",
+      "Group Fitness Classes",
+      "Personal Training",
+      "KidCare Services",
+      "Recovery Amenities"
+    ],
+    "membership_info": "Multiple membership plans available; business and insurance memberships offered",
+    "booking_url": "https://vasafitness.com/join/"
   },
   {
     "id": "osm_node_13624043332",
@@ -4170,7 +4298,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -4196,7 +4324,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cpm@24hourfit.com",
+    "description": "24 Hour Fitness offers comprehensive gym facilities with fitness classes, personal training, and wellness services with flexible membership options.",
+    "amenities": [
+      "Group Fitness Classes",
+      "Personal Training",
+      "Fitness App",
+      "Recovery Services",
+      "Nutrition Support"
+    ],
+    "membership_info": "Multiple membership tiers available (Platinum, National, Gold, Silver); $1 down offers available",
+    "booking_url": "https://www.24hourfitness.com/sales-redirect/salesredirect.html"
   },
   {
     "id": "osm_node_2789552449",
@@ -4692,7 +4831,7 @@
   },
   {
     "id": "osm_node_12175238587",
-    "name": "SNÖBAHN Action Sports center",
+    "name": "SN\u00d6BAHN Action Sports center",
     "address": "6955 South York Street, Centennial, CO, 80122",
     "location": {
       "lat": 39.5909456,
@@ -4731,7 +4870,7 @@
       "description": "Indoor facility for Ski, Snowboard, Skateboard, Trampoline activities",
       "fee": "yes",
       "leisure": "sports_centre",
-      "name": "SNÖBAHN Action Sports center",
+      "name": "SN\u00d6BAHN Action Sports center",
       "phone": "+1 303-872-8494",
       "website": "https://snobahn.com/"
     },
@@ -5104,7 +5243,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -5129,7 +5268,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cpm@24hourfit.com",
+    "description": "24 Hour Fitness offers comprehensive gym facilities with fitness classes, personal training, and wellness services with flexible membership options.",
+    "amenities": [
+      "Group Fitness Classes",
+      "Personal Training",
+      "Fitness App",
+      "Recovery Services",
+      "Nutrition Support"
+    ],
+    "membership_info": "Multiple membership tiers available (Platinum, National, Gold, Silver); $1 down offers available",
+    "booking_url": "https://www.24hourfitness.com/sales-redirect/salesredirect.html"
   },
   {
     "id": "osm_node_3678257170",
@@ -5758,7 +5908,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -5782,7 +5932,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cpm@24hourfit.com",
+    "description": "24 Hour Fitness offers comprehensive gym facilities with fitness classes, personal training, and wellness services with flexible membership options.",
+    "amenities": [
+      "Group Fitness Classes",
+      "Personal Training",
+      "Fitness App",
+      "Recovery Services",
+      "Nutrition Support"
+    ],
+    "membership_info": "Multiple membership tiers available (Platinum, National, Gold, Silver); $1 down offers available",
+    "booking_url": "https://www.24hourfitness.com/sales-redirect/salesredirect.html"
   },
   {
     "id": "osm_node_9371817091",
@@ -6860,7 +7021,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -6884,7 +7045,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cpm@24hourfit.com",
+    "description": "24 Hour Fitness offers comprehensive gym facilities with fitness classes, personal training, and wellness services with flexible membership options.",
+    "amenities": [
+      "Group Fitness Classes",
+      "Personal Training",
+      "Fitness App",
+      "Recovery Services",
+      "Nutrition Support"
+    ],
+    "membership_info": "Multiple membership tiers available (Platinum, National, Gold, Silver); $1 down offers available",
+    "booking_url": "https://www.24hourfitness.com/sales-redirect/salesredirect.html"
   },
   {
     "id": "osm_way_276712175",
@@ -7248,7 +7420,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -7272,7 +7444,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "VASA Fitness operates modern gym locations featuring strength training, cardio, group fitness classes, personal training, and KidCare services.",
+    "amenities": [
+      "Strength Training",
+      "Cardio Equipment",
+      "Group Fitness Classes",
+      "Personal Training",
+      "KidCare Services",
+      "Recovery Amenities"
+    ],
+    "membership_info": "Multiple membership plans available; business and insurance memberships offered",
+    "booking_url": "https://vasafitness.com/join/"
   },
   {
     "id": "osm_way_61951748",
@@ -8629,7 +8812,7 @@
       "lat": 39.5650195,
       "lng": -104.90984
     },
-    "phone": "",
+    "phone": "1-800-432-6348",
     "website": "https://www.24hourfitness.com/gyms/highlands-ranch-co/centennial-supersport",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/7052193949",
@@ -8643,7 +8826,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -8665,7 +8848,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cpm@24hourfit.com",
+    "description": "24 Hour Fitness offers comprehensive gym facilities with fitness classes, personal training, and wellness services with flexible membership options.",
+    "amenities": [
+      "Group Fitness Classes",
+      "Personal Training",
+      "Fitness App",
+      "Recovery Services",
+      "Nutrition Support"
+    ],
+    "membership_info": "Multiple membership tiers available (Platinum, National, Gold, Silver); $1 down offers available",
+    "booking_url": "https://www.24hourfitness.com/sales-redirect/salesredirect.html"
   },
   {
     "id": "osm_node_7187856711",
@@ -10214,7 +10408,7 @@
   },
   {
     "id": "osm_node_9087771117",
-    "name": "Übergrippen Indoor Climbing Crag - Denver",
+    "name": "\u00dcbergrippen Indoor Climbing Crag - Denver",
     "address": "8610 East 21st Avenue, Denver, 80220",
     "location": {
       "lat": 39.7485305,
@@ -10249,7 +10443,7 @@
       "addr:postcode": "80220",
       "addr:street": "East 21st Avenue",
       "leisure": "fitness_centre",
-      "name": "Übergrippen Indoor Climbing Crag - Denver",
+      "name": "\u00dcbergrippen Indoor Climbing Crag - Denver",
       "sport": "climbing",
       "website": "https://ugclimbing.com"
     },
@@ -15712,7 +15906,7 @@
   },
   {
     "id": "osm_node_4944770446",
-    "name": "Gerard’s Pool Hall",
+    "name": "Gerard\u2019s Pool Hall",
     "address": "1305 26th Street, Denver, CO, 80205",
     "location": {
       "lat": 39.7588603,
@@ -15748,7 +15942,7 @@
       "addr:state": "CO",
       "addr:street": "26th Street",
       "leisure": "sports_centre",
-      "name": "Gerard’s Pool Hall",
+      "name": "Gerard\u2019s Pool Hall",
       "sport": "billiards"
     },
     "sources": [
@@ -23908,7 +24102,7 @@
   },
   {
     "id": "osm_node_11040112028",
-    "name": "Nutri–fit by Natalie",
+    "name": "Nutri\u2013fit by Natalie",
     "address": "",
     "location": {
       "lat": 39.9144615,
@@ -23938,7 +24132,7 @@
     "osm_type": "node",
     "osm_tags": {
       "leisure": "fitness_centre",
-      "name": "Nutri–fit by Natalie",
+      "name": "Nutri\u2013fit by Natalie",
       "opening_hours": "\"by appointment\""
     },
     "sources": [

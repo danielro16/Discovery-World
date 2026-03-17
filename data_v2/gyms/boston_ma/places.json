@@ -30,7 +30,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -58,7 +58,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Sun: 9am-1am",
+    "description": "Premier entertainment destination offering year-round golf in climate-controlled hitting bays with high-tech scoring, plus sports bar and restaurant.",
+    "amenities": [
+      "90+ All-Weather Bays",
+      "Sports Bar & Restaurant",
+      "Private Event Spaces",
+      "200+ HDTVs",
+      "Free Wi-Fi"
+    ],
+    "membership_info": "Eat & Play for $20/month",
+    "booking_url": "https://playtopgolf.booknow.software/est/s/?site=a325f00000302gMAAQ"
   },
   {
     "id": "osm_node_7929691627",
@@ -601,7 +612,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -626,7 +637,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hingham@purebarre.com",
+    "description": "Pure Barre offers an empowering full-body workout inspired by yoga, Pilates, and ballet featuring low-impact, high-intensity movements for any fitness level.",
+    "amenities": [
+      "Barre Classes",
+      "Pilates-Inspired",
+      "Yoga-Inspired",
+      "Community-Focused"
+    ],
+    "membership_info": "First month of unlimited classes discounted",
+    "booking_url": "https://lp.purebarre.com/free-barre-class?offer_id=try-an-intro-class-for-free&booking=1&clubready_referraltypeid=105159&location=hingham-ma"
   },
   {
     "id": "osm_node_2665391126",
@@ -1021,7 +1042,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1042,7 +1063,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "waltham@centralrockgym.com",
+    "description": "Bouldering-focused indoor climbing facility with 150 boulder problems across 4,000 square feet, offering training events and team clinics.",
+    "amenities": [
+      "Bouldering",
+      "Training Events",
+      "Clinics",
+      "Access to 10 Boston-area locations"
+    ],
+    "membership_info": "Team training facility; HSA/FSA eligible memberships available",
+    "booking_url": "https://centralrockgym.com/waltham/memberships/"
   },
   {
     "id": "osm_node_10713363540",
@@ -1130,7 +1161,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1155,7 +1186,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "watertown@centralrockgym.com",
+    "opening_hours": "Mon-Thu: 6am-11pm, Fri: 8am-10pm, Sat-Sun: 8am-8pm",
+    "description": "New England's largest indoor rock climbing gym offering lead climbing, top roping, bouldering, fitness, and yoga across 30,000 square feet.",
+    "amenities": [
+      "Lead Climbing",
+      "Top Rope",
+      "Bouldering",
+      "Auto Belay",
+      "Fitness Classes",
+      "Yoga",
+      "Sauna"
+    ],
+    "booking_url": "https://centralrockgym.com/watertown/day-pass-membership-deal/"
   },
   {
     "id": "osm_node_12688345951",
@@ -1405,7 +1449,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1430,7 +1474,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@blissfulmonkey.com",
+    "opening_hours": "Mon-Sun: 9am-7pm",
+    "description": "Locally- and Black-owned yoga studio in Jamaica Plain offering vinyasa, prenatal, fluid, and gentle yoga classes.",
+    "amenities": [
+      "Vinyasa Yoga",
+      "Prenatal Yoga",
+      "Gentle Yoga",
+      "Fluid Yoga",
+      "Live-Streaming Classes",
+      "Mat & Props Provided"
+    ],
+    "membership_info": "3 months unlimited yoga for $249",
+    "booking_url": "https://www.blissfulmonkey.com/schedule"
   },
   {
     "id": "osm_node_4421441429",
@@ -1765,7 +1822,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1797,7 +1854,21 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "gymmanagerSBO@rockspotclimbing.com",
+    "opening_hours": "Tue-Thu: 6:30am-10pm, Fri-Mon: 8am-10pm",
+    "description": "Indoor climbing gym featuring 11,000 sq ft of bouldering terrain, top rope walls, and 150+ boulder problems for climbers of all abilities.",
+    "amenities": [
+      "Bouldering",
+      "Top Rope Walls",
+      "Auto Belay",
+      "Gear Rental",
+      "Fitness Classes",
+      "Yoga",
+      "Youth Programs"
+    ],
+    "membership_info": "Day pass: $35 (adult), $33 (discounted). 10-visit punch passes available.",
+    "booking_url": "https://climber.hellocapitan.com/rockspot/memberships-and-passes/"
   },
   {
     "id": "osm_node_6117409530",
@@ -2012,7 +2083,7 @@
         "Private Pilates",
         "Tier X Coaching",
         "Parking",
-        "Café",
+        "Caf\u00e9",
         "Member Lounge"
       ],
       "personal_training": true,
@@ -2120,7 +2191,7 @@
         "Private Pilates",
         "Tier X Coaching",
         "Parking",
-        "Café",
+        "Caf\u00e9",
         "Member Lounge"
       ],
       "personal_training": true,
@@ -2467,7 +2538,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2502,7 +2573,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "northstation@centralrockgym.com",
+    "opening_hours": "Mon/Wed/Fri: 12pm-10pm, Tue/Thu: 6am-10pm, Sat-Sun: 10am-8pm",
+    "description": "Bouldering-focused indoor climbing facility located 50 feet from North Station with 150 linear feet of climbing terrain and weights/cardio equipment.",
+    "amenities": [
+      "Bouldering",
+      "Weights",
+      "Cardio Equipment",
+      "Yoga Classes",
+      "Access to 10 Boston-area Gyms"
+    ],
+    "membership_info": "Membership grants access to all 30 Central Rock Gym locations nationwide",
+    "booking_url": "https://centralrockgym.com/northstation/memberships/"
   },
   {
     "id": "osm_node_9655097753",
@@ -2774,7 +2857,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2797,7 +2880,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Thu: 11am-11pm, Fri: 11am-1am, Sat: 11am-1am, Sun: 11am-10pm",
+    "description": "Tech-infused mini golf venue with 9-hole courses, interactive challenges, and signature cocktails in Boston's Seaport district.",
+    "amenities": [
+      "Mini Golf Courses",
+      "Private Event Spaces",
+      "Food & Beverage",
+      "ADA Accessible",
+      "Score Tracking Technology"
+    ],
+    "membership_info": "Puttshack Perks loyalty program with VIP access and exclusive offers",
+    "booking_url": "https://www.puttshack.com/book-golf"
   },
   {
     "id": "osm_node_12537497375",
@@ -2830,7 +2924,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2858,7 +2952,21 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "gymmanagerSBO@rockspotclimbing.com",
+    "opening_hours": "Tue-Thu: 6:30am-10pm, Fri-Mon: 8am-10pm",
+    "description": "Indoor climbing gym featuring 11,000 sq ft of bouldering terrain, top rope walls, and 150+ boulder problems for climbers of all abilities.",
+    "amenities": [
+      "Bouldering",
+      "Top Rope Walls",
+      "Auto Belay",
+      "Gear Rental",
+      "Fitness Classes",
+      "Yoga",
+      "Youth Programs"
+    ],
+    "membership_info": "Day pass: $35 (adult), $33 (discounted). 10-visit punch passes available.",
+    "booking_url": "https://climber.hellocapitan.com/rockspot/memberships-and-passes/"
   },
   {
     "id": "osm_node_13411550875",
@@ -2889,7 +2997,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2914,7 +3022,15 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Fit In New England offers personalized fitness training with certified specialists focusing on flexibility, endurance, strength, speed, power, and agility.",
+    "amenities": [
+      "Personal Training",
+      "Semi-Private Training",
+      "Small Group Classes",
+      "Free Towels"
+    ],
+    "booking_url": "https://www.fitinnewengland.com/contact/"
   },
   {
     "id": "osm_node_13612569501",
@@ -3091,7 +3207,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3114,7 +3230,23 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Thu: 5am-10pm, Fri: 5am-9pm, Sat-Sun: 6am-6pm",
+    "description": "A modern 40,000 sq ft fitness facility in Woburn featuring comprehensive equipment, multiple boutique studios, and group fitness classes in a welcoming, judgment-free environment.",
+    "amenities": [
+      "Cardio Equipment",
+      "Free Weights",
+      "Circuit Training",
+      "Hot Yoga Studio",
+      "Barre Studio",
+      "Cycling Studio",
+      "Group Classes",
+      "Personal Training",
+      "Childcare",
+      "Juice Bar"
+    ],
+    "membership_info": "Free passes and consultations available; pricing at facility",
+    "booking_url": "https://join.bestfitnessgyms.com/woburn-ma/"
   },
   {
     "id": "osm_way_935154177",
@@ -3146,7 +3278,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3173,7 +3305,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "studiomanager1059@orangetheoryfitness.com",
+    "opening_hours": "Mon-Fri: 5am-7:45pm, Sat-Sun: 7am-12:30pm",
+    "description": "Coach-led, full-body workouts combining strength and heart rate-based cardio with real-time performance tracking in a results-focused environment.",
+    "amenities": [
+      "Heart Rate Zone Training",
+      "Strength Training",
+      "HIIT",
+      "Real-Time Performance Tracking",
+      "Coach-Led Classes"
+    ],
+    "membership_info": "Basic $99/mo, Elite $139/mo, Premier $199/mo; class packs from $130 for 5 sessions",
+    "booking_url": "https://www.orangetheory.com/en-us/locations/woburn-massachusetts-1059"
   },
   {
     "id": "osm_node_3905845933",
@@ -3383,7 +3527,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3420,7 +3564,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "RollerWorldSk8r@aol.com",
+    "opening_hours": "Tue: 7:30pm-11pm, Fri: 4pm-11pm, Sat: 12pm-9pm, Sun: 12pm-7pm",
+    "description": "Family-owned roller skating rink established in 1981, featuring dual rinks with over 14,000 sq ft of skating space plus arcade games and concessions.",
+    "amenities": [
+      "Roller Skating Rinks",
+      "Beginners Rink",
+      "Arcade Games",
+      "Concession Stand",
+      "Function Room",
+      "Pro Shop"
+    ],
+    "booking_url": "https://roller-world.com/birthday-parties/"
   },
   {
     "id": "osm_way_702944861",
@@ -3452,7 +3608,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3478,7 +3634,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "LA Fitness is a full-service gym chain offering group fitness classes, personal training, pool, spa, and comprehensive strength and cardio equipment.",
+    "amenities": [
+      "Group Fitness Classes",
+      "Personal Training",
+      "Pool",
+      "Spa",
+      "Weight Room",
+      "Pilates",
+      "Cycling"
+    ],
+    "booking_url": "https://www.lafitness.com/Pages/MembershipSignUpSearch.aspx"
   },
   {
     "id": "osm_way_212055404",
@@ -3511,7 +3678,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3537,7 +3704,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Bass River Tennis Club offers tennis programs for juniors, adults, and seniors with certified instructors on clay courts.",
+    "amenities": [
+      "Tennis Courts",
+      "Clay Courts",
+      "Junior Programs",
+      "Adult Programs",
+      "Group Classes",
+      "Clinics"
+    ],
+    "booking_url": "https://www.bassrivertennisclub.com/forms/memberships"
   },
   {
     "id": "osm_way_213404200",
@@ -3671,7 +3848,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -3692,7 +3869,22 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@southshoreathleticclub.com",
+    "opening_hours": "Mon-Fri: 5am-9pm, Sat-Sun: 7am-5pm",
+    "description": "A 13,000+ sq ft fitness facility offering state-of-the-art equipment, expert trainers, group classes, and wellness services in a supportive community environment.",
+    "amenities": [
+      "Free Weights",
+      "Cardio Equipment",
+      "Spinning",
+      "Group Classes",
+      "Steam Room",
+      "Showers",
+      "Childcare",
+      "Massage Services",
+      "Towel Service"
+    ],
+    "membership_info": "Monthly: $89.99 (standard), $69.99 (student/senior/military/teacher). Family: $219.99/mo. Day rate: $23."
   },
   {
     "id": "osm_node_1116423555",
@@ -3702,7 +3894,7 @@
       "lat": 42.3910001,
       "lng": -71.1402257
     },
-    "phone": "",
+    "phone": "617-714-5254",
     "website": "https://centralrockgym.com/cambridge/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/1116423555",
@@ -3725,7 +3917,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -3752,7 +3944,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cambridge@centralrockgym.com",
+    "opening_hours": "Mon: 11am-10:30pm, Tue-Thu: 7am-10:30pm, Fri: 11am-10:30pm, Sat-Sun: 10am-6pm",
+    "description": "Bouldering-only climbing facility with 6,000 square feet and 250 boulder problems, designed for climbers ages 14 and up.",
+    "amenities": [
+      "Bouldering",
+      "Fitness & Training",
+      "Tension Board",
+      "Moon Board",
+      "Kilter Board",
+      "Sauna"
+    ],
+    "membership_info": "No start-up fees or contracts; membership includes access to 10 Boston-area gyms",
+    "booking_url": "https://centralrockgym.com/cambridge/memberships/"
   },
   {
     "id": "osm_node_7483346428",
@@ -6180,7 +6385,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -6205,7 +6410,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hingham@purebarre.com",
+    "description": "Pure Barre offers an empowering full-body workout inspired by yoga, Pilates, and ballet featuring low-impact, high-intensity movements for any fitness level.",
+    "amenities": [
+      "Barre Classes",
+      "Pilates-Inspired",
+      "Yoga-Inspired",
+      "Community-Focused"
+    ],
+    "membership_info": "First month of unlimited classes discounted",
+    "booking_url": "https://lp.purebarre.com/free-barre-class?offer_id=try-an-intro-class-for-free&booking=1&clubready_referraltypeid=105159&location=hingham-ma"
   },
   {
     "id": "osm_node_7757187381",
@@ -7903,7 +8118,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -7927,7 +8142,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "studiomanager1059@orangetheoryfitness.com",
+    "opening_hours": "Mon-Fri: 5am-7:45pm, Sat-Sun: 7am-12:30pm",
+    "description": "Coach-led, full-body workouts combining strength and heart rate-based cardio with real-time performance tracking in a results-focused environment.",
+    "amenities": [
+      "Heart Rate Zone Training",
+      "Strength Training",
+      "HIIT",
+      "Real-Time Performance Tracking",
+      "Coach-Led Classes"
+    ],
+    "membership_info": "Basic $99/mo, Elite $139/mo, Premier $199/mo; class packs from $130 for 5 sessions",
+    "booking_url": "https://www.orangetheory.com/en-us/locations/woburn-massachusetts-1059"
   },
   {
     "id": "osm_node_11480363897",
@@ -10636,7 +10863,7 @@
       "lat": 42.4862532,
       "lng": -71.212275
     },
-    "phone": "",
+    "phone": "+1 (781) 749-0774",
     "website": "https://www.purebarre.com/ma-burlington/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/3387058393",
@@ -10651,7 +10878,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -10674,7 +10901,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "hingham@purebarre.com",
+    "description": "Pure Barre offers an empowering full-body workout inspired by yoga, Pilates, and ballet featuring low-impact, high-intensity movements for any fitness level.",
+    "amenities": [
+      "Barre Classes",
+      "Pilates-Inspired",
+      "Yoga-Inspired",
+      "Community-Focused"
+    ],
+    "membership_info": "First month of unlimited classes discounted",
+    "booking_url": "https://lp.purebarre.com/free-barre-class?offer_id=try-an-intro-class-for-free&booking=1&clubready_referraltypeid=105159&location=hingham-ma"
   },
   {
     "id": "osm_node_3813192161",
@@ -15938,7 +16175,7 @@
   },
   {
     "id": "osm_node_8433613404",
-    "name": "Plié Barre Studio",
+    "name": "Pli\u00e9 Barre Studio",
     "address": "",
     "location": {
       "lat": 42.1934093,
@@ -15968,7 +16205,7 @@
     "osm_type": "node",
     "osm_tags": {
       "leisure": "fitness_centre",
-      "name": "Plié Barre Studio"
+      "name": "Pli\u00e9 Barre Studio"
     },
     "sources": [
       "osm"

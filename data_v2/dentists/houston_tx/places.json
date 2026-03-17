@@ -262,7 +262,7 @@
         "Invisalign",
         "Teeth Whitening",
         "Dental Bonding",
-        "KöR® Teeth Whitening"
+        "K\u00f6R\u00ae Teeth Whitening"
       ],
       "languages": [
         "English",
@@ -3627,7 +3627,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3648,7 +3648,12 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "akeenedds@gmail.com",
+    "opening_hours": "Mon-Thu: 8am-5pm, Fri: 8am-2pm",
+    "description": "Houston dental practice offering comprehensive oral care with emphasis on patient relationships and combining modern dental technology with compassionate staff.",
+    "services": "General Dentistry, Teeth Whitening, Crowns & Bridgework, Fillings, Preventive Care, Periodontal Exams",
+    "booking_url": "https://www.keenedds.com/appointment"
   },
   {
     "id": "osm_way_894453237",
@@ -3673,7 +3678,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3696,7 +3701,11 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Thu: 7:30am-4:30pm",
+    "description": "Modern dental practice in Houston's Garden Oaks/Oak Forest neighborhood offering comprehensive family dental care with a focus on patient experience and clinical excellence.",
+    "services": "General Dentistry, Cosmetic Dentistry, Restorative Dentistry, Periodontal Therapy, Crowns & Bridges, Teeth Whitening, Porcelain Veneers, Sleep Apnea Treatment, Root Canals, Oral Cancer Screenings",
+    "booking_url": "https://thehoustondentist.com/request-appointment/"
   },
   {
     "id": "osm_way_775420227",
@@ -3722,7 +3731,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3747,7 +3756,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Dental center offering comprehensive dental care services in Houston, TX."
   },
   {
     "id": "osm_node_9978733641",
@@ -3772,7 +3782,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3795,7 +3805,11 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Splendid Dental has served Texas for over a decade, offering comprehensive dental services for a healthy smile and functional mouth.",
+    "services": "General Dentistry, Preventive Dentistry, Restorative Dentistry, Emergency Dental Services, Cosmetic Dentistry, Pediatric Dentistry, Orthodontics, Oral Surgery, Periodontics, Sedation Dentistry",
+    "insurance_accepted": "Accepts insurance and offers payment plans",
+    "booking_url": "https://www.appointnow.com/?P=4000&O=127&PT=0"
   },
   {
     "id": "osm_node_10859166306",
@@ -4777,7 +4791,7 @@
       "lat": 29.6636228,
       "lng": -95.4648614
     },
-    "phone": "",
+    "phone": "+1-954-653-2967",
     "website": "https://mytoothtales.com",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/way/529676685",
@@ -4792,7 +4806,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -4820,7 +4834,10 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Pediatric dentistry and orthodontics practice with 15+ years of experience, dedicated to making dental care enjoyable for children and transforming smiles.",
+    "services": "Pediatric Dentistry, Orthodontics",
+    "booking_url": "https://mytoothtales.com/contact/#appointment-request"
   },
   {
     "id": "osm_way_1064886939",
@@ -4830,7 +4847,7 @@
       "lat": 29.6423923,
       "lng": -95.5744878
     },
-    "phone": "",
+    "phone": "(281) 969-3933",
     "website": "https://www.refinedentistry.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/way/1064886939",
@@ -4845,7 +4862,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -4867,7 +4884,12 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@refinedentistry.com",
+    "opening_hours": "Mon: 9am-6pm, Tue: 9am-2pm, Wed-Thu: 9am-6pm, Fri: 9am-5pm",
+    "description": "Modern dental practice creating a friendly, comfortable environment, providing comprehensive care from cosmetic procedures to family dentistry and implants.",
+    "services": "Cosmetic Dentistry, Smile Makeover, Porcelain Veneers, Dental Bonding, Teeth Whitening, Invisalign, Family Dentistry, Pediatric Dentistry, Root Canal Therapy, Implants, Bone Grafts, Sedation",
+    "booking_url": "https://refinedentistry.com/appointment"
   },
   {
     "id": "osm_way_1128123014",
@@ -4892,7 +4914,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -4915,7 +4937,11 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Fri: 8am-6pm",
+    "description": "Pearland Dental Care offers affordable dental services including general dentistry and Medicaid coverage options with in-house payment plans.",
+    "services": "General Dentistry, Invisalign, Implant Dentistry, VisiLite Oral Cancer Screening",
+    "insurance_accepted": "Medicaid"
   },
   {
     "id": "osm_way_429294202",
@@ -5078,7 +5104,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -5095,7 +5121,9 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Houston, TX-based general dentistry practice specializing in Invisalign treatment and cosmetic dental services.",
+    "services": "General Dentistry, Invisalign, Cosmetic Dentistry"
   },
   {
     "id": "osm_node_10563297305",
@@ -5632,7 +5660,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 30,
     "claimed": false,
@@ -5648,7 +5676,8 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Dental practice offering comprehensive dental care services in Houston, TX."
   },
   {
     "id": "osm_node_11471902145",
@@ -5673,7 +5702,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {
       "npi": "1437521911",
       "credential": "",
@@ -5708,7 +5737,12 @@
       "status": "A",
       "enumeration_date": "2015-10-23",
       "last_updated": "2015-10-23"
-    }
+    },
+    "opening_hours": "Mon-Fri: 8am-5pm, Sat: 9am-3pm",
+    "description": "Ideal Dental Clear Lake offers comprehensive dental care with a focus on personalized treatments in a comfortable, family-friendly environment, with all dental specialists under one roof.",
+    "services": "General Dentistry, Preventative Dentistry, Orthodontics, Cosmetic Dentistry, Restorative Dentistry, Oral Surgery, Emergency Dental Care",
+    "insurance_accepted": "Most insurance plans accepted",
+    "booking_url": "https://www.myidealdental.com/clear-lake/book-appointment"
   },
   {
     "id": "osm_node_11133492923",
@@ -8159,7 +8193,7 @@
       "lat": 30.0424495,
       "lng": -95.3839123
     },
-    "phone": "",
+    "phone": "(281) 907-0909",
     "website": "https://www.springdds.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/node/11030432022",
@@ -8173,7 +8207,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 30,
     "claimed": false,
@@ -8190,7 +8224,13 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "springcomplete2014@gmail.com",
+    "opening_hours": "Mon: 9:30am-2:30pm, Thu-Fri: 9am-4pm, Sat-Sun: 9am-5pm",
+    "description": "Full-service dental practice offering comprehensive preventive, restorative, and cosmetic treatments with weekend availability and emergency walk-in services.",
+    "services": "Preventive Care, General Dentistry, Cosmetic Dentistry, Emergency Dental Care, Sedation Dentistry, Dental Extractions, Root Canals, Bridges, Teeth Whitening",
+    "insurance_accepted": "Principal, United Healthcare, AETNA, Ameritas, Blue Cross Blue Shield, Cigna, Delta Dental, Guardian, Metlife",
+    "booking_url": "https://www.springdds.com/contact.html"
   },
   {
     "id": "osm_node_11531764599",

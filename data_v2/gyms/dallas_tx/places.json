@@ -1467,7 +1467,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1489,7 +1489,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Sun: 9am-1am",
+    "description": "Premier entertainment destination featuring golf hitting bays with high-tech scoring, sports bar and restaurant, batting cages, and golf lessons.",
+    "amenities": [
+      "70+ All-Weather Bays",
+      "Mini Golf",
+      "Batting Cages",
+      "Golf Lessons",
+      "Sports Bar & Restaurant",
+      "200+ HDTVs",
+      "Private Events"
+    ],
+    "membership_info": "$20/month Eat & Play membership",
+    "booking_url": "https://playtopgolf.booknow.software/cst/s/?site=a325f000002k8tP"
   },
   {
     "id": "osm_node_9673669096",
@@ -2048,7 +2061,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -2076,7 +2089,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Award-winning 100,000+ sq ft family fitness and aquatic facility featuring group exercise, lap lanes, water park, personal training, and childcare services.",
+    "amenities": [
+      "Group Exercise",
+      "Lap Lanes",
+      "Fitness Machines",
+      "Weight Training",
+      "Water Park",
+      "Aquatic Center",
+      "Childcare",
+      "Personal Training"
+    ],
+    "membership_info": "Multiple membership options and day passes; join online for pricing",
+    "booking_url": "https://friscotexas.perfectmind.com/SocialSite/MemberRegistration/MemberSignIn"
   },
   {
     "id": "osm_node_13275854225",
@@ -3040,7 +3066,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -3060,7 +3086,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "northdallas@clubpilates.com",
+    "opening_hours": "Mon-Thu: 5:30am-8:30pm, Fri: 5:30am-2pm, Sat-Sun: 7:30am-2pm",
+    "description": "Boutique Pilates studio offering reformer fusion classes for all fitness levels with state-of-the-art equipment and expert instruction.",
+    "amenities": [
+      "Reformer Pilates",
+      "Springboard",
+      "Pilates Chair",
+      "TRX",
+      "Jumpboard",
+      "Mat Work"
+    ],
+    "booking_url": "https://lp.clubpilates.com/offers?offer_id=intro-class-promo&booking=1&clubready_referraltypeid=34876"
   },
   {
     "id": "osm_way_220689287",
@@ -3070,7 +3108,7 @@
       "lat": 32.9276949,
       "lng": -96.8022298
     },
-    "phone": "",
+    "phone": "972-385-3641",
     "website": "https://www.prestonpickleball.com/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/way/220689287",
@@ -3093,7 +3131,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -3116,7 +3154,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info.prestonplayhouse@gmail.com",
+    "opening_hours": "Mon-Thu: 8am-10pm, Fri-Sun: 8am-8pm",
+    "description": "Indoor pickleball and padel facility in Dallas featuring 9 pickleball courts and 2 padel courts with lounge and bar spaces.",
+    "amenities": [
+      "9 Indoor Pickleball Courts",
+      "2 Indoor Padel Courts",
+      "Lounge",
+      "Bar"
+    ],
+    "booking_url": "https://app.courtreserve.com/online/publicbookings/11468"
   },
   {
     "id": "osm_way_470761111",
@@ -3180,7 +3228,7 @@
       "lat": 32.881211,
       "lng": -96.7685969
     },
-    "phone": "",
+    "phone": "(214) 447-3159",
     "website": "https://movementgyms.com/the-hill/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/way/542268480",
@@ -3203,7 +3251,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 55,
     "claimed": false,
@@ -3228,7 +3276,21 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Fri: 6am-11pm, Sat: 8am-8pm, Sun: 8am-6pm",
+    "description": "A 37,000 sq ft facility offering world-class bouldering with natural light, boutique yoga studio, and multi-level cardio/weight training areas.",
+    "amenities": [
+      "Bouldering",
+      "Yoga Studio",
+      "Cardio Equipment",
+      "Weight Training",
+      "Locker Rooms",
+      "Sauna",
+      "Gear Shop",
+      "Co-Working Spaces"
+    ],
+    "membership_info": "Starting at $90/month; includes unlimited yoga/fitness classes, guest passes, 10% gear discount, and access to all Movement Gyms nationwide.",
+    "booking_url": "https://app.rockgympro.com/b/widget/?a=list&&widget_guid=e588f9048ca04f82b0419566a5e0c70d"
   },
   {
     "id": "osm_way_645319821",
@@ -3458,7 +3520,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3482,7 +3544,16 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "description": "Personal training facility in Cedar Hill offering strength conditioning, fitness classes, and nutrition coaching to help members achieve their fitness goals.",
+    "amenities": [
+      "Strength & Conditioning",
+      "Personal Training",
+      "Fitness Classes",
+      "Cardio Classes",
+      "Nutrition Coaching"
+    ],
+    "booking_url": "https://jjfitcamp.com/get-started/"
   },
   {
     "id": "osm_way_706831870",
@@ -3595,7 +3666,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3617,7 +3688,18 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Open 24 hours",
+    "description": "Affordable multi-location fitness center offering 24-hour access, tanning, massage units, and fitness instruction with no long-term contracts required.",
+    "amenities": [
+      "24-Hour Access",
+      "Tanning",
+      "Massage Units",
+      "Hydromassage Beds",
+      "Fitness Instruction",
+      "Nutrition Coaching"
+    ],
+    "membership_info": "Starting at $7/month; 7-day money-back guarantee, no long-term contracts"
   },
   {
     "id": "osm_node_11782064210",
@@ -3641,7 +3723,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -3661,7 +3743,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "lakewood@studio6fitness.com",
+    "description": "Studio 6 Fitness combines Pilates and strength training with core-centric workouts emphasizing strength, balance, flexibility, endurance, and overall wellness.",
+    "amenities": [
+      "Pilates",
+      "Strength Training",
+      "Retail",
+      "Water Station",
+      "Storage Cubbies"
+    ],
+    "booking_url": "https://studio6fitness.com/lakewood/#book-now"
   },
   {
     "id": "osm_node_11846150078",
@@ -4510,7 +4602,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -4533,7 +4625,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "lakewood@studio6fitness.com",
+    "description": "Studio 6 Fitness combines Pilates and strength training with core-centric workouts emphasizing strength, balance, flexibility, endurance, and overall wellness.",
+    "amenities": [
+      "Pilates",
+      "Strength Training",
+      "Retail",
+      "Water Station",
+      "Storage Cubbies"
+    ],
+    "booking_url": "https://studio6fitness.com/lakewood/#book-now"
   },
   {
     "id": "osm_node_13265962938",
@@ -4670,7 +4772,7 @@
       "addr:postcode": "75220",
       "addr:state": "TX",
       "addr:street": "Bachman Drive",
-      "charge": "10–12 USD",
+      "charge": "10\u201312 USD",
       "fee": "yes",
       "leisure": "sports_centre",
       "name": "Bachman Aquatic Center",
@@ -4923,7 +5025,7 @@
   },
   {
     "id": "osm_node_13429492201",
-    "name": "EōS Fitness",
+    "name": "E\u014dS Fitness",
     "address": "3500 Preston Road, 75093",
     "location": {
       "lat": 33.0453868,
@@ -4957,7 +5059,7 @@
       "addr:street": "Preston Road",
       "internet_access": "wlan",
       "leisure": "fitness_centre",
-      "name": "EōS Fitness",
+      "name": "E\u014dS Fitness",
       "phone": "+1-214-764-1982",
       "website": "https://eosfitness.com/gym/plano-preston-rd-w-parker-rd/"
     },
@@ -4967,7 +5069,7 @@
   },
   {
     "id": "osm_node_13436733901",
-    "name": "EōS Fitness",
+    "name": "E\u014dS Fitness",
     "address": "5550 Preston Road, 75034",
     "location": {
       "lat": 33.1243317,
@@ -5001,7 +5103,7 @@
       "addr:street": "Preston Road",
       "internet_access": "wlan",
       "leisure": "fitness_centre",
-      "name": "EōS Fitness",
+      "name": "E\u014dS Fitness",
       "phone": "+1-214-919-2002",
       "website": "https://www.eosfitness.com/gym/frisco-preston-rd-lebanon-rd"
     },
@@ -6048,7 +6150,7 @@
   {
     "id": "osm_way_1089903105",
     "name": "City Futsal",
-    "address": "1224 South César Chávez Boulevard, Dallas, TX, 75201",
+    "address": "1224 South C\u00e9sar Ch\u00e1vez Boulevard, Dallas, TX, 75201",
     "location": {
       "lat": 32.7770262,
       "lng": -96.7876251
@@ -6080,7 +6182,7 @@
       "addr:housenumber": "1224",
       "addr:postcode": "75201",
       "addr:state": "TX",
-      "addr:street": "South César Chávez Boulevard",
+      "addr:street": "South C\u00e9sar Ch\u00e1vez Boulevard",
       "building": "sports_centre",
       "leisure": "sports_centre",
       "name": "City Futsal",
@@ -6988,7 +7090,7 @@
       "lat": 33.0706195,
       "lng": -96.8833451
     },
-    "phone": "",
+    "phone": "(214) 341-9600",
     "website": "https://topgolf.com/thecolony/",
     "google_maps_url": "",
     "osm_url": "https://www.openstreetmap.org/way/1023150671",
@@ -7003,7 +7105,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 40,
     "claimed": false,
@@ -7025,7 +7127,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Sun: 9am-1am",
+    "description": "Premier entertainment destination featuring golf hitting bays with high-tech scoring, sports bar and restaurant, batting cages, and golf lessons.",
+    "amenities": [
+      "70+ All-Weather Bays",
+      "Mini Golf",
+      "Batting Cages",
+      "Golf Lessons",
+      "Sports Bar & Restaurant",
+      "200+ HDTVs",
+      "Private Events"
+    ],
+    "membership_info": "$20/month Eat & Play membership",
+    "booking_url": "https://playtopgolf.booknow.software/cst/s/?site=a325f000002k8tP"
   },
   {
     "id": "osm_node_13395308071",
@@ -11726,7 +11841,7 @@
   },
   {
     "id": "osm_way_733433938",
-    "name": "EŌS Fitness",
+    "name": "E\u014cS Fitness",
     "address": "",
     "location": {
       "lat": 32.822384,
@@ -11757,7 +11872,7 @@
     "osm_tags": {
       "building": "yes",
       "leisure": "fitness_centre",
-      "name": "EŌS Fitness"
+      "name": "E\u014cS Fitness"
     },
     "sources": [
       "osm"

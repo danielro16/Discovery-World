@@ -695,7 +695,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -720,7 +720,21 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "findyourgame@matchpointnyc.us",
+    "description": "Brooklyn's premier sports and fitness destination offering gym, swimming, tennis, and rhythmic gymnastics across multiple locations for the entire family.",
+    "amenities": [
+      "Fitness Center",
+      "Tennis Courts",
+      "Swimming Pools",
+      "Rhythmic Gymnastics",
+      "CrossFit",
+      "Dance Studio",
+      "Group Classes",
+      "Personal Training"
+    ],
+    "membership_info": "Corporate memberships available; contact for pricing",
+    "booking_url": "https://matchpoint.nyc/membership/"
   },
   {
     "id": "osm_node_11787969703",
@@ -1761,7 +1775,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -1786,7 +1800,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "opening_hours": "Mon-Thu: 12pm-10pm, Fri: 12pm-12am, Sat: 10am-12am, Sun: 10am-10pm",
+    "description": "Indoor go-karting facility just 7 minutes from Manhattan with electric karts on multi-level LED tracks, VR experiences, arcade gaming, and dining.",
+    "amenities": [
+      "Go-Kart Racing",
+      "Multi-Level LED Tracks",
+      "VR Experiences",
+      "Racing Simulators",
+      "Arcade",
+      "Snack Bar",
+      "Private Events"
+    ],
+    "membership_info": "Race Play More PASS: $75 (value $110) - includes 2 races, $5 arcade card, membership pricing",
+    "booking_url": "https://www.rpmraceway.com/online-booking"
   },
   {
     "id": "osm_way_439497164",
@@ -3504,7 +3531,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3532,7 +3559,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "studiomanager1562@orangetheoryfitness.com",
+    "opening_hours": "Mon-Fri: 5:15am-8:30pm, Sat-Sun: 7:45am-4pm",
+    "description": "Coach-led, full-body workouts combining strength and heart rate-based cardio with real-time performance tracking using science-informed interval training.",
+    "amenities": [
+      "Heart Rate Zone Training",
+      "Strength Training",
+      "TRX",
+      "Performance Tracking",
+      "Coach-Led Classes"
+    ],
+    "membership_info": "Basic $99/mo, Elite $139/mo, Premier $199/mo; class packs $130-$599",
+    "booking_url": "https://www.orangetheory.com/en-us/locations/astoria-new-york-1562"
   },
   {
     "id": "osm_node_11651192511",
@@ -3850,7 +3889,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -3872,11 +3911,24 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@Fortelabnyc.com",
+    "opening_hours": "Mon-Fri: 5am-9pm, Sat: 7am-5pm, Sun: 9:30am-5pm",
+    "description": "Personalized fitness facility offering expert personal training, dynamic group classes, and recovery solutions including infrared sauna and cold plunge therapy.",
+    "amenities": [
+      "Personal Training",
+      "Group Fitness",
+      "Yoga & Stretch",
+      "Infrared Sauna",
+      "Cold Plunge",
+      "Recovery Room",
+      "HYROX Training"
+    ],
+    "booking_url": "https://fortelabnyc.com/book-a-class/"
   },
   {
     "id": "osm_way_250330539",
-    "name": "St. John’s Recreation Center",
+    "name": "St. John\u2019s Recreation Center",
     "address": "1251 Prospect Place, Brooklyn, NY, 11213",
     "location": {
       "lat": 40.6738862,
@@ -3924,7 +3976,7 @@
       "fee": "yes",
       "height": "18.1",
       "leisure": "sports_centre",
-      "name": "St. John’s Recreation Center",
+      "name": "St. John\u2019s Recreation Center",
       "nycdoitt:bin": "3393257",
       "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-16:00",
       "operational_status": "operational",
@@ -4234,7 +4286,7 @@
       "leisure": "sports_centre",
       "name": "USTA Billie Jean King National Tennis Center",
       "name:etymology:wikidata": "Q54527",
-      "name:ko": "US 오픈(USTA 빌리 진 킹 내셔널 테니스 센터)",
+      "name:ko": "US \uc624\ud508(USTA \ube4c\ub9ac \uc9c4 \ud0b9 \ub0b4\uc154\ub110 \ud14c\ub2c8\uc2a4 \uc13c\ud130)",
       "opening_hours": "Mo-Su 07:00-23:00",
       "operator": "United States Tennis Association",
       "operator:type": "ngo",
@@ -4569,7 +4621,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4591,7 +4643,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@njfitnessfactory.com",
+    "opening_hours": "Mon-Thu: 6am-7pm, Fri: 6am-11am, Sat-Sun: 9am-11am",
+    "description": "Personal training facility in Bloomfield, NJ specializing in group training and one-on-one coaching for adults over 40 seeking fitness and belly fat reduction.",
+    "amenities": [
+      "Personal Training",
+      "Group Training Classes",
+      "Nutrition Coaching",
+      "Strength Training Equipment"
+    ],
+    "booking_url": "https://njfitnessfactory.com"
   },
   {
     "id": "osm_node_10585441085",
@@ -4689,7 +4751,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4715,6 +4777,19 @@
     },
     "sources": [
       "osm"
+    ],
+    "email": "verona@diamondgymnastics.com",
+    "opening_hours": "Daily: 9:30am-7pm",
+    "description": "7,000 sq ft gymnastics facility offering classes for all ages and skill levels, plus cheerleading, tumbling, and birthday party hosting.",
+    "amenities": [
+      "Spring Floor",
+      "Trampolines",
+      "Tumble Track",
+      "Foam Pit",
+      "Balance Beams",
+      "Uneven Bars",
+      "Vault",
+      "Rock Climbing Wall"
     ]
   },
   {
@@ -4748,7 +4823,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4777,7 +4852,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "verona@stretchlab.com",
+    "description": "Revolutionary one-on-one assisted stretching studio with trained flexologists offering customized 25 or 50-minute sessions for improved flexibility and range of motion.",
+    "amenities": [
+      "One-on-One Stretching",
+      "Group Stretch Classes",
+      "Normatec Recovery",
+      "Body Scan Assessment"
+    ],
+    "membership_info": "Intro offer: First 50-minute stretch for $49",
+    "booking_url": "https://members.stretchlab.com/offers/stretchlab-verona/try-an-introductory-5o-minute-one-on-one-stretch"
   },
   {
     "id": "osm_node_10867287075",
@@ -4810,7 +4895,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4840,7 +4925,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "cedar-grove-nj@safesplash.com",
+    "opening_hours": "Mon-Fri: 3:30pm-8pm, Thu also 9am-12pm, Sat: 8:30am-3pm, Sun: 9am-3pm",
+    "description": "SafeSplash Cedar Grove provides personalized swim lessons for all ages, emphasizing water safety, technique, and confidence-building in small class sizes.",
+    "amenities": [
+      "Swim Lessons",
+      "Warm Pool",
+      "Small Class Sizes",
+      "Kids Play Area",
+      "Changing Rooms"
+    ],
+    "membership_info": "Group: $148/mo, Semi-private: $264/mo, Private: $424/mo, Parent-Tot: $136/mo",
+    "booking_url": "https://app.iclasspro.com/portal/cedargrovenj/classes"
   },
   {
     "id": "osm_node_13416708085",
@@ -4872,7 +4969,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -4897,7 +4994,20 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "info@golfparadiseclub.com",
+    "opening_hours": "Mon-Thu: 8am-10pm, Fri-Sat: 8am-12am, Sun: 10am-8pm",
+    "description": "State-of-the-art indoor golf facility featuring 24 GOLFZON simulator bays with advanced swing tracking and world-renowned courses in Verona, NJ.",
+    "amenities": [
+      "24 Golf Simulator Bays",
+      "Swing Analytics",
+      "PGA Instruction",
+      "Golf Leagues",
+      "Event Hosting",
+      "BYOB Policy"
+    ],
+    "membership_info": "Plans from $25/mo (Paradise) to $250/mo (Platinum/Couple); student plan $99/mo",
+    "booking_url": "https://app.birrdi.com/u/reserve?team_booking_link_id=golf-paradise-club"
   },
   {
     "id": "osm_way_260051133",
@@ -5216,7 +5326,7 @@
     },
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 65,
     "claimed": false,
@@ -5236,7 +5346,17 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "verona@stretchlab.com",
+    "description": "Revolutionary one-on-one assisted stretching studio with trained flexologists offering customized 25 or 50-minute sessions for improved flexibility and range of motion.",
+    "amenities": [
+      "One-on-One Stretching",
+      "Group Stretch Classes",
+      "Normatec Recovery",
+      "Body Scan Assessment"
+    ],
+    "membership_info": "Intro offer: First 50-minute stretch for $49",
+    "booking_url": "https://members.stretchlab.com/offers/stretchlab-verona/try-an-introductory-5o-minute-one-on-one-stretch"
   },
   {
     "id": "osm_node_3248774670",
@@ -7772,7 +7892,7 @@
       "height": "15.3",
       "leisure": "sports_centre",
       "name": "Pelham Fritz Recreation Center",
-      "note": "performance spaces, a children’s playroom, a weightlifting area, a reading room, a computer center, and a game room",
+      "note": "performance spaces, a children\u2019s playroom, a weightlifting area, a reading room, a computer center, and a game room",
       "nycdoitt:bin": "1083967",
       "opening_hours": "Tu-Fr 10:00-18:00, Sa 08:00-16:00",
       "source": "http://www.nycgovparks.org/parks/marcusgarveypark/map",
@@ -9518,7 +9638,7 @@
     "hours": {},
     "reviews": [],
     "photos": [],
-    "enriched": false,
+    "enriched": true,
     "enriched_data": {},
     "profile_completeness": 50,
     "claimed": false,
@@ -9543,7 +9663,19 @@
     },
     "sources": [
       "osm"
-    ]
+    ],
+    "email": "studiomanager1562@orangetheoryfitness.com",
+    "opening_hours": "Mon-Fri: 5:15am-8:30pm, Sat-Sun: 7:45am-4pm",
+    "description": "Coach-led, full-body workouts combining strength and heart rate-based cardio with real-time performance tracking using science-informed interval training.",
+    "amenities": [
+      "Heart Rate Zone Training",
+      "Strength Training",
+      "TRX",
+      "Performance Tracking",
+      "Coach-Led Classes"
+    ],
+    "membership_info": "Basic $99/mo, Elite $139/mo, Premier $199/mo; class packs $130-$599",
+    "booking_url": "https://www.orangetheory.com/en-us/locations/astoria-new-york-1562"
   },
   {
     "id": "osm_node_9481392675",
@@ -11753,7 +11885,7 @@
       "contact:linkedin": "http://linkedin.com/company/vital-strength",
       "contact:twitter": "https://www.twitter.com/vitalstrengthny",
       "currency:USD": "yes",
-      "description": "Vital Strength is a boutique fitness studio in NYC’s Upper East Side offering Kinstretch mobility classes, group strength training, and personal training focused on mobility, strength, and long-term joint health.",
+      "description": "Vital Strength is a boutique fitness studio in NYC\u2019s Upper East Side offering Kinstretch mobility classes, group strength training, and personal training focused on mobility, strength, and long-term joint health.",
       "email": "info@vitalstrengthnyc.com",
       "leisure": "fitness_centre",
       "name": "Vital Strength",
